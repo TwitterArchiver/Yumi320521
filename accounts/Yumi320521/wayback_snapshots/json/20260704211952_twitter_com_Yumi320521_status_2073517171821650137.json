@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2073504936109932564",
+    "created_at": "2026-07-04T21:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T22:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073517171821650137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053079331216441344",
+          "start": 0,
+          "username": "NatalieWhe4r5c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073517171821650137",
+    "in_reply_to_user_id": "2053079331216441344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073504936109932564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NatalieWhe4r5c 对 感觉语气和表情包也能一眼分辨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2073504936109932564",
+        "created_at": "2026-07-04T21:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T22:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073517171821650137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053079331216441344",
+              "start": 0,
+              "username": "NatalieWhe4r5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073517171821650137",
+        "in_reply_to_user_id": "2053079331216441344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073504936109932564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NatalieWhe4r5c 对 感觉语气和表情包也能一眼分辨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053079331216441344",
+        "conversation_id": "2073504936109932564",
+        "created_at": "2026-07-04T20:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073504936109932564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073504936109932564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "QQ擴列玩多了我現在已經僅憑說話語氣就可以分辨是男是女了。女生一般上來就會叫「寶寶」或者cn。男的一般會叫「老師」「老大」這樣，，而且女的一般空間都會發自己的照片（感覺一般都是coser）男的發自己照片的很少。而且女生一般不會主動互動 很多都是我先找她互動她才會找我互動。男生就相反"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 144,
+          "like_count": 5277,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1187
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T11:48:40.000Z",
+        "description": "你好呀！！這裡是戀戀！！！希望有人能跟我互fo呀wwww！！！",
+        "id": "2053079331216441344",
+        "name": "戀戀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071407747191738368/A5vA5K-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 123,
+          "like_count": 2089,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 447
+        },
+        "url": "",
+        "username": "NatalieWhe4r5c",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2072747203639083008"
+      ],
+      "media_source_tweet_id": [
+        "2072747212530958393"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2073157328522891675",
+    "created_at": "2026-07-03T21:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T22:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073157328522891675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2069810001573519360",
+          "start": 3,
+          "username": "faggotcel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oj9zDqf512",
+          "end": 65,
+          "expanded_url": "https://x.com/faggotcel/status/2072747212530958393/photo/1",
+          "media_key": "16_2072747203639083008",
+          "start": 42,
+          "url": "https://t.co/oj9zDqf512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073157328522891675",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1939
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072747212530958393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @faggotcel: what employment feels like https://t.co/oj9zDqf512"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "16_2072747203639083008",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMPgmY4XgAAKWqF.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMPgmY4XgAAKWqF.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2072747203639083008"
+          ],
+          "media_source_tweet_id": [
+            "2072747212530958393"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2073157328522891675",
+        "created_at": "2026-07-03T21:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T22:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073157328522891675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2069810001573519360",
+              "start": 3,
+              "username": "faggotcel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oj9zDqf512",
+              "end": 65,
+              "expanded_url": "https://x.com/faggotcel/status/2072747212530958393/photo/1",
+              "media_key": "16_2072747203639083008",
+              "start": 42,
+              "url": "https://t.co/oj9zDqf512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073157328522891675",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1939
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072747212530958393",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @faggotcel: what employment feels like https://t.co/oj9zDqf512"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2072747203639083008"
+          ]
+        },
+        "author_id": "2069810001573519360",
+        "conversation_id": "2072747212530958393",
+        "created_at": "2026-07-02T18:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072747212530958393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oj9zDqf512",
+              "end": 50,
+              "expanded_url": "https://x.com/faggotcel/status/2072747212530958393/photo/1",
+              "media_key": "16_2072747203639083008",
+              "start": 27,
+              "url": "https://t.co/oj9zDqf512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072747212530958393",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8362,
+          "impression_count": 738894,
+          "like_count": 32695,
+          "quote_count": 112,
+          "reply_count": 151,
+          "retweet_count": 1939
+        },
+        "reply_settings": "everyone",
+        "text": "what employment feels like https://t.co/oj9zDqf512"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 146,
+          "like_count": 5224,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1175
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-24T15:57:39.000Z",
+        "description": "first day on the internet,, please be nice",
+        "id": "2069810001573519360",
+        "name": "faggotcel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070302455997300736/MaNlU0L4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 255,
+          "like_count": 1923,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "faggotcel",
+        "verified": false
+      }
+    ]
+  }
+}
