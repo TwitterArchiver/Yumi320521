@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059506086215106581",
+    "created_at": "2026-05-27T05:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059506086215106581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057729979677548544",
+          "start": 3,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059506086215106581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059476552505868394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouoo: 我是神经病我亲友必须接受我是神经病然后你们所有人都得忍着我这个神经病 我是比格"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059506086215106581",
+        "created_at": "2026-05-27T05:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059506086215106581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057729979677548544",
+              "start": 3,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059506086215106581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059476552505868394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouoo: 我是神经病我亲友必须接受我是神经病然后你们所有人都得忍着我这个神经病 我是比格"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2059476552505868394",
+        "created_at": "2026-05-27T03:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059476552505868394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059476552505868394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是神经病我亲友必须接受我是神经病然后你们所有人都得忍着我这个神经病 我是比格"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 71,
+          "like_count": 1853,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 573
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素神经病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 404,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 388
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

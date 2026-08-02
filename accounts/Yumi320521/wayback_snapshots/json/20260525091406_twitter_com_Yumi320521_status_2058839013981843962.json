@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      }
+    ],
+    "conversation_id": "2058839013981843962",
+    "created_at": "2026-05-25T09:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058839013981843962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kasumi10077/st…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/kasumi10077/status/2058766132165964146",
+          "start": 22,
+          "url": "https://t.co/aHM7WHsON8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058839013981843962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058766132165964146",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喝过一次 感觉柠檬味超级不好喝 青提还可以 https://t.co/aHM7WHsON8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 562,
+        "media_key": "3_2058766125035659264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJI04gZboAAZup4.jpg",
+        "width": 1000
+      },
+      {
+        "height": 682,
+        "media_key": "3_2058766125069205504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJI04ghbgAAG4Xw.png",
+        "width": 683
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2058839013981843962",
+        "created_at": "2026-05-25T09:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058839013981843962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kasumi10077/st…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/kasumi10077/status/2058766132165964146",
+              "start": 22,
+              "url": "https://t.co/aHM7WHsON8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058839013981843962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058766132165964146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喝过一次 感觉柠檬味超级不好喝 青提还可以 https://t.co/aHM7WHsON8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058766125035659264",
+            "3_2058766125069205504"
+          ]
+        },
+        "author_id": "2028311264393678848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2058766132165964146",
+        "created_at": "2026-05-25T04:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058766132165964146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/00aSSWga21",
+              "end": 191,
+              "expanded_url": "https://x.com/Kasumi10077/status/2058766132165964146/photo/1",
+              "media_key": "3_2058766125035659264",
+              "start": 168,
+              "url": "https://t.co/00aSSWga21"
+            },
+            {
+              "display_url": "pic.x.com/00aSSWga21",
+              "end": 191,
+              "expanded_url": "https://x.com/Kasumi10077/status/2058766132165964146/photo/1",
+              "media_key": "3_2058766125069205504",
+              "start": 168,
+              "url": "https://t.co/00aSSWga21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058766132165964146",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "일본의 스트롱제로를 아시나요?\n\n가격이 저렴하고 목넘김도 편해서 술이 생각날 때 간단히 마실 수 있는 술로 유명하며, ‘마시는 복지’ 또는 ‘항우울제’라고도 불린다고 합니다.\n\n주로 2캔 정도 마신다는데, 그러면 한국 소주 1.5병과 비슷한 수준이라고 하네요...\n\n토요코 키즈들도 길거리에서 마시며 취하고, 이걸 매일 마시다가 알코올 중독에 빠지는 사람들도 많다고 하는데....\n\n일본인 여러분, 제가 들은 이야기가 전부 사실인가요?\n\n많이 심각하다고 들었어요 ㅠㅜ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 205,
+          "impression_count": 207607,
+          "like_count": 742,
+          "quote_count": 208,
+          "reply_count": 102,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "일본의 스트롱제로를 아시나요?\n\n가격이 저렴하고 목넘김도 편해서 술이 생각날 때 간단히 마실 수 있는 술로 유명하며, ‘마시는 복지’ 또는 ‘항우울제’라고도 불린다고 합니다.\n\n주로 2캔 정도 마신다는데, 그러면 한국 소주 1.5병과 비슷한 수준이라고 하네요...\n\n토요코 키즈들도 길거리에서 마시며 https://t.co/00aSSWga21"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 68,
+          "like_count": 1732,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 464
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T03:27:54.000Z",
+        "description": "ソウルに住んでいる韓国人です！\n\n日本が大好きです！",
+        "id": "2028311264393678848",
+        "location": "Seoul, Republic of Korea",
+        "name": "카스미(かすみ)🇰🇷🇯🇵",
+        "pinned_tweet_id": "2058766132165964146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055985312774635520/yO1FcilN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3124,
+          "following_count": 2379,
+          "like_count": 14124,
+          "listed_count": 11,
+          "media_count": 581,
+          "tweet_count": 10667
+        },
+        "username": "Kasumi10077",
+        "verified": true
+      }
+    ]
+  }
+}

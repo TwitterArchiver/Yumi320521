@@ -1,0 +1,533 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Jewelry",
+          "id": "845293633259552768",
+          "name": "Jewelry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Accessories",
+          "id": "846447164880433152",
+          "name": "Fashion accessories"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jewelry",
+          "id": "845293633259552768",
+          "name": "Jewelry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Jewelry",
+          "id": "845293633259552768",
+          "name": "Jewelry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Needlework",
+          "id": "847869593674698752",
+          "name": "Needlework"
+        }
+      }
+    ],
+    "conversation_id": "2069889457617277374",
+    "created_at": "2026-06-24T21:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T22:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069889457617277374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yushiibuki/sta…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/yushiibuki/status/2068944963052954077",
+          "start": 56,
+          "url": "https://t.co/M7zHnVYHkZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069889457617277374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068944963052954077",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前洗lizlisa蝴蝶结上的别针就掉下来了 而且因为是聚酯纤维很容易有短纤维 哪怕是手洗也避免不了很难看🤕😣 https://t.co/M7zHnVYHkZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Needlework",
+              "id": "847869593674698752",
+              "name": "Needlework"
+            }
+          }
+        ],
+        "conversation_id": "2069889457617277374",
+        "created_at": "2026-06-24T21:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T22:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069889457617277374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yushiibuki/sta…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/yushiibuki/status/2068944963052954077",
+              "start": 56,
+              "url": "https://t.co/M7zHnVYHkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069889457617277374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068944963052954077",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前洗lizlisa蝴蝶结上的别针就掉下来了 而且因为是聚酯纤维很容易有短纤维 哪怕是手洗也避免不了很难看🤕😣 https://t.co/M7zHnVYHkZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "280309818",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Needlework",
+              "id": "847869593674698752",
+              "name": "Needlework"
+            }
+          }
+        ],
+        "conversation_id": "2068944963052954077",
+        "created_at": "2026-06-22T06:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068944963052954077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yasai11kueyo7/…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/yasai11kueyo7/status/2068831878757699993",
+              "start": 147,
+              "url": "https://t.co/iJnI9m1XQo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068944963052954077",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 409199,
+          "like_count": 2967,
+          "quote_count": 194,
+          "reply_count": 1,
+          "retweet_count": 227
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068831878757699993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "いま地雷量産とかkawaii系ブランド全般品質落ちまくりでみんなこんな感じ😞\nリズリサもMARSもロジータも似たりよったり\nブローチ式の場合はブローチ自体がすぐ曲がるし全て縫い付け甘いし糸も弱いしビジューやパールはポロポロ取れてくしゴムはめっちゃ硬いかすぐ伸びちゃうか2択\nボタンは勿論取れる https://t.co/iJnI9m1XQo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 139,
+          "like_count": 4584,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 867
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-11T02:39:20.000Z",
+        "description": "見た目が強めの飲み屋さん/ﾛﾘｨﾀ/地雷量産/毎週ｺｰﾃﾞ記録/ﾚﾄﾛ好き/特撮/ﾋﾟｱｽ/元ﾚｲﾔｰｱﾆｦﾀ声ｦﾀ/ｶﾒﾗ/被写体/黒髪ｽｰﾊﾟｰﾛﾝｸﾞﾍｱ120cmのぱっつん姫ｶｯﾄ/あまりに病弱/ﾌｫﾛｲｲﾈ歓喜/お仕事依頼は📩で/会える→ 歌舞伎町",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1VIXO4VDR4JS4?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/LrsUYMF78b"
+              }
+            ]
+          }
+        },
+        "id": "280309818",
+        "location": "歌舞伎町２丁目２５−２　荒生ビル 3F",
+        "name": "ゆうしᘏ⑅ᘏଓ˚",
+        "pinned_tweet_id": "2068672386824847783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868733357535932416/P12fiwZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5128,
+          "following_count": 1381,
+          "like_count": 40997,
+          "listed_count": 64,
+          "media_count": 5530,
+          "tweet_count": 94659
+        },
+        "url": "https://t.co/LrsUYMF78b",
+        "username": "yushiibuki",
+        "verified": false
+      }
+    ]
+  }
+}

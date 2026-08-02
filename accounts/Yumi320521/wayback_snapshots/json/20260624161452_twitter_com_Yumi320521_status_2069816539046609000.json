@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069813817140560125",
+    "created_at": "2026-06-24T16:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069816539046609000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1988050147587268608",
+          "start": 0,
+          "username": "c990163"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069816539046609000",
+    "in_reply_to_user_id": "1988050147587268608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069813925290688841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c990163 掐了一下感觉还好 不过肯定会被父母说 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069813817140560125",
+        "created_at": "2026-06-24T16:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069816539046609000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1988050147587268608",
+              "start": 0,
+              "username": "c990163"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069816539046609000",
+        "in_reply_to_user_id": "1988050147587268608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069813925290688841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c990163 掐了一下感觉还好 不过肯定会被父母说 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988050147587268608",
+        "conversation_id": "2069813817140560125",
+        "created_at": "2026-06-24T16:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069813925290688841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069813925290688841",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069813817140560125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 感覺痛痛的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 140,
+          "like_count": 4544,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 853
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T01:04:47.000Z",
+        "description": "原本帳號叫Op莫名奇妙被鎖了==歡迎交友\nLes 避機器人用的",
+        "id": "1988050147587268608",
+        "name": "c990163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988050240130473984/BXmwpwq4_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 430,
+          "like_count": 13256,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "c990163",
+        "verified": false
+      }
+    ]
+  }
+}

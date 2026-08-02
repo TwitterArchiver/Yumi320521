@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2069512608579813376"
+      ],
+      "media_source_tweet_id": [
+        "2069512668277350673"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069880961601531916",
+    "created_at": "2026-06-24T20:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T21:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069880961601531916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820693137020354560",
+          "start": 3,
+          "username": "zirtsxu7267"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D6G8ioei52",
+          "end": 40,
+          "expanded_url": "https://x.com/zirtsxu7267/status/2069512668277350673/video/1",
+          "media_key": "13_2069512608579813376",
+          "start": 17,
+          "url": "https://t.co/D6G8ioei52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069880961601531916",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6668
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069512668277350673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zirtsxu7267: https://t.co/D6G8ioei52"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11448,
+        "height": 1024,
+        "media_key": "13_2069512608579813376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069512608579813376/img/zn9YG0xZXpJ9wIfv.jpg",
+        "public_metrics": {
+          "view_count": 412270
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069512608579813376/vid/avc1/320x568/7jmmhxnzp2hrOd9O.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069512608579813376/vid/avc1/480x852/lrD2lq8TUjft8r1A.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069512608579813376/vid/avc1/576x1024/axYfBQdOr3K2s86J.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069512608579813376/pl/m9VrqZBsX0KPVLKv.m3u8?v=d00"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069512608579813376"
+          ],
+          "media_source_tweet_id": [
+            "2069512668277350673"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069880961601531916",
+        "created_at": "2026-06-24T20:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T21:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069880961601531916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820693137020354560",
+              "start": 3,
+              "username": "zirtsxu7267"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D6G8ioei52",
+              "end": 40,
+              "expanded_url": "https://x.com/zirtsxu7267/status/2069512668277350673/video/1",
+              "media_key": "13_2069512608579813376",
+              "start": 17,
+              "url": "https://t.co/D6G8ioei52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069880961601531916",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6668
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069512668277350673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zirtsxu7267: https://t.co/D6G8ioei52"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069512608579813376"
+          ]
+        },
+        "author_id": "1820693137020354560",
+        "conversation_id": "2069512668277350673",
+        "created_at": "2026-06-23T20:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T21:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069512668277350673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D6G8ioei52",
+              "end": 23,
+              "expanded_url": "https://x.com/zirtsxu7267/status/2069512668277350673/video/1",
+              "media_key": "13_2069512608579813376",
+              "start": 0,
+              "url": "https://t.co/D6G8ioei52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069512668277350673",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3678,
+          "impression_count": 1360629,
+          "like_count": 29758,
+          "quote_count": 637,
+          "reply_count": 111,
+          "retweet_count": 6668
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/D6G8ioei52"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群 随时跑路",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 138,
+          "like_count": 4582,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 869
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T05:27:53.000Z",
+        "description": "Basic DNI | eng/esp | i follow back most of the time | minor | any pronouns | follow ≠ endorse |  backup alt: @zirtsxu | demi-boy | follow @alexthird95 too!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 110,
+                "username": "zirtsxu"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "alexthird95"
+              }
+            ]
+          }
+        },
+        "id": "1820693137020354560",
+        "location": "private account: @zirtsxupriv",
+        "name": "zirtsxu",
+        "pinned_tweet_id": "2053630668362416387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058791363135561729/GErI2i_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6078,
+          "following_count": 4470,
+          "like_count": 132305,
+          "listed_count": 22,
+          "media_count": 6621,
+          "tweet_count": 96504
+        },
+        "url": "",
+        "username": "zirtsxu7267",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2067594024966566035",
+    "created_at": "2026-06-18T13:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067594024966566035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/k_s_g_takosu/s…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/k_s_g_takosu/status/2067554846027415692",
+          "start": 31,
+          "url": "https://t.co/jB135qhELC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067594024966566035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067554846027415692",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "两人都有自己的家庭 只是普通关系而已吧 真是讨厌这样的怀疑😓 https://t.co/jB135qhELC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1374,
+        "media_key": "3_2067554839299870720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFuLAYb0AAC48e.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1806,
+        "media_key": "3_2067554839329165312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFuLAfa0AACTr0.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2067594024966566035",
+        "created_at": "2026-06-18T13:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067594024966566035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/k_s_g_takosu/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/k_s_g_takosu/status/2067554846027415692",
+              "start": 31,
+              "url": "https://t.co/jB135qhELC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067594024966566035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067554846027415692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "两人都有自己的家庭 只是普通关系而已吧 真是讨厌这样的怀疑😓 https://t.co/jB135qhELC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067554839299870720",
+            "3_2067554839329165312"
+          ]
+        },
+        "author_id": "168307717",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          }
+        ],
+        "conversation_id": "2067554846027415692",
+        "created_at": "2026-06-18T10:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067554846027415692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eeOFpd7MrP",
+              "end": 38,
+              "expanded_url": "https://x.com/k_s_g_takosu/status/2067554846027415692/photo/1",
+              "media_key": "3_2067554839299870720",
+              "start": 15,
+              "url": "https://t.co/eeOFpd7MrP"
+            },
+            {
+              "display_url": "pic.x.com/eeOFpd7MrP",
+              "end": 38,
+              "expanded_url": "https://x.com/k_s_g_takosu/status/2067554846027415692/photo/1",
+              "media_key": "3_2067554839329165312",
+              "start": 15,
+              "url": "https://t.co/eeOFpd7MrP"
+            },
+            {
+              "display_url": "x.com/kf4kdn/status/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/kf4kdn/status/2067547897630220434",
+              "start": 39,
+              "url": "https://t.co/IvUXexqGeg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067554846027415692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 959,
+          "impression_count": 1692531,
+          "like_count": 6587,
+          "quote_count": 327,
+          "reply_count": 118,
+          "retweet_count": 255
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067547897630220434",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "これじゃん\nなに？におわせ？ https://t.co/eeOFpd7MrP https://t.co/IvUXexqGeg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 \n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2067556150426669153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067554649486573568/_C_kHJDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 119,
+          "like_count": 3547,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 643
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-19T00:33:17.000Z",
+        "description": "メロンパンが好きです。大森靖子ガチ恋🍈",
+        "id": "168307717",
+        "name": "大森一筋🌏コス🍊",
+        "pinned_tweet_id": "1878838385911169352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592164130378911744/EYXRFO4b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 860,
+          "like_count": 56246,
+          "listed_count": 5,
+          "media_count": 3263,
+          "tweet_count": 30361
+        },
+        "username": "k_s_g_takosu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057104155052007424",
+        "3_2057104155056238592"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2057104253408473385",
+    "created_at": "2026-05-20T14:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057104253408473385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y1pdN1wn1m",
+          "end": 46,
+          "expanded_url": "https://x.com/Yumi320521/status/2057104253408473385/video/1",
+          "media_key": "13_2057104155052007424",
+          "start": 23,
+          "url": "https://t.co/y1pdN1wn1m"
+        },
+        {
+          "display_url": "pic.x.com/y1pdN1wn1m",
+          "end": 46,
+          "expanded_url": "https://x.com/Yumi320521/status/2057104253408473385/video/1",
+          "media_key": "3_2057104155056238592",
+          "start": 23,
+          "url": "https://t.co/y1pdN1wn1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057104253408473385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "意味のない動画ですが とても可愛いです！😽💖 https://t.co/y1pdN1wn1m"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10703,
+        "height": 1280,
+        "media_key": "13_2057104155052007424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057104155052007424/img/1ZRSbZ_1dBsvOj-b.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057104155052007424/vid/avc1/320x568/SXVOMnigS3-3bp4v.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057104155052007424/vid/avc1/480x852/O8C8WKBggN7t8eZk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057104155052007424/vid/avc1/720x1280/axDoDYBo_RWG1fFP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057104155052007424/pl/CgGWZK1Jig6X2RQU.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057104155056238592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxNVHwbcAA1h3F.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057104155052007424",
+            "3_2057104155056238592"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2057104253408473385",
+        "created_at": "2026-05-20T14:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057104253408473385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1pdN1wn1m",
+              "end": 46,
+              "expanded_url": "https://x.com/Yumi320521/status/2057104253408473385/video/1",
+              "media_key": "13_2057104155052007424",
+              "start": 23,
+              "url": "https://t.co/y1pdN1wn1m"
+            },
+            {
+              "display_url": "pic.x.com/y1pdN1wn1m",
+              "end": 46,
+              "expanded_url": "https://x.com/Yumi320521/status/2057104253408473385/video/1",
+              "media_key": "3_2057104155056238592",
+              "start": 23,
+              "url": "https://t.co/y1pdN1wn1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057104253408473385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "意味のない動画ですが とても可愛いです！😽💖 https://t.co/y1pdN1wn1m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n好累…",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 75,
+          "like_count": 1384,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 280
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

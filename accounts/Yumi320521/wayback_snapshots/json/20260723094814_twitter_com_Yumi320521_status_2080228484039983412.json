@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2080036622616453472",
+    "created_at": "2026-07-23T09:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080228484039983412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2073863844816900096",
+          "start": 0,
+          "username": "kdnens"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080228484039983412",
+    "in_reply_to_user_id": "2073863844816900096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080165206852862201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kdnens 是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2080036622616453472",
+        "created_at": "2026-07-23T09:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080228484039983412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2073863844816900096",
+              "start": 0,
+              "username": "kdnens"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080228484039983412",
+        "in_reply_to_user_id": "2073863844816900096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080165206852862201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kdnens 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073863844816900096",
+        "conversation_id": "2080036622616453472",
+        "created_at": "2026-07-23T05:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080165206852862201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080165206852862201",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080036622616453472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 因为很可爱啊，穿一些可爱的衣服，也会显得自己很可爱的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n社会に見捨てられ 死にたい",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 161,
+          "like_count": 5893,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1580
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T20:19:12.000Z",
+        "description": "如果可以我想多了解你想当你的倾诉对象",
+        "id": "2073863844816900096",
+        "name": "熙恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075474060243312640/LT2a-nkk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 76,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "kdnens",
+        "verified": false
+      }
+    ]
+  }
+}

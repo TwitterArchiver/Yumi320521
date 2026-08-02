@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060157132155359300",
+    "created_at": "2026-05-30T10:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060669252542337395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545050439049064450",
+          "start": 0,
+          "username": "xz8796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060669252542337395",
+    "in_reply_to_user_id": "1545050439049064450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060642952435945742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xz8796 🫘摆拍的一般都是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060157132155359300",
+        "created_at": "2026-05-30T10:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060669252542337395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "xz8796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060669252542337395",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060642952435945742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xz8796 🫘摆拍的一般都是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2060157132155359300",
+        "created_at": "2026-05-30T08:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060642952435945742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060642952435945742",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060157132155359300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 感觉这个东西剂量大了，容易死人啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉/视觉系乐队/量产型/药圈\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 99,
+          "like_count": 2317,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 746
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "记录生活，发发牢骚。\nFtX/泛性恋/ed/……",
+        "id": "1545050439049064450",
+        "location": "Republic of Korea",
+        "name": "想睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048553957677813760/zLwjwRse_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 164,
+          "like_count": 1851,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 967
+        },
+        "username": "xz8796",
+        "verified": true
+      }
+    ]
+  }
+}

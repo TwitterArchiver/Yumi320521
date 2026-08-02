@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059540700665122816"
+      ],
+      "media_source_tweet_id": [
+        "2059540706205806889"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059698169290936537",
+    "created_at": "2026-05-27T18:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059698169290936537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1522070865697185792",
+          "start": 3,
+          "username": "9smker"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YgU8mxLCsa",
+          "end": 55,
+          "expanded_url": "https://x.com/9smker/status/2059540706205806889/photo/1",
+          "media_key": "3_2059540700665122816",
+          "start": 32,
+          "url": "https://t.co/YgU8mxLCsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059698169290936537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059540706205806889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @9smker: ちゃんとダメにしてあげるから逃げんなよ https://t.co/YgU8mxLCsa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059540700665122816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT1WveakAAOND8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059540700665122816"
+          ],
+          "media_source_tweet_id": [
+            "2059540706205806889"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059698169290936537",
+        "created_at": "2026-05-27T18:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059698169290936537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1522070865697185792",
+              "start": 3,
+              "username": "9smker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YgU8mxLCsa",
+              "end": 55,
+              "expanded_url": "https://x.com/9smker/status/2059540706205806889/photo/1",
+              "media_key": "3_2059540700665122816",
+              "start": 32,
+              "url": "https://t.co/YgU8mxLCsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059698169290936537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059540706205806889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @9smker: ちゃんとダメにしてあげるから逃げんなよ https://t.co/YgU8mxLCsa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059540700665122816"
+          ]
+        },
+        "author_id": "1522070865697185792",
+        "conversation_id": "2059540706205806889",
+        "created_at": "2026-05-27T07:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059540706205806889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YgU8mxLCsa",
+              "end": 43,
+              "expanded_url": "https://x.com/9smker/status/2059540706205806889/photo/1",
+              "media_key": "3_2059540700665122816",
+              "start": 20,
+              "url": "https://t.co/YgU8mxLCsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059540706205806889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 7503,
+          "like_count": 500,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "ちゃんとダメにしてあげるから逃げんなよ https://t.co/YgU8mxLCsa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 76,
+          "like_count": 1914,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 623
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T04:29:17.000Z",
+        "description": "俺とお前の幸せコンテツ /隠居@eijffol",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "eijffol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ulqxv?igsh=Z21…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ulqxv?igsh=Z210ZmtidjJ3b21o&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/vBH6HUTzli"
+              }
+            ]
+          }
+        },
+        "id": "1522070865697185792",
+        "name": "イヴ",
+        "pinned_tweet_id": "2038524928518164758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056687610962247680/ywra7FFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3895,
+          "following_count": 3,
+          "like_count": 1312,
+          "listed_count": 17,
+          "media_count": 61,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/vBH6HUTzli",
+        "username": "9smker",
+        "verified": true
+      }
+    ]
+  }
+}

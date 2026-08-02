@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2057884842445148176",
+    "created_at": "2026-05-22T18:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T19:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057884842445148176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "814245480",
+          "start": 3,
+          "username": "shaonvbing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057884842445148176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057273983972888587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shaonvbing: 闲鱼逛多了反而越来越降低我的物欲了，能深刻感受到“钱变成东西很容易”，“东西重新换回钱好难”，当时你当宝贝头脑发热买回来的东西，打多少折都没人要。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2057884842445148176",
+        "created_at": "2026-05-22T18:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057884842445148176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "814245480",
+              "start": 3,
+              "username": "shaonvbing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057884842445148176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057273983972888587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shaonvbing: 闲鱼逛多了反而越来越降低我的物欲了，能深刻感受到“钱变成东西很容易”，“东西重新换回钱好难”，当时你当宝贝头脑发热买回来的东西，打多少折都没人要。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "814245480",
+        "conversation_id": "2057273983972888587",
+        "created_at": "2026-05-21T01:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057273983972888587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057273983972888587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 89230,
+          "like_count": 2166,
+          "quote_count": 9,
+          "reply_count": 175,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "闲鱼逛多了反而越来越降低我的物欲了，能深刻感受到“钱变成东西很容易”，“东西重新换回钱好难”，当时你当宝贝头脑发热买回来的东西，打多少折都没人要。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残｜ISFP\n会发自拍和碎碎念 欢迎互fo哦",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 60,
+          "like_count": 1535,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 335
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-10T01:41:41.000Z",
+        "description": "我当然会幸福、强大、所向披靡。",
+        "id": "814245480",
+        "name": "少女病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/565886419298570240/RBJf2TDO_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48801,
+          "following_count": 973,
+          "like_count": 24504,
+          "listed_count": 159,
+          "media_count": 6361,
+          "tweet_count": 91213
+        },
+        "username": "shaonvbing",
+        "verified": true
+      }
+    ]
+  }
+}

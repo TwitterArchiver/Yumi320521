@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059703064177881210",
+    "created_at": "2026-05-27T18:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059703064177881210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yumi320521/sta…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/yumi320521/status/2059701237550088505",
+          "start": 63,
+          "url": "https://t.co/P4mWR2vdHx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059703064177881210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059701237550088505",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为玩推特太狠 我开了免打扰我没看见我女发的消息给我 我草好该死😿😭😭😭😭😭😭😭😭😭😭我这就回去找我女😭😭😭😭😭😭都怪msk https://t.co/P4mWR2vdHx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_2059701222446452737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWHWVtb0AER8qM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059703064177881210",
+        "created_at": "2026-05-27T18:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059703064177881210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yumi320521/sta…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/yumi320521/status/2059701237550088505",
+              "start": 63,
+              "url": "https://t.co/P4mWR2vdHx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059703064177881210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059701237550088505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为玩推特太狠 我开了免打扰我没看见我女发的消息给我 我草好该死😿😭😭😭😭😭😭😭😭😭😭我这就回去找我女😭😭😭😭😭😭都怪msk https://t.co/P4mWR2vdHx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059701222446452737"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059701237550088505",
+        "created_at": "2026-05-27T18:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059701237550088505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yG3ODIaIiF",
+              "end": 27,
+              "expanded_url": "https://x.com/Yumi320521/status/2059701237550088505/photo/1",
+              "media_key": "3_2059701222446452737",
+              "start": 4,
+              "url": "https://t.co/yG3ODIaIiF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059701237550088505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来玩😿 https://t.co/yG3ODIaIiF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 76,
+          "like_count": 1917,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 628
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

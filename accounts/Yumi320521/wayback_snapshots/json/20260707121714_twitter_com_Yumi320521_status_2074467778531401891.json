@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2074467778531401891",
+    "created_at": "2026-07-07T12:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074467778531401891"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074467778531401891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好穷好穷好穷 富的缺爱又爱秀转账记录的 我给个提议当公畜母畜每天被操死就被爱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2074467778531401891",
+        "created_at": "2026-07-07T12:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074467778531401891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074467778531401891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好穷好穷好穷 富的缺爱又爱秀转账记录的 我给个提议当公畜母畜每天被操死就被爱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 147,
+          "like_count": 5336,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1241
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

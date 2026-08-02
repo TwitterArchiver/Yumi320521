@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055934019930554368"
+      ],
+      "media_source_tweet_id": [
+        "2055934023890010466"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2056219942568317307",
+    "created_at": "2026-05-18T03:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T04:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056219942568317307"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 73,
+          "start": 65,
+          "tag": "prsk_FA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1763894700610846720",
+          "start": 3,
+          "username": "con3_three"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YWsSNWCQye",
+          "end": 97,
+          "expanded_url": "https://x.com/con3_three/status/2055934023890010466/photo/1",
+          "media_key": "3_2055934019930554368",
+          "start": 74,
+          "url": "https://t.co/YWsSNWCQye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056219942568317307",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 874
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055934023890010466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @con3_three: ・どこか行きたい\n・オレについてこい\n・海に来た\n・遊びに行こうか\n・地道な努力　←New！\n\n #prsk_FA https://t.co/YWsSNWCQye"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2055934019930554368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIglGSuaAAA-c_G.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055934019930554368"
+          ],
+          "media_source_tweet_id": [
+            "2055934023890010466"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2056219942568317307",
+        "created_at": "2026-05-18T03:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056219942568317307"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 65,
+              "tag": "prsk_FA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1763894700610846720",
+              "start": 3,
+              "username": "con3_three"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWsSNWCQye",
+              "end": 97,
+              "expanded_url": "https://x.com/con3_three/status/2055934023890010466/photo/1",
+              "media_key": "3_2055934019930554368",
+              "start": 74,
+              "url": "https://t.co/YWsSNWCQye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056219942568317307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 874
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055934023890010466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @con3_three: ・どこか行きたい\n・オレについてこい\n・海に来た\n・遊びに行こうか\n・地道な努力　←New！\n\n #prsk_FA https://t.co/YWsSNWCQye"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055934019930554368"
+          ]
+        },
+        "author_id": "1763894700610846720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2055934023890010466",
+        "created_at": "2026-05-17T08:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055934023890010466"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 49,
+              "tag": "prsk_FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWsSNWCQye",
+              "end": 81,
+              "expanded_url": "https://x.com/con3_three/status/2055934023890010466/photo/1",
+              "media_key": "3_2055934019930554368",
+              "start": 58,
+              "url": "https://t.co/YWsSNWCQye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055934023890010466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 470,
+          "impression_count": 70351,
+          "like_count": 5743,
+          "quote_count": 20,
+          "reply_count": 0,
+          "retweet_count": 874
+        },
+        "reply_settings": "everyone",
+        "text": "・どこか行きたい\n・オレについてこい\n・海に来た\n・遊びに行こうか\n・地道な努力　←New！\n\n #prsk_FA https://t.co/YWsSNWCQye"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n好累…",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 67,
+          "like_count": 1257,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 253
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T11:50:57.000Z",
+        "description": "コンさんです。なんか描きます。プロセカの花里みのりさんとブルアカのケイちゃんと学マスの篠澤広さんが好きです。",
+        "id": "1763894700610846720",
+        "location": "無断転載･AI学習禁止",
+        "name": "con:3/コンさん",
+        "pinned_tweet_id": "2043705949513560253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021268186856030208/FTxSyd9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 473,
+          "like_count": 12358,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 561
+        },
+        "username": "con3_three",
+        "verified": false
+      }
+    ]
+  }
+}

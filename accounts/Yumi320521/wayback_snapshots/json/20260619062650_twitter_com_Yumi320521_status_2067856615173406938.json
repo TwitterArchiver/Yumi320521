@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067563874635894784",
+        "3_2067563874652729344"
+      ],
+      "media_source_tweet_id": [
+        "2067563881296441842",
+        "2067563881296441842"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      }
+    ],
+    "conversation_id": "2067856615173406938",
+    "created_at": "2026-06-19T06:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067856615173406938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1782321693844975616",
+          "start": 3,
+          "username": "3F9XXmF5o719520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kBKwV5ywCA",
+          "end": 108,
+          "expanded_url": "https://x.com/3F9XXmF5o719520/status/2067563881296441842/photo/1",
+          "media_key": "3_2067563874635894784",
+          "start": 85,
+          "url": "https://t.co/kBKwV5ywCA"
+        },
+        {
+          "display_url": "pic.x.com/kBKwV5ywCA",
+          "end": 108,
+          "expanded_url": "https://x.com/3F9XXmF5o719520/status/2067563881296441842/photo/1",
+          "media_key": "3_2067563874652729344",
+          "start": 85,
+          "url": "https://t.co/kBKwV5ywCA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067856615173406938",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1091
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067563881296441842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3F9XXmF5o719520: 男性が描くブスって分厚い唇とケバケバ化粧みたいに誇張が含まれるけど、女性が描くブスって的確にその層を\"刺し\"にいってるから怖い https://t.co/kBKwV5ywCA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 735,
+        "media_key": "3_2067563874635894784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF2Y7oaUAAHKi6.jpg",
+        "width": 1400
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067563874652729344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF2Y7sbMAA-X17.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067563874635894784",
+            "3_2067563874652729344"
+          ],
+          "media_source_tweet_id": [
+            "2067563881296441842",
+            "2067563881296441842"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2067856615173406938",
+        "created_at": "2026-06-19T06:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067856615173406938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1782321693844975616",
+              "start": 3,
+              "username": "3F9XXmF5o719520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kBKwV5ywCA",
+              "end": 108,
+              "expanded_url": "https://x.com/3F9XXmF5o719520/status/2067563881296441842/photo/1",
+              "media_key": "3_2067563874635894784",
+              "start": 85,
+              "url": "https://t.co/kBKwV5ywCA"
+            },
+            {
+              "display_url": "pic.x.com/kBKwV5ywCA",
+              "end": 108,
+              "expanded_url": "https://x.com/3F9XXmF5o719520/status/2067563881296441842/photo/1",
+              "media_key": "3_2067563874652729344",
+              "start": 85,
+              "url": "https://t.co/kBKwV5ywCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067856615173406938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1091
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067563881296441842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3F9XXmF5o719520: 男性が描くブスって分厚い唇とケバケバ化粧みたいに誇張が含まれるけど、女性が描くブスって的確にその層を\"刺し\"にいってるから怖い https://t.co/kBKwV5ywCA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067563874635894784",
+            "3_2067563874652729344"
+          ]
+        },
+        "author_id": "1782321693844975616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2067563881296441842",
+        "created_at": "2026-06-18T11:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067563881296441842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kBKwV5ywCA",
+              "end": 87,
+              "expanded_url": "https://x.com/3F9XXmF5o719520/status/2067563881296441842/photo/1",
+              "media_key": "3_2067563874635894784",
+              "start": 64,
+              "url": "https://t.co/kBKwV5ywCA"
+            },
+            {
+              "display_url": "pic.x.com/kBKwV5ywCA",
+              "end": 87,
+              "expanded_url": "https://x.com/3F9XXmF5o719520/status/2067563881296441842/photo/1",
+              "media_key": "3_2067563874652729344",
+              "start": 64,
+              "url": "https://t.co/kBKwV5ywCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067563881296441842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4380,
+          "impression_count": 7653987,
+          "like_count": 34892,
+          "quote_count": 844,
+          "reply_count": 292,
+          "retweet_count": 1092
+        },
+        "reply_settings": "everyone",
+        "text": "男性が描くブスって分厚い唇とケバケバ化粧みたいに誇張が含まれるけど、女性が描くブスって的確にその層を\"刺し\"にいってるから怖い https://t.co/kBKwV5ywCA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 \n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2067556150426669153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067554649486573568/_C_kHJDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 121,
+          "like_count": 3599,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 656
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T08:13:09.000Z",
+        "description": "元フェミニスト",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/tsrpgnbsrr8nbu…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/tsrpgnbsrr8nbul?t=txKvKT&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/872fuC6Euv"
+              }
+            ]
+          }
+        },
+        "id": "1782321693844975616",
+        "name": "ひよこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782405426191216640/5opjCcsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36057,
+          "following_count": 380,
+          "like_count": 51350,
+          "listed_count": 193,
+          "media_count": 975,
+          "tweet_count": 2646
+        },
+        "url": "https://t.co/872fuC6Euv",
+        "username": "3F9XXmF5o719520",
+        "verified": true
+      }
+    ]
+  }
+}

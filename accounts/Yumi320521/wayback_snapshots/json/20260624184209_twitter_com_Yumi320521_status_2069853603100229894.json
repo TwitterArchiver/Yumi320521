@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069853597706403840"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069853603100229894",
+    "created_at": "2026-06-24T18:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T19:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069853603100229894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b8mA9xxSt2",
+          "end": 75,
+          "expanded_url": "https://x.com/Yumi320521/status/2069853603100229894/photo/1",
+          "media_key": "3_2069853597706403840",
+          "start": 52,
+          "url": "https://t.co/b8mA9xxSt2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069853603100229894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请问有人认识这个老师吗 推文在5.29以后就没有再发布了 最后写了吃了2tsns 8t橙普 24tym https://t.co/b8mA9xxSt2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069853597706403840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmY4WxawAA-SuB.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069853597706403840"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069853603100229894",
+        "created_at": "2026-06-24T18:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069853603100229894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b8mA9xxSt2",
+              "end": 75,
+              "expanded_url": "https://x.com/Yumi320521/status/2069853603100229894/photo/1",
+              "media_key": "3_2069853597706403840",
+              "start": 52,
+              "url": "https://t.co/b8mA9xxSt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069853603100229894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请问有人认识这个老师吗 推文在5.29以后就没有再发布了 最后写了吃了2tsns 8t橙普 24tym https://t.co/b8mA9xxSt2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群 随时跑路",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 136,
+          "like_count": 4559,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 860
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

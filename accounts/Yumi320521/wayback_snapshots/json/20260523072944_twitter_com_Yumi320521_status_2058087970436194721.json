@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058087970436194721",
+    "created_at": "2026-05-23T07:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058087970436194721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/z9alph/status/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/z9alph/status/2057914819786027380",
+          "start": 11,
+          "url": "https://t.co/rjppm1qAgW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058087970436194721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057914819786027380",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我把这个看成屁股了😂 https://t.co/rjppm1qAgW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1325,
+        "media_key": "3_2057914815184793600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI8unwEacAA4qYr.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058087970436194721",
+        "created_at": "2026-05-23T07:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058087970436194721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/z9alph/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/z9alph/status/2057914819786027380",
+              "start": 11,
+              "url": "https://t.co/rjppm1qAgW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058087970436194721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057914819786027380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我把这个看成屁股了😂 https://t.co/rjppm1qAgW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057914815184793600"
+          ]
+        },
+        "author_id": "1430099327557390337",
+        "conversation_id": "2057914819786027380",
+        "created_at": "2026-05-22T20:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T21:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057914819786027380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/spMM7U0mi6",
+              "end": 29,
+              "expanded_url": "https://x.com/z9alph/status/2057914819786027380/photo/1",
+              "media_key": "3_2057914815184793600",
+              "start": 6,
+              "url": "https://t.co/spMM7U0mi6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057914819786027380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 20838,
+          "like_count": 1980,
+          "quote_count": 5,
+          "reply_count": 25,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "腹パンです https://t.co/spMM7U0mi6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残｜ISFP\n会发自拍和碎碎念 欢迎互fo哦",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 64,
+          "like_count": 1583,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 375
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T09:27:14.000Z",
+        "description": "話題のツイートbot\n\n話題のツイートを載せています。PR案件はDMまで",
+        "id": "1430099327557390337",
+        "name": "話題のツイート動画",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050214536800825344/rcnV4BWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8666,
+          "following_count": 5900,
+          "like_count": 42662,
+          "listed_count": 18,
+          "media_count": 269,
+          "tweet_count": 3380
+        },
+        "username": "z9alph",
+        "verified": true
+      }
+    ]
+  }
+}

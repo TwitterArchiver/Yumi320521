@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058939573879844864",
+        "3_2058939573879853056",
+        "3_2058939573900804096"
+      ],
+      "media_source_tweet_id": [
+        "2058939580133585346",
+        "2058939580133585346",
+        "2058939580133585346"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059237256310010227",
+    "created_at": "2026-05-26T11:36:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059237256310010227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1951304134847873024",
+          "start": 3,
+          "username": "Rei_rkgk__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lvKQ4wU8WF",
+          "end": 42,
+          "expanded_url": "https://x.com/Rei_rkgk__/status/2058939580133585346/photo/1",
+          "media_key": "3_2058939573879844864",
+          "start": 19,
+          "url": "https://t.co/lvKQ4wU8WF"
+        },
+        {
+          "display_url": "pic.x.com/lvKQ4wU8WF",
+          "end": 42,
+          "expanded_url": "https://x.com/Rei_rkgk__/status/2058939580133585346/photo/1",
+          "media_key": "3_2058939573879853056",
+          "start": 19,
+          "url": "https://t.co/lvKQ4wU8WF"
+        },
+        {
+          "display_url": "pic.x.com/lvKQ4wU8WF",
+          "end": 42,
+          "expanded_url": "https://x.com/Rei_rkgk__/status/2058939580133585346/photo/1",
+          "media_key": "3_2058939573900804096",
+          "start": 19,
+          "url": "https://t.co/lvKQ4wU8WF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059237256310010227",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 188
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058939580133585346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rei_rkgk__: 🩷🖤 https://t.co/lvKQ4wU8WF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058939573879844864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLSojsaMAA-AEd.jpg",
+        "width": 1444
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058939573879853056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLSojsaUAAMm7X.jpg",
+        "width": 1169
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058939573900804096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLSojxaAAA69yj.jpg",
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058939573879844864",
+            "3_2058939573879853056",
+            "3_2058939573900804096"
+          ],
+          "media_source_tweet_id": [
+            "2058939580133585346",
+            "2058939580133585346",
+            "2058939580133585346"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059237256310010227",
+        "created_at": "2026-05-26T11:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059237256310010227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1951304134847873024",
+              "start": 3,
+              "username": "Rei_rkgk__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvKQ4wU8WF",
+              "end": 42,
+              "expanded_url": "https://x.com/Rei_rkgk__/status/2058939580133585346/photo/1",
+              "media_key": "3_2058939573879844864",
+              "start": 19,
+              "url": "https://t.co/lvKQ4wU8WF"
+            },
+            {
+              "display_url": "pic.x.com/lvKQ4wU8WF",
+              "end": 42,
+              "expanded_url": "https://x.com/Rei_rkgk__/status/2058939580133585346/photo/1",
+              "media_key": "3_2058939573879853056",
+              "start": 19,
+              "url": "https://t.co/lvKQ4wU8WF"
+            },
+            {
+              "display_url": "pic.x.com/lvKQ4wU8WF",
+              "end": 42,
+              "expanded_url": "https://x.com/Rei_rkgk__/status/2058939580133585346/photo/1",
+              "media_key": "3_2058939573900804096",
+              "start": 19,
+              "url": "https://t.co/lvKQ4wU8WF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059237256310010227",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058939580133585346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rei_rkgk__: 🩷🖤 https://t.co/lvKQ4wU8WF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058939573879844864",
+            "3_2058939573879853056",
+            "3_2058939573900804096"
+          ]
+        },
+        "author_id": "1951304134847873024",
+        "conversation_id": "2058939580133585346",
+        "created_at": "2026-05-25T15:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058939580133585346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvKQ4wU8WF",
+              "end": 26,
+              "expanded_url": "https://x.com/Rei_rkgk__/status/2058939580133585346/photo/1",
+              "media_key": "3_2058939573879844864",
+              "start": 3,
+              "url": "https://t.co/lvKQ4wU8WF"
+            },
+            {
+              "display_url": "pic.x.com/lvKQ4wU8WF",
+              "end": 26,
+              "expanded_url": "https://x.com/Rei_rkgk__/status/2058939580133585346/photo/1",
+              "media_key": "3_2058939573879853056",
+              "start": 3,
+              "url": "https://t.co/lvKQ4wU8WF"
+            },
+            {
+              "display_url": "pic.x.com/lvKQ4wU8WF",
+              "end": 26,
+              "expanded_url": "https://x.com/Rei_rkgk__/status/2058939580133585346/photo/1",
+              "media_key": "3_2058939573900804096",
+              "start": 3,
+              "url": "https://t.co/lvKQ4wU8WF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058939580133585346",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 14899,
+          "like_count": 1936,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "🩷🖤 https://t.co/lvKQ4wU8WF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 69,
+          "like_count": 1815,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 541
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T15:29:05.000Z",
+        "description": "@NLH_00_のｻﾌﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "NLH_00_"
+              }
+            ]
+          }
+        },
+        "id": "1951304134847873024",
+        "location": "ヘッダーは頂きました！！！",
+        "name": "おさぶ皇子",
+        "pinned_tweet_id": "1951449606795214984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058189970658217984/RPR9tSVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6883,
+          "following_count": 97,
+          "like_count": 3263,
+          "listed_count": 15,
+          "media_count": 164,
+          "tweet_count": 2677
+        },
+        "username": "Rei_rkgk__",
+        "verified": false
+      }
+    ]
+  }
+}

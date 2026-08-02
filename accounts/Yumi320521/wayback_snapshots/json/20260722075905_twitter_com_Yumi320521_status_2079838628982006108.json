@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2079838628982006108",
+    "created_at": "2026-07-22T07:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079838628982006108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841741161884504064",
+          "start": 3,
+          "username": "Miao_oTvTo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079838628982006108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079519583208386667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miao_oTvTo_: 富二代快滚出来发奶茶啊 这么热的天 要渴死我吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2079838628982006108",
+        "created_at": "2026-07-22T07:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079838628982006108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841741161884504064",
+              "start": 3,
+              "username": "Miao_oTvTo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079838628982006108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079519583208386667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miao_oTvTo_: 富二代快滚出来发奶茶啊 这么热的天 要渴死我吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841741161884504064",
+        "conversation_id": "2079519583208386667",
+        "created_at": "2026-07-21T10:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079519583208386667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079519583208386667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18291,
+          "like_count": 218,
+          "quote_count": 0,
+          "reply_count": 74,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "富二代快滚出来发奶茶啊 这么热的天 要渴死我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n社会に見捨てられ 死にたい",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 161,
+          "like_count": 5864,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1555
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T07:24:54.000Z",
+        "description": "这个世界好坏",
+        "id": "1841741161884504064",
+        "name": "泪池",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068708904092278784/EEF_HCqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14159,
+          "following_count": 95,
+          "like_count": 15841,
+          "listed_count": 24,
+          "media_count": 582,
+          "tweet_count": 9866
+        },
+        "url": "",
+        "username": "Miao_oTvTo_",
+        "verified": false
+      }
+    ]
+  }
+}

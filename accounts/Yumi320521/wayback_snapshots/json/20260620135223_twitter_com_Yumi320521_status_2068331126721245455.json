@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2068320373679296572",
+    "created_at": "2026-06-20T13:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T14:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068331126721245455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1894342873740709890",
+          "start": 0,
+          "username": "mi_e_n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068331126721245455",
+    "in_reply_to_user_id": "1894342873740709890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068320373679296572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mi_e_n 好可爱！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2068320373679296572].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2068320373679296572",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2068320373679296572"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2068320373679296572",
+        "created_at": "2026-06-20T13:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068331126721245455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1894342873740709890",
+              "start": 0,
+              "username": "mi_e_n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068331126721245455",
+        "in_reply_to_user_id": "1894342873740709890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068320373679296572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi_e_n 好可爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 \n桃井愛莉一生のファン🍑💞\n152/35kg od｜自残｜vkei｜量产地雷 欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067554649486573568/_C_kHJDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 124,
+          "like_count": 3725,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 691
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T11:05:30.000Z",
+        "description": "壁打ち 配慮なんてない死ね",
+        "id": "1894342873740709890",
+        "location": "呪術高等専門学校",
+        "name": "フォロストラトス",
+        "pinned_tweet_id": "2042925071904444491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030108056252772352/BHN4TXd6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 144,
+          "like_count": 136344,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 5953
+        },
+        "url": "",
+        "username": "mi_e_n",
+        "verified": false
+      }
+    ]
+  }
+}

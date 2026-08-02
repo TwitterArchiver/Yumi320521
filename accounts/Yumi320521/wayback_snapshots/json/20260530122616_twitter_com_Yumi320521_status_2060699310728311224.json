@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060686882267426816",
+        "3_2060686882267348992"
+      ],
+      "media_source_tweet_id": [
+        "2060687077021507643",
+        "2060687077021507643"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1557408210742431744",
+          "name": "Nights with a Cat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1557408210742431744",
+          "name": "Nights with a Cat"
+        }
+      }
+    ],
+    "conversation_id": "2060699310728311224",
+    "created_at": "2026-05-30T12:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060699310728311224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "981862230151974913",
+          "start": 3,
+          "username": "kyuryuZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bsPojysZqw",
+          "end": 39,
+          "expanded_url": "https://x.com/kyuryuZ/status/2060687077021507643/photo/1",
+          "media_key": "3_2060686882267426816",
+          "start": 16,
+          "url": "https://t.co/bsPojysZqw"
+        },
+        {
+          "display_url": "pic.x.com/bsPojysZqw",
+          "end": 39,
+          "expanded_url": "https://x.com/kyuryuZ/status/2060687077021507643/photo/1",
+          "media_key": "3_2060686882267348992",
+          "start": 16,
+          "url": "https://t.co/bsPojysZqw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060699310728311224",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3291
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060687077021507643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyuryuZ: 🧺🐈 https://t.co/bsPojysZqw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2060686882267426816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkHzSrbcAA2cAU.jpg",
+        "width": 922
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2060686882267348992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkHzSraQAAFxR0.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060686882267426816",
+            "3_2060686882267348992"
+          ],
+          "media_source_tweet_id": [
+            "2060687077021507643",
+            "2060687077021507643"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1557408210742431744",
+              "name": "Nights with a Cat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1557408210742431744",
+              "name": "Nights with a Cat"
+            }
+          }
+        ],
+        "conversation_id": "2060699310728311224",
+        "created_at": "2026-05-30T12:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060699310728311224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "981862230151974913",
+              "start": 3,
+              "username": "kyuryuZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsPojysZqw",
+              "end": 39,
+              "expanded_url": "https://x.com/kyuryuZ/status/2060687077021507643/photo/1",
+              "media_key": "3_2060686882267426816",
+              "start": 16,
+              "url": "https://t.co/bsPojysZqw"
+            },
+            {
+              "display_url": "pic.x.com/bsPojysZqw",
+              "end": 39,
+              "expanded_url": "https://x.com/kyuryuZ/status/2060687077021507643/photo/1",
+              "media_key": "3_2060686882267348992",
+              "start": 16,
+              "url": "https://t.co/bsPojysZqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060699310728311224",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3291
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060687077021507643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyuryuZ: 🧺🐈 https://t.co/bsPojysZqw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060686882267426816",
+            "3_2060686882267348992"
+          ]
+        },
+        "author_id": "981862230151974913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1557408210742431744",
+              "name": "Nights with a Cat"
+            }
+          }
+        ],
+        "conversation_id": "2060687077021507643",
+        "created_at": "2026-05-30T11:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060687077021507643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsPojysZqw",
+              "end": 26,
+              "expanded_url": "https://x.com/kyuryuZ/status/2060687077021507643/photo/1",
+              "media_key": "3_2060686882267426816",
+              "start": 3,
+              "url": "https://t.co/bsPojysZqw"
+            },
+            {
+              "display_url": "pic.x.com/bsPojysZqw",
+              "end": 26,
+              "expanded_url": "https://x.com/kyuryuZ/status/2060687077021507643/photo/1",
+              "media_key": "3_2060686882267348992",
+              "start": 3,
+              "url": "https://t.co/bsPojysZqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060687077021507643",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 504,
+          "impression_count": 285046,
+          "like_count": 20717,
+          "quote_count": 22,
+          "reply_count": 39,
+          "retweet_count": 3291
+        },
+        "reply_settings": "everyone",
+        "text": "🧺🐈 https://t.co/bsPojysZqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉/视觉系乐队/量产型/药圈\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 98,
+          "like_count": 2318,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 749
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-05T11:52:52.000Z",
+        "description": "ネコ創作漫画、夜は猫といっしょ1巻〜8巻、キュルガスタンプhttps://t.co/PdIxdE3XYe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "line.me/S/shop/sticker…",
+                "end": 52,
+                "expanded_url": "http://line.me/S/shop/sticker/author/4113004",
+                "start": 29,
+                "url": "https://t.co/PdIxdE3XYe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nekonavi.jp/archives/autho…",
+                "end": 23,
+                "expanded_url": "https://nekonavi.jp/archives/author/kyuryuz",
+                "start": 0,
+                "url": "https://t.co/hIICp3eCts"
+              }
+            ]
+          }
+        },
+        "id": "981862230151974913",
+        "name": "キュルZ",
+        "pinned_tweet_id": "2049810814966943878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/982094603460333568/jrj_y1Z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904495,
+          "following_count": 63,
+          "like_count": 5960,
+          "listed_count": 5634,
+          "media_count": 577,
+          "tweet_count": 2601
+        },
+        "url": "https://t.co/hIICp3eCts",
+        "username": "kyuryuZ",
+        "verified": true
+      }
+    ]
+  }
+}

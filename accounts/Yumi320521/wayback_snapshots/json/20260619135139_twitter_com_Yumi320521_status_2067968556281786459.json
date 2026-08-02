@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2067676937007587501",
+    "created_at": "2026-06-19T13:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067968556281786459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1774278217253433344",
+          "start": 0,
+          "username": "7ksti4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067968556281786459",
+    "in_reply_to_user_id": "1774278217253433344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067676937007587501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7ksti4 我也是ww 特别割裂唉真的还会很害怕玩不长久..抱抱小宝宝你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2067676937007587501",
+        "created_at": "2026-06-19T13:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067968556281786459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067968556281786459",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067676937007587501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 我也是ww 特别割裂唉真的还会很害怕玩不长久..抱抱小宝宝你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067676937007587501",
+        "created_at": "2026-06-18T18:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067676937007587501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067676937007587501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很恨自己出生在小县城，之前为了见网友看演出才偷偷跑到大城市，那时候和他们一起玩真的产生了一种很奇妙的空虚感，如果我能和他们一样出生在大城市是不是就不会这么寂寞了，而且才发现其他城市远眺是不会有山的，（可能因为我在福建吧）和同龄人之间的差距好大，我出生在经济断裂带呢、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 \n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067554649486573568/_C_kHJDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 121,
+          "like_count": 3640,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 676
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 373,
+          "like_count": 3967,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

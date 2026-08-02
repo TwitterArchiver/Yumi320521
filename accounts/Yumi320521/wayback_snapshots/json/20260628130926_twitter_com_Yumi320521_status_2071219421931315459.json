@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2071203983683924094",
+    "created_at": "2026-06-28T13:09:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071219421931315459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057552254463291393",
+          "start": 0,
+          "username": "6De_dian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071219421931315459",
+    "in_reply_to_user_id": "2057552254463291393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071218755351335340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6De_dian 嘿嘿\\(//∇//)\\"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2071203983683924094",
+        "created_at": "2026-06-28T13:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071219421931315459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071219421931315459",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071218755351335340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 嘿嘿\\(//∇//)\\"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2071203983683924094",
+        "created_at": "2026-06-28T13:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071218755351335340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071218755351335340",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071203983683924094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 好萌呀…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 143,
+          "like_count": 4744,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 937
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938137908350976/jhYAeTR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 275,
+          "like_count": 5344,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 845
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

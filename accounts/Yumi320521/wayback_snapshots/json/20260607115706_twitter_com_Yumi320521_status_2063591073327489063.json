@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2063533654476009532",
+    "created_at": "2026-06-07T11:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063591073327489063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811353024029413376",
+          "start": 0,
+          "username": "Caiiyeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063591073327489063",
+    "in_reply_to_user_id": "1811353024029413376",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063533654476009532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Caiiyeee 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2063533654476009532",
+        "created_at": "2026-06-07T11:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063591073327489063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811353024029413376",
+              "start": 0,
+              "username": "Caiiyeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063591073327489063",
+        "in_reply_to_user_id": "1811353024029413376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063533654476009532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Caiiyeee 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811353024029413376",
+        "conversation_id": "2063533654476009532",
+        "created_at": "2026-06-07T08:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063533654476009532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063533654476009532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道为什么我现在好像又什么东西都无所谓了 嗯 我不知道为什么会这样  不过我现在已经感觉不到痛苦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜视觉系｜量産型｜桃井愛莉\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 107,
+          "like_count": 2803,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 480
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T10:53:20.000Z",
+        "description": "忘記了很多事情 抱歉 你是我的神明大人嗎",
+        "id": "1811353024029413376",
+        "location": "宇宙那麽大 你消失之後我該去哪裡找你呢",
+        "name": "なな",
+        "pinned_tweet_id": "2017984541215060290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009523292655505408/2Ue1VUYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 164,
+          "like_count": 2343,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 529
+        },
+        "username": "Caiiyeee",
+        "verified": false
+      }
+    ]
+  }
+}

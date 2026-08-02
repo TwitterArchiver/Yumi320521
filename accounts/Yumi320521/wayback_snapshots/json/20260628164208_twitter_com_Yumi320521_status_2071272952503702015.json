@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2071203983683924094",
+    "created_at": "2026-06-28T16:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T17:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071272952503702015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1892178323415216128",
+          "start": 0,
+          "username": "sakurakobuchiyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071272952503702015",
+    "in_reply_to_user_id": "1892178323415216128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071245300992503826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakurakobuchiyu 宝宝！ \\(//∇//)\\"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2071203983683924094",
+        "created_at": "2026-06-28T16:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071272952503702015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1892178323415216128",
+              "start": 0,
+              "username": "sakurakobuchiyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071272952503702015",
+        "in_reply_to_user_id": "1892178323415216128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071245300992503826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakurakobuchiyu 宝宝！ \\(//∇//)\\"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892178323415216128",
+        "conversation_id": "2071203983683924094",
+        "created_at": "2026-06-28T14:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071245300992503826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071245300992503826",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071203983683924094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 你好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 143,
+          "like_count": 4761,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 941
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T11:44:14.000Z",
+        "description": "=Sakura  ♡@Amane_TENRIN 中国語OK、日本語は苦手",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "Amane_TENRIN"
+              }
+            ]
+          }
+        },
+        "id": "1892178323415216128",
+        "location": "🍼",
+        "name": "さくら",
+        "pinned_tweet_id": "2065677388609180121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068668000702742529/NPqxyDx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 106,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "sakurakobuchiyu",
+        "verified": false
+      }
+    ]
+  }
+}

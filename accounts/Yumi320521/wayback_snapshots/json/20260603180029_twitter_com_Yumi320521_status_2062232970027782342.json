@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2061928372524261835",
+    "created_at": "2026-06-03T18:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062232970027782342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757603703811371008",
+          "start": 0,
+          "username": "11andpr89648964"
+        },
+        {
+          "end": 28,
+          "id": "1829867271592026112",
+          "start": 17,
+          "username": "Shivam3228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062232970027782342",
+    "in_reply_to_user_id": "1757603703811371008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061928372524261835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11andpr89648964 @Shivam3228 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2061928372524261835",
+        "created_at": "2026-06-03T18:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062232970027782342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            },
+            {
+              "end": 28,
+              "id": "1829867271592026112",
+              "start": 17,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062232970027782342",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061928372524261835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 @Shivam3228 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2061928372524261835",
+        "created_at": "2026-06-02T21:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T22:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061928372524261835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061928372524261835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1982,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo纪念抽奖\n突破1000fo我也是剧烈高兴啊。\n为了感谢各位的陪伴 抽个奖w\n\n一等：🎁10tpr✖️1（4t喜思平6t手搓）\n二等：柠檬水✖️3\n\n参与方式：\n转发点赞评论\n开奖时间：6.6\n祝你我都能在烂透了的现实里 多捡到一点快乐\n（我很穷只能这样了～希望有人参与）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 柚子 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "Yuzumi",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062202271744901120/Mix4UWN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 96,
+          "like_count": 2655,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 910
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 773,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1418
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "寻回互fo\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2062222760353628296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 364,
+          "like_count": 1030,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 567
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

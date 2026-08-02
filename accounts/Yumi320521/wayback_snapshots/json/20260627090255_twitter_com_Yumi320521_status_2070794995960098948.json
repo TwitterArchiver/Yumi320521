@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2070648423095902684",
+    "created_at": "2026-06-27T09:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070794995960098948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2068731265550032896",
+          "start": 0,
+          "username": "laIa8x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070794995960098948",
+    "in_reply_to_user_id": "2068731265550032896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070715108410724426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laIa8x 贱逼滚开炫压抑公畜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2070648423095902684",
+        "created_at": "2026-06-27T09:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070794995960098948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2068731265550032896",
+              "start": 0,
+              "username": "laIa8x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070794995960098948",
+        "in_reply_to_user_id": "2068731265550032896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070715108410724426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laIa8x 贱逼滚开炫压抑公畜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068731265550032896",
+        "conversation_id": "2070648423095902684",
+        "created_at": "2026-06-27T03:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070715108410724426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070715108410724426",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070648423095902684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 喜欢玩多人吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 140,
+          "like_count": 4721,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 913
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-21T16:24:56.000Z",
+        "description": "",
+        "id": "2068731265550032896",
+        "name": "laIa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068732049981349888/hOSkcsyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 25,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "laIa8x",
+        "verified": false
+      }
+    ]
+  }
+}

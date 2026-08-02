@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2068691444915949931",
+    "created_at": "2026-06-22T19:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T20:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069148083968266310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1428604449845440520",
+          "start": 0,
+          "username": "KafuuChino1204_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069148083968266310",
+    "in_reply_to_user_id": "1428604449845440520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068691444915949931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KafuuChino1204_ 拼的超级可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068691426213494784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV35ElaAAAB6KW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068691426251300864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV35Eua4AAnd01.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2068691444915949931",
+        "created_at": "2026-06-22T19:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T20:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069148083968266310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1428604449845440520",
+              "start": 0,
+              "username": "KafuuChino1204_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069148083968266310",
+        "in_reply_to_user_id": "1428604449845440520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068691444915949931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KafuuChino1204_ 拼的超级可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068691426213494784",
+            "3_2068691426251300864"
+          ]
+        },
+        "author_id": "1428604449845440520",
+        "conversation_id": "2068691444915949931",
+        "created_at": "2026-06-21T13:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068691444915949931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ly5vZ5yTK6",
+              "end": 67,
+              "expanded_url": "https://x.com/KafuuChino1204_/status/2068691444915949931/photo/1",
+              "media_key": "3_2068691426213494784",
+              "start": 44,
+              "url": "https://t.co/ly5vZ5yTK6"
+            },
+            {
+              "display_url": "pic.x.com/ly5vZ5yTK6",
+              "end": 67,
+              "expanded_url": "https://x.com/KafuuChino1204_/status/2068691444915949931/photo/1",
+              "media_key": "3_2068691426251300864",
+              "start": 44,
+              "url": "https://t.co/ly5vZ5yTK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068691444915949931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又拼翻了omg\n我下次一定会开镜像的！😭TTTTTT\n有人能看出来是谁的也是很牛逼了 https://t.co/ly5vZ5yTK6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 136,
+          "like_count": 4158,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 764
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-20T06:27:46.000Z",
+        "description": "08-shtwt-眼熟/查主页回fo-请大家好好开心-lets die tmrw:3",
+        "id": "1428604449845440520",
+        "location": "任何地方",
+        "name": "椛椛椛椛椛椛㭤",
+        "pinned_tweet_id": "1953112000264917320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965790302641221632/ire85tod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 584,
+          "like_count": 1912,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 2461
+        },
+        "url": "",
+        "username": "KafuuChino1204_",
+        "verified": false
+      }
+    ]
+  }
+}

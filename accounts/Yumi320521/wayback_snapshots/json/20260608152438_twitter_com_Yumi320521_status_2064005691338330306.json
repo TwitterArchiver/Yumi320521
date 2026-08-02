@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2063918743307407507",
+    "created_at": "2026-06-08T15:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064005691338330306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874445693424910336",
+          "start": 0,
+          "username": "nosaki640495202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064005691338330306",
+    "in_reply_to_user_id": "1874445693424910336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063918743307407507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nosaki640495202 天 抱抱🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2063918733060673536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSDJxFbEAA-Si-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2063918743307407507",
+        "created_at": "2026-06-08T15:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064005691338330306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874445693424910336",
+              "start": 0,
+              "username": "nosaki640495202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064005691338330306",
+        "in_reply_to_user_id": "1874445693424910336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063918743307407507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nosaki640495202 天 抱抱🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063918733060673536"
+          ]
+        },
+        "author_id": "1874445693424910336",
+        "conversation_id": "2063918743307407507",
+        "created_at": "2026-06-08T09:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063918743307407507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zLBWmzFecp",
+              "end": 164,
+              "expanded_url": "https://x.com/nosaki640495202/status/2063918743307407507/photo/1",
+              "media_key": "3_2063918733060673536",
+              "start": 141,
+              "url": "https://t.co/zLBWmzFecp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063918743307407507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后补发根再有理发师碰我除了发根以外的其他头发我就开骂了，他妈的上一个理发师跟傻逼一样，我都说了左边头发漂不了了，非说什么会不均匀，让我漂，最后发现真的很容易断，就说什么以后吹干头发了之后再梳，你他妈不傻逼吗，就这样还不给我加护理，真不怕我投诉，而且我之前是阴阳头，漂完当天长这样 https://t.co/zLBWmzFecp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜视觉系｜量産型｜桃井愛莉\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 124,
+          "like_count": 2995,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 511
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T13:21:03.000Z",
+        "description": "INFP｜坐标中国广州｜VO.SHAKUKIRU\n@mam0_0fficialt 🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "mam0_0fficialt"
+              }
+            ]
+          }
+        },
+        "id": "1874445693424910336",
+        "name": "刖裂",
+        "pinned_tweet_id": "2062558578117054846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062421999784505345/-nJGvnyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 93,
+          "like_count": 4002,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 194
+        },
+        "username": "nosaki640495202",
+        "verified": false
+      }
+    ]
+  }
+}

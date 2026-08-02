@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057716672946225152"
+      ],
+      "media_source_tweet_id": [
+        "2057716680575566284"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2057915655110918388",
+    "created_at": "2026-05-22T20:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T21:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057915655110918388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2578710733",
+          "start": 3,
+          "username": "abutomato"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oCgUUyhE25",
+          "end": 38,
+          "expanded_url": "https://x.com/abutomato/status/2057716680575566284/photo/1",
+          "media_key": "3_2057716672946225152",
+          "start": 15,
+          "url": "https://t.co/oCgUUyhE25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057915655110918388",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5832
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057716680575566284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abutomato: https://t.co/oCgUUyhE25"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057716672946225152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI56aWtbwAA1lxY.jpg",
+        "width": 1955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057716672946225152"
+          ],
+          "media_source_tweet_id": [
+            "2057716680575566284"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2057915655110918388",
+        "created_at": "2026-05-22T20:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T21:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057915655110918388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2578710733",
+              "start": 3,
+              "username": "abutomato"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCgUUyhE25",
+              "end": 38,
+              "expanded_url": "https://x.com/abutomato/status/2057716680575566284/photo/1",
+              "media_key": "3_2057716672946225152",
+              "start": 15,
+              "url": "https://t.co/oCgUUyhE25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057915655110918388",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5832
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057716680575566284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @abutomato: https://t.co/oCgUUyhE25"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057716672946225152"
+          ]
+        },
+        "author_id": "2578710733",
+        "conversation_id": "2057716680575566284",
+        "created_at": "2026-05-22T06:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057716680575566284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCgUUyhE25",
+              "end": 23,
+              "expanded_url": "https://x.com/abutomato/status/2057716680575566284/photo/1",
+              "media_key": "3_2057716672946225152",
+              "start": 0,
+              "url": "https://t.co/oCgUUyhE25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057716680575566284",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1084,
+          "impression_count": 509171,
+          "like_count": 31196,
+          "quote_count": 156,
+          "reply_count": 68,
+          "retweet_count": 5832
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oCgUUyhE25"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残｜ISFP\n会发自拍和碎碎念 欢迎互fo哦",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 62,
+          "like_count": 1549,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 350
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-20T13:39:01.000Z",
+        "description": "マミなぎと酸素で生きてる。相互でなくても気軽に絡んでどうぞ\n\nイラストのAI学習・無断利用は禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "abutomato.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://abutomato.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/kTgyXEoxla"
+              }
+            ]
+          }
+        },
+        "id": "2578710733",
+        "location": "マミさんのタンスの一番上の引き出し",
+        "name": "アブトマトX",
+        "pinned_tweet_id": "2051288332500648066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803530411395694592/GRuq7WIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22382,
+          "following_count": 594,
+          "like_count": 41163,
+          "listed_count": 198,
+          "media_count": 6032,
+          "tweet_count": 90763
+        },
+        "url": "https://t.co/kTgyXEoxla",
+        "username": "abutomato",
+        "verified": false
+      }
+    ]
+  }
+}

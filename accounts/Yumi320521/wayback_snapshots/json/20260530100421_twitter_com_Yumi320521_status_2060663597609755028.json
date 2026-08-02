@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060663597609755028",
+    "created_at": "2026-05-30T10:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060663597609755028"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyp_qoo/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/nyp_qoo/status/2060546487805952114",
+          "start": 2,
+          "url": "https://t.co/q8LHRyp6ZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060663597609755028",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060546487805952114",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😿 https://t.co/q8LHRyp6ZT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060663597609755028",
+        "created_at": "2026-05-30T10:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060663597609755028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyp_qoo/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/nyp_qoo/status/2060546487805952114",
+              "start": 2,
+              "url": "https://t.co/q8LHRyp6ZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060663597609755028",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060546487805952114",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😿 https://t.co/q8LHRyp6ZT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729085882760835072",
+        "conversation_id": "2060546487805952114",
+        "created_at": "2026-05-30T02:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060546487805952114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060546487805952114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "中1の時毎日いじめられていた。\n\n親には言えなかった。\n\n教科書に「ブス。2度と学校くるな。」と書かれた。\n\nそれを、父が見つけてしまった。\n\n宿題をやろうとして、教科書を開いた時だった。\n\n父の手が止まった。\n\n私は何も言えなかった。\n\n「これ、なんだ。」\n\n「なんでもない。」\n\n「なんでもなくないだろ。」\n\n黙った。\n\n「いじめ、か。」\n\n答えられなかった。\n\n「いつから。」\n\n「……4月から。」\n\n父が教科書を見つめたまま、黙っていた。\n\n怒っているのかと思った。\n\n「なんで言わなかった。」\n\n「心配かけたくなかったから。」\n\n父が長い間、黙っていた。\n\nそして、一言だけ言った。\n\n「明日、学校に行く。」\n\n「来なくていいよ。」\n\n「いや行く。」\n\n止められなかった。\n\n翌日、父が教室に"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 804361,
+          "like_count": 1537,
+          "quote_count": 8,
+          "reply_count": 48,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "中1の時毎日いじめられていた。\n\n親には言えなかった。\n\n教科書に「ブス。2度と学校くるな。」と書かれた。\n\nそれを、父が見つけてしまった。\n\n宿題をやろうとして、教科書を開いた時だった。\n\n父の手が止まった。\n\n私は何も言えなかった。\n\n「これ、なんだ。」\n\n「なんでもない。」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉/视觉系乐队/量产型/药圈\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 99,
+          "like_count": 2315,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 744
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T10:33:02.000Z",
+        "description": "一般大学生。",
+        "id": "1729085882760835072",
+        "name": "ぷるぷる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047839714737319936/brUrETVX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19073,
+          "following_count": 4033,
+          "like_count": 19502,
+          "listed_count": 76,
+          "media_count": 32,
+          "tweet_count": 2856
+        },
+        "username": "nyp_qoo",
+        "verified": true
+      }
+    ]
+  }
+}

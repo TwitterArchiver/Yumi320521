@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070629914995544064"
+      ],
+      "media_source_tweet_id": [
+        "2070629928496930942"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2070780996329603090",
+    "created_at": "2026-06-27T08:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070780996329603090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1969726647831064577",
+          "start": 3,
+          "username": "Hyosa_park"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eJoZ8LQVcJ",
+          "end": 49,
+          "expanded_url": "https://x.com/Hyosa_park/status/2070629928496930942/photo/1",
+          "media_key": "3_2070629914995544064",
+          "start": 26,
+          "url": "https://t.co/eJoZ8LQVcJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070780996329603090",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 265
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070629928496930942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hyosa_park: 이짤 너무 맘에듬 https://t.co/eJoZ8LQVcJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 767,
+        "media_key": "3_2070629914995544064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxa7-CbUAA9KeX.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070629914995544064"
+          ],
+          "media_source_tweet_id": [
+            "2070629928496930942"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2070780996329603090",
+        "created_at": "2026-06-27T08:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070780996329603090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1969726647831064577",
+              "start": 3,
+              "username": "Hyosa_park"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eJoZ8LQVcJ",
+              "end": 49,
+              "expanded_url": "https://x.com/Hyosa_park/status/2070629928496930942/photo/1",
+              "media_key": "3_2070629914995544064",
+              "start": 26,
+              "url": "https://t.co/eJoZ8LQVcJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070780996329603090",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 265
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070629928496930942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hyosa_park: 이짤 너무 맘에듬 https://t.co/eJoZ8LQVcJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070629914995544064"
+          ]
+        },
+        "author_id": "1969726647831064577",
+        "conversation_id": "2070629928496930942",
+        "created_at": "2026-06-26T22:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T23:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070629928496930942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eJoZ8LQVcJ",
+              "end": 33,
+              "expanded_url": "https://x.com/Hyosa_park/status/2070629928496930942/photo/1",
+              "media_key": "3_2070629914995544064",
+              "start": 10,
+              "url": "https://t.co/eJoZ8LQVcJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070629928496930942",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 582,
+          "impression_count": 55813,
+          "like_count": 5675,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 265
+        },
+        "reply_settings": "everyone",
+        "text": "이짤 너무 맘에듬 https://t.co/eJoZ8LQVcJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 140,
+          "like_count": 4722,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 911
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T11:33:33.000Z",
+        "description": "치지직 스트리머 시류군입니다",
+        "id": "1969726647831064577",
+        "name": "시류군",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066210014516391936/mWdXxYVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 16,
+          "like_count": 880,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 376
+        },
+        "url": "",
+        "username": "Hyosa_park",
+        "verified": true
+      }
+    ]
+  }
+}

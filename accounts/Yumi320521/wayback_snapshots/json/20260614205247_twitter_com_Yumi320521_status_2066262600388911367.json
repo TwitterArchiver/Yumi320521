@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066262592608432128"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2066262600388911367",
+    "created_at": "2026-06-14T20:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T21:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066262600388911367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L5TwXyO9TZ",
+          "end": 27,
+          "expanded_url": "https://x.com/Yumi320521/status/2066262600388911367/photo/1",
+          "media_key": "3_2066262592608432128",
+          "start": 4,
+          "url": "https://t.co/L5TwXyO9TZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066262600388911367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好无聊 https://t.co/L5TwXyO9TZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_2066262592608432128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzW4WUacAAV4E-.jpg",
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066262592608432128"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2066262600388911367",
+        "created_at": "2026-06-14T20:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T21:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066262600388911367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L5TwXyO9TZ",
+              "end": 27,
+              "expanded_url": "https://x.com/Yumi320521/status/2066262600388911367/photo/1",
+              "media_key": "3_2066262592608432128",
+              "start": 4,
+              "url": "https://t.co/L5TwXyO9TZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066262600388911367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊 https://t.co/L5TwXyO9TZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 115,
+          "like_count": 3410,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 630
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

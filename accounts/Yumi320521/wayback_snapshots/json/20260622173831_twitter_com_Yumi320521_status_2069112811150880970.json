@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2068909819118129473",
+    "created_at": "2026-06-22T17:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T18:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069112811150880970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1572234064442322946",
+          "start": 0,
+          "username": "miso_lover_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069112811150880970",
+    "in_reply_to_user_id": "1572234064442322946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068909819118129473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miso_lover_ これまでの道のりは本当にとても大変でしたね。どうかどうか幸せでいてください🫶✨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2068909819118129473",
+        "created_at": "2026-06-22T17:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069112811150880970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572234064442322946",
+              "start": 0,
+              "username": "miso_lover_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069112811150880970",
+        "in_reply_to_user_id": "1572234064442322946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068909819118129473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miso_lover_ これまでの道のりは本当にとても大変でしたね。どうかどうか幸せでいてください🫶✨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572234064442322946",
+        "conversation_id": "2068909819118129473",
+        "created_at": "2026-06-22T04:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068909819118129473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068909819118129473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "私の人生のどん底は、ﾚｲﾌﾟされて堕ろして私の80万盗んだ虐待毒親から逃げてホームレスになって当時の彼氏に殴られながら体売って生きてたら親友が先に自殺しちゃった17,18歳かな❣️\n全部半年以内に起こって、神が私を殺そうとしてるんかと思った😂ww\n\nいまは綺麗な家で好きな人と過ごせて、生命が脅かされない環境ってだけでもう本当に幸せ😌🍀\nお金がなくてもいい。私はずっと平和を手に入れたかったんだ\n双極性障害とPTSDはゆっくり向き合う、さすがに傷つきすぎたから🫠"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 518,
+          "impression_count": 757077,
+          "like_count": 5794,
+          "quote_count": 25,
+          "reply_count": 49,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "私の人生のどん底は、ﾚｲﾌﾟされて堕ろして私の80万盗んだ虐待毒親から逃げてホームレスになって当時の彼氏に殴られながら体売って生きてたら親友が先に自殺しちゃった17,18歳かな❣️\n全部半年以内に起こって、神が私を殺そうとしてるんかと思った😂ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 137,
+          "like_count": 4103,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 742
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T14:39:58.000Z",
+        "description": "元風俗嬢が社会復帰を目指す🫠双極症･PTSD 5年選手🍀全肯定旦那と新婚生活💍柴犬飼いたい",
+        "id": "1572234064442322946",
+        "location": "私はプリンセス👸",
+        "name": "躁鬱みそ嬢🫶🏻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049138915022712832/9LUVyLds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4550,
+          "following_count": 655,
+          "like_count": 124857,
+          "listed_count": 21,
+          "media_count": 577,
+          "tweet_count": 13382
+        },
+        "url": "",
+        "username": "miso_lover_",
+        "verified": true
+      }
+    ]
+  }
+}

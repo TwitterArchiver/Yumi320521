@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2068360852940734956",
+    "created_at": "2026-06-20T17:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068383586823360945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1887148394176798720",
+          "start": 0,
+          "username": "huaandyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068383586823360945",
+    "in_reply_to_user_id": "1887148394176798720",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068360852940734956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaandyou 🫂…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2068360852940734956",
+        "created_at": "2026-06-20T17:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068383586823360945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887148394176798720",
+              "start": 0,
+              "username": "huaandyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068383586823360945",
+        "in_reply_to_user_id": "1887148394176798720",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068360852940734956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaandyou 🫂…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887148394176798720",
+        "conversation_id": "2068360852940734956",
+        "created_at": "2026-06-20T15:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068360852940734956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068360852940734956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在流泪因为根本没有人理我。呵呵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= ゆず 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "Yumi",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 125,
+          "like_count": 3750,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 676
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T14:37:05.000Z",
+        "description": "你好，我是华华09/生理女心理女\n友好的消息都会回复~ovo",
+        "id": "1887148394176798720",
+        "location": "🚪38仅好友位🚪52  仅开放朋友圈\n🚪188回复消息",
+        "name": "我一直哭",
+        "pinned_tweet_id": "2065108544270000565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057695977411158016/SXXwlBAc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 19,
+          "like_count": 918,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "huaandyou",
+        "verified": false
+      }
+    ]
+  }
+}

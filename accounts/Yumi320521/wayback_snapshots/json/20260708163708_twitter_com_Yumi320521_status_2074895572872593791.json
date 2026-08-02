@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2074828201743036748",
+    "created_at": "2026-07-08T16:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074895572872593791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2074884519790804992",
+          "start": 0,
+          "username": "SnkeSnke721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074895572872593791",
+    "in_reply_to_user_id": "2074884519790804992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074893554371919910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnkeSnke721 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2074828201743036748",
+        "created_at": "2026-07-08T16:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074895572872593791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2074884519790804992",
+              "start": 0,
+              "username": "SnkeSnke721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074895572872593791",
+        "in_reply_to_user_id": "2074884519790804992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074893554371919910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnkeSnke721 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074884519790804992",
+        "conversation_id": "2074828201743036748",
+        "created_at": "2026-07-08T16:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074893554371919910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074893554371919910",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074828201743036748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 说要短期安眠药 要唑批坦 说以前吃过 开得到的前提是你成年了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 144,
+          "like_count": 5391,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1267
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-08T15:54:07.000Z",
+        "description": "snke",
+        "id": "2074884519790804992",
+        "location": "昆明",
+        "name": "snke",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074885594895757312/ebyImWi__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "SnkeSnke721",
+        "verified": false
+      }
+    ]
+  }
+}

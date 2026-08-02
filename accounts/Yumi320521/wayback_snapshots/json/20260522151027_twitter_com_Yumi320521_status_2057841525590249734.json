@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057417197203718144"
+      ],
+      "media_source_tweet_id": [
+        "2057417212840009880"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2057841525590249734",
+    "created_at": "2026-05-22T15:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T16:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057841525590249734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1682432496171114496",
+          "start": 3,
+          "username": "bitchbaby8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vXLtvlsXPG",
+          "end": 42,
+          "expanded_url": "https://x.com/bitchbaby8964/status/2057417212840009880/photo/1",
+          "media_key": "3_2057417197203718144",
+          "start": 19,
+          "url": "https://t.co/vXLtvlsXPG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057841525590249734",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057417212840009880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bitchbaby8964: https://t.co/vXLtvlsXPG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2057417197203718144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1qCkobgAAE6X3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057417197203718144"
+          ],
+          "media_source_tweet_id": [
+            "2057417212840009880"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2057841525590249734",
+        "created_at": "2026-05-22T15:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057841525590249734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1682432496171114496",
+              "start": 3,
+              "username": "bitchbaby8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vXLtvlsXPG",
+              "end": 42,
+              "expanded_url": "https://x.com/bitchbaby8964/status/2057417212840009880/photo/1",
+              "media_key": "3_2057417197203718144",
+              "start": 19,
+              "url": "https://t.co/vXLtvlsXPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057841525590249734",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057417212840009880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bitchbaby8964: https://t.co/vXLtvlsXPG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057417197203718144"
+          ]
+        },
+        "author_id": "1682432496171114496",
+        "conversation_id": "2057417212840009880",
+        "created_at": "2026-05-21T11:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057417212840009880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vXLtvlsXPG",
+              "end": 23,
+              "expanded_url": "https://x.com/bitchbaby8964/status/2057417212840009880/photo/1",
+              "media_key": "3_2057417197203718144",
+              "start": 0,
+              "url": "https://t.co/vXLtvlsXPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057417212840009880",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 21564,
+          "like_count": 1754,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vXLtvlsXPG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残｜ISFP\n会发自拍和碎碎念 欢迎互fo哦",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 59,
+          "like_count": 1497,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 312
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T16:49:59.000Z",
+        "description": "Whiskey sore in your breath.",
+        "id": "1682432496171114496",
+        "location": "无门槛但支持私信投喂",
+        "name": "零糖美式",
+        "pinned_tweet_id": "2040287457904861318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040407785515724800/Djycmsu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 539,
+          "like_count": 35484,
+          "listed_count": 10,
+          "media_count": 1228,
+          "tweet_count": 13105
+        },
+        "username": "bitchbaby8964",
+        "verified": false
+      }
+    ]
+  }
+}

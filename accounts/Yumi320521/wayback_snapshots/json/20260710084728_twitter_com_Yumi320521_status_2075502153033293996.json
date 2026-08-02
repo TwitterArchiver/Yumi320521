@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2075215368767840474",
+    "created_at": "2026-07-10T08:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075502153033293996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1937427868826357762",
+          "start": 0,
+          "username": "miradreaamy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075502153033293996",
+    "in_reply_to_user_id": "1937427868826357762",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075215368767840474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miradreaamy 100kg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075214944090423296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyk_ycXgAAOHBr.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2075215368767840474",
+        "created_at": "2026-07-10T08:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075502153033293996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1937427868826357762",
+              "start": 0,
+              "username": "miradreaamy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075502153033293996",
+        "in_reply_to_user_id": "1937427868826357762",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075215368767840474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miradreaamy 100kg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075214944090423296"
+          ]
+        },
+        "author_id": "1937427868826357762",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075215368767840474",
+        "created_at": "2026-07-09T13:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075215368767840474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7DGpU1KAu5",
+              "end": 97,
+              "expanded_url": "https://x.com/miradreaamy/status/2075215368767840474/photo/1",
+              "media_key": "3_2075214944090423296",
+              "start": 74,
+              "url": "https://t.co/7DGpU1KAu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075215368767840474",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 879,
+          "impression_count": 2008809,
+          "like_count": 3829,
+          "quote_count": 128,
+          "reply_count": 12606,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "bunu çözersen, IQ seviyen ortalamanın üstündedir.\n\nShrek'in kilosu nedir? https://t.co/7DGpU1KAu5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 153,
+          "like_count": 5472,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1340
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T08:29:43.000Z",
+        "description": "Posting positive warm and art and viral content ...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/HWER0DDBKK"
+              }
+            ]
+          }
+        },
+        "id": "1937427868826357762",
+        "location": "İstanbul, Türkiye",
+        "name": "Mira",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050991924933226496/BfoEDBzV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15464,
+          "following_count": 0,
+          "like_count": 8356,
+          "listed_count": 30,
+          "media_count": 252,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/HWER0DDBKK",
+        "username": "miradreaamy",
+        "verified": true
+      }
+    ]
+  }
+}

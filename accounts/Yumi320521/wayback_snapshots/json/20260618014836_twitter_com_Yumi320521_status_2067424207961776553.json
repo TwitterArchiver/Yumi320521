@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067424199925506048",
+        "3_2067424199938023424"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2067424207961776553",
+    "created_at": "2026-06-18T01:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T02:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067424207961776553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rL1xoNAkIT",
+          "end": 36,
+          "expanded_url": "https://x.com/Yumi320521/status/2067424207961776553/photo/1",
+          "media_key": "3_2067424199925506048",
+          "start": 13,
+          "url": "https://t.co/rL1xoNAkIT"
+        },
+        {
+          "display_url": "pic.x.com/rL1xoNAkIT",
+          "end": 36,
+          "expanded_url": "https://x.com/Yumi320521/status/2067424207961776553/photo/1",
+          "media_key": "3_2067424199938023424",
+          "start": 13,
+          "url": "https://t.co/rL1xoNAkIT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067424207961776553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友送的投喂 好开心ww https://t.co/rL1xoNAkIT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1490,
+        "media_key": "3_2067424199925506048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLD3WyybIAADQQN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067424199938023424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLD3Wy1aIAAlz98.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067424199925506048",
+            "3_2067424199938023424"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2067424207961776553",
+        "created_at": "2026-06-18T01:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067424207961776553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rL1xoNAkIT",
+              "end": 36,
+              "expanded_url": "https://x.com/Yumi320521/status/2067424207961776553/photo/1",
+              "media_key": "3_2067424199925506048",
+              "start": 13,
+              "url": "https://t.co/rL1xoNAkIT"
+            },
+            {
+              "display_url": "pic.x.com/rL1xoNAkIT",
+              "end": 36,
+              "expanded_url": "https://x.com/Yumi320521/status/2067424207961776553/photo/1",
+              "media_key": "3_2067424199938023424",
+              "start": 13,
+              "url": "https://t.co/rL1xoNAkIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067424207961776553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友送的投喂 好开心ww https://t.co/rL1xoNAkIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 低浮上…\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067364552581459968/4rC0rSu3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 118,
+          "like_count": 3532,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 659
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

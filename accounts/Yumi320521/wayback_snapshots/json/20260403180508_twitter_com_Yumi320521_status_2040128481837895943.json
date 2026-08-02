@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032541626980347904"
+      ],
+      "media_source_tweet_id": [
+        "2032541633611444591"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2040128481837895943",
+    "created_at": "2026-04-03T18:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T19:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040128481837895943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1829229897195368455",
+          "start": 3,
+          "username": "OVOTVTOVO_3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7qnQj5pkNP",
+          "end": 59,
+          "expanded_url": "https://x.com/OVOTVTOVO_3/status/2032541633611444591/photo/1",
+          "media_key": "3_2032541626980347904",
+          "start": 36,
+          "url": "https://t.co/7qnQj5pkNP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040128481837895943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032541633611444591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OVOTVTOVO_3: 最害怕这种所谓的小蛋糕和少萝了😹😹😹 https://t.co/7qnQj5pkNP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032541626980347904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDUJ10NbsAAEUgJ.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032541626980347904"
+          ],
+          "media_source_tweet_id": [
+            "2032541633611444591"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2040128481837895943",
+        "created_at": "2026-04-03T18:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T19:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040128481837895943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1829229897195368455",
+              "start": 3,
+              "username": "OVOTVTOVO_3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qnQj5pkNP",
+              "end": 59,
+              "expanded_url": "https://x.com/OVOTVTOVO_3/status/2032541633611444591/photo/1",
+              "media_key": "3_2032541626980347904",
+              "start": 36,
+              "url": "https://t.co/7qnQj5pkNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040128481837895943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032541633611444591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OVOTVTOVO_3: 最害怕这种所谓的小蛋糕和少萝了😹😹😹 https://t.co/7qnQj5pkNP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032541626980347904"
+          ]
+        },
+        "author_id": "1829229897195368455",
+        "conversation_id": "2032541633611444591",
+        "created_at": "2026-03-13T19:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T20:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032541633611444591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qnQj5pkNP",
+              "end": 42,
+              "expanded_url": "https://x.com/OVOTVTOVO_3/status/2032541633611444591/photo/1",
+              "media_key": "3_2032541626980347904",
+              "start": 19,
+              "url": "https://t.co/7qnQj5pkNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032541633611444591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 294685,
+          "like_count": 1274,
+          "quote_count": 13,
+          "reply_count": 153,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "最害怕这种所谓的小蛋糕和少萝了😹😹😹 https://t.co/7qnQj5pkNP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "Yumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 31,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户2778（祺嘉玛学长）",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032517620172468227/XWboBXgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 68,
+          "like_count": 3148,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 4431
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "OVOTVTOVO_3",
+        "verified": false
+      }
+    ]
+  }
+}

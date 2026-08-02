@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2078494906495213580",
+    "created_at": "2026-07-19T20:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T21:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078938632988295230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1874445693424910336",
+          "start": 0,
+          "username": "yuelie0_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078938632988295230",
+    "in_reply_to_user_id": "1874445693424910336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078494906495213580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuelie0_0 好厉害！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2078494892146479104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhMF5Ha0AATSn8.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2078494906495213580",
+        "created_at": "2026-07-19T20:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078938632988295230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1874445693424910336",
+              "start": 0,
+              "username": "yuelie0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078938632988295230",
+        "in_reply_to_user_id": "1874445693424910336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078494906495213580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuelie0_0 好厉害！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078494892146479104"
+          ]
+        },
+        "author_id": "1874445693424910336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078494906495213580",
+        "created_at": "2026-07-18T14:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078494906495213580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NEJzvUM47e",
+              "end": 48,
+              "expanded_url": "https://x.com/yuelie0_0/status/2078494906495213580/photo/1",
+              "media_key": "3_2078494892146479104",
+              "start": 25,
+              "url": "https://t.co/NEJzvUM47e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078494906495213580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我的甲醛工作桌上吃搬家后这几个月第一次做的拉面 https://t.co/NEJzvUM47e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか🐈‍⬛🐾\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 158,
+          "like_count": 5790,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1495
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T13:21:03.000Z",
+        "description": "VO.SHAKUKIRU｜中国广州\n同擔同盤大歡迎\n@mam0_0fficialt 🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "mam0_0fficialt"
+              }
+            ]
+          }
+        },
+        "id": "1874445693424910336",
+        "name": "刖裂",
+        "pinned_tweet_id": "2062558578117054846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070613293128114176/966WsA1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 122,
+          "like_count": 5239,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 311
+        },
+        "url": "",
+        "username": "yuelie0_0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062034009300008960"
+      ],
+      "media_source_tweet_id": [
+        "2062034135338930305"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2062149317130170532",
+    "created_at": "2026-06-03T12:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062149317130170532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1697622035898433536",
+          "start": 3,
+          "username": "azuki_nene"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pEWeIpdwfN",
+          "end": 59,
+          "expanded_url": "https://x.com/azuki_nene/status/2062034135338930305/photo/1",
+          "media_key": "3_2062034009300008960",
+          "start": 36,
+          "url": "https://t.co/pEWeIpdwfN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062149317130170532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 902
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062034135338930305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azuki_nene: 台風6号の名前はチャンミーというらしい https://t.co/pEWeIpdwfN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 783,
+        "media_key": "3_2062034009300008960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3RAZ8aAAAgnUu.jpg",
+        "width": 1390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062034009300008960"
+          ],
+          "media_source_tweet_id": [
+            "2062034135338930305"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2062149317130170532",
+        "created_at": "2026-06-03T12:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062149317130170532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1697622035898433536",
+              "start": 3,
+              "username": "azuki_nene"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pEWeIpdwfN",
+              "end": 59,
+              "expanded_url": "https://x.com/azuki_nene/status/2062034135338930305/photo/1",
+              "media_key": "3_2062034009300008960",
+              "start": 36,
+              "url": "https://t.co/pEWeIpdwfN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062149317130170532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 902
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062034135338930305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azuki_nene: 台風6号の名前はチャンミーというらしい https://t.co/pEWeIpdwfN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062034009300008960"
+          ]
+        },
+        "author_id": "1697622035898433536",
+        "conversation_id": "2062034135338930305",
+        "created_at": "2026-06-03T04:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062034135338930305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pEWeIpdwfN",
+              "end": 43,
+              "expanded_url": "https://x.com/azuki_nene/status/2062034135338930305/photo/1",
+              "media_key": "3_2062034009300008960",
+              "start": 20,
+              "url": "https://t.co/pEWeIpdwfN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062034135338930305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 478,
+          "impression_count": 434701,
+          "like_count": 19943,
+          "quote_count": 37,
+          "reply_count": 84,
+          "retweet_count": 902
+        },
+        "reply_settings": "everyone",
+        "text": "台風6号の名前はチャンミーというらしい https://t.co/pEWeIpdwfN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 96,
+          "like_count": 2649,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 896
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T14:47:01.000Z",
+        "description": "🖋️みいちゃんと山田さん連載https://t.co/MPFaGxkLvJ📖本https://t.co/jp1JopdBba 🗞️FANBOX https://t.co/nMzHr1fpgs その他SNS、自家通販、連絡先はリンクに⇩",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "s.magazinepocket.com/ldg?t=2620",
+                "end": 37,
+                "expanded_url": "https://s.magazinepocket.com/ldg?t=2620",
+                "start": 14,
+                "url": "https://t.co/MPFaGxkLvJ"
+              },
+              {
+                "display_url": "amazon.co.jp/dp/4065431336/",
+                "end": 62,
+                "expanded_url": "https://www.amazon.co.jp/dp/4065431336/",
+                "start": 39,
+                "url": "https://t.co/jp1JopdBba"
+              },
+              {
+                "display_url": "azukinene.fanbox.cc",
+                "end": 95,
+                "expanded_url": "https://azukinene.fanbox.cc/",
+                "start": 72,
+                "url": "https://t.co/nMzHr1fpgs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/azukinene",
+                "end": 23,
+                "expanded_url": "https://lit.link/azukinene",
+                "start": 0,
+                "url": "https://t.co/JZJfikJs5n"
+              }
+            ]
+          }
+        },
+        "id": "1697622035898433536",
+        "location": "原稿作業中🖋️",
+        "name": "亜月ねね",
+        "pinned_tweet_id": "2058206122398617757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962034060513210368/tBhiJq9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195542,
+          "following_count": 144,
+          "like_count": 16407,
+          "listed_count": 532,
+          "media_count": 452,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/JZJfikJs5n",
+        "username": "azuki_nene",
+        "verified": true
+      }
+    ]
+  }
+}

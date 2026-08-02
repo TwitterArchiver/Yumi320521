@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2078939312318808505",
+    "created_at": "2026-07-19T20:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T21:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078939312318808505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2007439875726028800",
+          "start": 3,
+          "username": "Hakumei_reimaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078939312318808505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078431222041346478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hakumei_reimaku: 有过性行为：❌\n有过男朋友：❌\n有过女朋友：❌\n嗑过药：✅\n喝过酒：✅  \n挂过科：✅ \n去过夜店：❌  \n抽过烟/用过电子烟：✅\n吻过别人：❌\n被留堂：✅\n被课堂赶出去：✅\n考试作弊：❌\n偷偷溜出家门：✅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2078939312318808505",
+        "created_at": "2026-07-19T20:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078939312318808505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2007439875726028800",
+              "start": 3,
+              "username": "Hakumei_reimaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078939312318808505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078431222041346478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hakumei_reimaku: 有过性行为：❌\n有过男朋友：❌\n有过女朋友：❌\n嗑过药：✅\n喝过酒：✅  \n挂过科：✅ \n去过夜店：❌  \n抽过烟/用过电子烟：✅\n吻过别人：❌\n被留堂：✅\n被课堂赶出去：✅\n考试作弊：❌\n偷偷溜出家门：✅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007439875726028800",
+        "conversation_id": "2078431222041346478",
+        "created_at": "2026-07-18T10:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078431222041346478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078431222041346478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2701,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友：❌\n有过女朋友：❌\n嗑过药：✅\n喝过酒：✅  \n挂过科：✅ \n去过夜店：❌  \n抽过烟/用过电子烟：✅\n吻过别人：❌\n被留堂：✅\n被课堂赶出去：✅\n考试作弊：❌\n偷偷溜出家门：✅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか🐈‍⬛🐾\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 158,
+          "like_count": 5791,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1497
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T13:12:30.000Z",
+        "description": "出生日期09.30.2012/顺男友跨/🇬🇧English/🇭🇰粤语一点点/🇯🇵日语OK/坐标深圳偶尔香港 /overdose/不割手/轻焦/ADHD/舞萌DX14208/phigros 12.15/东方/贝斯手/vibe coding学习中/药理学也懂一点/逃生舱@hakumeireimaku_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 133,
+                "username": "hakumeireimaku_"
+              }
+            ]
+          }
+        },
+        "id": "2007439875726028800",
+        "location": "幻想乡",
+        "name": "博丽灵梦💊🍕",
+        "pinned_tweet_id": "2076257392166330538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853671457886208/RcGIFvmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 414,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "Hakumei_reimaku",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2050414977648120119",
+    "created_at": "2026-05-02T03:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T04:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050414977648120119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1894342873740709890",
+          "start": 3,
+          "username": "mi_e_n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050414977648120119",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050389292552458392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mi_e_n: ついに赤髪ネキ擁護の方が上回ってきてアツい\nやっぱその界隈のルール知らないで批判するの馬鹿だしな"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2050414977648120119",
+        "created_at": "2026-05-02T03:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T04:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050414977648120119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1894342873740709890",
+              "start": 3,
+              "username": "mi_e_n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050414977648120119",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050389292552458392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mi_e_n: ついに赤髪ネキ擁護の方が上回ってきてアツい\nやっぱその界隈のルール知らないで批判するの馬鹿だしな"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894342873740709890",
+        "conversation_id": "2050389292552458392",
+        "created_at": "2026-05-02T01:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T02:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050389292552458392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050389292552458392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 785,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ついに赤髪ネキ擁護の方が上回ってきてアツい\nやっぱその界隈のルール知らないで批判するの馬鹿だしな"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "茶柚/Yumi 16 153/73\n桃井爱莉｜同担拒否｜地雷系｜od\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 50,
+          "like_count": 826,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 130
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T11:05:30.000Z",
+        "description": "壁打ち お友達ください 無言フォロー失礼しまつ",
+        "id": "1894342873740709890",
+        "location": "夢ノ咲学院   宝塚大劇場",
+        "name": "フォロストラトス",
+        "pinned_tweet_id": "2042925071904444491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030108056252772352/BHN4TXd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 127,
+          "like_count": 120986,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 4504
+        },
+        "username": "mi_e_n",
+        "verified": false
+      }
+    ]
+  }
+}

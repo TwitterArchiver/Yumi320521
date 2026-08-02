@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058800186852602077",
+    "created_at": "2026-05-25T06:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T07:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058800186852602077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2000060779056492544",
+          "start": 3,
+          "username": "kakou0026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058800186852602077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058731850135421057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakou0026: ：男的一米八120斤都说瘦成杆了 怎么到了女孩一米六90斤你们说还能再减点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058800186852602077",
+        "created_at": "2026-05-25T06:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058800186852602077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2000060779056492544",
+              "start": 3,
+              "username": "kakou0026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058800186852602077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058731850135421057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kakou0026: ：男的一米八120斤都说瘦成杆了 怎么到了女孩一米六90斤你们说还能再减点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000060779056492544",
+        "conversation_id": "2058731850135421057",
+        "created_at": "2026-05-25T02:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058731850135421057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058731850135421057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 18574,
+          "like_count": 269,
+          "quote_count": 0,
+          "reply_count": 67,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "：男的一米八120斤都说瘦成杆了 怎么到了女孩一米六90斤你们说还能再减点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 68,
+          "like_count": 1726,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 457
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T04:30:32.000Z",
+        "description": "07｜女｜switch｜双｜单身｜ 回关看主页！｜匿名聊天💬 https://t.co/5EKyiiCQQf\n小号只过熟悉互关@Cocoa_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "Cocoa_0v0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/Kakou0026",
+                "end": 54,
+                "expanded_url": "https://tellonym.me/Kakou0026",
+                "start": 31,
+                "url": "https://t.co/5EKyiiCQQf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kakou36409",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kakou36409",
+                "start": 0,
+                "url": "https://t.co/HmMHXfIDkT"
+              }
+            ]
+          }
+        },
+        "id": "2000060779056492544",
+        "location": "这里是Kakou 喜欢你来＞_＜",
+        "name": "Kakou",
+        "pinned_tweet_id": "2052760634039873952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010569778847764480/DepEpZBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5286,
+          "following_count": 189,
+          "like_count": 5192,
+          "listed_count": 11,
+          "media_count": 359,
+          "tweet_count": 4273
+        },
+        "url": "https://t.co/HmMHXfIDkT",
+        "username": "kakou0026",
+        "verified": false
+      }
+    ]
+  }
+}

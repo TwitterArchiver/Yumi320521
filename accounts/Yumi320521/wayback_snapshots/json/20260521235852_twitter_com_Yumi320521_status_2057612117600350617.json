@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057417801489686528"
+      ],
+      "media_source_tweet_id": [
+        "2057417823782392152"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2057612117600350617",
+    "created_at": "2026-05-21T23:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T00:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057612117600350617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029564091237584896",
+          "start": 3,
+          "username": "hami00763"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PckYBSLMBX",
+          "end": 38,
+          "expanded_url": "https://x.com/hami00763/status/2057417823782392152/photo/1",
+          "media_key": "3_2057417801489686528",
+          "start": 15,
+          "url": "https://t.co/PckYBSLMBX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057612117600350617",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 603
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057417823782392152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hami00763: https://t.co/PckYBSLMBX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2057417801489686528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1qlvxboAAQCmn.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057417801489686528"
+          ],
+          "media_source_tweet_id": [
+            "2057417823782392152"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2057612117600350617",
+        "created_at": "2026-05-21T23:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T00:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057612117600350617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029564091237584896",
+              "start": 3,
+              "username": "hami00763"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PckYBSLMBX",
+              "end": 38,
+              "expanded_url": "https://x.com/hami00763/status/2057417823782392152/photo/1",
+              "media_key": "3_2057417801489686528",
+              "start": 15,
+              "url": "https://t.co/PckYBSLMBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057612117600350617",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 603
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057417823782392152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hami00763: https://t.co/PckYBSLMBX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057417801489686528"
+          ]
+        },
+        "author_id": "2029564091237584896",
+        "conversation_id": "2057417823782392152",
+        "created_at": "2026-05-21T11:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057417823782392152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PckYBSLMBX",
+              "end": 23,
+              "expanded_url": "https://x.com/hami00763/status/2057417823782392152/photo/1",
+              "media_key": "3_2057417801489686528",
+              "start": 0,
+              "url": "https://t.co/PckYBSLMBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057417823782392152",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 334,
+          "impression_count": 31623,
+          "like_count": 5233,
+          "quote_count": 7,
+          "reply_count": 8,
+          "retweet_count": 603
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PckYBSLMBX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残｜ISFP\n会发自拍和碎碎念 欢迎互fo哦",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 61,
+          "like_count": 1474,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 305
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T14:26:27.000Z",
+        "description": "@hami0076",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hami0076"
+              }
+            ]
+          }
+        },
+        "id": "2029564091237584896",
+        "name": "はみ3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056589765294903296/DzxKF9A4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 76,
+          "like_count": 734,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 248
+        },
+        "username": "hami00763",
+        "verified": false
+      }
+    ]
+  }
+}

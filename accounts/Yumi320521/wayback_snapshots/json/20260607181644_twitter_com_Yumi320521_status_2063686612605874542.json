@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063411047646830592",
+        "3_2063411047655182336"
+      ],
+      "media_source_tweet_id": [
+        "2063411052000518237",
+        "2063411052000518237"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1447981514357030912",
+          "name": "Ungirls"
+        }
+      },
+      {
+        "domain": {
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+          "id": "58",
+          "name": "Entertainment Personality"
+        },
+        "entity": {
+          "id": "1447981514357030912",
+          "name": "Ungirls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1447981514357030912",
+          "name": "Ungirls"
+        }
+      }
+    ],
+    "conversation_id": "2063686612605874542",
+    "created_at": "2026-06-07T18:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063686612605874542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1808120200296124418",
+          "start": 3,
+          "username": "tamika47488"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ivK6lAh7W1",
+          "end": 58,
+          "expanded_url": "https://x.com/tamika47488/status/2063411052000518237/photo/1",
+          "media_key": "3_2063411047646830592",
+          "start": 35,
+          "url": "https://t.co/ivK6lAh7W1"
+        },
+        {
+          "display_url": "pic.x.com/ivK6lAh7W1",
+          "end": 58,
+          "expanded_url": "https://x.com/tamika47488/status/2063411052000518237/photo/1",
+          "media_key": "3_2063411047655182336",
+          "start": 35,
+          "url": "https://t.co/ivK6lAh7W1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063686612605874542",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 451
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063411052000518237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tamika47488: アンガールズ田中スタイル良すぎるw https://t.co/ivK6lAh7W1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1343,
+        "media_key": "3_2063411047646830592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKK1alibIAA7vQC.jpg",
+        "width": 1052
+      },
+      {
+        "height": 1333,
+        "media_key": "3_2063411047655182336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKK1alkakAA7mwu.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063411047646830592",
+            "3_2063411047655182336"
+          ],
+          "media_source_tweet_id": [
+            "2063411052000518237",
+            "2063411052000518237"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1447981514357030912",
+              "name": "Ungirls"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "id": "1447981514357030912",
+              "name": "Ungirls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447981514357030912",
+              "name": "Ungirls"
+            }
+          }
+        ],
+        "conversation_id": "2063686612605874542",
+        "created_at": "2026-06-07T18:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063686612605874542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1808120200296124418",
+              "start": 3,
+              "username": "tamika47488"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ivK6lAh7W1",
+              "end": 58,
+              "expanded_url": "https://x.com/tamika47488/status/2063411052000518237/photo/1",
+              "media_key": "3_2063411047646830592",
+              "start": 35,
+              "url": "https://t.co/ivK6lAh7W1"
+            },
+            {
+              "display_url": "pic.x.com/ivK6lAh7W1",
+              "end": 58,
+              "expanded_url": "https://x.com/tamika47488/status/2063411052000518237/photo/1",
+              "media_key": "3_2063411047655182336",
+              "start": 35,
+              "url": "https://t.co/ivK6lAh7W1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063686612605874542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 451
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063411052000518237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tamika47488: アンガールズ田中スタイル良すぎるw https://t.co/ivK6lAh7W1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063411047646830592",
+            "3_2063411047655182336"
+          ]
+        },
+        "author_id": "1808120200296124418",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1447981514357030912",
+              "name": "Ungirls"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "id": "1447981514357030912",
+              "name": "Ungirls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447981514357030912",
+              "name": "Ungirls"
+            }
+          }
+        ],
+        "conversation_id": "2063411052000518237",
+        "created_at": "2026-06-07T00:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T01:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063411052000518237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ivK6lAh7W1",
+              "end": 41,
+              "expanded_url": "https://x.com/tamika47488/status/2063411052000518237/photo/1",
+              "media_key": "3_2063411047646830592",
+              "start": 18,
+              "url": "https://t.co/ivK6lAh7W1"
+            },
+            {
+              "display_url": "pic.x.com/ivK6lAh7W1",
+              "end": 41,
+              "expanded_url": "https://x.com/tamika47488/status/2063411052000518237/photo/1",
+              "media_key": "3_2063411047655182336",
+              "start": 18,
+              "url": "https://t.co/ivK6lAh7W1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063411052000518237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 537,
+          "impression_count": 1571625,
+          "like_count": 13745,
+          "quote_count": 81,
+          "reply_count": 155,
+          "retweet_count": 451
+        },
+        "reply_settings": "everyone",
+        "text": "アンガールズ田中スタイル良すぎるw https://t.co/ivK6lAh7W1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜视觉系｜量産型｜桃井愛莉\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 128,
+          "like_count": 2914,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 494
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T12:47:16.000Z",
+        "description": "",
+        "id": "1808120200296124418",
+        "name": "裏ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053109747902193664/0Eon14mq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15265,
+          "following_count": 3606,
+          "like_count": 1994,
+          "listed_count": 31,
+          "media_count": 280,
+          "tweet_count": 4812
+        },
+        "username": "tamika47488",
+        "verified": true
+      }
+    ]
+  }
+}

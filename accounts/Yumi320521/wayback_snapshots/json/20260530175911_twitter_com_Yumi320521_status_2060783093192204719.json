@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060626268559757375",
+    "created_at": "2026-05-30T17:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T18:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060783093192204719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1482321655225536515",
+          "start": 0,
+          "username": "Mrymyildiz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060783093192204719",
+    "in_reply_to_user_id": "1482321655225536515",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060626268559757375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mrymyildiz I have had it before. In China, we call it \"瘊子\". It is an infectious disease and a manifestation of low immunity. You can go to the hospital for liquid nitrogen freezing. Of course, you should also improve immunity. Don't move it often. It will be contagious."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1255,
+        "media_key": "3_2060626261802692609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjQqt2XMAEqtk0.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060626268559757375",
+        "created_at": "2026-05-30T17:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060783093192204719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1482321655225536515",
+              "start": 0,
+              "username": "Mrymyildiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060783093192204719",
+        "in_reply_to_user_id": "1482321655225536515",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060626268559757375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mrymyildiz I have had it before. In China, we call it \"瘊子\". It is an infectious disease and a manifestation of low immunity. You can go to the hospital for liquid nitrogen freezing. Of course, you should also improve immunity. Don't move it often. It will be contagious."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060626261802692609"
+          ]
+        },
+        "author_id": "1482321655225536515",
+        "conversation_id": "2060626268559757375",
+        "created_at": "2026-05-30T07:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060626268559757375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZSd75dQTY",
+              "end": 157,
+              "expanded_url": "https://x.com/Mrymyildiz/status/2060626268559757375/photo/1",
+              "media_key": "3_2060626261802692609",
+              "start": 134,
+              "url": "https://t.co/xZSd75dQTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060626268559757375",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 860,
+          "impression_count": 4677999,
+          "like_count": 2498,
+          "quote_count": 133,
+          "reply_count": 2310,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "Arkadaşlar parmağımda bu çıktı, ilk başta önemsemedim ama baktıkça korkmaya başladım. Daha önce başına gelen oldu mu, sizce bu nedir? https://t.co/xZSd75dQTY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060749668641079297/-Zh_qDzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 100,
+          "like_count": 2355,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 769
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T12:00:25.000Z",
+        "description": "✨ Reklam & İş Birliği İçin DM ✨\n💌 Marka iş birlikleri\n🎥 Tanıtım & Reels\n📩 Detaylı bilgi için DM’den ulaşabilirsiniz",
+        "id": "1482321655225536515",
+        "location": "İzmir, Türkiye",
+        "name": "𝓜𝓮𝓻𝔂𝓮𝓶✨",
+        "pinned_tweet_id": "2060764203472871918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049241725970096128/Y1HfaTd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16463,
+          "following_count": 5497,
+          "like_count": 92706,
+          "listed_count": 4,
+          "media_count": 107,
+          "tweet_count": 8247
+        },
+        "username": "Mrymyildiz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2065049490613207128",
+    "created_at": "2026-06-11T14:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065072574988701751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1771909316909604864",
+          "start": 0,
+          "username": "HTX_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065072574988701751",
+    "in_reply_to_user_id": "1771909316909604864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065052057590198279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HTX_QAQ 谢谢你🥺🥲💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2065049490613207128",
+        "created_at": "2026-06-11T14:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065072574988701751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1771909316909604864",
+              "start": 0,
+              "username": "HTX_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065072574988701751",
+        "in_reply_to_user_id": "1771909316909604864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065052057590198279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HTX_QAQ 谢谢你🥺🥲💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771909316909604864",
+        "conversation_id": "2065049490613207128",
+        "created_at": "2026-06-11T12:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065052057590198279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065052057590198279",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065049490613207128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 不会的 要天天开心哦🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 136,
+          "like_count": 3227,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 571
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T14:38:03.000Z",
+        "description": "",
+        "id": "1771909316909604864",
+        "name": "QAQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823299291697614848/qMjGAGYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 174,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 40
+        },
+        "username": "HTX_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

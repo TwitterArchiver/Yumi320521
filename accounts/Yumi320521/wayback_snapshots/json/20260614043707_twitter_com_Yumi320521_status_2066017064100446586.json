@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2066017064100446586",
+    "created_at": "2026-06-14T04:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066017064100446586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1927736722726551553",
+          "start": 3,
+          "username": "chodan0119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066017064100446586",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 308
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065744487964614817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chodan0119: 정신질환 가지고 있는 분들이 꼭한번씩은 들어봤을말들\n\n1.너만 힘든거 아니야\n2.나가서 운동을 해\n3.니가 마음만 먹으면 나아질 수 있잖아\n\n&gt;&gt;안타까운것은... 보통 이말은\n사람을 더 힘들게 한다눈것..\n\n((공감을못해…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2066017064100446586",
+        "created_at": "2026-06-14T04:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066017064100446586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1927736722726551553",
+              "start": 3,
+              "username": "chodan0119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066017064100446586",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 308
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065744487964614817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chodan0119: 정신질환 가지고 있는 분들이 꼭한번씩은 들어봤을말들\n\n1.너만 힘든거 아니야\n2.나가서 운동을 해\n3.니가 마음만 먹으면 나아질 수 있잖아\n\n&gt;&gt;안타까운것은... 보통 이말은\n사람을 더 힘들게 한다눈것..\n\n((공감을못해…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927736722726551553",
+        "conversation_id": "2065744487964614817",
+        "created_at": "2026-06-13T10:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065744487964614817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065744487964614817",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 25618,
+          "like_count": 1135,
+          "quote_count": 107,
+          "reply_count": 3,
+          "retweet_count": 308
+        },
+        "reply_settings": "everyone",
+        "text": "정신질환 가지고 있는 분들이 꼭한번씩은 들어봤을말들\n\n1.너만 힘든거 아니야\n2.나가서 운동을 해\n3.니가 마음만 먹으면 나아질 수 있잖아\n\n&gt;&gt;안타까운것은... 보통 이말은\n사람을 더 힘들게 한다눈것..\n\n((공감을못해주겠으면 가만히라도 있자제발\n힘든애들 한번더 죽이지말고;;))"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 137,
+          "like_count": 3361,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 603
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T14:40:35.000Z",
+        "description": "그 선택의 대가는 과연 무엇인가 | 초멘초뎀 0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/6728356950",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/6728356950",
+                "start": 0,
+                "url": "https://t.co/wLwhJAyaEZ"
+              }
+            ]
+          }
+        },
+        "id": "1927736722726551553",
+        "location": "사랑이 사랑해 💞",
+        "name": "초댠୨୧",
+        "pinned_tweet_id": "2065488746607427918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063338775988858880/Y0aL27CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2366,
+          "following_count": 1317,
+          "like_count": 45262,
+          "listed_count": 12,
+          "media_count": 51,
+          "tweet_count": 2492
+        },
+        "url": "https://t.co/wLwhJAyaEZ",
+        "username": "chodan0119",
+        "verified": false
+      }
+    ]
+  }
+}

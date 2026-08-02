@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074460155970998272"
+      ],
+      "media_source_tweet_id": [
+        "2074478548262560092"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2074827104861171787",
+    "created_at": "2026-07-08T12:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074827104861171787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2013492269832347648",
+          "start": 3,
+          "username": "hosinagisutera"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BuykuZKoaL",
+          "end": 53,
+          "expanded_url": "https://x.com/hosinagisutera/status/2074478548262560092/photo/1",
+          "media_key": "3_2074460155970998272",
+          "start": 30,
+          "url": "https://t.co/BuykuZKoaL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074827104861171787",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 831
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074478548262560092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hosinagisutera: 健全なイラストです https://t.co/BuykuZKoaL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2074460155970998272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMn2hVlaUAAEbot.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074460155970998272"
+          ],
+          "media_source_tweet_id": [
+            "2074478548262560092"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2074827104861171787",
+        "created_at": "2026-07-08T12:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074827104861171787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2013492269832347648",
+              "start": 3,
+              "username": "hosinagisutera"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuykuZKoaL",
+              "end": 53,
+              "expanded_url": "https://x.com/hosinagisutera/status/2074478548262560092/photo/1",
+              "media_key": "3_2074460155970998272",
+              "start": 30,
+              "url": "https://t.co/BuykuZKoaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074827104861171787",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 831
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074478548262560092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hosinagisutera: 健全なイラストです https://t.co/BuykuZKoaL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074460155970998272"
+          ]
+        },
+        "author_id": "2013492269832347648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2074478548262560092",
+        "created_at": "2026-07-07T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074478548262560092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuykuZKoaL",
+              "end": 33,
+              "expanded_url": "https://x.com/hosinagisutera/status/2074478548262560092/photo/1",
+              "media_key": "3_2074460155970998272",
+              "start": 10,
+              "url": "https://t.co/BuykuZKoaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074478548262560092",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4054,
+          "impression_count": 250090,
+          "like_count": 30870,
+          "quote_count": 9,
+          "reply_count": 26,
+          "retweet_count": 831
+        },
+        "reply_settings": "everyone",
+        "text": "健全なイラストです https://t.co/BuykuZKoaL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 145,
+          "like_count": 5378,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1254
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T06:02:39.000Z",
+        "description": "あなたの一番星になりたい✨かわいいきらきら新人△VTuber💙\n星凪ステラ（ほしなぎすてら）です⭐✨\nきらきらの時間をいっしょに過ごそうね💙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hosinagi_sutera",
+                "end": 23,
+                "expanded_url": "https://lit.link/hosinagi_sutera",
+                "start": 0,
+                "url": "https://t.co/knvjbLDUHu"
+              }
+            ]
+          }
+        },
+        "id": "2013492269832347648",
+        "name": "星凪ステラの隠し部屋",
+        "pinned_tweet_id": "2074691126183989758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022279491746504704/v918uD_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12929,
+          "following_count": 22,
+          "like_count": 109,
+          "listed_count": 14,
+          "media_count": 20,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/knvjbLDUHu",
+        "username": "hosinagisutera",
+        "verified": true
+      }
+    ]
+  }
+}

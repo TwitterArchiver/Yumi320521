@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2073716888346230983",
+    "created_at": "2026-07-05T10:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073716888346230983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "shennaichuan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073716888346230983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073484280102355231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shennaichuan_: 我手上的逼都是我花钱买刀片一刀一刀辛辛苦苦割出来的啊，流的是瓷爹的眼泪，流出来的血都是中国红，你说我你妈逼辱华了知道吗？你他妈个狗汉奸我代表毛主席捅死你全家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2073716888346230983",
+        "created_at": "2026-07-05T10:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073716888346230983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073716888346230983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073484280102355231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shennaichuan_: 我手上的逼都是我花钱买刀片一刀一刀辛辛苦苦割出来的啊，流的是瓷爹的眼泪，流出来的血都是中国红，你说我你妈逼辱华了知道吗？你他妈个狗汉奸我代表毛主席捅死你全家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2073484280102355231",
+        "created_at": "2026-07-04T19:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073484280102355231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073484280102355231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4167,
+          "like_count": 155,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我手上的逼都是我花钱买刀片一刀一刀辛辛苦苦割出来的啊，流的是瓷爹的眼泪，流出来的血都是中国红，你说我你妈逼辱华了知道吗？你他妈个狗汉奸我代表毛主席捅死你全家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 144,
+          "like_count": 5277,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1198
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4697,
+          "following_count": 570,
+          "like_count": 820,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 3009
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993542252497608704"
+      ],
+      "media_source_tweet_id": [
+        "1993542257870544933"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068673930639085809",
+    "created_at": "2026-06-21T12:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068673930639085809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1392452107450474499",
+          "start": 3,
+          "username": "_infinity_xxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8lG7KOU7HP",
+          "end": 65,
+          "expanded_url": "https://x.com/_infinity_xxx/status/1993542257870544933/photo/1",
+          "media_key": "3_1993542252497608704",
+          "start": 42,
+          "url": "https://t.co/8lG7KOU7HP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068673930639085809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993542257870544933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_infinity_xxx: 根性焼き今更流行り出したのきもいねー\nやめな https://t.co/8lG7KOU7HP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_1993542252497608704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6p8HczaIAAnx84.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993542252497608704"
+          ],
+          "media_source_tweet_id": [
+            "1993542257870544933"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068673930639085809",
+        "created_at": "2026-06-21T12:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068673930639085809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1392452107450474499",
+              "start": 3,
+              "username": "_infinity_xxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8lG7KOU7HP",
+              "end": 65,
+              "expanded_url": "https://x.com/_infinity_xxx/status/1993542257870544933/photo/1",
+              "media_key": "3_1993542252497608704",
+              "start": 42,
+              "url": "https://t.co/8lG7KOU7HP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068673930639085809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993542257870544933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_infinity_xxx: 根性焼き今更流行り出したのきもいねー\nやめな https://t.co/8lG7KOU7HP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993542252497608704"
+          ]
+        },
+        "author_id": "1392452107450474499",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1993542257870544933",
+        "created_at": "2025-11-26T04:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T05:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993542257870544933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8lG7KOU7HP",
+              "end": 46,
+              "expanded_url": "https://x.com/_infinity_xxx/status/1993542257870544933/photo/1",
+              "media_key": "3_1993542252497608704",
+              "start": 23,
+              "url": "https://t.co/8lG7KOU7HP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993542257870544933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 248,
+          "impression_count": 105676,
+          "like_count": 2348,
+          "quote_count": 121,
+          "reply_count": 61,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "根性焼き今更流行り出したのきもいねー\nやめな https://t.co/8lG7KOU7HP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 128,
+          "like_count": 3855,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 691
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T12:10:45.000Z",
+        "description": "PTSDでピーヒョロ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aomaru319",
+                "end": 23,
+                "expanded_url": "https://lit.link/aomaru319",
+                "start": 0,
+                "url": "https://t.co/qKE42KNqt3"
+              }
+            ]
+          }
+        },
+        "id": "1392452107450474499",
+        "location": "💤💤💤",
+        "name": "あおまる",
+        "pinned_tweet_id": "1988654113568215304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995115439303860224/VDH6R3Mf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16946,
+          "following_count": 283,
+          "like_count": 3235,
+          "listed_count": 40,
+          "media_count": 6653,
+          "tweet_count": 26358
+        },
+        "url": "https://t.co/qKE42KNqt3",
+        "username": "_infinity_xxx",
+        "verified": false
+      }
+    ]
+  }
+}

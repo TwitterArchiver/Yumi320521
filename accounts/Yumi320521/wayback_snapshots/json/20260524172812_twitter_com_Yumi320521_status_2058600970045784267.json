@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058600970045784267",
+    "created_at": "2026-05-24T17:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058600970045784267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1571848301594705927",
+          "start": 3,
+          "username": "TheB17w153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058600970045784267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058538374705909936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheB17w153: 禁毒本质上是利用人们对未知的恐惧来实现的\n对于物质了解得越清楚越会对其失去敬畏\n那么我猜医学生、日常服用药物的更容易滥用物质？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058600970045784267",
+        "created_at": "2026-05-24T17:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058600970045784267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1571848301594705927",
+              "start": 3,
+              "username": "TheB17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058600970045784267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058538374705909936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheB17w153: 禁毒本质上是利用人们对未知的恐惧来实现的\n对于物质了解得越清楚越会对其失去敬畏\n那么我猜医学生、日常服用药物的更容易滥用物质？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2058538374705909936",
+        "created_at": "2026-05-24T13:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058538374705909936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058538374705909936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 894,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "禁毒本质上是利用人们对未知的恐惧来实现的\n对于物质了解得越清楚越会对其失去敬畏\n那么我猜医学生、日常服用药物的更容易滥用物质？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 67,
+          "like_count": 1709,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 447
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "03 男 江苏\n@B17w153 原账号被shadowban了\n点关注解锁男大生活照🥵🥵🥵\n名字头 像不同只是为了方便自己区分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 179,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 118
+        },
+        "username": "TheB17w153",
+        "verified": false
+      }
+    ]
+  }
+}

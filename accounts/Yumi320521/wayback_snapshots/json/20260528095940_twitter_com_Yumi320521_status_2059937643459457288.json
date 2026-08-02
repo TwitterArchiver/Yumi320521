@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059937643459457288",
+    "created_at": "2026-05-28T09:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059937643459457288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kouuzyyy/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/kouuzyyy/status/2059868816536981697",
+          "start": 16,
+          "url": "https://t.co/yEQ1L809Ag"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059937643459457288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059868816536981697",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "地雷男情侣万岁^ ^BL真好吃 https://t.co/yEQ1L809Ag"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_2059867967043559428",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYfAJvWYAQh_VD.jpg",
+        "width": 653
+      },
+      {
+        "height": 740,
+        "media_key": "3_2059867993476116482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYfBsNXMAIIUkH.jpg",
+        "width": 683
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059937643459457288",
+        "created_at": "2026-05-28T09:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059937643459457288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kouuzyyy/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/kouuzyyy/status/2059868816536981697",
+              "start": 16,
+              "url": "https://t.co/yEQ1L809Ag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059937643459457288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059868816536981697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "地雷男情侣万岁^ ^BL真好吃 https://t.co/yEQ1L809Ag"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059867967043559428",
+            "3_2059867993476116482"
+          ]
+        },
+        "author_id": "1901365201976557568",
+        "conversation_id": "2059868816536981697",
+        "created_at": "2026-05-28T05:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059868816536981697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ed9S1YhT0F",
+              "end": 78,
+              "expanded_url": "https://x.com/kouuzyyy/status/2059868816536981697/photo/1",
+              "media_key": "3_2059867967043559428",
+              "start": 55,
+              "url": "https://t.co/ed9S1YhT0F"
+            },
+            {
+              "display_url": "pic.x.com/ed9S1YhT0F",
+              "end": 78,
+              "expanded_url": "https://x.com/kouuzyyy/status/2059868816536981697/photo/1",
+              "media_key": "3_2059867993476116482",
+              "start": 55,
+              "url": "https://t.co/ed9S1YhT0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059868816536981697",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 1807,
+          "like_count": 256,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "I hate them.. (  - _ - \" )\nany more recs like this plz https://t.co/ed9S1YhT0F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 80,
+          "like_count": 2027,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 681
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T20:09:32.000Z",
+        "description": "#フョードル  | alt: @vqicbh\nsubculture landmine (14)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "フョードル"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "vqicbh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kouuzyyy.straw.page",
+                "end": 23,
+                "expanded_url": "https://kouuzyyy.straw.page/",
+                "start": 0,
+                "url": "https://t.co/W0xHvDvmLz"
+              }
+            ]
+          }
+        },
+        "id": "1901365201976557568",
+        "location": "251 @snailf1sh ♡ ",
+        "name": "kou ( = ⩊ = )",
+        "pinned_tweet_id": "2052844194251579796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054264728399040512/elIK2eH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 414,
+          "like_count": 4275,
+          "listed_count": 4,
+          "media_count": 543,
+          "tweet_count": 9136
+        },
+        "url": "https://t.co/W0xHvDvmLz",
+        "username": "kouuzyyy",
+        "verified": false
+      }
+    ]
+  }
+}

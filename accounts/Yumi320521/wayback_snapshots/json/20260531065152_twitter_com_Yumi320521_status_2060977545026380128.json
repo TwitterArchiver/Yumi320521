@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060977545026380128",
+    "created_at": "2026-05-31T06:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T07:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060977545026380128"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060977545026380128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亲友凌晨三点左右睡的 到现在也没回我😿昨晚我还不小心给她发的了同担 不会是故意不回吧…对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060977545026380128",
+        "created_at": "2026-05-31T06:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060977545026380128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060977545026380128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲友凌晨三点左右睡的 到现在也没回我😿昨晚我还不小心给她发的了同担 不会是故意不回吧…对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 88,
+          "like_count": 2423,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 810
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

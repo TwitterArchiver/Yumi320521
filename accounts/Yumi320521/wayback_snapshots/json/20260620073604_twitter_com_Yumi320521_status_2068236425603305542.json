@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2068218834713239829",
+    "created_at": "2026-06-20T07:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068236425603305542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445681460497694723",
+          "start": 0,
+          "username": "cryptochenrui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068236425603305542",
+    "in_reply_to_user_id": "1445681460497694723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068235788261970127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cryptochenrui 谢谢^ ^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2068218834713239829",
+        "created_at": "2026-06-20T07:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068236425603305542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445681460497694723",
+              "start": 0,
+              "username": "cryptochenrui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068236425603305542",
+        "in_reply_to_user_id": "1445681460497694723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068235788261970127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cryptochenrui 谢谢^ ^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445681460497694723",
+        "conversation_id": "2068218834713239829",
+        "created_at": "2026-06-20T07:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068235788261970127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068235788261970127",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068218834713239829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 \n桃井愛莉一生のファン🍑💞\n152/35kg od｜自残｜vkei｜量产地雷 欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067554649486573568/_C_kHJDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 122,
+          "like_count": 3681,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 699
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-06T09:25:19.000Z",
+        "description": "这里是精神病和嗑药od频道.\n大学退学。intj。\n欢迎温良边缘人直fo。\n🈲过激健全基本盘男权女权。\n交易员频道是@chenrui2025",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "chenrui2025"
+              }
+            ]
+          }
+        },
+        "id": "1445681460497694723",
+        "location": "南昌",
+        "name": "relife栗子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034259613885796353/B-zmpLFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 256,
+          "like_count": 9499,
+          "listed_count": 5,
+          "media_count": 130,
+          "tweet_count": 2407
+        },
+        "url": "",
+        "username": "cryptochenrui",
+        "verified": false
+      }
+    ]
+  }
+}

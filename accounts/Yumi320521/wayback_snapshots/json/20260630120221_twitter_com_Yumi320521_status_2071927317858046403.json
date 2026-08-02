@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2071924930103710061",
+    "created_at": "2026-06-30T12:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071927317858046403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2069236851362418688",
+          "start": 0,
+          "username": "fangzhushijie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071927317858046403",
+    "in_reply_to_user_id": "2069236851362418688",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071925528991526999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fangzhushijie 😎🐈‍⬛🐾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2071924930103710061",
+        "created_at": "2026-06-30T12:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071927317858046403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2069236851362418688",
+              "start": 0,
+              "username": "fangzhushijie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071927317858046403",
+        "in_reply_to_user_id": "2069236851362418688",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071925528991526999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fangzhushijie 😎🐈‍⬛🐾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069236851362418688",
+        "conversation_id": "2071924930103710061",
+        "created_at": "2026-06-30T11:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071925528991526999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071925528991526999",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071924930103710061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 小猫别看是恶评😈😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 140,
+          "like_count": 4886,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1007
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T01:52:16.000Z",
+        "description": "aaa我是傻比，关注我的全部视奸",
+        "id": "2069236851362418688",
+        "location": "火星",
+        "name": "我是傻币",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071133035068792832/kx8nTGeU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 28,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "fangzhushijie",
+        "verified": false
+      }
+    ]
+  }
+}

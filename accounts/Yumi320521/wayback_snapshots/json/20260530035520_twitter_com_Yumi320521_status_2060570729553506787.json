@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060570729553506787",
+    "created_at": "2026-05-30T03:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T04:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060570729553506787"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060570729553506787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为我朋友是小遥梦 而且她俩太甜了 现在看到遥实也会选择性忽视了 朋友的力量（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060570729553506787",
+        "created_at": "2026-05-30T03:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060570729553506787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060570729553506787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为我朋友是小遥梦 而且她俩太甜了 现在看到遥实也会选择性忽视了 朋友的力量（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 94,
+          "like_count": 2227,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 738
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

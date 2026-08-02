@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2067676937007587501",
+    "created_at": "2026-06-19T13:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067968928618553672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1774278217253433344",
+          "start": 0,
+          "username": "7ksti4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067968928618553672",
+    "in_reply_to_user_id": "1774278217253433344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067968778311544986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7ksti4 小宝你说话好温柔🥺💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2067676937007587501",
+        "created_at": "2026-06-19T13:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067968928618553672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067968928618553672",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067968778311544986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 小宝你说话好温柔🥺💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067676937007587501",
+        "created_at": "2026-06-19T13:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067968778311544986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067968778311544986",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067968556281786459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 对呢！🥺害怕这样关系维持不了，不过也可以为下一次见面增加动力吧！☺️☺️贴贴呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 \n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067554649486573568/_C_kHJDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 121,
+          "like_count": 3643,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 677
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 374,
+          "like_count": 3969,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 210
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2051216186306904094",
+    "created_at": "2026-05-04T11:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T12:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051268828458570090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2025105825354977280",
+          "start": 0,
+          "username": "younichijou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051268828458570090",
+    "in_reply_to_user_id": "2025105825354977280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051216186306904094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@younichijou 衛生に注意するゆう☺️ 本当に可愛い"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2051216186306904094",
+        "created_at": "2026-05-04T11:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051268828458570090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025105825354977280",
+              "start": 0,
+              "username": "younichijou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051268828458570090",
+        "in_reply_to_user_id": "2025105825354977280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051216186306904094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@younichijou 衛生に注意するゆう☺️ 本当に可愛い"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025105825354977280",
+        "conversation_id": "2051216186306904094",
+        "created_at": "2026-05-04T08:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051216186306904094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051216186306904094",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12812,
+          "like_count": 403,
+          "quote_count": 4,
+          "reply_count": 26,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "歯磨きしてからライブしますわよ🦷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg\n桃井爱莉｜地雷系｜od｜自残\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 56,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 180
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T07:10:39.000Z",
+        "description": "緑川ゆうの日常アカウント【@0153_you】 たまにフォロバ中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2025105825354977280",
+        "name": "ゆうの日常🪽(ᜊ ･･ )ᜊ",
+        "pinned_tweet_id": "2025922085865058451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048779784688406528/K9yLLBuF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7309,
+          "following_count": 421,
+          "like_count": 1739,
+          "listed_count": 29,
+          "media_count": 74,
+          "tweet_count": 452
+        },
+        "username": "younichijou",
+        "verified": true
+      }
+    ]
+  }
+}

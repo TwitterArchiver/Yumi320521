@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060212573455503588",
+    "created_at": "2026-05-29T04:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060212573455503588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1892595590527377408",
+          "start": 3,
+          "username": "woshixiaoyu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060212573455503588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060061593795530818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woshixiaoyu123: 只要天气一热，我的100级抑郁症焦虑症双向情感障碍妄想症被害妄想症被爱妄想症多动自闭症Adhd精神分裂人格分裂边缘型人格障碍反社会人格创伤后应激障碍幽闭恐惧症暴躁症全部发作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060212573455503588",
+        "created_at": "2026-05-29T04:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060212573455503588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1892595590527377408",
+              "start": 3,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060212573455503588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060061593795530818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woshixiaoyu123: 只要天气一热，我的100级抑郁症焦虑症双向情感障碍妄想症被害妄想症被爱妄想症多动自闭症Adhd精神分裂人格分裂边缘型人格障碍反社会人格创伤后应激障碍幽闭恐惧症暴躁症全部发作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2060061593795530818",
+        "created_at": "2026-05-28T18:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060061593795530818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060061593795530818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3873,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "只要天气一热，我的100级抑郁症焦虑症双向情感障碍妄想症被害妄想症被爱妄想症多动自闭症Adhd精神分裂人格分裂边缘型人格障碍反社会人格创伤后应激障碍幽闭恐惧症暴躁症全部发作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 87,
+          "like_count": 2120,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 716
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "2046785857198477733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19335,
+          "following_count": 155,
+          "like_count": 388,
+          "listed_count": 20,
+          "media_count": 1745,
+          "tweet_count": 6450
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

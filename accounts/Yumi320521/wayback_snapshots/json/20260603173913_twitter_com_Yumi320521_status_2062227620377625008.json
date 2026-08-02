@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2062227620377625008",
+    "created_at": "2026-06-03T17:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062227620377625008"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062227620377625008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讨厌自己 脖子前倾骨盆前倾脊柱侧弯 生来就是卑躬屈膝的吧 老鼠一样的活着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2062227620377625008",
+        "created_at": "2026-06-03T17:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062227620377625008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062227620377625008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌自己 脖子前倾骨盆前倾脊柱侧弯 生来就是卑躬屈膝的吧 老鼠一样的活着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 柚子 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "Yuzumi",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062202271744901120/Mix4UWN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 96,
+          "like_count": 2654,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 906
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072550618196271104"
+      ],
+      "media_source_tweet_id": [
+        "2072560908543422467"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1412542101984710656",
+          "name": "Rainy season"
+        }
+      },
+      {
+        "domain": {
+          "description": "Weather-related topics like Boston weather or Earthquakes",
+          "id": "155",
+          "name": "Weather"
+        },
+        "entity": {
+          "id": "1412542101984710656",
+          "name": "Rainy season"
+        }
+      }
+    ],
+    "conversation_id": "2072603356993069335",
+    "created_at": "2026-07-02T08:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T09:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072603356993069335"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "プロセカ"
+        },
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "ふわぷち"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "梅雨"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1158668053183266816",
+          "start": 3,
+          "username": "pj_sekai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MUxzi46R8i",
+          "end": 65,
+          "expanded_url": "https://x.com/pj_sekai/status/2072560908543422467/photo/1",
+          "media_key": "3_2072550618196271104",
+          "start": 42,
+          "url": "https://t.co/MUxzi46R8i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072603356993069335",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4911
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072560908543422467",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pj_sekai: 雨の日のひととき☔️\n\n#プロセカ #ふわぷち #梅雨 https://t.co/MUxzi46R8i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2072550618196271104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMtznCa4AAbqy5.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072550618196271104"
+          ],
+          "media_source_tweet_id": [
+            "2072560908543422467"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          }
+        ],
+        "conversation_id": "2072603356993069335",
+        "created_at": "2026-07-02T08:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072603356993069335"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "プロセカ"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "ふわぷち"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "梅雨"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1158668053183266816",
+              "start": 3,
+              "username": "pj_sekai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MUxzi46R8i",
+              "end": 65,
+              "expanded_url": "https://x.com/pj_sekai/status/2072560908543422467/photo/1",
+              "media_key": "3_2072550618196271104",
+              "start": 42,
+              "url": "https://t.co/MUxzi46R8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072603356993069335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4911
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072560908543422467",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pj_sekai: 雨の日のひととき☔️\n\n#プロセカ #ふわぷち #梅雨 https://t.co/MUxzi46R8i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072550618196271104"
+          ]
+        },
+        "author_id": "1158668053183266816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          }
+        ],
+        "conversation_id": "2072560908543422467",
+        "created_at": "2026-07-02T06:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072560908543422467"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "プロセカ"
+            },
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "ふわぷち"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "梅雨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MUxzi46R8i",
+              "end": 51,
+              "expanded_url": "https://x.com/pj_sekai/status/2072560908543422467/photo/1",
+              "media_key": "3_2072550618196271104",
+              "start": 28,
+              "url": "https://t.co/MUxzi46R8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072560908543422467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 980,
+          "impression_count": 375686,
+          "like_count": 23986,
+          "quote_count": 607,
+          "reply_count": 130,
+          "retweet_count": 4911
+        },
+        "reply_settings": "everyone",
+        "text": "雨の日のひととき☔️\n\n#プロセカ #ふわぷち #梅雨 https://t.co/MUxzi46R8i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 140,
+          "like_count": 5040,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1079
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-06T09:16:05.000Z",
+        "description": "SEGA×Colorful Paletteが贈る、スマートフォンリズムゲーム #プロセカ 公式アカウント\nクリスタルをお得に買える公式ストアはこちら：https://t.co/zacMyTdlWW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "プロセカ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pjsekai.sega.jp/webstore",
+                "end": 98,
+                "expanded_url": "https://pjsekai.sega.jp/webstore",
+                "start": 75,
+                "url": "https://t.co/zacMyTdlWW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.adjust.com/iaq3ido",
+                "end": 23,
+                "expanded_url": "https://app.adjust.com/iaq3ido",
+                "start": 0,
+                "url": "https://t.co/joevC53VDM"
+              }
+            ]
+          }
+        },
+        "id": "1158668053183266816",
+        "name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク【プロセカ】",
+        "pinned_tweet_id": "1839874318832152732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854064399478398976/W-uuO8DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2305952,
+          "following_count": 621,
+          "like_count": 27,
+          "listed_count": 8893,
+          "media_count": 14381,
+          "tweet_count": 19480
+        },
+        "url": "https://t.co/joevC53VDM",
+        "username": "pj_sekai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2061851957434990997",
+    "created_at": "2026-06-02T18:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T19:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061872532559626254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874445693424910336",
+          "start": 0,
+          "username": "nosaki640495202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061872532559626254",
+    "in_reply_to_user_id": "1874445693424910336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061851957434990997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nosaki640495202 我草纯压榨啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2061851957434990997",
+        "created_at": "2026-06-02T18:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061872532559626254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874445693424910336",
+              "start": 0,
+              "username": "nosaki640495202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061872532559626254",
+        "in_reply_to_user_id": "1874445693424910336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061851957434990997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nosaki640495202 我草纯压榨啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874445693424910336",
+        "conversation_id": "2061851957434990997",
+        "created_at": "2026-06-02T16:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061851957434990997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061851957434990997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一场演出要去到另外一个城市，但是没有表演费，拍拍立得还要抽成百分之五十，没有酒店费，只报销排练和演出当天的路费，但是当天我来回一趟就要五个小时了，完全吃不消…酒店也不定一个，我演出前一天还在早上六点工作呢，怎么可能第二天就那么早起床坐两个半小时的车去演出，太灾难了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 94,
+          "like_count": 2602,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 888
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T13:21:03.000Z",
+        "description": "INFP｜坐标中国广州｜VO.SHAKUKIRU\n@mam0_0fficialt 🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "mam0_0fficialt"
+              }
+            ]
+          }
+        },
+        "id": "1874445693424910336",
+        "name": "刖裂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047883843043282944/6eXKwMgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 78,
+          "like_count": 3675,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 222
+        },
+        "username": "nosaki640495202",
+        "verified": false
+      }
+    ]
+  }
+}

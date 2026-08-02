@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2063598891707326645",
+    "created_at": "2026-06-07T15:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063638255925637193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1883062625812217856",
+          "start": 0,
+          "username": "BZena31198"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063638255925637193",
+    "in_reply_to_user_id": "1883062625812217856",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063598891707326645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BZena31198 6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2063598891707326645",
+        "created_at": "2026-06-07T15:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063638255925637193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1883062625812217856",
+              "start": 0,
+              "username": "BZena31198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063638255925637193",
+        "in_reply_to_user_id": "1883062625812217856",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063598891707326645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BZena31198 6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883062625812217856",
+        "conversation_id": "2063598891707326645",
+        "created_at": "2026-06-07T12:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063598891707326645"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063598891707326645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8344,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉，因为我意外怀孕，我爸和我妈又吵起来了，我爸认为是我妈没管好我，我妈认为自己每天又要上班又要做饭委屈的在哭，原本幸福的一家人都怪我这么不懂事，高中还剩一年，我一定要好好学习，考一个好大学，绝不再谈恋爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜视觉系｜量産型｜桃井愛莉\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 121,
+          "like_count": 2857,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 485
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T08:01:42.000Z",
+        "description": "高冷话痨王/只关注帅哥/158的小土豆/\n话搭子我会互fo，我还是学生我不线下望尊重！白天在上课放学会回消息，无聊可以找我唠嗑，其他就不多介绍了，以免喜欢上我～",
+        "id": "1883062625812217856",
+        "name": "小欣怡",
+        "pinned_tweet_id": "2061328416486617153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055067479396040704/PjB3G-Gf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12942,
+          "following_count": 3,
+          "like_count": 63,
+          "listed_count": 8,
+          "media_count": 52,
+          "tweet_count": 153
+        },
+        "username": "BZena31198",
+        "verified": false
+      }
+    ]
+  }
+}

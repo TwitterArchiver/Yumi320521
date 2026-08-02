@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042918427149651968"
+      ],
+      "media_source_tweet_id": [
+        "2042918498792526224"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2043179269141282909",
+    "created_at": "2026-04-12T04:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T05:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043179269141282909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1603306318139248640",
+          "start": 3,
+          "username": "yhbkqs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gmPxX7hs8O",
+          "end": 51,
+          "expanded_url": "https://x.com/yhbkqs/status/2042918498792526224/photo/1",
+          "media_key": "3_2042918427149651968",
+          "start": 28,
+          "url": "https://t.co/gmPxX7hs8O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043179269141282909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042918498792526224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yhbkqs: 当你意识到鸡的生长环境比你都好 https://t.co/gmPxX7hs8O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_2042918427149651968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnnfFNa0AAxMPv.png",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042918427149651968"
+          ],
+          "media_source_tweet_id": [
+            "2042918498792526224"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2043179269141282909",
+        "created_at": "2026-04-12T04:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043179269141282909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1603306318139248640",
+              "start": 3,
+              "username": "yhbkqs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gmPxX7hs8O",
+              "end": 51,
+              "expanded_url": "https://x.com/yhbkqs/status/2042918498792526224/photo/1",
+              "media_key": "3_2042918427149651968",
+              "start": 28,
+              "url": "https://t.co/gmPxX7hs8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043179269141282909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042918498792526224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yhbkqs: 当你意识到鸡的生长环境比你都好 https://t.co/gmPxX7hs8O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042918427149651968"
+          ]
+        },
+        "author_id": "1603306318139248640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042918498792526224",
+        "created_at": "2026-04-11T10:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042918498792526224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gmPxX7hs8O",
+              "end": 39,
+              "expanded_url": "https://x.com/yhbkqs/status/2042918498792526224/photo/1",
+              "media_key": "3_2042918427149651968",
+              "start": 16,
+              "url": "https://t.co/gmPxX7hs8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042918498792526224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 8113,
+          "like_count": 359,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "当你意识到鸡的生长环境比你都好 https://t.co/gmPxX7hs8O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 35,
+          "like_count": 462,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 55
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T08:30:27.000Z",
+        "description": "以知识交流分享为主，既有深度内容也有轻松内容，高信息密度",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nav.wangluobaozang.com",
+                "end": 23,
+                "expanded_url": "http://nav.wangluobaozang.com",
+                "start": 0,
+                "url": "https://t.co/lCCvjCqaKm"
+              }
+            ]
+          }
+        },
+        "id": "1603306318139248640",
+        "location": "California City, CA",
+        "name": "银河百科全书",
+        "pinned_tweet_id": "2022559329149403494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604029153988481025/4LhC3HBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14808,
+          "following_count": 809,
+          "like_count": 46,
+          "listed_count": 64,
+          "media_count": 897,
+          "tweet_count": 5448
+        },
+        "url": "https://t.co/lCCvjCqaKm",
+        "username": "yhbkqs",
+        "verified": true
+      }
+    ]
+  }
+}

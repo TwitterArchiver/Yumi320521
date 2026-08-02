@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2057435915912659455",
+    "created_at": "2026-05-21T12:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057435915912659455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gag1tdiucvpteo…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/gag1tdiucvpteok/status/2057387307821670900",
+          "start": 4,
+          "url": "https://t.co/vdPo1LYXsX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057435915912659455",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057387307821670900",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😿😭🥲 https://t.co/vdPo1LYXsX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1310,
+        "media_key": "3_2057387298749394944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1O2QNbsAAY84c.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2057435915912659455",
+        "created_at": "2026-05-21T12:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057435915912659455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gag1tdiucvpteo…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/gag1tdiucvpteok/status/2057387307821670900",
+              "start": 4,
+              "url": "https://t.co/vdPo1LYXsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057435915912659455",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057387307821670900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😿😭🥲 https://t.co/vdPo1LYXsX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057387298749394944"
+          ]
+        },
+        "author_id": "1377810827521196033",
+        "conversation_id": "2057387307821670900",
+        "created_at": "2026-05-21T09:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057387307821670900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iOMz2m8ltW",
+              "end": 23,
+              "expanded_url": "https://x.com/gAg1tDIUcvpTEOK/status/2057387307821670900/photo/1",
+              "media_key": "3_2057387298749394944",
+              "start": 0,
+              "url": "https://t.co/iOMz2m8ltW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057387307821670900",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 469,
+          "impression_count": 58553,
+          "like_count": 5658,
+          "quote_count": 154,
+          "reply_count": 0,
+          "retweet_count": 750
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iOMz2m8ltW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n好累…",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 59,
+          "like_count": 1450,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 295
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-02T02:31:26.000Z",
+        "description": "成人済",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/v91d9iggowf2i5…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/v91d9iggowf2i5f?t=UbcSVS&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/bdX0MuPzAQ"
+              }
+            ]
+          }
+        },
+        "id": "1377810827521196033",
+        "name": "巡游",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637042529299492866/5ppBRf-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9860,
+          "following_count": 627,
+          "like_count": 14332,
+          "listed_count": 27,
+          "media_count": 103,
+          "tweet_count": 440
+        },
+        "url": "https://t.co/bdX0MuPzAQ",
+        "username": "gAg1tDIUcvpTEOK",
+        "verified": false
+      }
+    ]
+  }
+}

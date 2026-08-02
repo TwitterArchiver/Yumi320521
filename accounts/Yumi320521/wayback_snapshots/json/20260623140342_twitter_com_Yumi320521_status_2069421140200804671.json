@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069421140200804671",
+    "created_at": "2026-06-23T14:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069421140200804671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2031345771254255616",
+          "start": 3,
+          "username": "homesick_swm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069421140200804671",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2844
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069068143759360244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @homesick_swm: 진짜안살고싶다시발"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069421140200804671",
+        "created_at": "2026-06-23T14:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069421140200804671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2031345771254255616",
+              "start": 3,
+              "username": "homesick_swm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069421140200804671",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2844
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069068143759360244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @homesick_swm: 진짜안살고싶다시발"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031345771254255616",
+        "conversation_id": "2069068143759360244",
+        "created_at": "2026-06-22T14:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069068143759360244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069068143759360244",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 184022,
+          "like_count": 6917,
+          "quote_count": 67,
+          "reply_count": 16,
+          "retweet_count": 2844
+        },
+        "reply_settings": "everyone",
+        "text": "진짜안살고싶다시발"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 138,
+          "like_count": 4375,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 796
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T12:25:56.000Z",
+        "description": "도!망!가!자!도!피!하!자!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/homesick_swm",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/homesick_swm",
+                "start": 0,
+                "url": "https://t.co/FwZpHo4hJg"
+              }
+            ]
+          }
+        },
+        "id": "2031345771254255616",
+        "location": "썅노무시끼",
+        "name": "썅끼",
+        "pinned_tweet_id": "2043155358252933245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053401887832203264/qNTF4THN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2832,
+          "following_count": 94,
+          "like_count": 8676,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 1093
+        },
+        "url": "https://t.co/FwZpHo4hJg",
+        "username": "homesick_swm",
+        "verified": false
+      }
+    ]
+  }
+}

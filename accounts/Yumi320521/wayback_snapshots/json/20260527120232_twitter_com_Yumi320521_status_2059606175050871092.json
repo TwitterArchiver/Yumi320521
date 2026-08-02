@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059467774028845056"
+      ],
+      "media_source_tweet_id": [
+        "2059467779250802786"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059606175050871092",
+    "created_at": "2026-05-27T12:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059606175050871092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2004386673057218560",
+          "start": 3,
+          "username": "ai_shizu_lover"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Ihg8le70K",
+          "end": 106,
+          "expanded_url": "https://x.com/ai_shizu_lover/status/2059467779250802786/photo/1",
+          "media_key": "3_2059467774028845056",
+          "start": 83,
+          "url": "https://t.co/4Ihg8le70K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059606175050871092",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059467779250802786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ai_shizu_lover: ୨୧‥∵‥‥∵‥‥∵‥‥∵‥‥∵‥‥∵‥୨୧\n\n今日のイレヴンス🍑 ̖́-︎\n\n୨୧‥∵‥‥∵‥‥∵‥‥∵‥‥∵‥‥∵‥୨୧ https://t.co/4Ihg8le70K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1253,
+        "media_key": "3_2059467774028845056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSzB2lakAAyycE.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059467774028845056"
+          ],
+          "media_source_tweet_id": [
+            "2059467779250802786"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059606175050871092",
+        "created_at": "2026-05-27T12:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059606175050871092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2004386673057218560",
+              "start": 3,
+              "username": "ai_shizu_lover"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Ihg8le70K",
+              "end": 106,
+              "expanded_url": "https://x.com/ai_shizu_lover/status/2059467779250802786/photo/1",
+              "media_key": "3_2059467774028845056",
+              "start": 83,
+              "url": "https://t.co/4Ihg8le70K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059606175050871092",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059467779250802786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ai_shizu_lover: ୨୧‥∵‥‥∵‥‥∵‥‥∵‥‥∵‥‥∵‥୨୧\n\n今日のイレヴンス🍑 ̖́-︎\n\n୨୧‥∵‥‥∵‥‥∵‥‥∵‥‥∵‥‥∵‥୨୧ https://t.co/4Ihg8le70K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059467774028845056"
+          ]
+        },
+        "author_id": "2004386673057218560",
+        "conversation_id": "2059467779250802786",
+        "created_at": "2026-05-27T02:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059467779250802786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Ihg8le70K",
+              "end": 86,
+              "expanded_url": "https://x.com/ai_shizu_lover/status/2059467779250802786/photo/1",
+              "media_key": "3_2059467774028845056",
+              "start": 63,
+              "url": "https://t.co/4Ihg8le70K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059467779250802786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 9801,
+          "like_count": 842,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "୨୧‥∵‥‥∵‥‥∵‥‥∵‥‥∵‥‥∵‥୨୧\n\n今日のイレヴンス🍑 ̖́-︎\n\n୨୧‥∵‥‥∵‥‥∵‥‥∵‥‥∵‥‥∵‥୨୧ https://t.co/4Ihg8le70K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 74,
+          "like_count": 1877,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 597
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T03:00:10.000Z",
+        "description": "18↑¦最推し🍑¦二推し💧¦リアイベ参加¦無言フォロー✘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/isimafu",
+                "end": 23,
+                "expanded_url": "https://lit.link/isimafu",
+                "start": 0,
+                "url": "https://t.co/JlSQrGz677"
+              }
+            ]
+          }
+        },
+        "id": "2004386673057218560",
+        "location": "私の心はイレヴンス",
+        "name": "さっちゃん@イレヴンスガチ勢",
+        "pinned_tweet_id": "2058536521452699880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056149703973335040/w6kECzH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 138,
+          "like_count": 16010,
+          "listed_count": 15,
+          "media_count": 596,
+          "tweet_count": 7097
+        },
+        "url": "https://t.co/JlSQrGz677",
+        "username": "ai_shizu_lover",
+        "verified": false
+      }
+    ]
+  }
+}

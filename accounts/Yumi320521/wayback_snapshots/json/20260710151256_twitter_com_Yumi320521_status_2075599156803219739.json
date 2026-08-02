@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075599142697758720"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2075599156803219739",
+    "created_at": "2026-07-10T15:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T16:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075599156803219739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cs0HDHgbRU",
+          "end": 45,
+          "expanded_url": "https://x.com/Yumi320521/status/2075599156803219739/photo/1",
+          "media_key": "3_2075599142697758720",
+          "start": 22,
+          "url": "https://t.co/cs0HDHgbRU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075599156803219739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "割了朋友的名字 下一次试试真皮永远的伤疤！ https://t.co/cs0HDHgbRU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075599142697758720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4CbFya8AA8Q20.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075599142697758720"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2075599156803219739",
+        "created_at": "2026-07-10T15:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075599156803219739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cs0HDHgbRU",
+              "end": 45,
+              "expanded_url": "https://x.com/Yumi320521/status/2075599156803219739/photo/1",
+              "media_key": "3_2075599142697758720",
+              "start": 22,
+              "url": "https://t.co/cs0HDHgbRU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075599156803219739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "割了朋友的名字 下一次试试真皮永远的伤疤！ https://t.co/cs0HDHgbRU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 153,
+          "like_count": 5471,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1342
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

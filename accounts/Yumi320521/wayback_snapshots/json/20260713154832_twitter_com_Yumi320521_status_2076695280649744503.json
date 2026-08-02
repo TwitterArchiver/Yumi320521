@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2076662945258648019",
+    "created_at": "2026-07-13T15:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076695280649744503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1771909316909604864",
+          "start": 0,
+          "username": "HTX_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076695280649744503",
+    "in_reply_to_user_id": "1771909316909604864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076663965917294872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HTX_QAQ pr多少蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2076662945258648019",
+        "created_at": "2026-07-13T15:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076695280649744503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1771909316909604864",
+              "start": 0,
+              "username": "HTX_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076695280649744503",
+        "in_reply_to_user_id": "1771909316909604864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076663965917294872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HTX_QAQ pr多少蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771909316909604864",
+        "conversation_id": "2076662945258648019",
+        "created_at": "2026-07-13T13:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076663965917294872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076663965917294872",
+        "in_reply_to_user_id": "1771909316909604864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076662945258648019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "买pr 右美找我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか🐈‍⬛🐾\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 158,
+          "like_count": 5653,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1438
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T14:38:03.000Z",
+        "description": "07 重抑重焦｜oder｜是个小笨蛋｜🈲政｜互fo｜无雷放心食用｜看心情的药代",
+        "id": "1771909316909604864",
+        "name": "QAQ🍥💻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823299291697614848/qMjGAGYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 355,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "HTX_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

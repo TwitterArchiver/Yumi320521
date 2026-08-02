@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068644845632229376"
+      ],
+      "media_source_tweet_id": [
+        "2068644852481601887"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069003936783282464",
+    "created_at": "2026-06-22T10:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069003936783282464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1940494641759158272",
+          "start": 3,
+          "username": "p1zyi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4hjymX0tuj",
+          "end": 40,
+          "expanded_url": "https://x.com/p1zyi/status/2068644852481601887/photo/1",
+          "media_key": "3_2068644845632229376",
+          "start": 17,
+          "url": "https://t.co/4hjymX0tuj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069003936783282464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068644852481601887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @p1zyi: すきかなー https://t.co/4hjymX0tuj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068644845632229376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVNhuZaEAAh6xK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068644845632229376"
+          ],
+          "media_source_tweet_id": [
+            "2068644852481601887"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069003936783282464",
+        "created_at": "2026-06-22T10:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069003936783282464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1940494641759158272",
+              "start": 3,
+              "username": "p1zyi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4hjymX0tuj",
+              "end": 40,
+              "expanded_url": "https://x.com/p1zyi/status/2068644852481601887/photo/1",
+              "media_key": "3_2068644845632229376",
+              "start": 17,
+              "url": "https://t.co/4hjymX0tuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069003936783282464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068644852481601887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @p1zyi: すきかなー https://t.co/4hjymX0tuj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068644845632229376"
+          ]
+        },
+        "author_id": "1940494641759158272",
+        "conversation_id": "2068644852481601887",
+        "created_at": "2026-06-21T10:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068644852481601887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4hjymX0tuj",
+              "end": 29,
+              "expanded_url": "https://x.com/p1zyi/status/2068644852481601887/photo/1",
+              "media_key": "3_2068644845632229376",
+              "start": 6,
+              "url": "https://t.co/4hjymX0tuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068644852481601887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 17440,
+          "like_count": 1691,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "すきかなー https://t.co/4hjymX0tuj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 132,
+          "like_count": 3974,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 708
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T19:35:59.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/p1zyi",
+                "end": 23,
+                "expanded_url": "https://lit.link/p1zyi",
+                "start": 0,
+                "url": "https://t.co/1OdA2u7hKM"
+              }
+            ]
+          }
+        },
+        "id": "1940494641759158272",
+        "name": "♩",
+        "pinned_tweet_id": "2067548553426440336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061257742699147264/LOTAPJaS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 5,
+          "like_count": 171,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/1OdA2u7hKM",
+        "username": "p1zyi",
+        "verified": false
+      }
+    ]
+  }
+}

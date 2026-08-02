@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2068696076715180353",
+    "created_at": "2026-06-22T09:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068990339931947208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2068288616527450112",
+          "start": 0,
+          "username": "Izumiii1122_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068990339931947208",
+    "in_reply_to_user_id": "2068288616527450112",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068705058716524849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Izumiii1122_ 🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2068696076715180353",
+        "created_at": "2026-06-22T09:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068990339931947208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2068288616527450112",
+              "start": 0,
+              "username": "Izumiii1122_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068990339931947208",
+        "in_reply_to_user_id": "2068288616527450112",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068705058716524849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Izumiii1122_ 🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068288616527450112",
+        "conversation_id": "2068696076715180353",
+        "created_at": "2026-06-21T14:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068705058716524849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068705058716524849",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068696076715180353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 我吃一口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 131,
+          "like_count": 3926,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 702
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T11:06:47.000Z",
+        "description": "",
+        "id": "2068288616527450112",
+        "name": "いずみ♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068290048668389376/WPJVfpKS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 26,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "Izumiii1122_",
+        "verified": false
+      }
+    ]
+  }
+}

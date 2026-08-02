@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066175321360265216"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2066175326074638551",
+    "created_at": "2026-06-14T15:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066175326074638551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EEREw8zq44",
+          "end": 29,
+          "expanded_url": "https://x.com/Yumi320521/status/2066175326074638551/photo/1",
+          "media_key": "3_2066175321360265216",
+          "start": 6,
+          "url": "https://t.co/EEREw8zq44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066175326074638551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我来乞讨了 https://t.co/EEREw8zq44"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2066175321360265216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyHgflbcAAzTmk.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066175321360265216"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2066175326074638551",
+        "created_at": "2026-06-14T15:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066175326074638551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EEREw8zq44",
+              "end": 29,
+              "expanded_url": "https://x.com/Yumi320521/status/2066175326074638551/photo/1",
+              "media_key": "3_2066175321360265216",
+              "start": 6,
+              "url": "https://t.co/EEREw8zq44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066175326074638551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我来乞讨了 https://t.co/EEREw8zq44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 138,
+          "like_count": 3376,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 613
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

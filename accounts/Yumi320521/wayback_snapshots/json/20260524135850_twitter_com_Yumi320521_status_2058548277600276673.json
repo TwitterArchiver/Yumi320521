@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058548263926820864",
+        "3_2058548265004740608",
+        "3_2058548264904105985",
+        "3_2058548263947833344"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058548277600276673",
+    "created_at": "2026-05-24T13:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058548277600276673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0COQAFoF5U",
+          "end": 59,
+          "expanded_url": "https://x.com/Yumi320521/status/2058548277600276673/photo/1",
+          "media_key": "3_2058548263926820864",
+          "start": 36,
+          "url": "https://t.co/0COQAFoF5U"
+        },
+        {
+          "display_url": "pic.x.com/0COQAFoF5U",
+          "end": 59,
+          "expanded_url": "https://x.com/Yumi320521/status/2058548277600276673/photo/1",
+          "media_key": "3_2058548265004740608",
+          "start": 36,
+          "url": "https://t.co/0COQAFoF5U"
+        },
+        {
+          "display_url": "pic.x.com/0COQAFoF5U",
+          "end": 59,
+          "expanded_url": "https://x.com/Yumi320521/status/2058548277600276673/photo/1",
+          "media_key": "3_2058548264904105985",
+          "start": 36,
+          "url": "https://t.co/0COQAFoF5U"
+        },
+        {
+          "display_url": "pic.x.com/0COQAFoF5U",
+          "end": 59,
+          "expanded_url": "https://x.com/Yumi320521/status/2058548277600276673/photo/1",
+          "media_key": "3_2058548263947833344",
+          "start": 36,
+          "url": "https://t.co/0COQAFoF5U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058548277600276673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "窝是新号主奶糖鸭🍬 原号主是窝姐姐她去上大学了鸭 小仙女们请多指教🌚✨ https://t.co/0COQAFoF5U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 714,
+        "media_key": "3_2058548263926820864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFuvUha8AAZzcs.jpg",
+        "width": 720
+      },
+      {
+        "height": 1070,
+        "media_key": "3_2058548265004740608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFuvYiasAA4bnw.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1230,
+        "media_key": "3_2058548264904105985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFuvYKbIAEleZR.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1250,
+        "media_key": "3_2058548263947833344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFuvUmbkAAkZWD.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058548263926820864",
+            "3_2058548265004740608",
+            "3_2058548264904105985",
+            "3_2058548263947833344"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058548277600276673",
+        "created_at": "2026-05-24T13:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058548277600276673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0COQAFoF5U",
+              "end": 59,
+              "expanded_url": "https://x.com/Yumi320521/status/2058548277600276673/photo/1",
+              "media_key": "3_2058548263926820864",
+              "start": 36,
+              "url": "https://t.co/0COQAFoF5U"
+            },
+            {
+              "display_url": "pic.x.com/0COQAFoF5U",
+              "end": 59,
+              "expanded_url": "https://x.com/Yumi320521/status/2058548277600276673/photo/1",
+              "media_key": "3_2058548265004740608",
+              "start": 36,
+              "url": "https://t.co/0COQAFoF5U"
+            },
+            {
+              "display_url": "pic.x.com/0COQAFoF5U",
+              "end": 59,
+              "expanded_url": "https://x.com/Yumi320521/status/2058548277600276673/photo/1",
+              "media_key": "3_2058548264904105985",
+              "start": 36,
+              "url": "https://t.co/0COQAFoF5U"
+            },
+            {
+              "display_url": "pic.x.com/0COQAFoF5U",
+              "end": 59,
+              "expanded_url": "https://x.com/Yumi320521/status/2058548277600276673/photo/1",
+              "media_key": "3_2058548263947833344",
+              "start": 36,
+              "url": "https://t.co/0COQAFoF5U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058548277600276673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "窝是新号主奶糖鸭🍬 原号主是窝姐姐她去上大学了鸭 小仙女们请多指教🌚✨ https://t.co/0COQAFoF5U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 67,
+          "like_count": 1685,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 432
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

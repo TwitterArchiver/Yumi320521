@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049403182661705728"
+      ],
+      "media_source_tweet_id": [
+        "2049403406507479295"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2049778257776828597",
+    "created_at": "2026-04-30T09:09:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T10:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049778257776828597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1719005837941956608",
+          "start": 3,
+          "username": "I_am_otaku_826"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6XrU2tNwAF",
+          "end": 67,
+          "expanded_url": "https://x.com/I_am_otaku_826/status/2049403406507479295/video/1",
+          "media_key": "13_2049403182661705728",
+          "start": 44,
+          "url": "https://t.co/6XrU2tNwAF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049778257776828597",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049403406507479295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @I_am_otaku_826: 歌舞伎町いったらやべぇ集団がいたんだけどwww https://t.co/6XrU2tNwAF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31691,
+        "height": 720,
+        "media_key": "13_2049403182661705728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049403182661705728/img/_ghOhnWWNoqey1uA.jpg",
+        "public_metrics": {
+          "view_count": 26427
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049403182661705728/vid/avc1/480x270/CBwUhztBxS55BQQo.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049403182661705728/vid/avc1/640x360/y1omnu_med4cOQGO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049403182661705728/vid/avc1/1280x720/gAl9YL25BiavyadK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049403182661705728/pl/O_kNpFv6_BDh_Qva.m3u8?v=f42"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049403182661705728"
+          ],
+          "media_source_tweet_id": [
+            "2049403406507479295"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2049778257776828597",
+        "created_at": "2026-04-30T09:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049778257776828597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1719005837941956608",
+              "start": 3,
+              "username": "I_am_otaku_826"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6XrU2tNwAF",
+              "end": 67,
+              "expanded_url": "https://x.com/I_am_otaku_826/status/2049403406507479295/video/1",
+              "media_key": "13_2049403182661705728",
+              "start": 44,
+              "url": "https://t.co/6XrU2tNwAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049778257776828597",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049403406507479295",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @I_am_otaku_826: 歌舞伎町いったらやべぇ集団がいたんだけどwww https://t.co/6XrU2tNwAF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049403182661705728"
+          ]
+        },
+        "author_id": "1719005837941956608",
+        "conversation_id": "2049403406507479295",
+        "created_at": "2026-04-29T08:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049403406507479295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6XrU2tNwAF",
+              "end": 47,
+              "expanded_url": "https://x.com/I_am_otaku_826/status/2049403406507479295/video/1",
+              "media_key": "13_2049403182661705728",
+              "start": 24,
+              "url": "https://t.co/6XrU2tNwAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049403406507479295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 62236,
+          "like_count": 907,
+          "quote_count": 29,
+          "reply_count": 5,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "歌舞伎町いったらやべぇ集団がいたんだけどwww https://t.co/6XrU2tNwAF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "茶柚/Yumi 16 153/73\n桃井爱莉｜同担拒否｜地雷系｜od\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049428958475862016/-MBbrvme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 43,
+          "like_count": 719,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 109
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T14:58:39.000Z",
+        "description": "本命の為に生きてやるさ。/雑多趣味&ネタ垢/誤算▶︎2024.12.7〜🔰/一派/バンドリ(RASとMujika)/甘い暴力/シール交換します？👀/フォローどぞ/TLやかましくてすんません🙏💦たまに️🗝かけるかも/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/watashiha_otak…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/watashiha_otakudeath?igsh=MjFtbGlrZzF5aW5w&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/Do1wlZJ7lv"
+              }
+            ]
+          }
+        },
+        "id": "1719005837941956608",
+        "location": "めんたいこの県/アイコンは名古屋の友人から",
+        "name": "あいりす🧌🪽",
+        "pinned_tweet_id": "2049403406507479295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039234882925408256/WO6fQ6Dn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 460,
+          "like_count": 25797,
+          "listed_count": 2,
+          "media_count": 983,
+          "tweet_count": 11975
+        },
+        "url": "https://t.co/Do1wlZJ7lv",
+        "username": "I_am_otaku_826",
+        "verified": false
+      }
+    ]
+  }
+}

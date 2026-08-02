@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063096122462367744"
+      ],
+      "media_source_tweet_id": [
+        "2063096130595156281"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2063690642014994673",
+    "created_at": "2026-06-07T18:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063690642014994673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2011642810907443201",
+          "start": 3,
+          "username": "wawachaaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ltG6MY8aXv",
+          "end": 52,
+          "expanded_url": "https://x.com/wawachaaa/status/2063096130595156281/photo/1",
+          "media_key": "3_2063096122462367744",
+          "start": 29,
+          "url": "https://t.co/ltG6MY8aXv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063690642014994673",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1244
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063096130595156281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @wawachaaa: 아대박 웃겨 \n아기들이다 https://t.co/ltG6MY8aXv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 246,
+        "media_key": "3_2063096122462367744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGW_hza8AA-kVG.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063096122462367744"
+          ],
+          "media_source_tweet_id": [
+            "2063096130595156281"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2063690642014994673",
+        "created_at": "2026-06-07T18:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063690642014994673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2011642810907443201",
+              "start": 3,
+              "username": "wawachaaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ltG6MY8aXv",
+              "end": 52,
+              "expanded_url": "https://x.com/wawachaaa/status/2063096130595156281/photo/1",
+              "media_key": "3_2063096122462367744",
+              "start": 29,
+              "url": "https://t.co/ltG6MY8aXv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063690642014994673",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1244
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063096130595156281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @wawachaaa: 아대박 웃겨 \n아기들이다 https://t.co/ltG6MY8aXv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063096122462367744"
+          ]
+        },
+        "author_id": "2011642810907443201",
+        "conversation_id": "2063096130595156281",
+        "created_at": "2026-06-06T03:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063096130595156281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ltG6MY8aXv",
+              "end": 37,
+              "expanded_url": "https://x.com/wawachaaa/status/2063096130595156281/photo/1",
+              "media_key": "3_2063096122462367744",
+              "start": 14,
+              "url": "https://t.co/ltG6MY8aXv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063096130595156281",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 92721,
+          "like_count": 7290,
+          "quote_count": 65,
+          "reply_count": 2,
+          "retweet_count": 1244
+        },
+        "reply_settings": "following",
+        "text": "아대박 웃겨 \n아기들이다 https://t.co/ltG6MY8aXv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜视觉系｜量産型｜桃井愛莉\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 128,
+          "like_count": 2939,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 497
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T03:33:25.000Z",
+        "description": "나는야 하치와와 비팔알람 꺼놨어요",
+        "id": "2011642810907443201",
+        "name": "와와",
+        "pinned_tweet_id": "2033190469489094942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034596028457144320/C4SSWL_R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 61,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 404
+        },
+        "username": "wawachaaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058774672964259941",
+    "created_at": "2026-05-25T08:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058827866973114404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2057828618563395584",
+          "start": 0,
+          "username": "alanSalanCafnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058827866973114404",
+    "in_reply_to_user_id": "2057828618563395584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058807023303876673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alanSalanCafnk 还以为是可爱(｡•́︿•̀｡)谢谢你 但你是谁小号吗😳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058774672964259941",
+        "created_at": "2026-05-25T08:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058827866973114404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2057828618563395584",
+              "start": 0,
+              "username": "alanSalanCafnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058827866973114404",
+        "in_reply_to_user_id": "2057828618563395584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058807023303876673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alanSalanCafnk 还以为是可爱(｡•́︿•̀｡)谢谢你 但你是谁小号吗😳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057828618563395584",
+        "conversation_id": "2058774672964259941",
+        "created_at": "2026-05-25T07:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058807023303876673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058807023303876673",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058774672964259941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 傲娇感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 68,
+          "like_count": 1730,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 460
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T14:19:50.000Z",
+        "description": "爱病娇？爱自己？并非萝莉控其实只是喜欢平胸  希望不要忘记自己最初热爱的xp",
+        "id": "2057828618563395584",
+        "name": "alan C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057828978040487936/6-Ws81p1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 49,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 52
+        },
+        "username": "alanSalanCafnk",
+        "verified": false
+      }
+    ]
+  }
+}

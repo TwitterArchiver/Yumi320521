@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2077013488048750592"
+      ],
+      "media_source_tweet_id": [
+        "2077013564255035847"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2077333360461172906",
+    "created_at": "2026-07-15T10:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077333360461172906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1635441084003229699",
+          "start": 3,
+          "username": "itsuki_hana"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2DMMfExAQi",
+          "end": 77,
+          "expanded_url": "https://x.com/itsuki_hana/status/2077013564255035847/photo/1",
+          "media_key": "16_2077013488048750592",
+          "start": 54,
+          "url": "https://t.co/2DMMfExAQi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077333360461172906",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1349
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077013564255035847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsuki_hana: Yo aguantando las ganas de kortarme: https://t.co/2DMMfExAQi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 234,
+        "media_key": "16_2077013488048750592",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNMIw0zXQAAq-9T.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNMIw0zXQAAq-9T.mp4"
+          }
+        ],
+        "width": 230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2077013488048750592"
+          ],
+          "media_source_tweet_id": [
+            "2077013564255035847"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2077333360461172906",
+        "created_at": "2026-07-15T10:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077333360461172906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1635441084003229699",
+              "start": 3,
+              "username": "itsuki_hana"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2DMMfExAQi",
+              "end": 77,
+              "expanded_url": "https://x.com/itsuki_hana/status/2077013564255035847/photo/1",
+              "media_key": "16_2077013488048750592",
+              "start": 54,
+              "url": "https://t.co/2DMMfExAQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077333360461172906",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1349
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077013564255035847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itsuki_hana: Yo aguantando las ganas de kortarme: https://t.co/2DMMfExAQi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2077013488048750592"
+          ]
+        },
+        "author_id": "1635441084003229699",
+        "conversation_id": "2077013564255035847",
+        "created_at": "2026-07-14T12:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077013564255035847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2DMMfExAQi",
+              "end": 60,
+              "expanded_url": "https://x.com/itsuki_hana/status/2077013564255035847/photo/1",
+              "media_key": "16_2077013488048750592",
+              "start": 37,
+              "url": "https://t.co/2DMMfExAQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077013564255035847",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 21381,
+          "like_count": 3428,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 1349
+        },
+        "reply_settings": "everyone",
+        "text": "Yo aguantando las ganas de kortarme: https://t.co/2DMMfExAQi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか🐈‍⬛🐾\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 160,
+          "like_count": 5722,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1464
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T00:42:18.000Z",
+        "description": "₍^. .^₎⟆ ♡     \n#shtwt     ///                 \n★ amo a mis mutis ★                                             \n\nfan d Tyler, The Creator",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1635441084003229699",
+        "name": "ʚ 𝕀𝕥𝕤𝕦𝕜𝕚 ɞ",
+        "pinned_tweet_id": "2044228879577993714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051105407129604096/9tDkIkp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 261,
+          "like_count": 17325,
+          "listed_count": 3,
+          "media_count": 227,
+          "tweet_count": 4430
+        },
+        "url": "",
+        "username": "itsuki_hana",
+        "verified": false
+      }
+    ]
+  }
+}

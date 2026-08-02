@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2042925071904444491",
+    "created_at": "2026-05-02T13:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T14:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050562000351269280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1894342873740709890",
+          "start": 0,
+          "username": "mi_e_n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050562000351269280",
+    "in_reply_to_user_id": "1894342873740709890",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042925071904444491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mi_e_n 昨日あなたのツイートを拝見しとても面白いと感じたのでフォローいたしました 😼🙌申し訳ございません🙇‍♀️"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "自己紹介カードの画像\n\nハロオタ、二次オタ、ヅカオタ兼任ブス夢女子です☆*。\n呪術廻戦 真依ちゃん のゆめーにょ💓‪\n進撃の巨人  ジャックジャンヌ HUNTERHUNTER ブルーロック あんさんぶるスターズ 桜蘭高校ホスト部  宝石の国とか色々大好きー\n\nオタクとエンカしてホビしたいです🐼◎",
+        "height": 999,
+        "media_key": "3_2042925066988695552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnthkiaMAAVwCu.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2042925071904444491",
+        "created_at": "2026-05-02T13:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050562000351269280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1894342873740709890",
+              "start": 0,
+              "username": "mi_e_n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050562000351269280",
+        "in_reply_to_user_id": "1894342873740709890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042925071904444491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi_e_n 昨日あなたのツイートを拝見しとても面白いと感じたのでフォローいたしました 😼🙌申し訳ございません🙇‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042925066988695552"
+          ]
+        },
+        "author_id": "1894342873740709890",
+        "conversation_id": "2042925071904444491",
+        "created_at": "2026-04-11T11:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042925071904444491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nToGDPdP94",
+              "end": 56,
+              "expanded_url": "https://x.com/mi_e_n/status/2042925071904444491/photo/1",
+              "media_key": "3_2042925066988695552",
+              "start": 33,
+              "url": "https://t.co/nToGDPdP94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042925071904444491",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 739,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "友達欲しいんで拡散お願いします😭\n絡んでいい人♡ください😭ALT https://t.co/nToGDPdP94"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "茶柚/Yumi 16 153/73\n桃井爱莉｜同担拒否｜地雷系｜od\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 51,
+          "like_count": 891,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 149
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T11:05:30.000Z",
+        "description": "壁打ち お友達ください 無言フォロー失礼しまつ",
+        "id": "1894342873740709890",
+        "location": "夢ノ咲学院   宝塚大劇場",
+        "name": "フォロストラトス",
+        "pinned_tweet_id": "2042925071904444491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030108056252772352/BHN4TXd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 127,
+          "like_count": 121168,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 4531
+        },
+        "username": "mi_e_n",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2052403533442633864",
+    "created_at": "2026-05-07T15:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052403533442633864"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052403533442633864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草泥马我怎么有个这样的妈😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2052403533442633864",
+        "created_at": "2026-05-07T15:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052403533442633864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052403533442633864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草泥马我怎么有个这样的妈😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "💙ゆず🩵🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 64,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 206
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2061105348816306176"
+      ],
+      "media_source_tweet_id": [
+        "2061105404252393805"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2061109515798655414",
+    "created_at": "2026-05-31T15:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061109515798655414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "4035350352",
+          "start": 3,
+          "username": "mam0_0fficialt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UvUFDCsMYO",
+          "end": 46,
+          "expanded_url": "https://x.com/mam0_0fficialt/status/2061105404252393805/video/1",
+          "media_key": "13_2061105348816306176",
+          "start": 23,
+          "url": "https://t.co/UvUFDCsMYO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061109515798655414",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 182
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061105404252393805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mam0_0fficialt: 月曜 https://t.co/UvUFDCsMYO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1468,
+        "height": 720,
+        "media_key": "13_2061105348816306176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061105348816306176/img/b5DQtwtIcdt2DUF7.jpg",
+        "public_metrics": {
+          "view_count": 874
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061105348816306176/vid/avc1/480x270/-xkVCiajsulnzObW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061105348816306176/vid/avc1/640x360/9dqyufvQlHMGgBe2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061105348816306176/vid/avc1/1280x720/PIU4bzI8L3AIVjku.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061105348816306176/pl/9r0ZA07bgpQ2waVg.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061105348816306176"
+          ],
+          "media_source_tweet_id": [
+            "2061105404252393805"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2061109515798655414",
+        "created_at": "2026-05-31T15:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061109515798655414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "4035350352",
+              "start": 3,
+              "username": "mam0_0fficialt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UvUFDCsMYO",
+              "end": 46,
+              "expanded_url": "https://x.com/mam0_0fficialt/status/2061105404252393805/video/1",
+              "media_key": "13_2061105348816306176",
+              "start": 23,
+              "url": "https://t.co/UvUFDCsMYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061109515798655414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 182
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061105404252393805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mam0_0fficialt: 月曜 https://t.co/UvUFDCsMYO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061105348816306176"
+          ]
+        },
+        "author_id": "4035350352",
+        "conversation_id": "2061105404252393805",
+        "created_at": "2026-05-31T15:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061105404252393805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UvUFDCsMYO",
+              "end": 26,
+              "expanded_url": "https://x.com/mam0_0fficialt/status/2061105404252393805/video/1",
+              "media_key": "13_2061105348816306176",
+              "start": 3,
+              "url": "https://t.co/UvUFDCsMYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061105404252393805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3614,
+          "like_count": 498,
+          "quote_count": 23,
+          "reply_count": 40,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "月曜 https://t.co/UvUFDCsMYO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 89,
+          "like_count": 2462,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 840
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-27T12:34:01.000Z",
+        "description": "とあるミュージシャンの黙示録。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanicon.net/fancommunities…",
+                "end": 23,
+                "expanded_url": "https://fanicon.net/fancommunities/1146",
+                "start": 0,
+                "url": "https://t.co/eSaht6ijhN"
+              }
+            ]
+          }
+        },
+        "id": "4035350352",
+        "location": "浅草",
+        "name": "マモ",
+        "pinned_tweet_id": "2045474654350086376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913255774211739648/1q2wAWqf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78864,
+          "following_count": 166,
+          "like_count": 255,
+          "listed_count": 711,
+          "media_count": 3652,
+          "tweet_count": 8294
+        },
+        "url": "https://t.co/eSaht6ijhN",
+        "username": "mam0_0fficialt",
+        "verified": false
+      }
+    ]
+  }
+}

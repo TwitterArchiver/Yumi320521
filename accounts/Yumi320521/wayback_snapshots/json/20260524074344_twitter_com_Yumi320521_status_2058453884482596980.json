@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057828720858345472"
+      ],
+      "media_source_tweet_id": [
+        "2057828725811707969"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058453884482596980",
+    "created_at": "2026-05-24T07:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T08:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058453884482596980"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 14,
+          "tag": "ちいかわファンアート"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1735580494669258752",
+          "start": 3,
+          "username": "ki_0_0_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kdMOYnlugH",
+          "end": 49,
+          "expanded_url": "https://x.com/ki_0_0_0/status/2057828725811707969/photo/1",
+          "media_key": "3_2057828720858345472",
+          "start": 26,
+          "url": "https://t.co/kdMOYnlugH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058453884482596980",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5051
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057828725811707969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ki_0_0_0: #ちいかわファンアート https://t.co/kdMOYnlugH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1072,
+        "media_key": "3_2057828720858345472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7gUZtbsAAMXgn.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057828720858345472"
+          ],
+          "media_source_tweet_id": [
+            "2057828725811707969"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058453884482596980",
+        "created_at": "2026-05-24T07:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058453884482596980"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "ちいかわファンアート"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1735580494669258752",
+              "start": 3,
+              "username": "ki_0_0_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kdMOYnlugH",
+              "end": 49,
+              "expanded_url": "https://x.com/ki_0_0_0/status/2057828725811707969/photo/1",
+              "media_key": "3_2057828720858345472",
+              "start": 26,
+              "url": "https://t.co/kdMOYnlugH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058453884482596980",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5051
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057828725811707969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ki_0_0_0: #ちいかわファンアート https://t.co/kdMOYnlugH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057828720858345472"
+          ]
+        },
+        "author_id": "1735580494669258752",
+        "conversation_id": "2057828725811707969",
+        "created_at": "2026-05-22T14:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057828725811707969"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "ちいかわファンアート"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kdMOYnlugH",
+              "end": 35,
+              "expanded_url": "https://x.com/ki_0_0_0/status/2057828725811707969/photo/1",
+              "media_key": "3_2057828720858345472",
+              "start": 12,
+              "url": "https://t.co/kdMOYnlugH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057828725811707969",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2284,
+          "impression_count": 717105,
+          "like_count": 53913,
+          "quote_count": 393,
+          "reply_count": 1,
+          "retweet_count": 5051
+        },
+        "reply_settings": "following",
+        "text": "#ちいかわファンアート https://t.co/kdMOYnlugH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 67,
+          "like_count": 1670,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 422
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T08:40:22.000Z",
+        "description": "背景絵描き/AI学習転載無断使用禁止/ https://t.co/8ReaRKC7hr／",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@moro_moromi22",
+                "end": 43,
+                "expanded_url": "https://skeb.jp/@moro_moromi22",
+                "start": 20,
+                "url": "https://t.co/8ReaRKC7hr"
+              }
+            ]
+          }
+        },
+        "id": "1735580494669258752",
+        "name": "諸味の里",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824017441498030080/pPY3BtSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28709,
+          "following_count": 30,
+          "like_count": 1351,
+          "listed_count": 78,
+          "media_count": 429,
+          "tweet_count": 1677
+        },
+        "username": "ki_0_0_0",
+        "verified": false
+      }
+    ]
+  }
+}

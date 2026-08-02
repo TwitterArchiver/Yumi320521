@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042298247574929408"
+      ],
+      "media_source_tweet_id": [
+        "2042298256609431828"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2042615450035720224",
+    "created_at": "2026-04-10T14:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042615450035720224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1648685716237598720",
+          "start": 3,
+          "username": "itsme_urstruly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FKGAGGSwQ2",
+          "end": 43,
+          "expanded_url": "https://x.com/itsme_urstruly/status/2042298256609431828/photo/1",
+          "media_key": "3_2042298247574929408",
+          "start": 20,
+          "url": "https://t.co/FKGAGGSwQ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042615450035720224",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13328
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042298256609431828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsme_urstruly: https://t.co/FKGAGGSwQ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2042298247574929408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFezb4QbQAA0LOm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042298247574929408"
+          ],
+          "media_source_tweet_id": [
+            "2042298256609431828"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042615450035720224",
+        "created_at": "2026-04-10T14:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042615450035720224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1648685716237598720",
+              "start": 3,
+              "username": "itsme_urstruly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FKGAGGSwQ2",
+              "end": 43,
+              "expanded_url": "https://x.com/itsme_urstruly/status/2042298256609431828/photo/1",
+              "media_key": "3_2042298247574929408",
+              "start": 20,
+              "url": "https://t.co/FKGAGGSwQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042615450035720224",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13328
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042298256609431828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itsme_urstruly: https://t.co/FKGAGGSwQ2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042298247574929408"
+          ]
+        },
+        "author_id": "1648685716237598720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042298256609431828",
+        "created_at": "2026-04-09T17:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042298256609431828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FKGAGGSwQ2",
+              "end": 23,
+              "expanded_url": "https://x.com/itsme_urstruly/status/2042298256609431828/photo/1",
+              "media_key": "3_2042298247574929408",
+              "start": 0,
+              "url": "https://t.co/FKGAGGSwQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042298256609431828",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2944,
+          "impression_count": 1551727,
+          "like_count": 56889,
+          "quote_count": 743,
+          "reply_count": 202,
+          "retweet_count": 13328
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FKGAGGSwQ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 32,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T13:51:49.000Z",
+        "description": "Best account to cleanse your timeline with positivity, humour and wholesome content | DM for credit or removal | Turn on notifications 🔔",
+        "id": "1648685716237598720",
+        "name": "Wholesome Side of 𝕏",
+        "pinned_tweet_id": "2015737695990083858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847211116289527808/4gxkztuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581981,
+          "following_count": 98,
+          "like_count": 19870,
+          "listed_count": 1066,
+          "media_count": 32121,
+          "tweet_count": 34367
+        },
+        "username": "itsme_urstruly",
+        "verified": true
+      }
+    ]
+  }
+}

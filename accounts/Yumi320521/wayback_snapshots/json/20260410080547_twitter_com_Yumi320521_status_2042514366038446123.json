@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2042514366038446123",
+    "created_at": "2026-04-10T08:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042514366038446123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1625377150940614656",
+          "start": 3,
+          "username": "Nicebabycat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042514366038446123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042044832751718700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nicebabycat: 西方堕落：性，酒精，毒品，精神分裂\n\n中式堕落：啃老，熬夜短视频，吃外卖，od 改花刀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2042514366038446123",
+        "created_at": "2026-04-10T08:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042514366038446123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1625377150940614656",
+              "start": 3,
+              "username": "Nicebabycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042514366038446123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042044832751718700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nicebabycat: 西方堕落：性，酒精，毒品，精神分裂\n\n中式堕落：啃老，熬夜短视频，吃外卖，od 改花刀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625377150940614656",
+        "conversation_id": "2042044832751718700",
+        "created_at": "2026-04-09T01:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042044832751718700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042044832751718700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 24090,
+          "like_count": 343,
+          "quote_count": 3,
+          "reply_count": 57,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "西方堕落：性，酒精，毒品，精神分裂\n\n中式堕落：啃老，熬夜短视频，吃外卖，od 改花刀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 32,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T06:11:40.000Z",
+        "description": "记录美好，偶尔深想 🌿",
+        "id": "1625377150940614656",
+        "location": "United States",
+        "name": "Nice奈斯",
+        "pinned_tweet_id": "2042098679465537952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985335302312132608/5CAB0q66_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18127,
+          "following_count": 999,
+          "like_count": 6442,
+          "listed_count": 49,
+          "media_count": 952,
+          "tweet_count": 5542
+        },
+        "username": "Nicebabycat",
+        "verified": true
+      }
+    ]
+  }
+}

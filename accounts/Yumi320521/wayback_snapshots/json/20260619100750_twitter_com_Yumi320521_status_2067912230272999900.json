@@ -1,0 +1,654 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1337415114329182208",
+          "name": "Seiko Oomori"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "METAMUSE on July 7th 2022, Used to be ZOC",
+          "id": "1517594026303578112",
+          "name": "METAMUSE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1337415114329182208",
+          "name": "Seiko Oomori"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "METAMUSE on July 7th 2022, Used to be ZOC",
+          "id": "1517594026303578112",
+          "name": "METAMUSE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1337415114329182208",
+          "name": "Seiko Oomori"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "METAMUSE on July 7th 2022, Used to be ZOC",
+          "id": "1517594026303578112",
+          "name": "METAMUSE"
+        }
+      }
+    ],
+    "conversation_id": "2067912230272999900",
+    "created_at": "2026-06-19T10:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067912230272999900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "4620945612",
+          "start": 3,
+          "username": "0153_official"
+        },
+        {
+          "end": 117,
+          "id": "116026747",
+          "start": 105,
+          "username": "oomoriseiko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/HBJov2",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/HBJov2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067912230272999900",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067910365414109360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0153_official: ✩˖°⌖.꙳✩˖  推し活なんかじゃない\n           これは、私の生き様。✩˖°⌖.꙳✩˖\n\n「ファイナルデッドらぶ♡れたー」\n\n🌏スペシャルゲスト💖\n大森靖子 @oomoriseiko \n\nhttps://t.co/HBJov2…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37316,
+        "height": 1920,
+        "media_key": "13_2067910219364265984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067910219364265984/img/bVKWp0wwlM1hsH3M.jpg",
+        "public_metrics": {
+          "view_count": 572
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067910219364265984/vid/avc1/1080x1920/5fs0KOX_imMOY0Hj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067910219364265984/vid/avc1/720x1280/4jio5kU3m-PKgCJM.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067910219364265984/vid/avc1/320x568/gSJBbm6CW0_IWHGE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067910219364265984/pl/MoDdMzZmxLo_MpHf.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067910219364265984/vid/avc1/480x852/P7sj3MiwPYyPjPj8.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "METAMUSE on July 7th 2022, Used to be ZOC",
+              "id": "1517594026303578112",
+              "name": "METAMUSE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "METAMUSE on July 7th 2022, Used to be ZOC",
+              "id": "1517594026303578112",
+              "name": "METAMUSE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "METAMUSE on July 7th 2022, Used to be ZOC",
+              "id": "1517594026303578112",
+              "name": "METAMUSE"
+            }
+          }
+        ],
+        "conversation_id": "2067912230272999900",
+        "created_at": "2026-06-19T10:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067912230272999900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "4620945612",
+              "start": 3,
+              "username": "0153_official"
+            },
+            {
+              "end": 117,
+              "id": "116026747",
+              "start": 105,
+              "username": "oomoriseiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/HBJov2",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/HBJov2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067912230272999900",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067910365414109360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0153_official: ✩˖°⌖.꙳✩˖  推し活なんかじゃない\n           これは、私の生き様。✩˖°⌖.꙳✩˖\n\n「ファイナルデッドらぶ♡れたー」\n\n🌏スペシャルゲスト💖\n大森靖子 @oomoriseiko \n\nhttps://t.co/HBJov2…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067910219364265984"
+          ]
+        },
+        "author_id": "4620945612",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "METAMUSE on July 7th 2022, Used to be ZOC",
+              "id": "1517594026303578112",
+              "name": "METAMUSE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "METAMUSE on July 7th 2022, Used to be ZOC",
+              "id": "1517594026303578112",
+              "name": "METAMUSE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "METAMUSE on July 7th 2022, Used to be ZOC",
+              "id": "1517594026303578112",
+              "name": "METAMUSE"
+            }
+          }
+        ],
+        "conversation_id": "2067910365414109360",
+        "created_at": "2026-06-19T10:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067910365414109360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 98,
+              "id": "116026747",
+              "start": 86,
+              "username": "oomoriseiko"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/6eXpDGFXkDo?si…",
+              "end": 124,
+              "expanded_url": "https://youtu.be/6eXpDGFXkDo?si=TaktHhXTY2o75hri",
+              "start": 101,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?si=TaktHhXTY2o75hri&v=6eXpDGFXkDo&feature=youtu.be",
+              "url": "https://t.co/HBJov2K8Ij"
+            },
+            {
+              "display_url": "pic.x.com/ayV02lGrNl",
+              "end": 148,
+              "expanded_url": "https://x.com/0153_official/status/2067910365414109360/video/1",
+              "media_key": "13_2067910219364265984",
+              "start": 125,
+              "url": "https://t.co/ayV02lGrNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067910365414109360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4703,
+          "like_count": 338,
+          "quote_count": 42,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "✩˖°⌖.꙳✩˖  推し活なんかじゃない\n           これは、私の生き様。✩˖°⌖.꙳✩˖\n\n「ファイナルデッドらぶ♡れたー」\n\n🌏スペシャルゲスト💖\n大森靖子 @oomoriseiko \n\nhttps://t.co/HBJov2K8Ij https://t.co/ayV02lGrNl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 \n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2067556150426669153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067554649486573568/_C_kHJDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 121,
+          "like_count": 3619,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 663
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-21T10:52:42.000Z",
+        "description": "■日本1バズるV系バンド！！■Vo.緑川裕宇@0153_you Gt.河村友雪@0153_tomoyuki Gt.水田魔梨@0153_mari Ba.眞崎大輔@0153_daisuke◆YouTube 【https://t.co/qtWDiBqubr】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "0153_you"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "0153_tomoyuki"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "0153_mari"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "0153_daisuke"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UC3Bwh…",
+                "end": 125,
+                "expanded_url": "https://m.youtube.com/channel/UC3BwhCH7Z89-XdU6eltQUng",
+                "start": 102,
+                "url": "https://t.co/qtWDiBqubr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gosan.g1-corp.com",
+                "end": 23,
+                "expanded_url": "http://gosan.g1-corp.com/",
+                "start": 0,
+                "url": "https://t.co/kr56R5XDI4"
+              }
+            ]
+          }
+        },
+        "id": "4620945612",
+        "location": "ハイライト欄に振り付け動画が纏めてあります",
+        "name": "0.1gの誤算official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/712972507154817028/Wcdzi8MU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44736,
+          "following_count": 5,
+          "like_count": 39,
+          "listed_count": 313,
+          "media_count": 3028,
+          "tweet_count": 6485
+        },
+        "url": "https://t.co/kr56R5XDI4",
+        "username": "0153_official",
+        "verified": true
+      },
+      {
+        "created_at": "2010-02-20T21:44:49.000Z",
+        "description": "超歌手💖PINKの反骨精神で全ての乙女心を歌い尽くす人生𓂃🎀𓈒𓏸かわいいの神様ヤってます。今日も死ぬの失敗してくれてありがと 𓊆ྀི❤︎𓊇ྀི 名前ツイで無差別フォロー🌏\n📅⇨https://t.co/BLwTMHHzik",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "timetreeapp.com/public_calenda…",
+                "end": 111,
+                "expanded_url": "https://timetreeapp.com/public_calendars/zocx",
+                "start": 88,
+                "url": "https://t.co/BLwTMHHzik"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "oomoriseiko.info",
+                "end": 23,
+                "expanded_url": "http://oomoriseiko.info",
+                "start": 0,
+                "url": "https://t.co/m9gpP5fAxk"
+              }
+            ]
+          }
+        },
+        "id": "116026747",
+        "location": "TOKYO PINK",
+        "name": "大森靖子🌏💖",
+        "pinned_tweet_id": "2059869654492094851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060150053814296576/Os9kVBEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488035,
+          "following_count": 91964,
+          "like_count": 310958,
+          "listed_count": 2367,
+          "media_count": 2010,
+          "tweet_count": 8788
+        },
+        "url": "https://t.co/m9gpP5fAxk",
+        "username": "oomoriseiko",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059834079294734608",
+    "created_at": "2026-05-28T03:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059834079294734608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056325966209966080",
+          "start": 3,
+          "username": "vdhd3_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059834079294734608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2306
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059435791961723007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vdhd3_: 女の子はお姫様扱いしてくれて全肯定してくれる超めろ男を選ぶんだよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059834079294734608",
+        "created_at": "2026-05-28T03:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059834079294734608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056325966209966080",
+              "start": 3,
+              "username": "vdhd3_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059834079294734608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2306
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059435791961723007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vdhd3_: 女の子はお姫様扱いしてくれて全肯定してくれる超めろ男を選ぶんだよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056325966209966080",
+        "conversation_id": "2059435791961723007",
+        "created_at": "2026-05-27T00:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059435791961723007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059435791961723007",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1222,
+          "impression_count": 823561,
+          "like_count": 32502,
+          "quote_count": 1026,
+          "reply_count": 65,
+          "retweet_count": 2306
+        },
+        "reply_settings": "everyone",
+        "text": "女の子はお姫様扱いしてくれて全肯定してくれる超めろ男を選ぶんだよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 80,
+          "like_count": 1939,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 638
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T10:48:47.000Z",
+        "description": "病み垢┊︎依存┊︎独占┊︎嫉妬┊︎💍@uigk6s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "uigk6s"
+              }
+            ]
+          }
+        },
+        "id": "2056325966209966080",
+        "name": "おゆ",
+        "pinned_tweet_id": "2057666625281925241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056326213581598720/pag3rx5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 66,
+          "like_count": 486,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 107
+        },
+        "username": "vdhd3_",
+        "verified": false
+      }
+    ]
+  }
+}

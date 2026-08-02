@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2073716155513213105",
+    "created_at": "2026-07-05T10:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073716155513213105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "162974851",
+          "start": 3,
+          "username": "Paramjitt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073716155513213105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073620945403822115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Paramjitt: 你好msk这个是我的假逼不是伤口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2073716155513213105",
+        "created_at": "2026-07-05T10:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073716155513213105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "162974851",
+              "start": 3,
+              "username": "Paramjitt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073716155513213105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073620945403822115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Paramjitt: 你好msk这个是我的假逼不是伤口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "162974851",
+        "conversation_id": "2073620945403822115",
+        "created_at": "2026-07-05T04:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073620945403822115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073620945403822115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 500,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你好msk这个是我的假逼不是伤口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 144,
+          "like_count": 5276,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1197
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "互关寻回\n🚪52（加了啥也没有）\nhttps://t.co/TYxFLX9MRG\n大号@Shivam3228\n牛马💊 @AminoXx_killer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "AminoXx_killer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 40,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 17,
+                "url": "https://t.co/TYxFLX9MRG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "霖（赞绝病娇中2，16.0寻回爱妻）",
+        "pinned_tweet_id": "2068570468312039765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071548184963506176/HGB67smS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 327,
+          "like_count": 906,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 578
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069379854651539688",
+    "created_at": "2026-06-23T17:08:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T18:08:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069467667132764329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058593205067841536",
+          "start": 0,
+          "username": "mndfu1s7"
+        },
+        {
+          "end": 21,
+          "id": "2047867480576794624",
+          "start": 10,
+          "username": "yuganbb823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069467667132764329",
+    "in_reply_to_user_id": "2058593205067841536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069467120602374565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mndfu1s7 @yuganbb823 我也是😭💦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069379854651539688",
+        "created_at": "2026-06-23T17:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069467667132764329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058593205067841536",
+              "start": 0,
+              "username": "mndfu1s7"
+            },
+            {
+              "end": 21,
+              "id": "2047867480576794624",
+              "start": 10,
+              "username": "yuganbb823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069467667132764329",
+        "in_reply_to_user_id": "2058593205067841536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069467120602374565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mndfu1s7 @yuganbb823 我也是😭💦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058593205067841536",
+        "conversation_id": "2069379854651539688",
+        "created_at": "2026-06-23T17:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069467120602374565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047867480576794624",
+              "start": 0,
+              "username": "yuganbb823"
+            },
+            {
+              "end": 23,
+              "id": "2040070879888220160",
+              "start": 12,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069467120602374565",
+        "in_reply_to_user_id": "2047867480576794624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069440926624477289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuganbb823 @Yumi320521 我有点畏惧😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 140,
+          "like_count": 4394,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 807
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T16:58:27.000Z",
+        "description": "=钰柠 09女高餐券妹 中抑 精神状态很差 我是le 我会在这里发一堆我的梦话 以及裸照/雪兔/o相关 贝贝们来和我互fo互推呀TvT",
+        "id": "2058593205067841536",
+        "name": "為什麽我們不能成為永恆",
+        "pinned_tweet_id": "2060366138304008510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058594428982603776/w9DolSRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 176,
+          "like_count": 3387,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 664
+        },
+        "url": "",
+        "username": "mndfu1s7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T02:40:37.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |最好的诡秘@ci_shang85157 | 我有一只小猫@Mikasuda765 | 一个小钰柠@mndfu1s7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "ci_shang85157"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Mikasuda765"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "username": "mndfu1s7"
+              }
+            ]
+          }
+        },
+        "id": "2047867480576794624",
+        "location": "你身后",
+        "name": "为何人生如此凄惨",
+        "pinned_tweet_id": "2066064670331674897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058530430505107456/xZ6M8S5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 239,
+          "like_count": 4809,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 801
+        },
+        "url": "",
+        "username": "yuganbb823",
+        "verified": false
+      }
+    ]
+  }
+}

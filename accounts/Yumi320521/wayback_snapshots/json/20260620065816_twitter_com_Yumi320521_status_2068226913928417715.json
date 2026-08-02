@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1831783479438082048"
+      ],
+      "media_source_tweet_id": [
+        "1831783502129566122"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068226913928417715",
+    "created_at": "2026-06-20T06:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068226913928417715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750468126972559360",
+          "start": 3,
+          "username": "miyarah_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QTNeZkg7NK",
+          "end": 93,
+          "expanded_url": "https://x.com/i/status/1831783502129566122/video/1",
+          "media_key": "7_1831783479438082048",
+          "start": 70,
+          "url": "https://t.co/QTNeZkg7NK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068226913928417715",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2657
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068021192582135972",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miyarah_: yo cuando pasa el más mínimo inconveniente de mi vida:  https://t.co/QTNeZkg7NK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14420,
+        "height": 720,
+        "media_key": "7_1831783479438082048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1831783479438082048/pu/img/6RK6puNrSSZuXnKR.jpg",
+        "public_metrics": {
+          "view_count": 12513459
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1831783479438082048/pu/vid/avc1/272x270/HRq9Kn-3PJld9QIp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1831783479438082048/pu/vid/avc1/364x360/05JbOb7TDM1RWGcu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1831783479438082048/pu/vid/avc1/728x720/FkZfSasONtC7GAsj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1831783479438082048/pu/pl/Wl4bKNO70-8dNagJ.m3u8?tag=12&v=3b4"
+          }
+        ],
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1831783479438082048"
+          ],
+          "media_source_tweet_id": [
+            "1831783502129566122"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068226913928417715",
+        "created_at": "2026-06-20T06:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068226913928417715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750468126972559360",
+              "start": 3,
+              "username": "miyarah_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTNeZkg7NK",
+              "end": 93,
+              "expanded_url": "https://x.com/i/status/1831783502129566122/video/1",
+              "media_key": "7_1831783479438082048",
+              "start": 70,
+              "url": "https://t.co/QTNeZkg7NK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068226913928417715",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2657
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068021192582135972",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miyarah_: yo cuando pasa el más mínimo inconveniente de mi vida:  https://t.co/QTNeZkg7NK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1831783479438082048"
+          ],
+          "media_source_tweet_id": [
+            "1831783502129566122"
+          ]
+        },
+        "author_id": "1750468126972559360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068021192582135972",
+        "created_at": "2026-06-19T17:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068021192582135972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTNeZkg7NK",
+              "end": 79,
+              "expanded_url": "https://x.com/i/status/1831783502129566122/video/1",
+              "media_key": "7_1831783479438082048",
+              "start": 56,
+              "url": "https://t.co/QTNeZkg7NK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068021192582135972",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 748,
+          "impression_count": 156880,
+          "like_count": 9003,
+          "quote_count": 33,
+          "reply_count": 27,
+          "retweet_count": 2657
+        },
+        "reply_settings": "everyone",
+        "text": "yo cuando pasa el más mínimo inconveniente de mi vida:  https://t.co/QTNeZkg7NK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 \n桃井愛莉一生のファン🍑💞\n152/35kg od｜自残｜vkei｜量产地雷 欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067554649486573568/_C_kHJDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 122,
+          "like_count": 3678,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T10:41:08.000Z",
+        "description": "a ver pélame una mandarina",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "karl.♡",
+                "end": 23,
+                "expanded_url": "https://karl.xn--c6h",
+                "start": 0,
+                "url": "https://t.co/r6yCv7UhK4"
+              }
+            ]
+          }
+        },
+        "id": "1750468126972559360",
+        "location": "˚ ʚ 22:22 ɞ ˚",
+        "name": "miya",
+        "pinned_tweet_id": "2064045466979824033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061336333168115713/OYKdTzLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15347,
+          "following_count": 1943,
+          "like_count": 180272,
+          "listed_count": 129,
+          "media_count": 5922,
+          "tweet_count": 148815
+        },
+        "url": "https://t.co/r6yCv7UhK4",
+        "username": "miyarah_",
+        "verified": false
+      }
+    ]
+  }
+}

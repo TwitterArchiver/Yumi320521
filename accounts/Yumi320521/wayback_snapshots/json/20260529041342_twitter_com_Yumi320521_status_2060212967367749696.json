@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060212967367749696",
+    "created_at": "2026-05-29T04:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060212967367749696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2031345771254255616",
+          "start": 3,
+          "username": "homesick_swm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060212967367749696",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4747
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059975098959061229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @homesick_swm: 그냥미래가안보인다\n시발진짜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060212967367749696",
+        "created_at": "2026-05-29T04:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060212967367749696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2031345771254255616",
+              "start": 3,
+              "username": "homesick_swm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060212967367749696",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4747
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059975098959061229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @homesick_swm: 그냥미래가안보인다\n시발진짜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031345771254255616",
+        "conversation_id": "2059975098959061229",
+        "created_at": "2026-05-28T12:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059975098959061229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059975098959061229",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 363,
+          "impression_count": 569900,
+          "like_count": 13854,
+          "quote_count": 204,
+          "reply_count": 271,
+          "retweet_count": 4747
+        },
+        "reply_settings": "everyone",
+        "text": "그냥미래가안보인다\n시발진짜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 87,
+          "like_count": 2121,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 717
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T12:25:56.000Z",
+        "description": "도!망!가!자!도!피!하!자!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/homesick_swm",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/homesick_swm",
+                "start": 0,
+                "url": "https://t.co/FwZpHo4hJg"
+              }
+            ]
+          }
+        },
+        "id": "2031345771254255616",
+        "location": "썅노무시끼",
+        "name": "썅끼",
+        "pinned_tweet_id": "2043155358252933245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053401887832203264/qNTF4THN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1848,
+          "following_count": 92,
+          "like_count": 8936,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/FwZpHo4hJg",
+        "username": "homesick_swm",
+        "verified": false
+      }
+    ]
+  }
+}

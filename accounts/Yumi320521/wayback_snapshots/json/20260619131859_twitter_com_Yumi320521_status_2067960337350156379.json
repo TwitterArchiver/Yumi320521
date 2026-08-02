@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067960278206357505"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2067960337350156379",
+    "created_at": "2026-06-19T13:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067960337350156379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/syi8zM4Gdn",
+          "end": 30,
+          "expanded_url": "https://x.com/Yumi320521/status/2067960337350156379/video/1",
+          "media_key": "13_2067960278206357505",
+          "start": 7,
+          "url": "https://t.co/syi8zM4Gdn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067960337350156379",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊——^ ^ https://t.co/syi8zM4Gdn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3208,
+        "height": 1280,
+        "media_key": "13_2067960278206357505",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067960278206357505/img/6aaiD31XMXSo2VU9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067960278206357505/vid/avc1/320x568/j2Z6Ti_MOoj2cJmO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067960278206357505/vid/avc1/480x852/HY_8a-nBa-H-ibsF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067960278206357505/vid/avc1/720x1280/CywE1ByuxAG4CJkm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067960278206357505/pl/UyDiJvJpQfjGIVYx.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067960278206357505"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2067960337350156379",
+        "created_at": "2026-06-19T13:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067960337350156379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/syi8zM4Gdn",
+              "end": 30,
+              "expanded_url": "https://x.com/Yumi320521/status/2067960337350156379/video/1",
+              "media_key": "13_2067960278206357505",
+              "start": 7,
+              "url": "https://t.co/syi8zM4Gdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067960337350156379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊——^ ^ https://t.co/syi8zM4Gdn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 \n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067554649486573568/_C_kHJDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 121,
+          "like_count": 3632,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 675
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

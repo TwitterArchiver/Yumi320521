@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1792129717900066816"
+      ],
+      "media_source_tweet_id": [
+        "1792129724476706913"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060239790885503304",
+    "created_at": "2026-05-29T06:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060239790885503304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1331144721352126464",
+          "start": 3,
+          "username": "teacrown_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QTByvRyFRS",
+          "end": 41,
+          "expanded_url": "https://x.com/teacrown_/status/1792129724476706913/photo/1",
+          "media_key": "3_1792129717900066816",
+          "start": 18,
+          "url": "https://t.co/QTByvRyFRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060239790885503304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 510
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792129724476706913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @teacrown_: 彰冬 https://t.co/QTByvRyFRS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2676,
+        "media_key": "3_1792129717900066816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GN7se7rawAA2P9Q.jpg",
+        "width": 2122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1792129717900066816"
+          ],
+          "media_source_tweet_id": [
+            "1792129724476706913"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060239790885503304",
+        "created_at": "2026-05-29T06:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060239790885503304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1331144721352126464",
+              "start": 3,
+              "username": "teacrown_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTByvRyFRS",
+              "end": 41,
+              "expanded_url": "https://x.com/teacrown_/status/1792129724476706913/photo/1",
+              "media_key": "3_1792129717900066816",
+              "start": 18,
+              "url": "https://t.co/QTByvRyFRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060239790885503304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 510
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792129724476706913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @teacrown_: 彰冬 https://t.co/QTByvRyFRS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1792129717900066816"
+          ]
+        },
+        "author_id": "1331144721352126464",
+        "conversation_id": "1792129724476706913",
+        "created_at": "2024-05-19T09:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T10:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792129724476706913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTByvRyFRS",
+              "end": 26,
+              "expanded_url": "https://x.com/teacrown_/status/1792129724476706913/photo/1",
+              "media_key": "3_1792129717900066816",
+              "start": 3,
+              "url": "https://t.co/QTByvRyFRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792129724476706913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 68854,
+          "like_count": 3349,
+          "quote_count": 19,
+          "reply_count": 1,
+          "retweet_count": 510
+        },
+        "reply_settings": "following",
+        "text": "彰冬 https://t.co/QTByvRyFRS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 87,
+          "like_count": 2132,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 722
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-24T07:56:59.000Z",
+        "description": "10割妄言アカウント ⚠必読→https://t.co/k8JKaRjfvL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/teacrown",
+                "end": 38,
+                "expanded_url": "https://lit.link/teacrown",
+                "start": 15,
+                "url": "https://t.co/k8JKaRjfvL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/teacrown_",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/teacrown_",
+                "start": 0,
+                "url": "https://t.co/Axg6mMXChb"
+              }
+            ]
+          }
+        },
+        "id": "1331144721352126464",
+        "name": "山羊沼",
+        "pinned_tweet_id": "1665638283844395009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790008329059913728/w7QVygzM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21552,
+          "following_count": 16,
+          "like_count": 1484,
+          "listed_count": 83,
+          "media_count": 612,
+          "tweet_count": 1851
+        },
+        "url": "https://t.co/Axg6mMXChb",
+        "username": "teacrown_",
+        "verified": false
+      }
+    ]
+  }
+}

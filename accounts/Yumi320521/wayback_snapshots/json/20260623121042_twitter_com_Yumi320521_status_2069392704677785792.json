@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069364728888233984"
+      ],
+      "media_source_tweet_id": [
+        "2069364733086781561"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069392704677785792",
+    "created_at": "2026-06-23T12:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069392704677785792"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 50,
+          "tag": "古の自己紹介カード"
+        },
+        {
+          "end": 76,
+          "start": 63,
+          "tag": "バンギャさんと繋がりたい"
+        },
+        {
+          "end": 91,
+          "start": 78,
+          "tag": "V系好きな人と繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2058588565224013824",
+          "start": 3,
+          "username": "x_yua0214"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EEQkV5YcLZ",
+          "end": 115,
+          "expanded_url": "https://x.com/x_yua0214/status/2069364733086781561/photo/1",
+          "media_key": "3_2069364728888233984",
+          "start": 92,
+          "url": "https://t.co/EEQkV5YcLZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069392704677785792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069364733086781561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_yua0214: ♡で気になり様フォローします⸝⸝&gt;  ̫ &lt;⸝⸝ᐡ♡\n\n #古の自己紹介カード \n #バンギャさんと繋がりたい\n #V系好きな人と繋がりたい https://t.co/EEQkV5YcLZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1709,
+        "media_key": "3_2069364728888233984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfcQcgbEAAQkF5.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069364728888233984"
+          ],
+          "media_source_tweet_id": [
+            "2069364733086781561"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069392704677785792",
+        "created_at": "2026-06-23T12:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069392704677785792"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 50,
+              "tag": "古の自己紹介カード"
+            },
+            {
+              "end": 76,
+              "start": 63,
+              "tag": "バンギャさんと繋がりたい"
+            },
+            {
+              "end": 91,
+              "start": 78,
+              "tag": "V系好きな人と繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2058588565224013824",
+              "start": 3,
+              "username": "x_yua0214"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EEQkV5YcLZ",
+              "end": 115,
+              "expanded_url": "https://x.com/x_yua0214/status/2069364733086781561/photo/1",
+              "media_key": "3_2069364728888233984",
+              "start": 92,
+              "url": "https://t.co/EEQkV5YcLZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069392704677785792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069364733086781561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_yua0214: ♡で気になり様フォローします⸝⸝&gt;  ̫ &lt;⸝⸝ᐡ♡\n\n #古の自己紹介カード \n #バンギャさんと繋がりたい\n #V系好きな人と繋がりたい https://t.co/EEQkV5YcLZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069364728888233984"
+          ]
+        },
+        "author_id": "2058588565224013824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069364733086781561",
+        "created_at": "2026-06-23T10:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069364733086781561"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 35,
+              "tag": "古の自己紹介カード"
+            },
+            {
+              "end": 61,
+              "start": 48,
+              "tag": "バンギャさんと繋がりたい"
+            },
+            {
+              "end": 76,
+              "start": 63,
+              "tag": "V系好きな人と繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EEQkV5YcLZ",
+              "end": 100,
+              "expanded_url": "https://x.com/x_yua0214/status/2069364733086781561/photo/1",
+              "media_key": "3_2069364728888233984",
+              "start": 77,
+              "url": "https://t.co/EEQkV5YcLZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069364733086781561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 585,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "♡で気になり様フォローします⸝⸝&gt;  ̫ &lt;⸝⸝ᐡ♡\n\n #古の自己紹介カード \n #バンギャさんと繋がりたい\n #V系好きな人と繋がりたい https://t.co/EEQkV5YcLZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 138,
+          "like_count": 4307,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 786
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T16:39:53.000Z",
+        "description": "@Royz_214_subaru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "Royz_214_subaru"
+              }
+            ]
+          }
+        },
+        "id": "2058588565224013824",
+        "location": "Royz",
+        "name": "ゆあ",
+        "pinned_tweet_id": "2069363354964299899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064222906931150848/rOgamFPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 93,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "x_yua0214",
+        "verified": false
+      }
+    ]
+  }
+}

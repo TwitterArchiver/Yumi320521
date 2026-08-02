@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058586922298310874",
+    "created_at": "2026-05-24T16:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058586922298310874"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058586922298310874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "送喜欢的人首饰什么的 感觉多少都怕花少了 但是给自己买 超过10元的耳钉我都舍不得 真讽刺😓所以说啊爱人先爱己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058586922298310874",
+        "created_at": "2026-05-24T16:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058586922298310874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058586922298310874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "送喜欢的人首饰什么的 感觉多少都怕花少了 但是给自己买 超过10元的耳钉我都舍不得 真讽刺😓所以说啊爱人先爱己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 67,
+          "like_count": 1696,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 443
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

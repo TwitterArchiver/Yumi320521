@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042195505082720256"
+      ],
+      "media_source_tweet_id": [
+        "2042195512926060946"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2042872253235556836",
+    "created_at": "2026-04-11T07:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042872253235556836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1280513443557146626",
+          "start": 3,
+          "username": "aaacha214"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qn4NhXqpeW",
+          "end": 44,
+          "expanded_url": "https://x.com/aaacha214/status/2042195512926060946/photo/1",
+          "media_key": "3_2042195505082720256",
+          "start": 21,
+          "url": "https://t.co/qn4NhXqpeW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042872253235556836",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 584
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042195512926060946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaacha214: キュン死😇 https://t.co/qn4NhXqpeW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1429,
+        "media_key": "3_2042195505082720256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdV_epa4AA-roK.jpg",
+        "width": 1192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042195505082720256"
+          ],
+          "media_source_tweet_id": [
+            "2042195512926060946"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2042872253235556836",
+        "created_at": "2026-04-11T07:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042872253235556836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1280513443557146626",
+              "start": 3,
+              "username": "aaacha214"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qn4NhXqpeW",
+              "end": 44,
+              "expanded_url": "https://x.com/aaacha214/status/2042195512926060946/photo/1",
+              "media_key": "3_2042195505082720256",
+              "start": 21,
+              "url": "https://t.co/qn4NhXqpeW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042872253235556836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 584
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042195512926060946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaacha214: キュン死😇 https://t.co/qn4NhXqpeW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042195505082720256"
+          ]
+        },
+        "author_id": "1280513443557146626",
+        "conversation_id": "2042195512926060946",
+        "created_at": "2026-04-09T10:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042195512926060946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qn4NhXqpeW",
+              "end": 29,
+              "expanded_url": "https://x.com/aaacha214/status/2042195512926060946/photo/1",
+              "media_key": "3_2042195505082720256",
+              "start": 6,
+              "url": "https://t.co/qn4NhXqpeW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042195512926060946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 458,
+          "impression_count": 53547,
+          "like_count": 7484,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 584
+        },
+        "reply_settings": "everyone",
+        "text": "キュン死😇 https://t.co/qn4NhXqpeW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 35,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 38
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-07T14:46:22.000Z",
+        "description": "考え中",
+        "id": "1280513443557146626",
+        "name": "あーちゃん",
+        "pinned_tweet_id": "1881974987881590906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008450846737264645/Z_8o4QQT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10027,
+          "following_count": 24,
+          "like_count": 33643,
+          "listed_count": 16,
+          "media_count": 220,
+          "tweet_count": 400
+        },
+        "username": "aaacha214",
+        "verified": false
+      }
+    ]
+  }
+}

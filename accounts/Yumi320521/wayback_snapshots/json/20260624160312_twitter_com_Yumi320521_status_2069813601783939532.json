@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965765123383197696"
+      ],
+      "media_source_tweet_id": [
+        "1965765129125114154"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069813601783939532",
+    "created_at": "2026-06-24T16:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069813601783939532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1283991018690342914",
+          "start": 3,
+          "username": "haruitigo15"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xj0hDDGxwn",
+          "end": 52,
+          "expanded_url": "https://x.com/haruitigo15/status/1965765129125114154/photo/1",
+          "media_key": "3_1965765123383197696",
+          "start": 29,
+          "url": "https://t.co/xj0hDDGxwn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069813601783939532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965765129125114154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haruitigo15: おにいさんだーいすき💕 https://t.co/xj0hDDGxwn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1403,
+        "media_key": "3_1965765123383197696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0fM9vMbgAAO63M.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965765123383197696"
+          ],
+          "media_source_tweet_id": [
+            "1965765129125114154"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069813601783939532",
+        "created_at": "2026-06-24T16:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069813601783939532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1283991018690342914",
+              "start": 3,
+              "username": "haruitigo15"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xj0hDDGxwn",
+              "end": 52,
+              "expanded_url": "https://x.com/haruitigo15/status/1965765129125114154/photo/1",
+              "media_key": "3_1965765123383197696",
+              "start": 29,
+              "url": "https://t.co/xj0hDDGxwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069813601783939532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965765129125114154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haruitigo15: おにいさんだーいすき💕 https://t.co/xj0hDDGxwn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965765123383197696"
+          ]
+        },
+        "author_id": "1283991018690342914",
+        "conversation_id": "1965765129125114154",
+        "created_at": "2025-09-10T13:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T14:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965765129125114154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xj0hDDGxwn",
+              "end": 35,
+              "expanded_url": "https://x.com/haruitigo15/status/1965765129125114154/photo/1",
+              "media_key": "3_1965765123383197696",
+              "start": 12,
+              "url": "https://t.co/xj0hDDGxwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965765129125114154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 192,
+          "impression_count": 20018,
+          "like_count": 925,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "おにいさんだーいすき💕 https://t.co/xj0hDDGxwn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 140,
+          "like_count": 4541,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 850
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-17T05:04:59.000Z",
+        "description": "𝕀𝕝𝕝𝕦𝕤𝕥𝕣𝕒𝕥𝕠𝕣♡けもみみとコラボカフェが大好きな絵描きです🍓🌸 ◆電撃萌王/猫りん堂/商業漫画連載etc/コラボカフェ開催実績あり◆26年9月着手ご依頼受付中 haruitigo15@gmail.com￤https://t.co/RgvxIzhOec 🏷 #あめすいフォト",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 132,
+                "tag": "あめすいフォト"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@haruitigo15",
+                "end": 129,
+                "expanded_url": "http://skeb.jp/@haruitigo15",
+                "start": 106,
+                "url": "https://t.co/RgvxIzhOec"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanbox.cc/@haruitigo15",
+                "end": 23,
+                "expanded_url": "https://www.fanbox.cc/@haruitigo15",
+                "start": 0,
+                "url": "https://t.co/vpLCvAYCvX"
+              }
+            ]
+          }
+        },
+        "id": "1283991018690342914",
+        "location": "イベント予定￤夏コミ（両日）→コミ1→冬コミ",
+        "name": "はるいちご🍓1日目♡東エ49b/2日目♡東ク41a♡",
+        "pinned_tweet_id": "2062814000644301018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941114080951144449/7ouyRXq3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13407,
+          "following_count": 290,
+          "like_count": 19447,
+          "listed_count": 144,
+          "media_count": 396,
+          "tweet_count": 15057
+        },
+        "url": "https://t.co/vpLCvAYCvX",
+        "username": "haruitigo15",
+        "verified": false
+      }
+    ]
+  }
+}

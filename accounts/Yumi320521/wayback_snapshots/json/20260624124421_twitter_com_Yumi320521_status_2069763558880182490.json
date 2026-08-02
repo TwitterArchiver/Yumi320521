@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069763558880182490",
+    "created_at": "2026-06-24T12:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T13:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069763558880182490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/triplespacebos…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/triplespaceboss/status/2069648395116155059",
+          "start": 18,
+          "url": "https://t.co/woWi1enXcd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069763558880182490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069648395116155059",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天堂呢 不过更喜欢set 太可爱了 https://t.co/woWi1enXcd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069648384919826432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjePZkbcAAbBae.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1018,
+        "media_key": "3_2069648384919744512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjePZkaMAAV8VV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 624,
+        "media_key": "3_2069648384932376576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjePZna8AAeuEZ.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069763558880182490",
+        "created_at": "2026-06-24T12:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069763558880182490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/triplespacebos…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/triplespaceboss/status/2069648395116155059",
+              "start": 18,
+              "url": "https://t.co/woWi1enXcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069763558880182490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069648395116155059",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天堂呢 不过更喜欢set 太可爱了 https://t.co/woWi1enXcd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069648384919826432",
+            "3_2069648384919744512",
+            "3_2069648384932376576"
+          ]
+        },
+        "author_id": "2011285305018761218",
+        "conversation_id": "2069648395116155059",
+        "created_at": "2026-06-24T05:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069648395116155059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DzFgyJEmqB",
+              "end": 39,
+              "expanded_url": "https://x.com/triplespaceboss/status/2069648395116155059/photo/1",
+              "media_key": "3_2069648384919826432",
+              "start": 16,
+              "url": "https://t.co/DzFgyJEmqB"
+            },
+            {
+              "display_url": "pic.x.com/DzFgyJEmqB",
+              "end": 39,
+              "expanded_url": "https://x.com/triplespaceboss/status/2069648395116155059/photo/1",
+              "media_key": "3_2069648384919744512",
+              "start": 16,
+              "url": "https://t.co/DzFgyJEmqB"
+            },
+            {
+              "display_url": "pic.x.com/DzFgyJEmqB",
+              "end": 39,
+              "expanded_url": "https://x.com/triplespaceboss/status/2069648395116155059/photo/1",
+              "media_key": "3_2069648384932376576",
+              "start": 16,
+              "url": "https://t.co/DzFgyJEmqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069648395116155059",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 7079,
+          "like_count": 193,
+          "quote_count": 24,
+          "reply_count": 3,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "당신의 취향은 몇 번인가요? https://t.co/DzFgyJEmqB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 140,
+          "like_count": 4487,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 841
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T03:52:54.000Z",
+        "description": "특이한 사람",
+        "id": "2011285305018761218",
+        "name": "우주스페이스공간최고깡패",
+        "pinned_tweet_id": "2068834077869027433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068435880654798848/Zv7wl-98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 163,
+          "like_count": 3485,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1764
+        },
+        "url": "",
+        "username": "triplespaceboss",
+        "verified": false
+      }
+    ]
+  }
+}

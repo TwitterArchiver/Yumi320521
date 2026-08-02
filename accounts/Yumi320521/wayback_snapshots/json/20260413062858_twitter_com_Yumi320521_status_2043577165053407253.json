@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2043186019944779776"
+      ],
+      "media_source_tweet_id": [
+        "2043186085409513685"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2043577165053407253",
+    "created_at": "2026-04-13T06:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043577165053407253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955980103688790017",
+          "start": 3,
+          "username": "aaarjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8edBy1uZ30",
+          "end": 57,
+          "expanded_url": "https://x.com/aaarjkk/status/2043186085409513685/video/1",
+          "media_key": "7_2043186019944779776",
+          "start": 34,
+          "url": "https://t.co/8edBy1uZ30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043577165053407253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043186085409513685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaarjkk: 傻逼招笑广州禁毒😂把这个剪进去是何意味🤣 https://t.co/8edBy1uZ30"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11943,
+        "height": 1280,
+        "media_key": "7_2043186019944779776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2043186019944779776/pu/img/iqhb4Z9W84u_Ta5X.jpg",
+        "public_metrics": {
+          "view_count": 4209
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043186019944779776/pu/vid/avc1/320x702/PRXhxWzRUZ8mEIZQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043186019944779776/pu/vid/avc1/480x1054/GeSyORLLUfdxiZyQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043186019944779776/pu/vid/avc1/582x1280/a1zfrNHfeDYn6ehd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2043186019944779776/pu/pl/L4UgbM1tpSEcoRiA.m3u8?tag=12&v=fb6"
+          }
+        ],
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2043186019944779776"
+          ],
+          "media_source_tweet_id": [
+            "2043186085409513685"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2043577165053407253",
+        "created_at": "2026-04-13T06:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043577165053407253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955980103688790017",
+              "start": 3,
+              "username": "aaarjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8edBy1uZ30",
+              "end": 57,
+              "expanded_url": "https://x.com/aaarjkk/status/2043186085409513685/video/1",
+              "media_key": "7_2043186019944779776",
+              "start": 34,
+              "url": "https://t.co/8edBy1uZ30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043577165053407253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043186085409513685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaarjkk: 傻逼招笑广州禁毒😂把这个剪进去是何意味🤣 https://t.co/8edBy1uZ30"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2043186019944779776"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2043186085409513685",
+        "created_at": "2026-04-12T04:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043186085409513685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8edBy1uZ30",
+              "end": 44,
+              "expanded_url": "https://x.com/aaarjkk/status/2043186085409513685/video/1",
+              "media_key": "7_2043186019944779776",
+              "start": 21,
+              "url": "https://t.co/8edBy1uZ30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043186085409513685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9471,
+          "like_count": 122,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼招笑广州禁毒😂把这个剪进去是何意味🤣 https://t.co/8edBy1uZ30"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 40,
+          "like_count": 515,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 72
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 562,
+          "like_count": 9009,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1101
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

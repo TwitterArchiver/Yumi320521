@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2076068587719332301",
+    "created_at": "2026-07-11T22:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T23:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076068587719332301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2042549295791116291",
+          "start": 3,
+          "username": "woundedcutie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076068587719332301",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 966
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075867460881047899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woundedcutie: why is suicide so fucking difficult?? i don’t have access to firearms, oding will most likely fail and cause me permanent…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2076068587719332301",
+        "created_at": "2026-07-11T22:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T23:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076068587719332301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2042549295791116291",
+              "start": 3,
+              "username": "woundedcutie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076068587719332301",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 966
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075867460881047899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woundedcutie: why is suicide so fucking difficult?? i don’t have access to firearms, oding will most likely fail and cause me permanent…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042549295791116291",
+        "conversation_id": "2075867460881047899",
+        "created_at": "2026-07-11T08:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075867460881047899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075867460881047899",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 387,
+          "impression_count": 164208,
+          "like_count": 5472,
+          "quote_count": 49,
+          "reply_count": 97,
+          "retweet_count": 966
+        },
+        "reply_settings": "everyone",
+        "text": "why is suicide so fucking difficult?? i don’t have access to firearms, oding will most likely fail and cause me permanent kidney damage, bleeding out is highly unlikely, i don’t have the tools to hang myself 😭💔 i wish i could js fall asleep and never wake up again"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n致死 及ぶさ オーバードース🐈‍⬛🐾\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 153,
+          "like_count": 5571,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 1397
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T10:27:46.000Z",
+        "description": "heavensent 𓏵 girlfailure. follow limited | block don’t report!!",
+        "id": "2042549295791116291",
+        "name": "angel🪽་༘࿐",
+        "pinned_tweet_id": "2043887655306637696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042810397464608768/HAeYU918_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 227,
+          "like_count": 1450,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 382
+        },
+        "url": "",
+        "username": "woundedcutie",
+        "verified": false
+      }
+    ]
+  }
+}

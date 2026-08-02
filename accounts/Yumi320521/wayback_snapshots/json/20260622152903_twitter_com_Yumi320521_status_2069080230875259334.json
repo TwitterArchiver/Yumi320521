@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069038622981201921"
+      ],
+      "media_source_tweet_id": [
+        "2069038631369773302"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      }
+    ],
+    "conversation_id": "2069080230875259334",
+    "created_at": "2026-06-22T15:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069080230875259334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1396516557002461187",
+          "start": 3,
+          "username": "nekopantisuru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/56p2vmjBTb",
+          "end": 62,
+          "expanded_url": "https://x.com/nekopantisuru/status/2069038631369773302/photo/1",
+          "media_key": "3_2069038622981201921",
+          "start": 39,
+          "url": "https://t.co/56p2vmjBTb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069080230875259334",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069038631369773302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekopantisuru: このジュースだいすきᐡ- ·̫ -ᐡฅ https://t.co/56p2vmjBTb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069038622981201921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLazqlVboAEjblV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069038622981201921"
+          ],
+          "media_source_tweet_id": [
+            "2069038631369773302"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2069080230875259334",
+        "created_at": "2026-06-22T15:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069080230875259334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1396516557002461187",
+              "start": 3,
+              "username": "nekopantisuru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/56p2vmjBTb",
+              "end": 62,
+              "expanded_url": "https://x.com/nekopantisuru/status/2069038631369773302/photo/1",
+              "media_key": "3_2069038622981201921",
+              "start": 39,
+              "url": "https://t.co/56p2vmjBTb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069080230875259334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069038631369773302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekopantisuru: このジュースだいすきᐡ- ·̫ -ᐡฅ https://t.co/56p2vmjBTb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069038622981201921"
+          ]
+        },
+        "author_id": "1396516557002461187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2069038631369773302",
+        "created_at": "2026-06-22T12:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069038631369773302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/56p2vmjBTb",
+              "end": 43,
+              "expanded_url": "https://x.com/nekopantisuru/status/2069038631369773302/photo/1",
+              "media_key": "3_2069038622981201921",
+              "start": 20,
+              "url": "https://t.co/56p2vmjBTb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069038631369773302",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1967,
+          "like_count": 168,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "このジュースだいすきᐡ- ·̫ -ᐡฅ https://t.co/56p2vmjBTb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 137,
+          "like_count": 4082,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 735
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-23T17:21:16.000Z",
+        "description": "⛓️【@villains_info】❤️‍🩹 【@churumazui】⛓️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "villains_info"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "churumazui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nekopantisuru",
+                "end": 23,
+                "expanded_url": "http://instagram.com/nekopantisuru",
+                "start": 0,
+                "url": "https://t.co/jrCCIMlgFp"
+              }
+            ]
+          }
+        },
+        "id": "1396516557002461187",
+        "location": "DMみれない",
+        "name": "ヒメノ･フォティア【VILLAINS HOUSE】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050037684375330816/CxUqt2GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5138,
+          "following_count": 82,
+          "like_count": 24933,
+          "listed_count": 32,
+          "media_count": 365,
+          "tweet_count": 7473
+        },
+        "url": "https://t.co/jrCCIMlgFp",
+        "username": "nekopantisuru",
+        "verified": false
+      }
+    ]
+  }
+}

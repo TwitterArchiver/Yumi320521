@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2073743430728163742",
+    "created_at": "2026-07-07T13:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T14:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074483637693890808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2072626235994484736",
+          "start": 0,
+          "username": "musiovooooo"
+        },
+        {
+          "end": 25,
+          "id": "1944419689326858240",
+          "start": 13,
+          "username": "NanamiXuebi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074483637693890808",
+    "in_reply_to_user_id": "2072626235994484736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074420669291622853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@musiovooooo @NanamiXuebi 我不是跨妹啊（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2073743430728163742",
+        "created_at": "2026-07-07T13:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074483637693890808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2072626235994484736",
+              "start": 0,
+              "username": "musiovooooo"
+            },
+            {
+              "end": 25,
+              "id": "1944419689326858240",
+              "start": 13,
+              "username": "NanamiXuebi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074483637693890808",
+        "in_reply_to_user_id": "2072626235994484736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074420669291622853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@musiovooooo @NanamiXuebi 我不是跨妹啊（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072626235994484736",
+        "conversation_id": "2073743430728163742",
+        "created_at": "2026-07-07T09:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074420669291622853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            },
+            {
+              "end": 24,
+              "id": "1944419689326858240",
+              "start": 12,
+              "username": "NanamiXuebi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074420669291622853",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074374347234652630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 @NanamiXuebi 我找他买的qw，还挺便宜的3753209344 q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 147,
+          "like_count": 5347,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1241
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-02T10:21:03.000Z",
+        "description": "你好呀这里是雪梨酱，一名普通的糖商～所有物品均为现货两天内发出～，有售泰补，土色，日雌 pr等",
+        "id": "2072626235994484736",
+        "name": "雪梨酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073684874742157312/glUqjJez_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 13,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "musiovooooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T15:32:50.000Z",
+        "description": "生日2008.10.14 ip上海 男的 丑逼 偶尔能女装 hrt2025.12.18\n自残只是因为压力大，心理没什么问题，不要讨厌我，我也不od不鉴证\n欢迎来找我玩\nqq3846809545",
+        "id": "1944419689326858240",
+        "location": "距离你-11cm",
+        "name": "99新🍥",
+        "pinned_tweet_id": "2010908804645601308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944419862958456832/lLSvkg_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 166,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 772
+        },
+        "url": "",
+        "username": "NanamiXuebi",
+        "verified": false
+      }
+    ]
+  }
+}

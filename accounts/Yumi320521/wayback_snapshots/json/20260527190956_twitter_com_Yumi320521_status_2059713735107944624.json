@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058512734455795712",
+        "3_2058512759978168320"
+      ],
+      "media_source_tweet_id": [
+        "2059590447249473905",
+        "2059590447249473905"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059713735107944624",
+    "created_at": "2026-05-27T19:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059713735107944624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1136927581",
+          "start": 3,
+          "username": "mokyu_57"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dNPJCSPRjO",
+          "end": 51,
+          "expanded_url": "https://x.com/mokyu_57/status/2059590447249473905/photo/1",
+          "media_key": "3_2058512734455795712",
+          "start": 28,
+          "url": "https://t.co/dNPJCSPRjO"
+        },
+        {
+          "display_url": "pic.x.com/dNPJCSPRjO",
+          "end": 51,
+          "expanded_url": "https://x.com/mokyu_57/status/2059590447249473905/photo/1",
+          "media_key": "3_2058512759978168320",
+          "start": 28,
+          "url": "https://t.co/dNPJCSPRjO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059713735107944624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 430
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059590447249473905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mokyu_57: ヤンデレ元同級生に〇される https://t.co/dNPJCSPRjO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2058512734455795712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFObO7bEAAivRP.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1800,
+        "media_key": "3_2058512759978168320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFOcuAbkAAwyAf.png",
+        "width": 1300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058512734455795712",
+            "3_2058512759978168320"
+          ],
+          "media_source_tweet_id": [
+            "2059590447249473905",
+            "2059590447249473905"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059713735107944624",
+        "created_at": "2026-05-27T19:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059713735107944624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1136927581",
+              "start": 3,
+              "username": "mokyu_57"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dNPJCSPRjO",
+              "end": 51,
+              "expanded_url": "https://x.com/mokyu_57/status/2059590447249473905/photo/1",
+              "media_key": "3_2058512734455795712",
+              "start": 28,
+              "url": "https://t.co/dNPJCSPRjO"
+            },
+            {
+              "display_url": "pic.x.com/dNPJCSPRjO",
+              "end": 51,
+              "expanded_url": "https://x.com/mokyu_57/status/2059590447249473905/photo/1",
+              "media_key": "3_2058512759978168320",
+              "start": 28,
+              "url": "https://t.co/dNPJCSPRjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059713735107944624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 430
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059590447249473905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mokyu_57: ヤンデレ元同級生に〇される https://t.co/dNPJCSPRjO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058512734455795712",
+            "3_2058512759978168320"
+          ]
+        },
+        "author_id": "1136927581",
+        "conversation_id": "2059590447249473905",
+        "created_at": "2026-05-27T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059590447249473905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dNPJCSPRjO",
+              "end": 37,
+              "expanded_url": "https://x.com/mokyu_57/status/2059590447249473905/photo/1",
+              "media_key": "3_2058512734455795712",
+              "start": 14,
+              "url": "https://t.co/dNPJCSPRjO"
+            },
+            {
+              "display_url": "pic.x.com/dNPJCSPRjO",
+              "end": 37,
+              "expanded_url": "https://x.com/mokyu_57/status/2059590447249473905/photo/1",
+              "media_key": "3_2058512759978168320",
+              "start": 14,
+              "url": "https://t.co/dNPJCSPRjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059590447249473905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 769,
+          "impression_count": 163296,
+          "like_count": 6098,
+          "quote_count": 86,
+          "reply_count": 0,
+          "retweet_count": 430
+        },
+        "reply_settings": "everyone",
+        "text": "ヤンデレ元同級生に〇される https://t.co/dNPJCSPRjO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 79,
+          "like_count": 1926,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 633
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-31T12:55:28.000Z",
+        "description": "Yuya Naco / 創作中心のお絵描きとゲーム制作 / 男女カプのみ / ヤンデレと共依存が大好きです / AI学習❌ / しばらくゲーム制作に集中するため浮上低です / ✨️skeb： https://t.co/fxx85vrXKz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mokyu_57",
+                "end": 119,
+                "expanded_url": "http://skeb.jp/@mokyu_57",
+                "start": 96,
+                "url": "https://t.co/fxx85vrXKz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naco57.wixsite.com/yorukata",
+                "end": 23,
+                "expanded_url": "https://naco57.wixsite.com/yorukata",
+                "start": 0,
+                "url": "https://t.co/VwDtmjZ3ux"
+              }
+            ]
+          }
+        },
+        "id": "1136927581",
+        "location": "よるのかたすみ",
+        "name": "夕夜なこ",
+        "pinned_tweet_id": "1682770634219323392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789984121168797696/a4_5BcQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 231,
+          "like_count": 25651,
+          "listed_count": 32,
+          "media_count": 2076,
+          "tweet_count": 55427
+        },
+        "url": "https://t.co/VwDtmjZ3ux",
+        "username": "mokyu_57",
+        "verified": false
+      }
+    ]
+  }
+}

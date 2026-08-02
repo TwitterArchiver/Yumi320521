@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050314602169397248"
+      ],
+      "media_source_tweet_id": [
+        "2050314608116973889"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2050532933136707622",
+    "created_at": "2026-05-02T11:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T12:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050532933136707622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1575411450574647296",
+          "start": 3,
+          "username": "arca20220921"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FGjEArZo2l",
+          "end": 51,
+          "expanded_url": "https://x.com/arca20220921/status/2050314608116973889/photo/1",
+          "media_key": "3_2050314602169397248",
+          "start": 28,
+          "url": "https://t.co/FGjEArZo2l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050532933136707622",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 464
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050314608116973889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arca20220921: くろねこのなでろや https://t.co/FGjEArZo2l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_2050314602169397248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQuRIQacAAGh1b.jpg",
+        "width": 1477
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050314602169397248"
+          ],
+          "media_source_tweet_id": [
+            "2050314608116973889"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2050532933136707622",
+        "created_at": "2026-05-02T11:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050532933136707622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1575411450574647296",
+              "start": 3,
+              "username": "arca20220921"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGjEArZo2l",
+              "end": 51,
+              "expanded_url": "https://x.com/arca20220921/status/2050314608116973889/photo/1",
+              "media_key": "3_2050314602169397248",
+              "start": 28,
+              "url": "https://t.co/FGjEArZo2l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050532933136707622",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 464
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050314608116973889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arca20220921: くろねこのなでろや https://t.co/FGjEArZo2l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050314602169397248"
+          ]
+        },
+        "author_id": "1575411450574647296",
+        "conversation_id": "2050314608116973889",
+        "created_at": "2026-05-01T20:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T21:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050314608116973889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGjEArZo2l",
+              "end": 33,
+              "expanded_url": "https://x.com/arca20220921/status/2050314608116973889/photo/1",
+              "media_key": "3_2050314602169397248",
+              "start": 10,
+              "url": "https://t.co/FGjEArZo2l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050314608116973889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 43362,
+          "like_count": 5195,
+          "quote_count": 12,
+          "reply_count": 15,
+          "retweet_count": 464
+        },
+        "reply_settings": "everyone",
+        "text": "くろねこのなでろや https://t.co/FGjEArZo2l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "茶柚/Yumi 16 153/73\n桃井爱莉｜同担拒否｜地雷系｜od\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 50,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 140
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-29T09:05:45.000Z",
+        "description": "保存、無断転載等禁止【Do not repost.】\n🖤黒猫8、ブラックスモーク(黒トラ)1の9にゃん🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Un4v5s8bgsVk9X…",
+                "end": 23,
+                "expanded_url": "https://x.com/Un4v5s8bgsVk9Xp?t=K8dKJGALogyduPNYvoMeHQ&s=09",
+                "start": 0,
+                "url": "https://t.co/GkqVANvav4"
+              }
+            ]
+          }
+        },
+        "id": "1575411450574647296",
+        "location": "パドキア共和国デントラ地区ククルーマウンテン",
+        "name": "黒猫一家🐭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609794350594297859/psVcCZti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9010,
+          "following_count": 256,
+          "like_count": 371917,
+          "listed_count": 112,
+          "media_count": 46,
+          "tweet_count": 15436
+        },
+        "url": "https://t.co/GkqVANvav4",
+        "username": "arca20220921",
+        "verified": true
+      }
+    ]
+  }
+}

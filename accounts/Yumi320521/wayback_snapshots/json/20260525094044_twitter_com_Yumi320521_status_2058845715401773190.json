@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058845715401773190",
+    "created_at": "2026-05-25T09:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058845715401773190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058845715401773190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058444137402417312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 我讨厌我们是在网络上认识的，如果我们是现实中认识的就好了。那样我们可以晚上出来散步，生活不顺心的时候可以和你聊天，有想吃的、想要的可以立刻出来买、出来玩。我伤心了你可以安慰我，而不是在网络上嘘寒问暖。其实这些都不重要，如果现实中认识的话，我还可以每天看…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058845715401773190",
+        "created_at": "2026-05-25T09:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058845715401773190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058845715401773190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058444137402417312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 我讨厌我们是在网络上认识的，如果我们是现实中认识的就好了。那样我们可以晚上出来散步，生活不顺心的时候可以和你聊天，有想吃的、想要的可以立刻出来买、出来玩。我伤心了你可以安慰我，而不是在网络上嘘寒问暖。其实这些都不重要，如果现实中认识的话，我还可以每天看…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2058444137402417312",
+        "created_at": "2026-05-24T07:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058444137402417312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058444137402417312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 25869,
+          "like_count": 917,
+          "quote_count": 19,
+          "reply_count": 42,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌我们是在网络上认识的，如果我们是现实中认识的就好了。那样我们可以晚上出来散步，生活不顺心的时候可以和你聊天，有想吃的、想要的可以立刻出来买、出来玩。我伤心了你可以安慰我，而不是在网络上嘘寒问暖。其实这些都不重要，如果现实中认识的话，我还可以每天看到你，这是我最想要的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 68,
+          "like_count": 1737,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 469
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9671,
+          "following_count": 5,
+          "like_count": 1160,
+          "listed_count": 30,
+          "media_count": 108,
+          "tweet_count": 2375
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

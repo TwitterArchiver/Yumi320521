@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069272949199417433",
+    "created_at": "2026-06-23T14:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069421086547284094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011858946206941186",
+          "start": 0,
+          "username": "ZhondongRuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069421086547284094",
+    "in_reply_to_user_id": "2011858946206941186",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069272949199417433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhondongRuo omg😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13143,
+        "height": 1280,
+        "media_key": "7_2069272917993734144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2069272917993734144/pu/img/4Kk64S8ssI21uKur.jpg",
+        "public_metrics": {
+          "view_count": 270026
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069272917993734144/pu/vid/avc1/320x568/i7wVlUVO_XlsHfYt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069272917993734144/pu/vid/avc1/480x852/j0Dmai9_gSHzZ9xb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069272917993734144/pu/vid/avc1/720x1280/JibJ9RaJjUpCxG7n.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2069272917993734144/pu/pl/PznQrcFGg-7FhJ3V.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069272949199417433",
+        "created_at": "2026-06-23T14:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069421086547284094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011858946206941186",
+              "start": 0,
+              "username": "ZhondongRuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069421086547284094",
+        "in_reply_to_user_id": "2011858946206941186",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069272949199417433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhondongRuo omg😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2069272917993734144"
+          ]
+        },
+        "author_id": "2011858946206941186",
+        "conversation_id": "2069272949199417433",
+        "created_at": "2026-06-23T04:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069272949199417433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6Mst3ozKo",
+              "end": 169,
+              "expanded_url": "https://x.com/ZhondongRuo/status/2069272949199417433/video/1",
+              "media_key": "7_2069272917993734144",
+              "start": 146,
+              "url": "https://t.co/x6Mst3ozKo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069272949199417433",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 513174,
+          "like_count": 687,
+          "quote_count": 5,
+          "reply_count": 358,
+          "retweet_count": 272
+        },
+        "reply_settings": "everyone",
+        "text": "This is how a hair transplant works! 💇‍♂️✨ One graft at a time, creating a natural hairline and a brand-new look. The transformation starts here. https://t.co/x6Mst3ozKo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 138,
+          "like_count": 4375,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 795
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T17:52:39.000Z",
+        "description": "Strong",
+        "id": "2011858946206941186",
+        "name": "Quen Za",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012129485894864896/FLiTV0XI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 976,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "ZhondongRuo",
+        "verified": true
+      }
+    ]
+  }
+}

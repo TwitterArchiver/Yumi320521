@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      }
+    ],
+    "conversation_id": "2059836698864107837",
+    "created_at": "2026-05-28T03:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059836698864107837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1629683165853016064",
+          "start": 3,
+          "username": "nqmcjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059836698864107837",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059584195115274569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nqmcjj: メイク下手な顔整いイライラする\nもっと活かせよその顔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2059836698864107837",
+        "created_at": "2026-05-28T03:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059836698864107837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1629683165853016064",
+              "start": 3,
+              "username": "nqmcjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059836698864107837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059584195115274569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nqmcjj: メイク下手な顔整いイライラする\nもっと活かせよその顔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629683165853016064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2059584195115274569",
+        "created_at": "2026-05-27T10:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059584195115274569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059584195115274569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 108077,
+          "like_count": 3514,
+          "quote_count": 23,
+          "reply_count": 5,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "メイク下手な顔整いイライラする\nもっと活かせよその顔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 80,
+          "like_count": 1945,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 642
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T03:22:06.000Z",
+        "description": "顔面コンプで青春コンプで他責思考のカス/👊🩸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/tttgl1txanwrwf…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/tttgl1txanwrwfx?t=QJ5LNP&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/amKYFZMP9z"
+              }
+            ]
+          }
+        },
+        "id": "1629683165853016064",
+        "name": "ガキは黙ってろ",
+        "pinned_tweet_id": "2047906510848811051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629686530745966599/AIqaqPj5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1992,
+          "following_count": 69,
+          "like_count": 18345,
+          "listed_count": 7,
+          "media_count": 533,
+          "tweet_count": 4363
+        },
+        "url": "https://t.co/amKYFZMP9z",
+        "username": "nqmcjj",
+        "verified": false
+      }
+    ]
+  }
+}

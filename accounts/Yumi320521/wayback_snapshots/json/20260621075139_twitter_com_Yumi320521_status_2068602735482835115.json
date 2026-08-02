@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2067950902544413174",
+    "created_at": "2026-06-21T07:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068602735482835115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1774278217253433344",
+          "start": 0,
+          "username": "7ksti4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068602735482835115",
+    "in_reply_to_user_id": "1774278217253433344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068602489453310279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7ksti4 你就宠我吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2067950902544413174",
+        "created_at": "2026-06-21T07:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068602735482835115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068602735482835115",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068602489453310279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 你就宠我吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067950902544413174",
+        "created_at": "2026-06-21T07:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068602489453310279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068602489453310279",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067950902544413174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 咋这么萌☺️☺️☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 127,
+          "like_count": 3823,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 683
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 422,
+          "like_count": 4462,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 288
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2052584256992682177",
+    "created_at": "2026-05-08T03:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052584685738541264"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052584685738541264",
+    "in_reply_to_user_id": "2040070879888220160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052584256992682177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抖人笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_2052584244132888576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHw-frcawAA2jA6.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2052584256992682177",
+        "created_at": "2026-05-08T03:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052584685738541264"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052584685738541264",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052584256992682177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抖人笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052584244132888576"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2052584256992682177",
+        "created_at": "2026-05-08T02:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T03:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052584256992682177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CzFZYtqFua",
+              "end": 30,
+              "expanded_url": "https://x.com/Yumi320521/status/2052584256992682177/photo/1",
+              "media_key": "3_2052584244132888576",
+              "start": 7,
+              "url": "https://t.co/CzFZYtqFua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052584256992682177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刀削面是啥😋 https://t.co/CzFZYtqFua"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "💙ゆず🩵🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 65,
+          "like_count": 1096,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 212
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

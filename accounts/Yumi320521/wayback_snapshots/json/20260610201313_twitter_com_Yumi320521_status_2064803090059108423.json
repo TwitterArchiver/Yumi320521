@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064803082383605760"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2064803090059108423",
+    "created_at": "2026-06-10T20:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T21:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064803090059108423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K5KGbh7uiN",
+          "end": 55,
+          "expanded_url": "https://x.com/Yumi320521/status/2064803090059108423/photo/1",
+          "media_key": "3_2064803082383605760",
+          "start": 32,
+          "url": "https://t.co/K5KGbh7uiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064803090059108423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自画像\n不是粉色不是量产不是华丽 一个最普通不过的女孩子….. https://t.co/K5KGbh7uiN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1953,
+        "media_key": "3_2064803082383605760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKendrCbQAA7R2P.jpg",
+        "width": 1953
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064803082383605760"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2064803090059108423",
+        "created_at": "2026-06-10T20:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T21:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064803090059108423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K5KGbh7uiN",
+              "end": 55,
+              "expanded_url": "https://x.com/Yumi320521/status/2064803090059108423/photo/1",
+              "media_key": "3_2064803082383605760",
+              "start": 32,
+              "url": "https://t.co/K5KGbh7uiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064803090059108423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自画像\n不是粉色不是量产不是华丽 一个最普通不过的女孩子….. https://t.co/K5KGbh7uiN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 135,
+          "like_count": 3158,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 554
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

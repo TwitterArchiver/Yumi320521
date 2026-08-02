@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2060929814769598974",
+    "created_at": "2026-05-31T03:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T04:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060929814769598974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pj_sekai/statu…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/pj_sekai/status/2060920757778305222",
+          "start": 44,
+          "url": "https://t.co/2Rd76hgmF4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060929814769598974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060920757778305222",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看pyq他们都在发 我还真以为是小彩 虽然这两个女孩子我都喜欢 但有点难受💦不像🍑了 https://t.co/2Rd76hgmF4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2060920753865084928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJncgaRb0AAeUgW.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2060929814769598974",
+        "created_at": "2026-05-31T03:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060929814769598974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pj_sekai/statu…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/pj_sekai/status/2060920757778305222",
+              "start": 44,
+              "url": "https://t.co/2Rd76hgmF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060929814769598974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060920757778305222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看pyq他们都在发 我还真以为是小彩 虽然这两个女孩子我都喜欢 但有点难受💦不像🍑了 https://t.co/2Rd76hgmF4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060920753865084928"
+          ]
+        },
+        "author_id": "1158668053183266816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2060920757778305222",
+        "created_at": "2026-05-31T03:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060920757778305222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "プロセカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNVGB3nh9s",
+              "end": 113,
+              "expanded_url": "https://x.com/pj_sekai/status/2060920757778305222/photo/1",
+              "media_key": "3_2060920753865084928",
+              "start": 90,
+              "url": "https://t.co/uNVGB3nh9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060920757778305222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 207409,
+          "like_count": 10364,
+          "quote_count": 1268,
+          "reply_count": 54,
+          "retweet_count": 3403
+        },
+        "reply_settings": "everyone",
+        "text": "『ヴェールの向こうのあなたへガチャ』開催中🤍\n登場する★4メンバーを紹介✨\n\n【まるでプリンセス！？】★4 桃井愛莉\n\n※期間限定メンバーは再登場する可能性があります\n#プロセカ https://t.co/uNVGB3nh9s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 88,
+          "like_count": 2390,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 790
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-06T09:16:05.000Z",
+        "description": "SEGA×Colorful Paletteが贈る、スマートフォンリズムゲーム #プロセカ 公式アカウント\nクリスタルをお得に買える公式ストアはこちら：https://t.co/zacMyTdlWW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "プロセカ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pjsekai.sega.jp/webstore",
+                "end": 98,
+                "expanded_url": "https://pjsekai.sega.jp/webstore",
+                "start": 75,
+                "url": "https://t.co/zacMyTdlWW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.adjust.com/iaq3ido",
+                "end": 23,
+                "expanded_url": "https://app.adjust.com/iaq3ido",
+                "start": 0,
+                "url": "https://t.co/joevC53VDM"
+              }
+            ]
+          }
+        },
+        "id": "1158668053183266816",
+        "name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク【プロセカ】",
+        "pinned_tweet_id": "1839874318832152732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854064399478398976/W-uuO8DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2305537,
+          "following_count": 617,
+          "like_count": 27,
+          "listed_count": 8909,
+          "media_count": 14189,
+          "tweet_count": 19256
+        },
+        "url": "https://t.co/joevC53VDM",
+        "username": "pj_sekai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050667686053744640",
+        "3_2050667686045306880"
+      ],
+      "media_source_tweet_id": [
+        "2050667693024625108",
+        "2050667693024625108"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1242456347066548225",
+          "name": "Hair dyeing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1242456347066548225",
+          "name": "Hair dyeing"
+        }
+      }
+    ],
+    "conversation_id": "2050775895930286332",
+    "created_at": "2026-05-03T03:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T04:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050775895930286332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2545578348",
+          "start": 3,
+          "username": "wish_mayu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hNGGaBuFI5",
+          "end": 74,
+          "expanded_url": "https://x.com/wish_mayu/status/2050667693024625108/photo/1",
+          "media_key": "3_2050667686053744640",
+          "start": 51,
+          "url": "https://t.co/hNGGaBuFI5"
+        },
+        {
+          "display_url": "pic.x.com/hNGGaBuFI5",
+          "end": 74,
+          "expanded_url": "https://x.com/wish_mayu/status/2050667693024625108/photo/1",
+          "media_key": "3_2050667686045306880",
+          "start": 51,
+          "url": "https://t.co/hNGGaBuFI5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050775895930286332",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050667693024625108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wish_mayu: これは地毛の黒髪にピンクのエクステンションをつけて作ってることが多いよ https://t.co/hNGGaBuFI5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1904,
+        "media_key": "3_2050667686053744640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVvZUObEAA_waw.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050667686045306880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVvZUMaUAAlay5.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050667686053744640",
+            "3_2050667686045306880"
+          ],
+          "media_source_tweet_id": [
+            "2050667693024625108",
+            "2050667693024625108"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1242456347066548225",
+              "name": "Hair dyeing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1242456347066548225",
+              "name": "Hair dyeing"
+            }
+          }
+        ],
+        "conversation_id": "2050775895930286332",
+        "created_at": "2026-05-03T03:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T04:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050775895930286332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2545578348",
+              "start": 3,
+              "username": "wish_mayu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNGGaBuFI5",
+              "end": 74,
+              "expanded_url": "https://x.com/wish_mayu/status/2050667693024625108/photo/1",
+              "media_key": "3_2050667686053744640",
+              "start": 51,
+              "url": "https://t.co/hNGGaBuFI5"
+            },
+            {
+              "display_url": "pic.x.com/hNGGaBuFI5",
+              "end": 74,
+              "expanded_url": "https://x.com/wish_mayu/status/2050667693024625108/photo/1",
+              "media_key": "3_2050667686045306880",
+              "start": 51,
+              "url": "https://t.co/hNGGaBuFI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050775895930286332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050667693024625108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wish_mayu: これは地毛の黒髪にピンクのエクステンションをつけて作ってることが多いよ https://t.co/hNGGaBuFI5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050667686053744640",
+            "3_2050667686045306880"
+          ]
+        },
+        "author_id": "2545578348",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1242456347066548225",
+              "name": "Hair dyeing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1242456347066548225",
+              "name": "Hair dyeing"
+            }
+          }
+        ],
+        "conversation_id": "2050667693024625108",
+        "created_at": "2026-05-02T20:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T21:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050667693024625108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNGGaBuFI5",
+              "end": 59,
+              "expanded_url": "https://x.com/wish_mayu/status/2050667693024625108/photo/1",
+              "media_key": "3_2050667686053744640",
+              "start": 36,
+              "url": "https://t.co/hNGGaBuFI5"
+            },
+            {
+              "display_url": "pic.x.com/hNGGaBuFI5",
+              "end": 59,
+              "expanded_url": "https://x.com/wish_mayu/status/2050667693024625108/photo/1",
+              "media_key": "3_2050667686045306880",
+              "start": 36,
+              "url": "https://t.co/hNGGaBuFI5"
+            },
+            {
+              "display_url": "x.com/niadolette/sta…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/niadolette/status/2050277903418474859",
+              "start": 60,
+              "url": "https://t.co/mQaEWAclMW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050667693024625108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 30400,
+          "like_count": 351,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050277903418474859",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "これは地毛の黒髪にピンクのエクステンションをつけて作ってることが多いよ https://t.co/hNGGaBuFI5 https://t.co/mQaEWAclMW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "茶柚/Yumi 16 153/73\n桃井爱莉｜同担拒否｜地雷系｜od\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 52,
+          "like_count": 945,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 160
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-04T08:48:23.000Z",
+        "description": "🎀🖤 Cultural Consultant👑Qoo10VIP コスメ好き💄ロリィタ / V系/地雷系/ex.姫ギャル🖤⚠️My world, my rules. 🥀Niche subculture space.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mond.how/ja/wish_mayu",
+                "end": 23,
+                "expanded_url": "https://mond.how/ja/wish_mayu",
+                "start": 0,
+                "url": "https://t.co/NSgN8Sj6dF"
+              }
+            ]
+          }
+        },
+        "id": "2545578348",
+        "location": "日本在住の日本人女性です！",
+        "name": "🖤🖤🖤Mayu🖤🖤🖤",
+        "pinned_tweet_id": "2029046403524350251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049994367109316608/8Z-MyxXJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3908,
+          "following_count": 1903,
+          "like_count": 12524,
+          "listed_count": 6,
+          "media_count": 1000,
+          "tweet_count": 15089
+        },
+        "url": "https://t.co/NSgN8Sj6dF",
+        "username": "wish_mayu",
+        "verified": true
+      }
+    ]
+  }
+}

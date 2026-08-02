@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067938247049887744"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2067938253047726256",
+    "created_at": "2026-06-19T11:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067938253047726256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fWbyw5IwgZ",
+          "end": 40,
+          "expanded_url": "https://x.com/Yumi320521/status/2067938253047726256/photo/1",
+          "media_key": "3_2067938247049887744",
+          "start": 17,
+          "url": "https://t.co/fWbyw5IwgZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067938253047726256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有人投喂我好饿想吃饭🥲😭😭💗 https://t.co/fWbyw5IwgZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2067938247049887744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLK4RjaQAA5swt.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067938247049887744"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2067938253047726256",
+        "created_at": "2026-06-19T11:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067938253047726256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWbyw5IwgZ",
+              "end": 40,
+              "expanded_url": "https://x.com/Yumi320521/status/2067938253047726256/photo/1",
+              "media_key": "3_2067938247049887744",
+              "start": 17,
+              "url": "https://t.co/fWbyw5IwgZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067938253047726256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人投喂我好饿想吃饭🥲😭😭💗 https://t.co/fWbyw5IwgZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 \n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2067556150426669153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067554649486573568/_C_kHJDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 121,
+          "like_count": 3629,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 669
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

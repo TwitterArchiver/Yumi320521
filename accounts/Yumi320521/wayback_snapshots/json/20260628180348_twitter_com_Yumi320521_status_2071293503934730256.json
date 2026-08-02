@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071070885923205120"
+      ],
+      "media_source_tweet_id": [
+        "2071070891480609144"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2071293503934730256",
+    "created_at": "2026-06-28T18:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T19:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071293503934730256"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 14,
+          "tag": "osagechanFA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1875913888505774080",
+          "start": 3,
+          "username": "uuuuua07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lwoWo1awo2",
+          "end": 50,
+          "expanded_url": "https://x.com/uuuuua07/status/2071070891480609144/photo/1",
+          "media_key": "3_2071070885923205120",
+          "start": 27,
+          "url": "https://t.co/lwoWo1awo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071293503934730256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 310
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071070891480609144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uuuuua07: #osagechanFA https://t.co/lwoWo1awo2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_2071070885923205120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3r_2wbMAASIPY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071070885923205120"
+          ],
+          "media_source_tweet_id": [
+            "2071070891480609144"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2071293503934730256",
+        "created_at": "2026-06-28T18:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T19:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071293503934730256"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 14,
+              "tag": "osagechanFA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1875913888505774080",
+              "start": 3,
+              "username": "uuuuua07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lwoWo1awo2",
+              "end": 50,
+              "expanded_url": "https://x.com/uuuuua07/status/2071070891480609144/photo/1",
+              "media_key": "3_2071070885923205120",
+              "start": 27,
+              "url": "https://t.co/lwoWo1awo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071293503934730256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 310
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071070891480609144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uuuuua07: #osagechanFA https://t.co/lwoWo1awo2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071070885923205120"
+          ]
+        },
+        "author_id": "1875913888505774080",
+        "conversation_id": "2071070891480609144",
+        "created_at": "2026-06-28T03:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T04:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071070891480609144"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "osagechanFA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lwoWo1awo2",
+              "end": 36,
+              "expanded_url": "https://x.com/uuuuua07/status/2071070891480609144/photo/1",
+              "media_key": "3_2071070885923205120",
+              "start": 13,
+              "url": "https://t.co/lwoWo1awo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071070891480609144",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 23337,
+          "like_count": 2369,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 310
+        },
+        "reply_settings": "everyone",
+        "text": "#osagechanFA https://t.co/lwoWo1awo2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 143,
+          "like_count": 4782,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 954
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T14:35:13.000Z",
+        "description": "お見積もりはdmか✉️からお願いします\nskeb↪︎https://t.co/XBNmkHewT8\n✉️ uqxond@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@uuuuua07",
+                "end": 49,
+                "expanded_url": "https://skeb.jp/@uuuuua07",
+                "start": 26,
+                "url": "https://t.co/XBNmkHewT8"
+              }
+            ]
+          }
+        },
+        "id": "1875913888505774080",
+        "name": "ua",
+        "pinned_tweet_id": "2054734001668342129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008505617682755585/CVsS1D_R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4087,
+          "following_count": 68,
+          "like_count": 832,
+          "listed_count": 25,
+          "media_count": 54,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "uuuuua07",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2057850215462576577",
+    "created_at": "2026-05-23T15:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058207253623345250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884872974861578240",
+          "start": 0,
+          "username": "Sp0ngeBob74"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058207253623345250",
+    "in_reply_to_user_id": "1884872974861578240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057850215462576577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sp0ngeBob74 我也是www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2057850215462576577",
+        "created_at": "2026-05-23T15:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058207253623345250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884872974861578240",
+              "start": 0,
+              "username": "Sp0ngeBob74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058207253623345250",
+        "in_reply_to_user_id": "1884872974861578240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057850215462576577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sp0ngeBob74 我也是www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884872974861578240",
+        "conversation_id": "2057850215462576577",
+        "created_at": "2026-05-22T15:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057850215462576577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057850215462576577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12795,
+          "like_count": 230,
+          "quote_count": 5,
+          "reply_count": 42,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我对任何人的占有欲都好强，哪怕对方只是刚认识的网友。。。我不行了。。这种坏习惯到底要怎么改。🙄🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残｜ISFP\n暂时未知原因发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 64,
+          "like_count": 1626,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 390
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T07:55:35.000Z",
+        "description": "取向没有你重要，我也喜欢你呀丨让我们推止于推好吗^^",
+        "id": "1884872974861578240",
+        "location": "0.78km",
+        "name": "海绵宝宝",
+        "pinned_tweet_id": "2058081161088544880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054805328869588992/YwhoOQz__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 95,
+          "like_count": 1451,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 482
+        },
+        "username": "Sp0ngeBob74",
+        "verified": false
+      }
+    ]
+  }
+}

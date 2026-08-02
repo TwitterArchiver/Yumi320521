@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2073031500224979045",
+    "created_at": "2026-07-03T13:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073033324780740797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1928858487901270018",
+          "start": 0,
+          "username": "HuaiYvXia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073033324780740797",
+    "in_reply_to_user_id": "1928858487901270018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073032503494164665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuaiYvXia 素 可能是染发缘故吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2073031500224979045",
+        "created_at": "2026-07-03T13:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073033324780740797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1928858487901270018",
+              "start": 0,
+              "username": "HuaiYvXia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073033324780740797",
+        "in_reply_to_user_id": "1928858487901270018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073032503494164665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuaiYvXia 素 可能是染发缘故吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928858487901270018",
+        "conversation_id": "2073031500224979045",
+        "created_at": "2026-07-03T13:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073032503494164665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073032503494164665",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073031500224979045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 你才16？这么小吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 144,
+          "like_count": 5183,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1155
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T16:58:13.000Z",
+        "description": "希望能博您一笑",
+        "id": "1928858487901270018",
+        "location": "互联网",
+        "name": "紫菊花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058529423352381440/Yg5PJtXJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 110,
+          "like_count": 1703,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 329
+        },
+        "url": "",
+        "username": "HuaiYvXia",
+        "verified": false
+      }
+    ]
+  }
+}

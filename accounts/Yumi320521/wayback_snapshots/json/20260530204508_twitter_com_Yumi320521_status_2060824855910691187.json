@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060743972306206723"
+      ],
+      "media_source_tweet_id": [
+        "2060743973950325019"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060824855910691187",
+    "created_at": "2026-05-30T20:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T21:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060824855910691187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1824956056398598145",
+          "start": 3,
+          "username": "gazzettee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hSil7cFcMH",
+          "end": 82,
+          "expanded_url": "https://x.com/gazzettee/status/2060743973950325019/photo/1",
+          "media_key": "3_2060743972306206723",
+          "start": 59,
+          "url": "https://t.co/hSil7cFcMH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060824855910691187",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 914
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060743973950325019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gazzettee: account so small that this makes me excited https://t.co/hSil7cFcMH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 380,
+        "media_key": "3_2060743972306206723",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk7uXpWwAMzAgb.jpg",
+        "width": 347
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060743972306206723"
+          ],
+          "media_source_tweet_id": [
+            "2060743973950325019"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060824855910691187",
+        "created_at": "2026-05-30T20:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T21:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060824855910691187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824956056398598145",
+              "start": 3,
+              "username": "gazzettee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hSil7cFcMH",
+              "end": 82,
+              "expanded_url": "https://x.com/gazzettee/status/2060743973950325019/photo/1",
+              "media_key": "3_2060743972306206723",
+              "start": 59,
+              "url": "https://t.co/hSil7cFcMH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060824855910691187",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 914
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060743973950325019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gazzettee: account so small that this makes me excited https://t.co/hSil7cFcMH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060743972306206723"
+          ]
+        },
+        "author_id": "1824956056398598145",
+        "conversation_id": "2060743973950325019",
+        "created_at": "2026-05-30T15:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060743973950325019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hSil7cFcMH",
+              "end": 67,
+              "expanded_url": "https://x.com/gazzettee/status/2060743973950325019/photo/1",
+              "media_key": "3_2060743972306206723",
+              "start": 44,
+              "url": "https://t.co/hSil7cFcMH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060743973950325019",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 83052,
+          "like_count": 5325,
+          "quote_count": 49,
+          "reply_count": 122,
+          "retweet_count": 914
+        },
+        "reply_settings": "everyone",
+        "text": "account so small that this makes me excited https://t.co/hSil7cFcMH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 82,
+          "like_count": 2384,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 786
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T23:46:55.000Z",
+        "description": "I follow back !! edtwt not new . orthorexic pescetarian limiting dairy .",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "froufrous.straw.page",
+                "end": 23,
+                "expanded_url": "http://froufrous.straw.page",
+                "start": 0,
+                "url": "https://t.co/Dn27dOFlwN"
+              }
+            ]
+          }
+        },
+        "id": "1824956056398598145",
+        "location": "7teen + bmi17",
+        "name": "frou frou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056849375058366464/Z1B07mKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 69,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/Dn27dOFlwN",
+        "username": "gazzettee",
+        "verified": false
+      }
+    ]
+  }
+}

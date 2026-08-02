@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058936962090963074",
+    "created_at": "2026-05-25T15:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058936962090963074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900706496121602048",
+          "start": 3,
+          "username": "JIAN89648964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058936962090963074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058884476013613181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JIAN89648964: 我的日语在n6水平，可以无障碍和日本的中国人沟通"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058936962090963074",
+        "created_at": "2026-05-25T15:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058936962090963074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900706496121602048",
+              "start": 3,
+              "username": "JIAN89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058936962090963074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058884476013613181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JIAN89648964: 我的日语在n6水平，可以无障碍和日本的中国人沟通"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900706496121602048",
+        "conversation_id": "2058884476013613181",
+        "created_at": "2026-05-25T12:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058884476013613181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058884476013613181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3844,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我的日语在n6水平，可以无障碍和日本的中国人沟通"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 68,
+          "like_count": 1755,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 505
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T00:32:09.000Z",
+        "description": "看我笑话就好\n文案来源网络侵权私信必删🙏\n不主动私信聊骚骚扰女生 皮下男\n骂我明天家里户口本翻不了页",
+        "id": "1900706496121602048",
+        "name": "龙丽（代理）",
+        "pinned_tweet_id": "2057384796079481280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049059699233017856/xxGUB1hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2852,
+          "following_count": 43,
+          "like_count": 11361,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 4135
+        },
+        "username": "JIAN89648964",
+        "verified": false
+      }
+    ]
+  }
+}

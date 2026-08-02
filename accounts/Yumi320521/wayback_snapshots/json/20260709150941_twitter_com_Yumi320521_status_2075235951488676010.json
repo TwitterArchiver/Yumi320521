@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2075235951488676010",
+    "created_at": "2026-07-09T15:09:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T16:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075235951488676010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yukominami520/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/yukominami520/status/2075028452714156156",
+          "start": 14,
+          "url": "https://t.co/R67SFH11BV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075235951488676010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075028452714156156",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了 长的跟个婵姐一样 https://t.co/R67SFH11BV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2075235951488676010",
+        "created_at": "2026-07-09T15:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075235951488676010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yukominami520/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/yukominami520/status/2075028452714156156",
+              "start": 14,
+              "url": "https://t.co/R67SFH11BV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075235951488676010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075028452714156156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了 长的跟个婵姐一样 https://t.co/R67SFH11BV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1084526175727185920",
+        "conversation_id": "2075028452714156156",
+        "created_at": "2026-07-09T01:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075028452714156156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075028452714156156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 35280,
+          "like_count": 386,
+          "quote_count": 2,
+          "reply_count": 87,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我最佩服就是那种长得真的是普得丑得要命了的还好意思发自拍女高来女大来m来小狗来的🚬我要有这种自信心我干啥不行啊？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 145,
+          "like_count": 5439,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1303
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-13T19:02:44.000Z",
+        "description": "enfp不快乐小咪丨天蝎丨168cm 75kg丨年龄是永远18岁丨屁话巨多的碎碎念大王\r一个喜欢欣赏美好肉体的淳朴小女孩😋只是爱说骚话我真的不看🐮不yp不陪聊",
+        "id": "1084526175727185920",
+        "location": "老婆的怀里",
+        "name": "Yukominami",
+        "pinned_tweet_id": "2073430751228633574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059467800499122176/fQznr4xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2997,
+          "following_count": 439,
+          "like_count": 13401,
+          "listed_count": 3,
+          "media_count": 1001,
+          "tweet_count": 4955
+        },
+        "url": "",
+        "username": "yukominami520",
+        "verified": false
+      }
+    ]
+  }
+}

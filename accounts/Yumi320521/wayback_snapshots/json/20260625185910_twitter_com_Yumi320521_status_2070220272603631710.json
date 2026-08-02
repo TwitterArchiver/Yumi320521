@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2070061198603931973",
+    "created_at": "2026-06-25T18:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T19:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070220272603631710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1542385279016677376",
+          "start": 0,
+          "username": "yiran62989430"
+        },
+        {
+          "end": 27,
+          "id": "1872813701159411712",
+          "start": 15,
+          "username": "mamgo347785"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070220272603631710",
+    "in_reply_to_user_id": "1542385279016677376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070110102212972941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiran62989430 @mamgo347785 大哥上面不都说了吗自残找不到工作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2070061198603931973",
+        "created_at": "2026-06-25T18:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070220272603631710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1542385279016677376",
+              "start": 0,
+              "username": "yiran62989430"
+            },
+            {
+              "end": 27,
+              "id": "1872813701159411712",
+              "start": 15,
+              "username": "mamgo347785"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070220272603631710",
+        "in_reply_to_user_id": "1542385279016677376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070110102212972941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiran62989430 @mamgo347785 大哥上面不都说了吗自残找不到工作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542385279016677376",
+        "conversation_id": "2070061198603931973",
+        "created_at": "2026-06-25T11:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070110102212972941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1872813701159411712",
+              "start": 0,
+              "username": "mamgo347785"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070110102212972941",
+        "in_reply_to_user_id": "1872813701159411712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070109347901038833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mamgo347785 那就找份工作呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 141,
+          "like_count": 4635,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 882
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-30T05:51:32.000Z",
+        "description": "",
+        "id": "1542385279016677376",
+        "name": "依然",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 445,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "yiran62989430",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T01:16:03.000Z",
+        "description": "可以叫我芒果或者玛丽鱼",
+        "id": "1872813701159411712",
+        "name": "ma mgo",
+        "pinned_tweet_id": "2011105271574372627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060631628716834816/vUbrJ0VV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 189,
+          "like_count": 1725,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 1517
+        },
+        "url": "",
+        "username": "mamgo347785",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065394981398065152"
+      ],
+      "media_source_tweet_id": [
+        "2065394998368162123"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2065846418858999891",
+    "created_at": "2026-06-13T17:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065846418858999891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1823785235026440192",
+          "start": 3,
+          "username": "mazari_info"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BsAeIwqSLf",
+          "end": 58,
+          "expanded_url": "https://x.com/mazari_info/status/2065394998368162123/photo/1",
+          "media_key": "3_2065394981398065152",
+          "start": 35,
+          "url": "https://t.co/BsAeIwqSLf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065846418858999891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 252
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065394998368162123",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mazari_info: 台灣的朋友們，今天真的非常謝謝大家 https://t.co/BsAeIwqSLf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2065394981398065152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnByusbMAAub-n.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065394981398065152"
+          ],
+          "media_source_tweet_id": [
+            "2065394998368162123"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2065846418858999891",
+        "created_at": "2026-06-13T17:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065846418858999891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1823785235026440192",
+              "start": 3,
+              "username": "mazari_info"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BsAeIwqSLf",
+              "end": 58,
+              "expanded_url": "https://x.com/mazari_info/status/2065394998368162123/photo/1",
+              "media_key": "3_2065394981398065152",
+              "start": 35,
+              "url": "https://t.co/BsAeIwqSLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065846418858999891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 252
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065394998368162123",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mazari_info: 台灣的朋友們，今天真的非常謝謝大家 https://t.co/BsAeIwqSLf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065394981398065152"
+          ]
+        },
+        "author_id": "1823785235026440192",
+        "conversation_id": "2065394998368162123",
+        "created_at": "2026-06-12T11:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065394998368162123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BsAeIwqSLf",
+              "end": 41,
+              "expanded_url": "https://x.com/mazari_info/status/2065394998368162123/photo/1",
+              "media_key": "3_2065394981398065152",
+              "start": 18,
+              "url": "https://t.co/BsAeIwqSLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065394998368162123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 55122,
+          "like_count": 1631,
+          "quote_count": 83,
+          "reply_count": 1,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "台灣的朋友們，今天真的非常謝謝大家 https://t.co/BsAeIwqSLf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 137,
+          "like_count": 3338,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 599
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T18:14:29.000Z",
+        "description": "詛咒通常使他人不幸的预言或许愿。二〇二四年希望一些超自然力量使他任何形式損害，也是一种针对他人的言语性报复。诅咒原因往往是愤怒或者报复或者希望惩罚被诅咒的人或者地方。十月十一日他們的詛咒開始了。關於詛咒https://t.co/MZeOwNySxB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/mazari_info",
+                "end": 124,
+                "expanded_url": "https://lit.link/mazari_info",
+                "start": 101,
+                "url": "https://t.co/MZeOwNySxB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mazari.jp",
+                "end": 23,
+                "expanded_url": "https://www.mazari.jp/",
+                "start": 0,
+                "url": "https://t.co/DDJnCT2Ovb"
+              }
+            ]
+          }
+        },
+        "id": "1823785235026440192",
+        "location": "MAD'S iNK",
+        "name": "マザリ",
+        "pinned_tweet_id": "2062493336657969298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039397818155384832/OzVYYYgq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21562,
+          "following_count": 8,
+          "like_count": 717,
+          "listed_count": 112,
+          "media_count": 1298,
+          "tweet_count": 2292
+        },
+        "url": "https://t.co/DDJnCT2Ovb",
+        "username": "mazari_info",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060783947160658095",
+    "created_at": "2026-05-31T08:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061007353827533260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1219657612037435394",
+          "start": 0,
+          "username": "etativoirien"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061007353827533260",
+    "in_reply_to_user_id": "1219657612037435394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060783947160658095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@etativoirien 天呐‼️😦我是中国人但是对这种行为也深感厌恶 跟当时历史殖民者弄黑人一样 现在则是博取流量 根本不是人啊！还有中国的娜塔莎娃娃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060783947160658095",
+        "created_at": "2026-05-31T08:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061007353827533260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1219657612037435394",
+              "start": 0,
+              "username": "etativoirien"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061007353827533260",
+        "in_reply_to_user_id": "1219657612037435394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060783947160658095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@etativoirien 天呐‼️😦我是中国人但是对这种行为也深感厌恶 跟当时历史殖民者弄黑人一样 现在则是博取流量 根本不是人啊！还有中国的娜塔莎娃娃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1219657612037435394",
+        "conversation_id": "2060783947160658095",
+        "created_at": "2026-05-30T18:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060783947160658095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060783947160658095",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 89827,
+          "like_count": 2840,
+          "quote_count": 16,
+          "reply_count": 137,
+          "retweet_count": 340
+        },
+        "reply_settings": "everyone",
+        "text": "tout le truc avec les jouets bébés noirs en Chine là c’est tellement morbide et juste méchant genre wow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 88,
+          "like_count": 2426,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 818
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-21T16:27:43.000Z",
+        "description": "#staypunk",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "staypunk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ProtectTheDolls.fr",
+                "end": 23,
+                "expanded_url": "http://ProtectTheDolls.fr",
+                "start": 0,
+                "url": "https://t.co/mF7mIwZSsM"
+              }
+            ]
+          }
+        },
+        "id": "1219657612037435394",
+        "location": "agender, aroace, any prouns",
+        "name": "raihan",
+        "pinned_tweet_id": "2039467458705203530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059418336639811593/dSmRsIjF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 317,
+          "like_count": 256725,
+          "listed_count": 2,
+          "media_count": 4028,
+          "tweet_count": 87041
+        },
+        "url": "https://t.co/mF7mIwZSsM",
+        "username": "etativoirien",
+        "verified": false
+      }
+    ]
+  }
+}

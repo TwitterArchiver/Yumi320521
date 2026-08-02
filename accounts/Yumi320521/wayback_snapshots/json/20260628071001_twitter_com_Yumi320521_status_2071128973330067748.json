@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2070980086258606342",
+    "created_at": "2026-06-28T07:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T08:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071128973330067748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1774278217253433344",
+          "start": 0,
+          "username": "7ksti4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071128973330067748",
+    "in_reply_to_user_id": "1774278217253433344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070980086258606342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7ksti4 啊啊啊好萌感觉好幸福呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2070980086258606342",
+        "created_at": "2026-06-28T07:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071128973330067748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071128973330067748",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070980086258606342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 啊啊啊好萌感觉好幸福呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2070980086258606342",
+        "created_at": "2026-06-27T21:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T22:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070980086258606342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070980086258606342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来想起床尿尿的，结果朋友磕药突然给我打电话，于是我就弹着吉他唱了半小时的v是兔子逗她玩，真是很开心的体验，因为我知道她会喜欢这个！第一次这么早练琴哈哈！小北京真是非常可爱的女孩子，我希望接下来的日子你不用磕药也能感到愉悦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 142,
+          "like_count": 4721,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 924
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 450,
+          "like_count": 5002,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 389
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

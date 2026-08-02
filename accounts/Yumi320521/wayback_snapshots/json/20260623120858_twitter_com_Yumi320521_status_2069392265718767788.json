@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069392265718767788",
+    "created_at": "2026-06-23T12:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069392265718767788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1153373316977176576",
+          "start": 3,
+          "username": "kotoro0223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069392265718767788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069127589617455508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kotoro0223: 男人最贱的行为就是一直在你面前装逼有多有钱 却连5.2都舍不得发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069392265718767788",
+        "created_at": "2026-06-23T12:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069392265718767788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1153373316977176576",
+              "start": 3,
+              "username": "kotoro0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069392265718767788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069127589617455508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kotoro0223: 男人最贱的行为就是一直在你面前装逼有多有钱 却连5.2都舍不得发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153373316977176576",
+        "conversation_id": "2069127589617455508",
+        "created_at": "2026-06-22T18:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069127589617455508"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069127589617455508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7262,
+          "like_count": 100,
+          "quote_count": 2,
+          "reply_count": 58,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "男人最贱的行为就是一直在你面前装逼有多有钱 却连5.2都舍不得发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 138,
+          "like_count": 4305,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 784
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T18:36:42.000Z",
+        "description": "我只是一个乖乖的女孩 请不要欺负我",
+        "id": "1153373316977176576",
+        "location": "滚",
+        "name": "kotoro",
+        "pinned_tweet_id": "2064938939014951381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791919850358775808/Ba0MfyyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 48,
+          "like_count": 529,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "kotoro0223",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2062234178033500669",
+    "created_at": "2026-06-03T18:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062234178033500669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2015550077436391424",
+          "start": 3,
+          "username": "_a_14_z_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062234178033500669",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061760402510475636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_a_14_z_: 人間関係キッツ全員しねよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2062234178033500669",
+        "created_at": "2026-06-03T18:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062234178033500669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2015550077436391424",
+              "start": 3,
+              "username": "_a_14_z_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062234178033500669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061760402510475636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_a_14_z_: 人間関係キッツ全員しねよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015550077436391424",
+        "conversation_id": "2061760402510475636",
+        "created_at": "2026-06-02T10:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061760402510475636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061760402510475636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 51922,
+          "like_count": 1155,
+          "quote_count": 11,
+          "reply_count": 8,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "人間関係キッツ全員しねよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 柚子 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "Yuzumi",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062202271744901120/Mix4UWN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 97,
+          "like_count": 2661,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 915
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T22:19:49.000Z",
+        "description": "ファンマ😿🎒（14）￤🗝 @user_acvs24￤お仕事はDMまで✉️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "user_acvs24"
+              }
+            ]
+          }
+        },
+        "id": "2015550077436391424",
+        "name": "キャンマジ5番",
+        "pinned_tweet_id": "2037760051436552381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037759777024131072/fWyQFSaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12072,
+          "following_count": 77,
+          "like_count": 311,
+          "listed_count": 4,
+          "media_count": 48,
+          "tweet_count": 254
+        },
+        "username": "_a_14_z_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2074214145466277890",
+    "created_at": "2026-07-07T06:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074375349937619418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781745564738281472",
+          "start": 0,
+          "username": "Stolly21_TG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074375349937619418",
+    "in_reply_to_user_id": "1781745564738281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074214145466277890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stolly21_TG 贱逼抖人给它逼撕了😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2074214142748262400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkWxe6aAAAnqen.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2074214145466277890",
+        "created_at": "2026-07-07T06:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074375349937619418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074375349937619418",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074214145466277890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 贱逼抖人给它逼撕了😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074214142748262400"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2074214145466277890",
+        "created_at": "2026-07-06T19:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074214145466277890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sGiW8nsJM2",
+              "end": 32,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2074214145466277890/photo/1",
+              "media_key": "3_2074214142748262400",
+              "start": 9,
+              "url": "https://t.co/sGiW8nsJM2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074214145466277890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对 就这样吃😂😂 https://t.co/sGiW8nsJM2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 145,
+          "like_count": 5333,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1233
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 217,
+          "like_count": 1316,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 659
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

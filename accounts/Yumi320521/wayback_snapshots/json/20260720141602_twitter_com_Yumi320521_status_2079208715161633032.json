@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2079208715161633032",
+    "created_at": "2026-07-20T14:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T15:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079208715161633032"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079208715161633032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我草我一想到老母和我去迪士尼 甚至不会大包小包带西红柿黄瓜说饿了路上吃这些吧 然后依旧进行道德绑架 说真好啊我这么大了才去迪士尼你这么小就能去 再跟我说学习的 妈逼的我他妈都想去卖逼了😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2079208715161633032",
+        "created_at": "2026-07-20T14:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079208715161633032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079208715161633032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草我一想到老母和我去迪士尼 甚至不会大包小包带西红柿黄瓜说饿了路上吃这些吧 然后依旧进行道德绑架 说真好啊我这么大了才去迪士尼你这么小就能去 再跟我说学习的 妈逼的我他妈都想去卖逼了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか🐈‍⬛🐾\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 158,
+          "like_count": 5815,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1511
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

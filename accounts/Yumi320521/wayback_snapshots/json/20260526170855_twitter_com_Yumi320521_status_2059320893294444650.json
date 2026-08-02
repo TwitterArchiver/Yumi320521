@@ -1,0 +1,510 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059255231817666560",
+        "3_2059255231775756288",
+        "3_2059255231809249280",
+        "3_2059255231821795328"
+      ],
+      "media_source_tweet_id": [
+        "2059255236234215471",
+        "2059255236234215471",
+        "2059255236234215471",
+        "2059255236234215471"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      }
+    ],
+    "conversation_id": "2059320893294444650",
+    "created_at": "2026-05-26T17:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059320893294444650"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 30,
+          "tag": "アニメちいかわ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "892950034173394945",
+          "start": 3,
+          "username": "shinichi_2430"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7XAeX3onRg",
+          "end": 62,
+          "expanded_url": "https://x.com/shinichi_2430/status/2059255236234215471/photo/1",
+          "media_key": "3_2059255231817666560",
+          "start": 39,
+          "url": "https://t.co/7XAeX3onRg"
+        },
+        {
+          "display_url": "pic.x.com/7XAeX3onRg",
+          "end": 62,
+          "expanded_url": "https://x.com/shinichi_2430/status/2059255236234215471/photo/1",
+          "media_key": "3_2059255231775756288",
+          "start": 39,
+          "url": "https://t.co/7XAeX3onRg"
+        },
+        {
+          "display_url": "pic.x.com/7XAeX3onRg",
+          "end": 62,
+          "expanded_url": "https://x.com/shinichi_2430/status/2059255236234215471/photo/1",
+          "media_key": "3_2059255231809249280",
+          "start": 39,
+          "url": "https://t.co/7XAeX3onRg"
+        },
+        {
+          "display_url": "pic.x.com/7XAeX3onRg",
+          "end": 62,
+          "expanded_url": "https://x.com/shinichi_2430/status/2059255236234215471/photo/1",
+          "media_key": "3_2059255231821795328",
+          "start": 39,
+          "url": "https://t.co/7XAeX3onRg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059320893294444650",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059255236234215471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shinichi_2430: モフモフちいさん💕\n\n#アニメちいかわ https://t.co/7XAeX3onRg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 708,
+        "media_key": "3_2059255231817666560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPxuRJbUAAybdx.jpg",
+        "width": 1290
+      },
+      {
+        "height": 702,
+        "media_key": "3_2059255231775756288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPxuQ_b0AA4_kg.jpg",
+        "width": 1290
+      },
+      {
+        "height": 708,
+        "media_key": "3_2059255231809249280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPxuRHa4AA7b9v.jpg",
+        "width": 1290
+      },
+      {
+        "height": 689,
+        "media_key": "3_2059255231821795328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPxuRKaUAA76SC.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059255231817666560",
+            "3_2059255231775756288",
+            "3_2059255231809249280",
+            "3_2059255231821795328"
+          ],
+          "media_source_tweet_id": [
+            "2059255236234215471",
+            "2059255236234215471",
+            "2059255236234215471",
+            "2059255236234215471"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "2059320893294444650",
+        "created_at": "2026-05-26T17:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059320893294444650"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "アニメちいかわ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "892950034173394945",
+              "start": 3,
+              "username": "shinichi_2430"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XAeX3onRg",
+              "end": 62,
+              "expanded_url": "https://x.com/shinichi_2430/status/2059255236234215471/photo/1",
+              "media_key": "3_2059255231817666560",
+              "start": 39,
+              "url": "https://t.co/7XAeX3onRg"
+            },
+            {
+              "display_url": "pic.x.com/7XAeX3onRg",
+              "end": 62,
+              "expanded_url": "https://x.com/shinichi_2430/status/2059255236234215471/photo/1",
+              "media_key": "3_2059255231775756288",
+              "start": 39,
+              "url": "https://t.co/7XAeX3onRg"
+            },
+            {
+              "display_url": "pic.x.com/7XAeX3onRg",
+              "end": 62,
+              "expanded_url": "https://x.com/shinichi_2430/status/2059255236234215471/photo/1",
+              "media_key": "3_2059255231809249280",
+              "start": 39,
+              "url": "https://t.co/7XAeX3onRg"
+            },
+            {
+              "display_url": "pic.x.com/7XAeX3onRg",
+              "end": 62,
+              "expanded_url": "https://x.com/shinichi_2430/status/2059255236234215471/photo/1",
+              "media_key": "3_2059255231821795328",
+              "start": 39,
+              "url": "https://t.co/7XAeX3onRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059320893294444650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059255236234215471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shinichi_2430: モフモフちいさん💕\n\n#アニメちいかわ https://t.co/7XAeX3onRg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059255231817666560",
+            "3_2059255231775756288",
+            "3_2059255231809249280",
+            "3_2059255231821795328"
+          ]
+        },
+        "author_id": "892950034173394945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "2059255236234215471",
+        "created_at": "2026-05-26T12:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059255236234215471"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 11,
+              "tag": "アニメちいかわ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XAeX3onRg",
+              "end": 43,
+              "expanded_url": "https://x.com/shinichi_2430/status/2059255236234215471/photo/1",
+              "media_key": "3_2059255231817666560",
+              "start": 20,
+              "url": "https://t.co/7XAeX3onRg"
+            },
+            {
+              "display_url": "pic.x.com/7XAeX3onRg",
+              "end": 43,
+              "expanded_url": "https://x.com/shinichi_2430/status/2059255236234215471/photo/1",
+              "media_key": "3_2059255231775756288",
+              "start": 20,
+              "url": "https://t.co/7XAeX3onRg"
+            },
+            {
+              "display_url": "pic.x.com/7XAeX3onRg",
+              "end": 43,
+              "expanded_url": "https://x.com/shinichi_2430/status/2059255236234215471/photo/1",
+              "media_key": "3_2059255231809249280",
+              "start": 20,
+              "url": "https://t.co/7XAeX3onRg"
+            },
+            {
+              "display_url": "pic.x.com/7XAeX3onRg",
+              "end": 43,
+              "expanded_url": "https://x.com/shinichi_2430/status/2059255236234215471/photo/1",
+              "media_key": "3_2059255231821795328",
+              "start": 20,
+              "url": "https://t.co/7XAeX3onRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059255236234215471",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 10015,
+          "like_count": 945,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "モフモフちいさん💕\n\n#アニメちいかわ https://t.co/7XAeX3onRg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 69,
+          "like_count": 1832,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 554
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-03T03:27:33.000Z",
+        "description": "ナガノのくま( ˙ᴥ˙ )@ngntrtr ちいかわ₍ᐢˊo̴̶̷̤ ̫ o̴̶̷̤ˋᐢ₎@ngnchiikawa ( ˙꒳ ˙ )ﾉナガノさん好きの方の投稿に癒されております。無言フォローしがちですが何卒お許しを…(ㅅ´ ˘ `)🎶 ✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "ngntrtr"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "ngnchiikawa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/shinichi2430",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/shinichi2430",
+                "start": 0,
+                "url": "https://t.co/jB6nLM61mw"
+              }
+            ]
+          }
+        },
+        "id": "892950034173394945",
+        "name": "しんいちろぉ",
+        "pinned_tweet_id": "1112370511273558016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709132604279267328/31ysSmTk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4269,
+          "following_count": 2441,
+          "like_count": 686987,
+          "listed_count": 29,
+          "media_count": 6968,
+          "tweet_count": 100128
+        },
+        "url": "https://t.co/jB6nLM61mw",
+        "username": "shinichi_2430",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058127815011402097",
+    "created_at": "2026-05-28T06:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059879394769018889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046117898377379840",
+          "start": 0,
+          "username": "kawaii_imai"
+        },
+        {
+          "end": 22,
+          "id": "1036167674470879232",
+          "start": 13,
+          "username": "LMing233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059879394769018889",
+    "in_reply_to_user_id": "2046117898377379840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058127815011402097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaii_imai @LMing233 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058127815011402097",
+        "created_at": "2026-05-28T06:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059879394769018889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046117898377379840",
+              "start": 0,
+              "username": "kawaii_imai"
+            },
+            {
+              "end": 22,
+              "id": "1036167674470879232",
+              "start": 13,
+              "username": "LMing233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059879394769018889",
+        "in_reply_to_user_id": "2046117898377379840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058127815011402097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii_imai @LMing233 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2058127815011402097",
+        "created_at": "2026-05-23T10:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058127815011402097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058127815011402097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9615,
+          "like_count": 114,
+          "quote_count": 1,
+          "reply_count": 95,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "居然这么快100fo了！剧烈震惊！\n感谢抽奖来了喵(○’ω’○)\n一等奖：白兔*1（折现68）\n二等奖：pr*1（折现20）\n三等奖：玉米片*3（折现6.6）\n虽然仅支持折现（。\n转+关+评参与喵🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 76,
+          "like_count": 1993,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 664
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 240,
+          "like_count": 836,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 226
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子/infp/♂/我割我o/寻同类互fo",
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "2056936011675185641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 115,
+          "like_count": 1538,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 215
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

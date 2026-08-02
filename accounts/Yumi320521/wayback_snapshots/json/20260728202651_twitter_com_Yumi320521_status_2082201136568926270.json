@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2082201136568926270",
+    "created_at": "2026-07-28T20:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T21:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082201136568926270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055987687723839488",
+          "start": 3,
+          "username": "okokok333444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082201136568926270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081804894714151217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @okokok333444: 有没有那种全民一起吃普瑞巴林日。吃完餐券妹也不逃离原生家庭了，山东男人也不打老婆了，东北人也不satisfaction了，娜娜警官也不禁毒了所有人都嗨起来晕起来放松起来欣快起来。太幸福了吧这样的场景"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2082201136568926270",
+        "created_at": "2026-07-28T20:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082201136568926270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055987687723839488",
+              "start": 3,
+              "username": "okokok333444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082201136568926270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081804894714151217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @okokok333444: 有没有那种全民一起吃普瑞巴林日。吃完餐券妹也不逃离原生家庭了，山东男人也不打老婆了，东北人也不satisfaction了，娜娜警官也不禁毒了所有人都嗨起来晕起来放松起来欣快起来。太幸福了吧这样的场景"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055987687723839488",
+        "conversation_id": "2081804894714151217",
+        "created_at": "2026-07-27T18:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081804894714151217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081804894714151217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6355,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "有没有那种全民一起吃普瑞巴林日。吃完餐券妹也不逃离原生家庭了，山东男人也不打老婆了，东北人也不satisfaction了，娜娜警官也不禁毒了所有人都嗨起来晕起来放松起来欣快起来。太幸福了吧这样的场景"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 159,
+          "like_count": 5965,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1624
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T12:27:00.000Z",
+        "description": "糖逼一个\n@boqiaoahm4\n杯子@zhoushashaff9n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "boqiaoahm4"
+              },
+              {
+                "end": 34,
+                "start": 19,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          }
+        },
+        "id": "2055987687723839488",
+        "name": "火乍玉",
+        "pinned_tweet_id": "2055989929193435641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055989447267864576/Zi8zfiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 128,
+          "like_count": 1032,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "okokok333444",
+        "verified": false
+      }
+    ]
+  }
+}

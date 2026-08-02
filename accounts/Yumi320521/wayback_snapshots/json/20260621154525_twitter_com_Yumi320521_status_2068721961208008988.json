@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068721956409729024",
+        "3_2068721956388745217"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2068721961208008988",
+    "created_at": "2026-06-21T15:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068721961208008988"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xMB0PT6E9n",
+          "end": 42,
+          "expanded_url": "https://x.com/Yumi320521/status/2068721961208008988/photo/1",
+          "media_key": "3_2068721956409729024",
+          "start": 19,
+          "url": "https://t.co/xMB0PT6E9n"
+        },
+        {
+          "display_url": "pic.x.com/xMB0PT6E9n",
+          "end": 42,
+          "expanded_url": "https://x.com/Yumi320521/status/2068721961208008988/photo/1",
+          "media_key": "3_2068721956388745217",
+          "start": 19,
+          "url": "https://t.co/xMB0PT6E9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068721961208008988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "向我爸要米失败 有没有好心的哥哥姐姐 https://t.co/xMB0PT6E9n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2068721956409729024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWTqKbaYAALV-C.jpg",
+        "width": 1152
+      },
+      {
+        "height": 811,
+        "media_key": "3_2068721956388745217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWTqKWaMAE9reO.jpg",
+        "width": 577
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068721956409729024",
+            "3_2068721956388745217"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2068721961208008988",
+        "created_at": "2026-06-21T15:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068721961208008988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMB0PT6E9n",
+              "end": 42,
+              "expanded_url": "https://x.com/Yumi320521/status/2068721961208008988/photo/1",
+              "media_key": "3_2068721956409729024",
+              "start": 19,
+              "url": "https://t.co/xMB0PT6E9n"
+            },
+            {
+              "display_url": "pic.x.com/xMB0PT6E9n",
+              "end": 42,
+              "expanded_url": "https://x.com/Yumi320521/status/2068721961208008988/photo/1",
+              "media_key": "3_2068721956388745217",
+              "start": 19,
+              "url": "https://t.co/xMB0PT6E9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068721961208008988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "向我爸要米失败 有没有好心的哥哥姐姐 https://t.co/xMB0PT6E9n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 130,
+          "like_count": 3862,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 691
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

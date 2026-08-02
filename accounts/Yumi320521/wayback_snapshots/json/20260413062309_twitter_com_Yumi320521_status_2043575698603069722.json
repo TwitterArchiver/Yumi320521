@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2031020628455886848"
+      ],
+      "media_source_tweet_id": [
+        "2031022201172791475"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2043575698603069722",
+    "created_at": "2026-04-13T06:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043575698603069722"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 13,
+          "tag": "杏こは"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1555828660737044481",
+          "start": 3,
+          "username": "_aryorl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ie5tfnMBxA",
+          "end": 45,
+          "expanded_url": "https://x.com/_aryorl/status/2031022201172791475/video/1",
+          "media_key": "13_2031020628455886848",
+          "start": 22,
+          "url": "https://t.co/ie5tfnMBxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043575698603069722",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 970
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031022201172791475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_aryorl: #杏こは 🐹⭐️ https://t.co/ie5tfnMBxA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3175,
+        "height": 1080,
+        "media_key": "13_2031020628455886848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031020628455886848/img/mxmB4ze52xkGad98.jpg",
+        "public_metrics": {
+          "view_count": 11916
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031020628455886848/vid/avc1/480x270/DJBQ0-nGHSPDSc1_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031020628455886848/vid/avc1/640x360/yrc4JHuY8Wh_i6jw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031020628455886848/vid/avc1/1280x720/z8kkqa2DC8bv9KP4.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031020628455886848/pl/AODmKeenWh84MAVD.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031020628455886848"
+          ],
+          "media_source_tweet_id": [
+            "2031022201172791475"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2043575698603069722",
+        "created_at": "2026-04-13T06:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043575698603069722"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "杏こは"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1555828660737044481",
+              "start": 3,
+              "username": "_aryorl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ie5tfnMBxA",
+              "end": 45,
+              "expanded_url": "https://x.com/_aryorl/status/2031022201172791475/video/1",
+              "media_key": "13_2031020628455886848",
+              "start": 22,
+              "url": "https://t.co/ie5tfnMBxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043575698603069722",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 970
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031022201172791475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_aryorl: #杏こは 🐹⭐️ https://t.co/ie5tfnMBxA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031020628455886848"
+          ]
+        },
+        "author_id": "1555828660737044481",
+        "conversation_id": "2031022201172791475",
+        "created_at": "2026-03-09T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031022201172791475"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "杏こは"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ie5tfnMBxA",
+              "end": 32,
+              "expanded_url": "https://x.com/_aryorl/status/2031022201172791475/video/1",
+              "media_key": "13_2031020628455886848",
+              "start": 9,
+              "url": "https://t.co/ie5tfnMBxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031022201172791475",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 348,
+          "impression_count": 42233,
+          "like_count": 3952,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 970
+        },
+        "reply_settings": "everyone",
+        "text": "#杏こは 🐹⭐️ https://t.co/ie5tfnMBxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 37,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 68
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-06T08:10:40.000Z",
+        "description": "heart aibouyuri 🐹⭐️ • please don't repost my art!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/aryorl",
+                "end": 23,
+                "expanded_url": "https://rentry.co/aryorl",
+                "start": 0,
+                "url": "https://t.co/9g63ZaCOGP"
+              }
+            ]
+          }
+        },
+        "id": "1555828660737044481",
+        "location": "杏こは ♡ she/her",
+        "name": "arya ⏾",
+        "pinned_tweet_id": "2031022201172791475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039550672300089344/W4CAP-FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1988,
+          "following_count": 391,
+          "like_count": 4610,
+          "listed_count": 9,
+          "media_count": 121,
+          "tweet_count": 3285
+        },
+        "url": "https://t.co/9g63ZaCOGP",
+        "username": "_aryorl",
+        "verified": false
+      }
+    ]
+  }
+}

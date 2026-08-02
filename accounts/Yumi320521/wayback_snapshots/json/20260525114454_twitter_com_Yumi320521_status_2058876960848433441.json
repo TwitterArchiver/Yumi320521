@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058876960848433441",
+    "created_at": "2026-05-25T11:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058876960848433441"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/twaniimals/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/twaniimals/status/2058747277770940436",
+          "start": 12,
+          "url": "https://t.co/62wWUCyruL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058876960848433441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058747277770940436",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恐怖 泰迪这种狗真讨厌 https://t.co/62wWUCyruL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2058747272217726976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIjvILXkAA3Csb.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058876960848433441",
+        "created_at": "2026-05-25T11:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058876960848433441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/twaniimals/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/twaniimals/status/2058747277770940436",
+              "start": 12,
+              "url": "https://t.co/62wWUCyruL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058876960848433441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058747277770940436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恐怖 泰迪这种狗真讨厌 https://t.co/62wWUCyruL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058747272217726976"
+          ]
+        },
+        "author_id": "1405301480316444672",
+        "conversation_id": "2058747277770940436",
+        "created_at": "2026-05-25T03:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058747277770940436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bFqGNnlwp3",
+              "end": 23,
+              "expanded_url": "https://x.com/twaniimals/status/2058747277770940436/photo/1",
+              "media_key": "3_2058747272217726976",
+              "start": 0,
+              "url": "https://t.co/bFqGNnlwp3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058747277770940436",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 73331,
+          "like_count": 1927,
+          "quote_count": 59,
+          "reply_count": 11,
+          "retweet_count": 343
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bFqGNnlwp3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 69,
+          "like_count": 1748,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 482
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-16T23:09:29.000Z",
+        "description": "sígueme para más contenido diario 🐶",
+        "id": "1405301480316444672",
+        "location": "Mx",
+        "name": "💖",
+        "pinned_tweet_id": "2058593382121734651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057648029381881857/SOrIfJDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266351,
+          "following_count": 183,
+          "like_count": 13676,
+          "listed_count": 1711,
+          "media_count": 37515,
+          "tweet_count": 40698
+        },
+        "username": "twaniimals",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059508179990684009",
+    "created_at": "2026-05-27T05:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059508179990684009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1940068583721357313",
+          "start": 3,
+          "username": "Dandan859367"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059508179990684009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059292139092377697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dandan859367: 我吃的肚皮圆滚滚时你夸我可爱 我撒娇卖萌时你夸我可爱 我素颜把头发睡的一团乱你夸我可爱 我无理取闹掉眼泪敏感时你夸我可爱 我问你要这要那你夸我可爱 我分享我的观点我说脏话你夸我可爱 我把食物塞满嘴不好好上课不想上班做错事情你还在夸我可爱 你每…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059508179990684009",
+        "created_at": "2026-05-27T05:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059508179990684009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1940068583721357313",
+              "start": 3,
+              "username": "Dandan859367"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059508179990684009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059292139092377697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dandan859367: 我吃的肚皮圆滚滚时你夸我可爱 我撒娇卖萌时你夸我可爱 我素颜把头发睡的一团乱你夸我可爱 我无理取闹掉眼泪敏感时你夸我可爱 我问你要这要那你夸我可爱 我分享我的观点我说脏话你夸我可爱 我把食物塞满嘴不好好上课不想上班做错事情你还在夸我可爱 你每…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940068583721357313",
+        "conversation_id": "2059292139092377697",
+        "created_at": "2026-05-26T15:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059292139092377697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059292139092377697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 5049,
+          "like_count": 246,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "我吃的肚皮圆滚滚时你夸我可爱 我撒娇卖萌时你夸我可爱 我素颜把头发睡的一团乱你夸我可爱 我无理取闹掉眼泪敏感时你夸我可爱 我问你要这要那你夸我可爱 我分享我的观点我说脏话你夸我可爱 我把食物塞满嘴不好好上课不想上班做错事情你还在夸我可爱 你每天都说无数遍我好可爱 其实是你喜欢我吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 71,
+          "like_count": 1856,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 577
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T15:23:04.000Z",
+        "description": "当日记发碎碎念 友好女宝宝可以找我扩列互fo 喊我蛋蛋就好",
+        "id": "1940068583721357313",
+        "location": "Singapore",
+        "name": "mydeareggy",
+        "pinned_tweet_id": "2059292139092377697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039284597918408704/m1oRBrqk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 65,
+          "like_count": 797,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1029
+        },
+        "username": "Dandan859367",
+        "verified": false
+      }
+    ]
+  }
+}

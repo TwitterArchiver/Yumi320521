@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042236986988388352"
+      ],
+      "media_source_tweet_id": [
+        "2042236993829208215"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2042681596663459949",
+    "created_at": "2026-04-10T19:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T20:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042681596663459949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1557296150440726529",
+          "start": 3,
+          "username": "ai__gp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VyK10u9hip",
+          "end": 50,
+          "expanded_url": "https://x.com/ai__gp/status/2042236993829208215/photo/1",
+          "media_key": "3_2042236986988388352",
+          "start": 27,
+          "url": "https://t.co/VyK10u9hip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042681596663459949",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 276
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042236993829208215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ai__gp: 完成させられるよう頑張ります https://t.co/VyK10u9hip"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2042236986988388352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFd7uCybYAAFdJB.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042236986988388352"
+          ],
+          "media_source_tweet_id": [
+            "2042236993829208215"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2042681596663459949",
+        "created_at": "2026-04-10T19:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T20:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042681596663459949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1557296150440726529",
+              "start": 3,
+              "username": "ai__gp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VyK10u9hip",
+              "end": 50,
+              "expanded_url": "https://x.com/ai__gp/status/2042236993829208215/photo/1",
+              "media_key": "3_2042236986988388352",
+              "start": 27,
+              "url": "https://t.co/VyK10u9hip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042681596663459949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 276
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042236993829208215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ai__gp: 完成させられるよう頑張ります https://t.co/VyK10u9hip"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042236986988388352"
+          ]
+        },
+        "author_id": "1557296150440726529",
+        "conversation_id": "2042236993829208215",
+        "created_at": "2026-04-09T13:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042236993829208215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VyK10u9hip",
+              "end": 38,
+              "expanded_url": "https://x.com/ai__gp/status/2042236993829208215/photo/1",
+              "media_key": "3_2042236986988388352",
+              "start": 15,
+              "url": "https://t.co/VyK10u9hip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042236993829208215",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 22649,
+          "like_count": 2887,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "完成させられるよう頑張ります https://t.co/VyK10u9hip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 35,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 35
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T09:21:59.000Z",
+        "description": "すいうです┊︎prsk︎︎\nサブ→@RiriSa0111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "RiriSa0111"
+              }
+            ]
+          }
+        },
+        "id": "1557296150440726529",
+        "location": "お仕事募集中です",
+        "name": "翠雨",
+        "pinned_tweet_id": "2033177061905576245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015805211554816000/UGu91lbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12596,
+          "following_count": 89,
+          "like_count": 2174,
+          "listed_count": 37,
+          "media_count": 192,
+          "tweet_count": 944
+        },
+        "username": "ai__gp",
+        "verified": false
+      }
+    ]
+  }
+}

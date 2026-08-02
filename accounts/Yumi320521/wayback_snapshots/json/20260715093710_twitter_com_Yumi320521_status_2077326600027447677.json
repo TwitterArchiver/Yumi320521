@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2077326600027447677",
+    "created_at": "2026-07-15T09:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077326600027447677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1809233055196073984",
+          "start": 3,
+          "username": "Jy666992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077326600027447677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077093440375161113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jy666992: 抽5块1g的大麻\n吃4.5块10mg的哌甲酯\n吃9毛15mg的dxm\n吸15块10mg的oxy\n玩80一张的邮票\n我迟早走上人生巅峰\n可是就是他妈的我这点钱都没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2077326600027447677",
+        "created_at": "2026-07-15T09:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077326600027447677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1809233055196073984",
+              "start": 3,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077326600027447677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077093440375161113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jy666992: 抽5块1g的大麻\n吃4.5块10mg的哌甲酯\n吃9毛15mg的dxm\n吸15块10mg的oxy\n玩80一张的邮票\n我迟早走上人生巅峰\n可是就是他妈的我这点钱都没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809233055196073984",
+        "conversation_id": "2077093440375161113",
+        "created_at": "2026-07-14T18:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077093440375161113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077093440375161113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9046,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "抽5块1g的大麻\n吃4.5块10mg的哌甲酯\n吃9毛15mg的dxm\n吸15块10mg的oxy\n玩80一张的邮票\n我迟早走上人生巅峰\n可是就是他妈的我这点钱都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか🐈‍⬛🐾\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 160,
+          "like_count": 5705,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1461
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n解离美学爱好者/自毁倾向\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好总惹事感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2074687552712548840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 348,
+          "like_count": 1827,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 1298
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

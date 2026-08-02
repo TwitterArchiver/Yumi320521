@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067610604412796928"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2067610609848594761",
+    "created_at": "2026-06-18T14:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067610609848594761"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JRNVMoA5X1",
+          "end": 23,
+          "expanded_url": "https://x.com/Yumi320521/status/2067610609848594761/photo/1",
+          "media_key": "3_2067610604412796928",
+          "start": 0,
+          "url": "https://t.co/JRNVMoA5X1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067610609848594761",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/JRNVMoA5X1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067610604412796928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGg49nbAAAwtHv.jpg",
+        "width": 1872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067610604412796928"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2067610609848594761",
+        "created_at": "2026-06-18T14:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067610609848594761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JRNVMoA5X1",
+              "end": 23,
+              "expanded_url": "https://x.com/Yumi320521/status/2067610609848594761/photo/1",
+              "media_key": "3_2067610604412796928",
+              "start": 0,
+              "url": "https://t.co/JRNVMoA5X1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067610609848594761",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JRNVMoA5X1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 \n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2067556150426669153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067554649486573568/_C_kHJDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 119,
+          "like_count": 3561,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 649
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

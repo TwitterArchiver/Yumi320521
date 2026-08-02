@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2074078242924052806",
+    "created_at": "2026-07-06T10:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074078242924052806"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074078242924052806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "贱逼当时有个墙内婊子加我我不知道翻关注才看见 我除了我朋友和一开始的同类都不加墙外 天天秀转账缺爱 缺你妈逼我给你逼砍了草 让你手臂上出现无数假逼我和你熟吗 不知道这样很失礼吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2074078242924052806",
+        "created_at": "2026-07-06T10:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074078242924052806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074078242924052806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贱逼当时有个墙内婊子加我我不知道翻关注才看见 我除了我朋友和一开始的同类都不加墙外 天天秀转账缺爱 缺你妈逼我给你逼砍了草 让你手臂上出现无数假逼我和你熟吗 不知道这样很失礼吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 145,
+          "like_count": 5304,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1215
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

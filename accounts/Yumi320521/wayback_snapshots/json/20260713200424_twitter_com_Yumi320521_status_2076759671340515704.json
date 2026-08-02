@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2076759671340515704",
+    "created_at": "2026-07-13T20:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T21:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076759671340515704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2024584670365831169",
+          "start": 3,
+          "username": "luftwaffelive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076759671340515704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076659014683988394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luftwaffelive: 我爸可能在某个深夜和师江渊一样看着自己的QQ空间里那个还没确诊精神病的女儿叹气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2076759671340515704",
+        "created_at": "2026-07-13T20:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T21:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076759671340515704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2024584670365831169",
+              "start": 3,
+              "username": "luftwaffelive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076759671340515704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076659014683988394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luftwaffelive: 我爸可能在某个深夜和师江渊一样看着自己的QQ空间里那个还没确诊精神病的女儿叹气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024584670365831169",
+        "conversation_id": "2076659014683988394",
+        "created_at": "2026-07-13T13:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076659014683988394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076659014683988394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 909,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我爸可能在某个深夜和师江渊一样看着自己的QQ空间里那个还没确诊精神病的女儿叹气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか🐈‍⬛🐾\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 158,
+          "like_count": 5663,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1444
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T20:39:50.000Z",
+        "description": "我是xwx｜精神不正常\n🚪58｜88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bzd83462",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bzd83462",
+                "start": 0,
+                "url": "https://t.co/w4TurCgXJT"
+              }
+            ]
+          }
+        },
+        "id": "2024584670365831169",
+        "location": "notfound",
+        "name": "豆包我全家死了",
+        "pinned_tweet_id": "2066523058886816194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066887505987919873/UdxmXiro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 234,
+          "like_count": 1070,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 277
+        },
+        "url": "https://t.co/w4TurCgXJT",
+        "username": "luftwaffelive",
+        "verified": false
+      }
+    ]
+  }
+}

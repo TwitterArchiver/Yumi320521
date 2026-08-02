@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060158031485370543",
+    "created_at": "2026-05-29T00:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T01:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060158031485370543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060158031485370543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059208794660585773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: 你说的对但是《OD online》是由oder研发的开放世界冒险游戏。游戏发生在一个被称作「⏰」的幻想世界，在这被原生家庭选中的人将被授予「心理疾病」导引OD之力。你将扮演一位名为「oder」神秘角色，在冒险中邂逅性格各异、能力独特的药品，和他…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060158031485370543",
+        "created_at": "2026-05-29T00:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060158031485370543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060158031485370543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059208794660585773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: 你说的对但是《OD online》是由oder研发的开放世界冒险游戏。游戏发生在一个被称作「⏰」的幻想世界，在这被原生家庭选中的人将被授予「心理疾病」导引OD之力。你将扮演一位名为「oder」神秘角色，在冒险中邂逅性格各异、能力独特的药品，和他…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2059208794660585773",
+        "created_at": "2026-05-26T09:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059208794660585773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059208794660585773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你说的对但是《OD online》是由oder研发的开放世界冒险游戏。游戏发生在一个被称作「⏰」的幻想世界，在这被原生家庭选中的人将被授予「心理疾病」导引OD之力。你将扮演一位名为「oder」神秘角色，在冒险中邂逅性格各异、能力独特的药品，和他们一起击败耐受，找回失散的药效，同时发掘「高原」的真相"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 87,
+          "like_count": 2088,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 711
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 217,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 660
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053380155817771008",
+        "3_2053380155943620608",
+        "3_2053380155826163712",
+        "3_2053380155851395072"
+      ],
+      "media_source_tweet_id": [
+        "2053380165024317882",
+        "2053380165024317882",
+        "2053380165024317882",
+        "2053380165024317882"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2053804911838847236",
+    "created_at": "2026-05-11T11:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T12:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053804911838847236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1669320657581248512",
+          "start": 3,
+          "username": "arisa_inuinu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a5tco7ZHIT",
+          "end": 57,
+          "expanded_url": "https://x.com/arisa_inuinu/status/2053380165024317882/photo/1",
+          "media_key": "3_2053380155817771008",
+          "start": 34,
+          "url": "https://t.co/a5tco7ZHIT"
+        },
+        {
+          "display_url": "pic.x.com/a5tco7ZHIT",
+          "end": 57,
+          "expanded_url": "https://x.com/arisa_inuinu/status/2053380165024317882/photo/1",
+          "media_key": "3_2053380155943620608",
+          "start": 34,
+          "url": "https://t.co/a5tco7ZHIT"
+        },
+        {
+          "display_url": "pic.x.com/a5tco7ZHIT",
+          "end": 57,
+          "expanded_url": "https://x.com/arisa_inuinu/status/2053380165024317882/photo/1",
+          "media_key": "3_2053380155826163712",
+          "start": 34,
+          "url": "https://t.co/a5tco7ZHIT"
+        },
+        {
+          "display_url": "pic.x.com/a5tco7ZHIT",
+          "end": 57,
+          "expanded_url": "https://x.com/arisa_inuinu/status/2053380165024317882/photo/1",
+          "media_key": "3_2053380155851395072",
+          "start": 34,
+          "url": "https://t.co/a5tco7ZHIT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053804911838847236",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 674
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053380165024317882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arisa_inuinu: あの頃の地雷系スターターセット https://t.co/a5tco7ZHIT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1083,
+        "media_key": "3_2053380155817771008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8SX1hawAAscx8.jpg",
+        "width": 1000
+      },
+      {
+        "height": 996,
+        "media_key": "3_2053380155943620608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8SX1_bEAAmAJv.jpg",
+        "width": 1170
+      },
+      {
+        "height": 604,
+        "media_key": "3_2053380155826163712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8SX1ja0AAOoWM.jpg",
+        "width": 483
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053380155851395072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8SX1pb0AA9uLS.jpg",
+        "width": 1462
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053380155817771008",
+            "3_2053380155943620608",
+            "3_2053380155826163712",
+            "3_2053380155851395072"
+          ],
+          "media_source_tweet_id": [
+            "2053380165024317882",
+            "2053380165024317882",
+            "2053380165024317882",
+            "2053380165024317882"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2053804911838847236",
+        "created_at": "2026-05-11T11:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053804911838847236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1669320657581248512",
+              "start": 3,
+              "username": "arisa_inuinu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a5tco7ZHIT",
+              "end": 57,
+              "expanded_url": "https://x.com/arisa_inuinu/status/2053380165024317882/photo/1",
+              "media_key": "3_2053380155817771008",
+              "start": 34,
+              "url": "https://t.co/a5tco7ZHIT"
+            },
+            {
+              "display_url": "pic.x.com/a5tco7ZHIT",
+              "end": 57,
+              "expanded_url": "https://x.com/arisa_inuinu/status/2053380165024317882/photo/1",
+              "media_key": "3_2053380155943620608",
+              "start": 34,
+              "url": "https://t.co/a5tco7ZHIT"
+            },
+            {
+              "display_url": "pic.x.com/a5tco7ZHIT",
+              "end": 57,
+              "expanded_url": "https://x.com/arisa_inuinu/status/2053380165024317882/photo/1",
+              "media_key": "3_2053380155826163712",
+              "start": 34,
+              "url": "https://t.co/a5tco7ZHIT"
+            },
+            {
+              "display_url": "pic.x.com/a5tco7ZHIT",
+              "end": 57,
+              "expanded_url": "https://x.com/arisa_inuinu/status/2053380165024317882/photo/1",
+              "media_key": "3_2053380155851395072",
+              "start": 34,
+              "url": "https://t.co/a5tco7ZHIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053804911838847236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 674
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053380165024317882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arisa_inuinu: あの頃の地雷系スターターセット https://t.co/a5tco7ZHIT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053380155817771008",
+            "3_2053380155943620608",
+            "3_2053380155826163712",
+            "3_2053380155851395072"
+          ]
+        },
+        "author_id": "1669320657581248512",
+        "conversation_id": "2053380165024317882",
+        "created_at": "2026-05-10T07:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053380165024317882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a5tco7ZHIT",
+              "end": 39,
+              "expanded_url": "https://x.com/arisa_inuinu/status/2053380165024317882/photo/1",
+              "media_key": "3_2053380155817771008",
+              "start": 16,
+              "url": "https://t.co/a5tco7ZHIT"
+            },
+            {
+              "display_url": "pic.x.com/a5tco7ZHIT",
+              "end": 39,
+              "expanded_url": "https://x.com/arisa_inuinu/status/2053380165024317882/photo/1",
+              "media_key": "3_2053380155943620608",
+              "start": 16,
+              "url": "https://t.co/a5tco7ZHIT"
+            },
+            {
+              "display_url": "pic.x.com/a5tco7ZHIT",
+              "end": 39,
+              "expanded_url": "https://x.com/arisa_inuinu/status/2053380165024317882/photo/1",
+              "media_key": "3_2053380155826163712",
+              "start": 16,
+              "url": "https://t.co/a5tco7ZHIT"
+            },
+            {
+              "display_url": "pic.x.com/a5tco7ZHIT",
+              "end": 39,
+              "expanded_url": "https://x.com/arisa_inuinu/status/2053380165024317882/photo/1",
+              "media_key": "3_2053380155851395072",
+              "start": 16,
+              "url": "https://t.co/a5tco7ZHIT"
+            },
+            {
+              "display_url": "x.com/joellotion/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/joellotion/status/2052352328515379575",
+              "start": 40,
+              "url": "https://t.co/McStjoXjdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053380165024317882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 463,
+          "impression_count": 654668,
+          "like_count": 9284,
+          "quote_count": 477,
+          "reply_count": 5,
+          "retweet_count": 674
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052352328515379575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "あの頃の地雷系スターターセット https://t.co/a5tco7ZHIT https://t.co/McStjoXjdd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "💙ゆず🩵🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 65,
+          "like_count": 1117,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 223
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T12:27:21.000Z",
+        "description": "身長173cm￤弁護士志望の大学生🎓￤🍚（@inuinu_mogumogu）￤🏠📚✍🏻(@inu_tatemono)￤お仕事等はこちらまでarisainu333@gmail.com￤各種SNSは⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "inuinu_mogumogu"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "inu_tatemono"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/inuinu333",
+                "end": 23,
+                "expanded_url": "https://lit.link/inuinu333",
+                "start": 0,
+                "url": "https://t.co/n9RBoOGHOP"
+              }
+            ]
+          }
+        },
+        "id": "1669320657581248512",
+        "name": "いぬいぬฅ^• ﻌ •^ฅ",
+        "pinned_tweet_id": "1993478734377320565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984361365348421633/_GPWerMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9588,
+          "following_count": 892,
+          "like_count": 33814,
+          "listed_count": 41,
+          "media_count": 703,
+          "tweet_count": 7795
+        },
+        "url": "https://t.co/n9RBoOGHOP",
+        "username": "arisa_inuinu",
+        "verified": true
+      }
+    ]
+  }
+}

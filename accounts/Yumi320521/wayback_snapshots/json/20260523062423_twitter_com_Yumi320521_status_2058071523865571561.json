@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058071523865571561",
+    "created_at": "2026-05-23T06:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058071523865571561"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058071523865571561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我之前在群里认识了一个男的真恶心 经常找我聊天那时候还有伪装看着像是个正常人 后面就经常puv我还让我给他花钱 生日的时候给他转了100又送了一百多的礼物 出了那人喜欢的角色 结果对我性骚扰什么的太恶心了 真下贱🤮这人还是个22岁小学学历的乐子男 恶心死了💩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058071523865571561",
+        "created_at": "2026-05-23T06:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058071523865571561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058071523865571561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前在群里认识了一个男的真恶心 经常找我聊天那时候还有伪装看着像是个正常人 后面就经常puv我还让我给他花钱 生日的时候给他转了100又送了一百多的礼物 出了那人喜欢的角色 结果对我性骚扰什么的太恶心了 真下贱🤮这人还是个22岁小学学历的乐子男 恶心死了💩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残｜ISFP\n会发自拍和碎碎念 欢迎互fo哦",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 63,
+          "like_count": 1566,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 365
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

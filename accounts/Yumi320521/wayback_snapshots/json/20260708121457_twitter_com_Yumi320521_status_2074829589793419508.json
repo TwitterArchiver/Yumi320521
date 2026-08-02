@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074161067836727297"
+      ],
+      "media_source_tweet_id": [
+        "2074161079304040651"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2074829589793419508",
+    "created_at": "2026-07-08T12:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074829589793419508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2044793008814739456",
+          "start": 3,
+          "username": "pagyopagyo22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NznhQlPXC7",
+          "end": 57,
+          "expanded_url": "https://x.com/pagyopagyo22/status/2074161079304040651/photo/1",
+          "media_key": "3_2074161067836727297",
+          "start": 34,
+          "url": "https://t.co/NznhQlPXC7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074829589793419508",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 420
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074161079304040651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pagyopagyo22: 自分の血の匂いで気持ち悪くなる https://t.co/NznhQlPXC7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2074161067836727297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjmgHdaYAEB_K4.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074161067836727297"
+          ],
+          "media_source_tweet_id": [
+            "2074161079304040651"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2074829589793419508",
+        "created_at": "2026-07-08T12:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074829589793419508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2044793008814739456",
+              "start": 3,
+              "username": "pagyopagyo22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NznhQlPXC7",
+              "end": 57,
+              "expanded_url": "https://x.com/pagyopagyo22/status/2074161079304040651/photo/1",
+              "media_key": "3_2074161067836727297",
+              "start": 34,
+              "url": "https://t.co/NznhQlPXC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074829589793419508",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 420
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074161079304040651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pagyopagyo22: 自分の血の匂いで気持ち悪くなる https://t.co/NznhQlPXC7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074161067836727297"
+          ]
+        },
+        "author_id": "2044793008814739456",
+        "conversation_id": "2074161079304040651",
+        "created_at": "2026-07-06T15:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074161079304040651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NznhQlPXC7",
+              "end": 39,
+              "expanded_url": "https://x.com/pagyopagyo22/status/2074161079304040651/photo/1",
+              "media_key": "3_2074161067836727297",
+              "start": 16,
+              "url": "https://t.co/NznhQlPXC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074161079304040651",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 634,
+          "impression_count": 67364,
+          "like_count": 8952,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 420
+        },
+        "reply_settings": "everyone",
+        "text": "自分の血の匂いで気持ち悪くなる https://t.co/NznhQlPXC7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 145,
+          "like_count": 5383,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1261
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:01:43.000Z",
+        "description": "一次創作/FA\n\nFAタグ→#もでぃふぁい宛\n支部→ https://t.co/uY2yhWrCM6\nサブ→@hanetukgyo_za",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 14,
+                "tag": "もでぃふぁい宛"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "hanetukgyo_za"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/105861177",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/105861177",
+                "start": 27,
+                "url": "https://t.co/uY2yhWrCM6"
+              }
+            ]
+          }
+        },
+        "id": "2044793008814739456",
+        "name": "もでぃふぁい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072709926921838592/Dh1A-dHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4521,
+          "following_count": 201,
+          "like_count": 14281,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 695
+        },
+        "url": "",
+        "username": "pagyopagyo22",
+        "verified": false
+      }
+    ]
+  }
+}

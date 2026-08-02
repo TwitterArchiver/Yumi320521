@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050798208662773760"
+      ],
+      "media_source_tweet_id": [
+        "2050798214425768132"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2051149457337774438",
+    "created_at": "2026-05-04T03:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T04:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051149457337774438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "225551618",
+          "start": 3,
+          "username": "nekokolife"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CFOibeqkh7",
+          "end": 52,
+          "expanded_url": "https://x.com/nekokolife/status/2050798214425768132/photo/1",
+          "media_key": "3_2050798208662773760",
+          "start": 29,
+          "url": "https://t.co/CFOibeqkh7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051149457337774438",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1195
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050798214425768132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekokolife: 猫先生「授業を始めます」 https://t.co/CFOibeqkh7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2050798208662773760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXmGu1aIAAlVSo.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050798208662773760"
+          ],
+          "media_source_tweet_id": [
+            "2050798214425768132"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2051149457337774438",
+        "created_at": "2026-05-04T03:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051149457337774438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "225551618",
+              "start": 3,
+              "username": "nekokolife"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CFOibeqkh7",
+              "end": 52,
+              "expanded_url": "https://x.com/nekokolife/status/2050798214425768132/photo/1",
+              "media_key": "3_2050798208662773760",
+              "start": 29,
+              "url": "https://t.co/CFOibeqkh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051149457337774438",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1195
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050798214425768132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekokolife: 猫先生「授業を始めます」 https://t.co/CFOibeqkh7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050798208662773760"
+          ]
+        },
+        "author_id": "225551618",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2050798214425768132",
+        "created_at": "2026-05-03T04:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T05:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050798214425768132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CFOibeqkh7",
+              "end": 36,
+              "expanded_url": "https://x.com/nekokolife/status/2050798214425768132/photo/1",
+              "media_key": "3_2050798208662773760",
+              "start": 13,
+              "url": "https://t.co/CFOibeqkh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050798214425768132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 498,
+          "impression_count": 145319,
+          "like_count": 13709,
+          "quote_count": 49,
+          "reply_count": 97,
+          "retweet_count": 1195
+        },
+        "reply_settings": "everyone",
+        "text": "猫先生「授業を始めます」 https://t.co/CFOibeqkh7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg\n桃井爱莉｜地雷系｜od｜自残\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 55,
+          "like_count": 975,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 171
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-11T21:30:34.000Z",
+        "description": "ネコさんが大好きな人はフォローして下さい🐱",
+        "id": "225551618",
+        "location": "No Cats No Life🐈",
+        "name": "Cat is life ~猫は人生~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014167644933406720/f3TAbmTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192861,
+          "following_count": 855,
+          "like_count": 490,
+          "listed_count": 453,
+          "media_count": 6879,
+          "tweet_count": 185707
+        },
+        "username": "nekokolife",
+        "verified": true
+      }
+    ]
+  }
+}

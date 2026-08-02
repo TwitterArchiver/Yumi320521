@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059528383881785345"
+      ],
+      "media_source_tweet_id": [
+        "2059528385907593486"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059838643930570829",
+    "created_at": "2026-05-28T03:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059838643930570829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2058542790288752640",
+          "start": 3,
+          "username": "teambokdungee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/btbISVgZr8",
+          "end": 48,
+          "expanded_url": "https://x.com/teambokdungee/status/2059528385907593486/photo/1",
+          "media_key": "3_2059528383881785345",
+          "start": 25,
+          "url": "https://t.co/btbISVgZr8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059838643930570829",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2371
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059528385907593486",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @teambokdungee: 맘마먹음이 https://t.co/btbISVgZr8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2059528383881785345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTqJz4bsAEu1QW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059528383881785345"
+          ],
+          "media_source_tweet_id": [
+            "2059528385907593486"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059838643930570829",
+        "created_at": "2026-05-28T03:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059838643930570829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2058542790288752640",
+              "start": 3,
+              "username": "teambokdungee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/btbISVgZr8",
+              "end": 48,
+              "expanded_url": "https://x.com/teambokdungee/status/2059528385907593486/photo/1",
+              "media_key": "3_2059528383881785345",
+              "start": 25,
+              "url": "https://t.co/btbISVgZr8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059838643930570829",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2371
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059528385907593486",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @teambokdungee: 맘마먹음이 https://t.co/btbISVgZr8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059528383881785345"
+          ]
+        },
+        "author_id": "2058542790288752640",
+        "conversation_id": "2059528385907593486",
+        "created_at": "2026-05-27T06:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059528385907593486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/btbISVgZr8",
+              "end": 29,
+              "expanded_url": "https://x.com/teambokdungee/status/2059528385907593486/photo/1",
+              "media_key": "3_2059528383881785345",
+              "start": 6,
+              "url": "https://t.co/btbISVgZr8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059528385907593486",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 321,
+          "impression_count": 136798,
+          "like_count": 12439,
+          "quote_count": 65,
+          "reply_count": 0,
+          "retweet_count": 2371
+        },
+        "reply_settings": "following",
+        "text": "맘마먹음이 https://t.co/btbISVgZr8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 80,
+          "like_count": 1949,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 643
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T13:39:06.000Z",
+        "description": "오대오 가르마 고양이",
+        "id": "2058542790288752640",
+        "name": "복덩이",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058548365131132928/a6eAod_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 0,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 9
+        },
+        "username": "teambokdungee",
+        "verified": false
+      }
+    ]
+  }
+}

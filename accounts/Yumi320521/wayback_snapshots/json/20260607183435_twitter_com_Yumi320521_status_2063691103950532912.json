@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2063590177780773298",
+    "created_at": "2026-06-07T18:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063691103950532912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2011755516209610760",
+          "start": 0,
+          "username": "PizzaNamaaa_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063691103950532912",
+    "in_reply_to_user_id": "2011755516209610760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063590177780773298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PizzaNamaaa_111 这种看起来好温馨🥺希望可以找到一个好人 但是害怕会有虐猫的人把猫咪困住"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14813,
+        "height": 1278,
+        "media_key": "13_2063589951678398464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063589951678398464/img/QiDsCaNNq4XXWVyT.jpg",
+        "public_metrics": {
+          "view_count": 663420
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063589951678398464/vid/avc1/320x568/zrxhjeiq1mQVgnj5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063589951678398464/vid/avc1/480x854/_8zyXpmpWF871w99.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063589951678398464/vid/avc1/718x1278/nvMVyOJc-ii-Eraa.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063589951678398464/pl/iIApGnCWYGP9KiA4.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2063590177780773298",
+        "created_at": "2026-06-07T18:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063691103950532912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2011755516209610760",
+              "start": 0,
+              "username": "PizzaNamaaa_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063691103950532912",
+        "in_reply_to_user_id": "2011755516209610760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063590177780773298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PizzaNamaaa_111 这种看起来好温馨🥺希望可以找到一个好人 但是害怕会有虐猫的人把猫咪困住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063589951678398464"
+          ]
+        },
+        "author_id": "2011755516209610760",
+        "conversation_id": "2063590177780773298",
+        "created_at": "2026-06-07T11:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063590177780773298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W0nVCpFfce",
+              "end": 63,
+              "expanded_url": "https://x.com/PizzaNamaaa_111/status/2063590177780773298/video/1",
+              "media_key": "13_2063589951678398464",
+              "start": 40,
+              "url": "https://t.co/W0nVCpFfce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063590177780773298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 415,
+          "impression_count": 1103914,
+          "like_count": 2022,
+          "quote_count": 14,
+          "reply_count": 88,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "猫ちゃんを傷つけずに保護する仕組み💕\n\n優しい里親が見つかることを祈る✨️✨️ https://t.co/W0nVCpFfce"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜视觉系｜量産型｜桃井愛莉\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 128,
+          "like_count": 2940,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 498
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T11:01:17.000Z",
+        "description": "🌟バズった動画だけを厳選して配信🤣\n🌟フォロー・引用は、ご自由に😻",
+        "id": "2011755516209610760",
+        "location": "2026.02.06",
+        "name": "まだ笑える動画",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015957783837896704/KBaZxFAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16003,
+          "following_count": 218,
+          "like_count": 0,
+          "listed_count": 6,
+          "media_count": 30,
+          "tweet_count": 4057
+        },
+        "username": "PizzaNamaaa_111",
+        "verified": false
+      }
+    ]
+  }
+}

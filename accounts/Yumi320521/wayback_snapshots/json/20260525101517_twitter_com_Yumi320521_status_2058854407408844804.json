@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058836989848547598",
+    "created_at": "2026-05-25T10:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058854407408844804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvaysioffy1"
+        },
+        {
+          "end": 31,
+          "id": "1757603703811371008",
+          "start": 15,
+          "username": "SonjaTasha26957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058854407408844804",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058836989848547598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvaysioffy1 @SonjaTasha26957 蹲蹲ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058836989848547598",
+        "created_at": "2026-05-25T10:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058854407408844804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            },
+            {
+              "end": 31,
+              "id": "1757603703811371008",
+              "start": 15,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058854407408844804",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058836989848547598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 @SonjaTasha26957 蹲蹲ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016028559228469252",
+        "conversation_id": "2058836989848547598",
+        "created_at": "2026-05-25T09:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058836989848547598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058836989848547598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 625,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "100fo了搞个抽奖吧！\n一等奖30t普瑞口崩片+1000yen零食\n二等奖一盒盐野义or一盒白兔（两个各抽一个，折现的话就是1000yen的零食\n三等奖18.88红包*3个 \n全部付邮送 评论参与即可 到时候会让ai帮忙抽奖 八月份回国寄 求转发想交点朋友呀\n爱你们👯‍♂️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 69,
+          "like_count": 1738,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 471
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "不线下。看成分互fo👯‍♂️\n有些关注没有消息提示 所以优先回fo有互动的\n智商很低所以任何攻击都无效 认真你就输了",
+        "id": "2016028559228469252",
+        "name": "小春",
+        "pinned_tweet_id": "2058836989848547598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 107,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 439
+        },
+        "username": "Alvvaysioffy1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2054222035153518899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 612,
+          "like_count": 93,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1074
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      }
+    ]
+  }
+}

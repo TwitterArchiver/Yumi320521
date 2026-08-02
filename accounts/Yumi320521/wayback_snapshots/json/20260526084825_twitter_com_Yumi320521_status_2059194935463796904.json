@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055201692510273536"
+      ],
+      "media_source_tweet_id": [
+        "2055201696972996762"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059194935463796904",
+    "created_at": "2026-05-26T08:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059194935463796904"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 17,
+          "tag": "에나아이리준브라기원트윗"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1985536149541306371",
+          "start": 3,
+          "username": "hime1004chi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N7WY8PCX4c",
+          "end": 71,
+          "expanded_url": "https://x.com/hime1004chi/status/2055201696972996762/photo/1",
+          "media_key": "3_2055201692510273536",
+          "start": 48,
+          "url": "https://t.co/N7WY8PCX4c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059194935463796904",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055201696972996762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hime1004chi: #에나아이리준브라기원트윗\n14일차\n수정 재투고))。。。 https://t.co/N7WY8PCX4c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1628,
+        "media_key": "3_2055201692510273536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWLDOfbQAAaL6x.jpg",
+        "width": 1181
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055201692510273536"
+          ],
+          "media_source_tweet_id": [
+            "2055201696972996762"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059194935463796904",
+        "created_at": "2026-05-26T08:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059194935463796904"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 17,
+              "tag": "에나아이리준브라기원트윗"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1985536149541306371",
+              "start": 3,
+              "username": "hime1004chi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7WY8PCX4c",
+              "end": 71,
+              "expanded_url": "https://x.com/hime1004chi/status/2055201696972996762/photo/1",
+              "media_key": "3_2055201692510273536",
+              "start": 48,
+              "url": "https://t.co/N7WY8PCX4c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059194935463796904",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055201696972996762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hime1004chi: #에나아이리준브라기원트윗\n14일차\n수정 재투고))。。。 https://t.co/N7WY8PCX4c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055201692510273536"
+          ]
+        },
+        "author_id": "1985536149541306371",
+        "conversation_id": "2055201696972996762",
+        "created_at": "2026-05-15T08:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055201696972996762"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "에나아이리준브라기원트윗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7WY8PCX4c",
+              "end": 54,
+              "expanded_url": "https://x.com/hime1004chi/status/2055201696972996762/photo/1",
+              "media_key": "3_2055201692510273536",
+              "start": 31,
+              "url": "https://t.co/N7WY8PCX4c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055201696972996762",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1269,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "#에나아이리준브라기원트윗\n14일차\n수정 재투고))。。。 https://t.co/N7WY8PCX4c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 69,
+          "like_count": 1795,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 533
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T02:35:00.000Z",
+        "description": "🎨🍑🎨\n☘️♡\n\n스토리스포○\n\nsub: @himecat1004\n\nhttps://t.co/DSTljaTHOa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "himecat1004"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20248…",
+                "end": 59,
+                "expanded_url": "https://x.com/i/status/2024803794245341333",
+                "start": 36,
+                "url": "https://t.co/DSTljaTHOa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/himechi1004",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/himechi1004",
+                "start": 0,
+                "url": "https://t.co/RZq7qdOaHa"
+              }
+            ]
+          }
+        },
+        "id": "1985536149541306371",
+        "location": "🍑右",
+        "name": "ヒメ",
+        "pinned_tweet_id": "2053031497846935822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039358299708280832/UmishZgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 41,
+          "like_count": 1433,
+          "listed_count": 0,
+          "media_count": 599,
+          "tweet_count": 2184
+        },
+        "url": "https://t.co/RZq7qdOaHa",
+        "username": "hime1004chi",
+        "verified": false
+      }
+    ]
+  }
+}

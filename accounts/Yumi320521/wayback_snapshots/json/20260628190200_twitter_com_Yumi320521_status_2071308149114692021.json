@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2071292226941132926",
+    "created_at": "2026-06-28T19:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071308149114692021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1987007193720475648",
+          "start": 0,
+          "username": "cai_huan78720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071308149114692021",
+    "in_reply_to_user_id": "1987007193720475648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071304703556948079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cai_huan78720 不好意思呀我不买电子烟了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2071292226941132926",
+        "created_at": "2026-06-28T19:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071308149114692021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987007193720475648",
+              "start": 0,
+              "username": "cai_huan78720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071308149114692021",
+        "in_reply_to_user_id": "1987007193720475648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071304703556948079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cai_huan78720 不好意思呀我不买电子烟了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987007193720475648",
+        "conversation_id": "2071292226941132926",
+        "created_at": "2026-06-28T18:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T19:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071304703556948079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071304703556948079",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071292226941132926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 主播我私信不了你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 143,
+          "like_count": 4800,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 957
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T04:01:30.000Z",
+        "description": "出口",
+        "id": "1987007193720475648",
+        "name": "289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987007547640061955/gnTXOSWr_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 23,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "cai_huan78720",
+        "verified": false
+      }
+    ]
+  }
+}

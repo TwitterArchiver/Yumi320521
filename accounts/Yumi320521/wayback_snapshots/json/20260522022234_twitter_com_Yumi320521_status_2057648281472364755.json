@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2057648281472364755",
+    "created_at": "2026-05-22T02:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T03:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057648281472364755"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057648281472364755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草鸡巴这个390丢了我一定要拿到 给死老婆子吸出来气死我了 死爹在国外发工资这么久 气死我了 傻逼傻逼傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2057648281472364755",
+        "created_at": "2026-05-22T02:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057648281472364755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057648281472364755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草鸡巴这个390丢了我一定要拿到 给死老婆子吸出来气死我了 死爹在国外发工资这么久 气死我了 傻逼傻逼傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残｜ISFP\n会发自拍和碎碎念 欢迎互fo哦",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 62,
+          "like_count": 1484,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 310
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

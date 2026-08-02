@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053699299750662144"
+      ],
+      "media_source_tweet_id": [
+        "2053699303894638608"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2054051164937994747",
+    "created_at": "2026-05-12T04:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T05:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054051164937994747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1569617042998988800",
+          "start": 3,
+          "username": "hajimekakeru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wdnyEkW4MQ",
+          "end": 58,
+          "expanded_url": "https://x.com/hajimekakeru/status/2053699303894638608/photo/1",
+          "media_key": "3_2053699299750662144",
+          "start": 35,
+          "url": "https://t.co/wdnyEkW4MQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054051164937994747",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1732
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053699303894638608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hajimekakeru: 人生に疲れたので0Dします、、、 https://t.co/wdnyEkW4MQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 462,
+        "media_key": "3_2053699299750662144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIA0odUbUAAEHPH.jpg",
+        "width": 615
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053699299750662144"
+          ],
+          "media_source_tweet_id": [
+            "2053699303894638608"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2054051164937994747",
+        "created_at": "2026-05-12T04:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T05:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054051164937994747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1569617042998988800",
+              "start": 3,
+              "username": "hajimekakeru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wdnyEkW4MQ",
+              "end": 58,
+              "expanded_url": "https://x.com/hajimekakeru/status/2053699303894638608/photo/1",
+              "media_key": "3_2053699299750662144",
+              "start": 35,
+              "url": "https://t.co/wdnyEkW4MQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054051164937994747",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1732
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053699303894638608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hajimekakeru: 人生に疲れたので0Dします、、、 https://t.co/wdnyEkW4MQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053699299750662144"
+          ]
+        },
+        "author_id": "1569617042998988800",
+        "conversation_id": "2053699303894638608",
+        "created_at": "2026-05-11T04:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053699303894638608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wdnyEkW4MQ",
+              "end": 40,
+              "expanded_url": "https://x.com/hajimekakeru/status/2053699303894638608/photo/1",
+              "media_key": "3_2053699299750662144",
+              "start": 17,
+              "url": "https://t.co/wdnyEkW4MQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053699303894638608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 859,
+          "impression_count": 577478,
+          "like_count": 22082,
+          "quote_count": 155,
+          "reply_count": 235,
+          "retweet_count": 1732
+        },
+        "reply_settings": "everyone",
+        "text": "人生に疲れたので0Dします、、、 https://t.co/wdnyEkW4MQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n好累…",
+        "id": "2040070879888220160",
+        "name": "💙ゆず🩵🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 64,
+          "like_count": 1134,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 226
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-13T09:20:58.000Z",
+        "description": "歌い手🎤/Vライバー📱/ツイ廃界隈🐦/⚡️一推し様 @tokidoki77/🤝251 @sakenmilove @xavierutage/🧑‍🎨絵師様@Miyusu_uZz/👍トレードマーク/ポストは基本ネタです。拾い画をポストしてます。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "tokidoki77"
+              },
+              {
+                "end": 55,
+                "start": 43,
+                "username": "sakenmilove"
+              },
+              {
+                "end": 68,
+                "start": 56,
+                "username": "xavierutage"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Miyusu_uZz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "room.rakuten.co.jp/room_1bf61238a…",
+                "end": 23,
+                "expanded_url": "https://room.rakuten.co.jp/room_1bf61238a9/items",
+                "start": 0,
+                "url": "https://t.co/hi7rPeU72j"
+              }
+            ]
+          }
+        },
+        "id": "1569617042998988800",
+        "name": "はじめ駆ける👍@面白ツイート",
+        "pinned_tweet_id": "2053699303894638608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004088957068627969/WIsGaXzc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63041,
+          "following_count": 25981,
+          "like_count": 74753,
+          "listed_count": 162,
+          "media_count": 3083,
+          "tweet_count": 11013
+        },
+        "url": "https://t.co/hi7rPeU72j",
+        "username": "hajimekakeru",
+        "verified": true
+      }
+    ]
+  }
+}

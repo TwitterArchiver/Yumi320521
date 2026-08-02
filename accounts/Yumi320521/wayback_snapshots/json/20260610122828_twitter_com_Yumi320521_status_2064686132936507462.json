@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064462358924455936",
+        "3_2064462359054413824",
+        "3_2064462358962184192",
+        "3_2064462358991474688"
+      ],
+      "media_source_tweet_id": [
+        "2064462452243513561",
+        "2064462452243513561",
+        "2064462452243513561",
+        "2064462452243513561"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064686132936507462",
+    "created_at": "2026-06-10T12:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064686132936507462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1304790538982273024",
+          "start": 3,
+          "username": "bossgobu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PxS81N073n",
+          "end": 66,
+          "expanded_url": "https://x.com/bossgobu/status/2064462452243513561/photo/1",
+          "media_key": "3_2064462358924455936",
+          "start": 43,
+          "url": "https://t.co/PxS81N073n"
+        },
+        {
+          "display_url": "pic.x.com/PxS81N073n",
+          "end": 66,
+          "expanded_url": "https://x.com/bossgobu/status/2064462452243513561/photo/1",
+          "media_key": "3_2064462359054413824",
+          "start": 43,
+          "url": "https://t.co/PxS81N073n"
+        },
+        {
+          "display_url": "pic.x.com/PxS81N073n",
+          "end": 66,
+          "expanded_url": "https://x.com/bossgobu/status/2064462452243513561/photo/1",
+          "media_key": "3_2064462358962184192",
+          "start": 43,
+          "url": "https://t.co/PxS81N073n"
+        },
+        {
+          "display_url": "pic.x.com/PxS81N073n",
+          "end": 66,
+          "expanded_url": "https://x.com/bossgobu/status/2064462452243513561/photo/1",
+          "media_key": "3_2064462358991474688",
+          "start": 43,
+          "url": "https://t.co/PxS81N073n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064686132936507462",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 156
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064462452243513561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bossgobu: 久しぶりに見たけど\nNEOのここのところいいシーンすぎる https://t.co/PxS81N073n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_2064462358924455936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKZxk9PbcAAcE8L.jpg",
+        "width": 2532
+      },
+      {
+        "height": 1170,
+        "media_key": "3_2064462359054413824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKZxk9uacAAQQCT.jpg",
+        "width": 2532
+      },
+      {
+        "height": 1170,
+        "media_key": "3_2064462358962184192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKZxk9YbIAAV7T_.jpg",
+        "width": 2532
+      },
+      {
+        "height": 1170,
+        "media_key": "3_2064462358991474688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKZxk9faEAAJwH_.jpg",
+        "width": 2532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064462358924455936",
+            "3_2064462359054413824",
+            "3_2064462358962184192",
+            "3_2064462358991474688"
+          ],
+          "media_source_tweet_id": [
+            "2064462452243513561",
+            "2064462452243513561",
+            "2064462452243513561",
+            "2064462452243513561"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064686132936507462",
+        "created_at": "2026-06-10T12:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064686132936507462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1304790538982273024",
+              "start": 3,
+              "username": "bossgobu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxS81N073n",
+              "end": 66,
+              "expanded_url": "https://x.com/bossgobu/status/2064462452243513561/photo/1",
+              "media_key": "3_2064462358924455936",
+              "start": 43,
+              "url": "https://t.co/PxS81N073n"
+            },
+            {
+              "display_url": "pic.x.com/PxS81N073n",
+              "end": 66,
+              "expanded_url": "https://x.com/bossgobu/status/2064462452243513561/photo/1",
+              "media_key": "3_2064462359054413824",
+              "start": 43,
+              "url": "https://t.co/PxS81N073n"
+            },
+            {
+              "display_url": "pic.x.com/PxS81N073n",
+              "end": 66,
+              "expanded_url": "https://x.com/bossgobu/status/2064462452243513561/photo/1",
+              "media_key": "3_2064462358962184192",
+              "start": 43,
+              "url": "https://t.co/PxS81N073n"
+            },
+            {
+              "display_url": "pic.x.com/PxS81N073n",
+              "end": 66,
+              "expanded_url": "https://x.com/bossgobu/status/2064462452243513561/photo/1",
+              "media_key": "3_2064462358991474688",
+              "start": 43,
+              "url": "https://t.co/PxS81N073n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064686132936507462",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 156
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064462452243513561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bossgobu: 久しぶりに見たけど\nNEOのここのところいいシーンすぎる https://t.co/PxS81N073n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064462358924455936",
+            "3_2064462359054413824",
+            "3_2064462358962184192",
+            "3_2064462358991474688"
+          ]
+        },
+        "author_id": "1304790538982273024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064462452243513561",
+        "created_at": "2026-06-09T21:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T22:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064462452243513561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxS81N073n",
+              "end": 52,
+              "expanded_url": "https://x.com/bossgobu/status/2064462452243513561/photo/1",
+              "media_key": "3_2064462358924455936",
+              "start": 29,
+              "url": "https://t.co/PxS81N073n"
+            },
+            {
+              "display_url": "pic.x.com/PxS81N073n",
+              "end": 52,
+              "expanded_url": "https://x.com/bossgobu/status/2064462452243513561/photo/1",
+              "media_key": "3_2064462359054413824",
+              "start": 29,
+              "url": "https://t.co/PxS81N073n"
+            },
+            {
+              "display_url": "pic.x.com/PxS81N073n",
+              "end": 52,
+              "expanded_url": "https://x.com/bossgobu/status/2064462452243513561/photo/1",
+              "media_key": "3_2064462358962184192",
+              "start": 29,
+              "url": "https://t.co/PxS81N073n"
+            },
+            {
+              "display_url": "pic.x.com/PxS81N073n",
+              "end": 52,
+              "expanded_url": "https://x.com/bossgobu/status/2064462452243513561/photo/1",
+              "media_key": "3_2064462358991474688",
+              "start": 29,
+              "url": "https://t.co/PxS81N073n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064462452243513561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 43688,
+          "like_count": 2239,
+          "quote_count": 12,
+          "reply_count": 2,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "久しぶりに見たけど\nNEOのここのところいいシーンすぎる https://t.co/PxS81N073n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 133,
+          "like_count": 3121,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 539
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-12T14:34:55.000Z",
+        "description": "プロセカエンジョイ勢 奏と穂波推し：みんなへの質問募集中、DMにて投稿お待ちしております：採用時はこちらから返信します🙋‍♂️イラスト捜索系は❌：更新不定期なサブ→@bossgobu2 ：ヘッダー→ @sakubonge 様 アイコン→ @marimo577 様に描いて頂きました",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "bossgobu2"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "sakubonge"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "marimo577"
+              }
+            ]
+          }
+        },
+        "id": "1304790538982273024",
+        "location": "毎日言おう、かーねーちょん",
+        "name": "ボスゴブ@セカシン横浜参加",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760610085401960448/22dsZv6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98332,
+          "following_count": 23602,
+          "like_count": 58813,
+          "listed_count": 206,
+          "media_count": 23395,
+          "tweet_count": 40880
+        },
+        "username": "bossgobu",
+        "verified": true
+      }
+    ]
+  }
+}

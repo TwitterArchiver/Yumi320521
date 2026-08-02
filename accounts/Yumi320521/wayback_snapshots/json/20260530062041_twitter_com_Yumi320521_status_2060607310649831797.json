@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060607298364690432"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060607310649831797",
+    "created_at": "2026-05-30T06:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060607310649831797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/subQgXwbv3",
+          "end": 44,
+          "expanded_url": "https://x.com/Yumi320521/status/2060607310649831797/photo/1",
+          "media_key": "3_2060607298364690432",
+          "start": 21,
+          "url": "https://t.co/subQgXwbv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060607310649831797",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "同好の仲間を作りたいです！不拒同担^ ^ https://t.co/subQgXwbv3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060607298364690432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJi_a5ia0AArsUM.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060607298364690432"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060607310649831797",
+        "created_at": "2026-05-30T06:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060607310649831797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/subQgXwbv3",
+              "end": 44,
+              "expanded_url": "https://x.com/Yumi320521/status/2060607310649831797/photo/1",
+              "media_key": "3_2060607298364690432",
+              "start": 21,
+              "url": "https://t.co/subQgXwbv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060607310649831797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同好の仲間を作りたいです！不拒同担^ ^ https://t.co/subQgXwbv3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 95,
+          "like_count": 2259,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 731
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

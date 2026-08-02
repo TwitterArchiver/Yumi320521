@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060802559728898197",
+    "created_at": "2026-05-30T19:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T20:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060805711077200308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2059326143640276992",
+          "start": 0,
+          "username": "Huhiosc3x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060805711077200308",
+    "in_reply_to_user_id": "2059326143640276992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060802559728898197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huhiosc3x 造谣的人太坏了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060802559728898197",
+        "created_at": "2026-05-30T19:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060805711077200308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2059326143640276992",
+              "start": 0,
+              "username": "Huhiosc3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060805711077200308",
+        "in_reply_to_user_id": "2059326143640276992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060802559728898197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huhiosc3x 造谣的人太坏了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059326143640276992",
+        "conversation_id": "2060802559728898197",
+        "created_at": "2026-05-30T19:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060802559728898197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060802559728898197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前高中我有比较出名的黄谣吧，传到别的班宿舍聊的那种，说我一次五十一晚四次额、得两百，哪有那么便宜妈呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060749668641079297/-Zh_qDzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 81,
+          "like_count": 2369,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 779
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T17:32:17.000Z",
+        "description": "可以叫我hh｜可以互fo哦｜我有点笨笨的会直关，如果冒犯了可以移fo……｜非必要不回私信啦｜内容比较阴暗负面……｜生理女心理女，友跨",
+        "id": "2059326143640276992",
+        "name": "Huhio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059327200395190273/aPIop2p8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 50,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 126
+        },
+        "username": "Huhiosc3x",
+        "verified": false
+      }
+    ]
+  }
+}

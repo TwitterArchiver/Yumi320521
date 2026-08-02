@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066860964176347136"
+      ],
+      "media_source_tweet_id": [
+        "2066861121508946328"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069684020657713207",
+    "created_at": "2026-06-24T07:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T08:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069684020657713207"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 28,
+          "tag": "まぼろし博覧会"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2019766407182098432",
+          "start": 3,
+          "username": "r84XrIVAaa12814"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KkbakGCPRu",
+          "end": 60,
+          "expanded_url": "https://x.com/r84XrIVAaa12814/status/2066861121508946328/video/1",
+          "media_key": "13_2066860964176347136",
+          "start": 37,
+          "url": "https://t.co/KkbakGCPRu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069684020657713207",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066861121508946328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @r84XrIVAaa12814: 楽しかった\n #まぼろし博覧会 https://t.co/KkbakGCPRu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14833,
+        "height": 1024,
+        "media_key": "13_2066860964176347136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066860964176347136/img/TH82c5nO3r9jTnId.jpg",
+        "public_metrics": {
+          "view_count": 594
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066860964176347136/vid/avc1/320x568/EpSdv49vV_EU8EST.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066860964176347136/vid/avc1/480x852/Q4YSMLuUBSbUbZjA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066860964176347136/vid/avc1/576x1024/scNV-rEjH9TlEo1r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066860964176347136/pl/9FqYSECwOu64Jwm-.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066860964176347136"
+          ],
+          "media_source_tweet_id": [
+            "2066861121508946328"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069684020657713207",
+        "created_at": "2026-06-24T07:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069684020657713207"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 28,
+              "tag": "まぼろし博覧会"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2019766407182098432",
+              "start": 3,
+              "username": "r84XrIVAaa12814"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkbakGCPRu",
+              "end": 60,
+              "expanded_url": "https://x.com/r84XrIVAaa12814/status/2066861121508946328/video/1",
+              "media_key": "13_2066860964176347136",
+              "start": 37,
+              "url": "https://t.co/KkbakGCPRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069684020657713207",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066861121508946328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @r84XrIVAaa12814: 楽しかった\n #まぼろし博覧会 https://t.co/KkbakGCPRu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066860964176347136"
+          ]
+        },
+        "author_id": "2019766407182098432",
+        "conversation_id": "2066861121508946328",
+        "created_at": "2026-06-16T12:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066861121508946328"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 7,
+              "tag": "まぼろし博覧会"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkbakGCPRu",
+              "end": 39,
+              "expanded_url": "https://x.com/r84XrIVAaa12814/status/2066861121508946328/video/1",
+              "media_key": "13_2066860964176347136",
+              "start": 16,
+              "url": "https://t.co/KkbakGCPRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066861121508946328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1910,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "楽しかった\n #まぼろし博覧会 https://t.co/KkbakGCPRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 142,
+          "like_count": 4423,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 820
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T13:33:47.000Z",
+        "description": "v系大好き名古屋の美容師\nTiktokメイン色んなメイクします",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@5107___?_r=1&…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@5107___?_r=1&_t=ZS-93rvZ3JTPxw",
+                "start": 0,
+                "url": "https://t.co/qdJL62KIvb"
+              }
+            ]
+          }
+        },
+        "id": "2019766407182098432",
+        "name": "༒ 琴 ༒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068845053066547200/rzSBDO_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 43,
+          "like_count": 156,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/qdJL62KIvb",
+        "username": "r84XrIVAaa12814",
+        "verified": false
+      }
+    ]
+  }
+}

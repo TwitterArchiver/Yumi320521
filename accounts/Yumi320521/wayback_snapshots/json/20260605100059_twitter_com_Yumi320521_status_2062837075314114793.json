@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062837054917279744",
+        "3_2062837054921441280"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2062837075314114793",
+    "created_at": "2026-06-05T10:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062837075314114793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IWU3o6JFuy",
+          "end": 74,
+          "expanded_url": "https://x.com/Yumi320521/status/2062837075314114793/photo/1",
+          "media_key": "3_2062837054917279744",
+          "start": 51,
+          "url": "https://t.co/IWU3o6JFuy"
+        },
+        {
+          "display_url": "pic.x.com/IWU3o6JFuy",
+          "end": 74,
+          "expanded_url": "https://x.com/Yumi320521/status/2062837075314114793/photo/1",
+          "media_key": "3_2062837054921441280",
+          "start": 51,
+          "url": "https://t.co/IWU3o6JFuy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062837075314114793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "= ゆず/Yumi\n18↓ 割o｜量产地雷｜桃井爱莉🍑💞\n内含大量负能 碎碎念 喜欢我的请投喂谢谢喵 https://t.co/IWU3o6JFuy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062837054917279744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCrXz_bgAA4cpA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062837054921441280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCrX0AbAAAq9yY.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062837054917279744",
+            "3_2062837054921441280"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2062837075314114793",
+        "created_at": "2026-06-05T10:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062837075314114793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IWU3o6JFuy",
+              "end": 74,
+              "expanded_url": "https://x.com/Yumi320521/status/2062837075314114793/photo/1",
+              "media_key": "3_2062837054917279744",
+              "start": 51,
+              "url": "https://t.co/IWU3o6JFuy"
+            },
+            {
+              "display_url": "pic.x.com/IWU3o6JFuy",
+              "end": 74,
+              "expanded_url": "https://x.com/Yumi320521/status/2062837075314114793/photo/1",
+              "media_key": "3_2062837054921441280",
+              "start": 51,
+              "url": "https://t.co/IWU3o6JFuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062837075314114793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "= ゆず/Yumi\n18↓ 割o｜量产地雷｜桃井爱莉🍑💞\n内含大量负能 碎碎念 喜欢我的请投喂谢谢喵 https://t.co/IWU3o6JFuy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=ゆず/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "Yuzumi",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062831545975754752/juI-d1gH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 99,
+          "like_count": 2675,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 858
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

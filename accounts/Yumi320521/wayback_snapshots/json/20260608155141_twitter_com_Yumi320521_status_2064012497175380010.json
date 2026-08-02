@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064012391881601024",
+        "3_2064012391877349376",
+        "3_2064012392460324864",
+        "3_2064012392519065600"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2064012497175380010",
+    "created_at": "2026-06-08T15:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064012497175380010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XIzd3fqIQx",
+          "end": 50,
+          "expanded_url": "https://x.com/Yumi320521/status/2064012497175380010/photo/1",
+          "media_key": "3_2064012391881601024",
+          "start": 27,
+          "url": "https://t.co/XIzd3fqIQx"
+        },
+        {
+          "display_url": "pic.x.com/XIzd3fqIQx",
+          "end": 50,
+          "expanded_url": "https://x.com/Yumi320521/status/2064012497175380010/photo/1",
+          "media_key": "3_2064012391877349376",
+          "start": 27,
+          "url": "https://t.co/XIzd3fqIQx"
+        },
+        {
+          "display_url": "pic.x.com/XIzd3fqIQx",
+          "end": 50,
+          "expanded_url": "https://x.com/Yumi320521/status/2064012497175380010/photo/1",
+          "media_key": "3_2064012392460324864",
+          "start": 27,
+          "url": "https://t.co/XIzd3fqIQx"
+        },
+        {
+          "display_url": "pic.x.com/XIzd3fqIQx",
+          "end": 50,
+          "expanded_url": "https://x.com/Yumi320521/status/2064012497175380010/photo/1",
+          "media_key": "3_2064012392519065600",
+          "start": 27,
+          "url": "https://t.co/XIzd3fqIQx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064012497175380010",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢的歌曲 拼着玩了o̴̶̷᷄   ̫ o̴̶̷̥᷅ https://t.co/XIzd3fqIQx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064012391881601024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTYVbYbcAAg_wH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064012391877349376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTYVbXakAA7gAV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064012392460324864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTYVdiaEAA66S-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064012392519065600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTYVdwaYAAeD6m.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064012391881601024",
+            "3_2064012391877349376",
+            "3_2064012392460324864",
+            "3_2064012392519065600"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2064012497175380010",
+        "created_at": "2026-06-08T15:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064012497175380010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XIzd3fqIQx",
+              "end": 50,
+              "expanded_url": "https://x.com/Yumi320521/status/2064012497175380010/photo/1",
+              "media_key": "3_2064012391881601024",
+              "start": 27,
+              "url": "https://t.co/XIzd3fqIQx"
+            },
+            {
+              "display_url": "pic.x.com/XIzd3fqIQx",
+              "end": 50,
+              "expanded_url": "https://x.com/Yumi320521/status/2064012497175380010/photo/1",
+              "media_key": "3_2064012391877349376",
+              "start": 27,
+              "url": "https://t.co/XIzd3fqIQx"
+            },
+            {
+              "display_url": "pic.x.com/XIzd3fqIQx",
+              "end": 50,
+              "expanded_url": "https://x.com/Yumi320521/status/2064012497175380010/photo/1",
+              "media_key": "3_2064012392460324864",
+              "start": 27,
+              "url": "https://t.co/XIzd3fqIQx"
+            },
+            {
+              "display_url": "pic.x.com/XIzd3fqIQx",
+              "end": 50,
+              "expanded_url": "https://x.com/Yumi320521/status/2064012497175380010/photo/1",
+              "media_key": "3_2064012392519065600",
+              "start": 27,
+              "url": "https://t.co/XIzd3fqIQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064012497175380010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢的歌曲 拼着玩了o̴̶̷᷄   ̫ o̴̶̷̥᷅ https://t.co/XIzd3fqIQx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜视觉系｜量産型｜桃井愛莉\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 124,
+          "like_count": 3010,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 515
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

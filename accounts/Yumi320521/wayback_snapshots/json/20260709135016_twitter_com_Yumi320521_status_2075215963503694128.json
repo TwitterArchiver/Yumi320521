@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2075215963503694128",
+    "created_at": "2026-07-09T13:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T14:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075215963503694128"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075215963503694128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得心理精神疾病od没什么 最讨厌的就是抖音什么的那种跟风纯玩的精神小伙小妹 还他妈天天在墙内发 贱死你得了咋不去死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2075215963503694128",
+        "created_at": "2026-07-09T13:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075215963503694128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075215963503694128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得心理精神疾病od没什么 最讨厌的就是抖音什么的那种跟风纯玩的精神小伙小妹 还他妈天天在墙内发 贱死你得了咋不去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 143,
+          "like_count": 5432,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1299
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

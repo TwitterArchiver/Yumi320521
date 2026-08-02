@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075674053525049344",
+        "3_2075674053525065728"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2075674063717138863",
+    "created_at": "2026-07-10T20:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T21:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075674063717138863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B8lRohH5CP",
+          "end": 81,
+          "expanded_url": "https://x.com/Yumi320521/status/2075674063717138863/photo/1",
+          "media_key": "3_2075674053525049344",
+          "start": 58,
+          "url": "https://t.co/B8lRohH5CP"
+        },
+        {
+          "display_url": "pic.x.com/B8lRohH5CP",
+          "end": 81,
+          "expanded_url": "https://x.com/Yumi320521/status/2075674063717138863/photo/1",
+          "media_key": "3_2075674053525065728",
+          "start": 58,
+          "url": "https://t.co/B8lRohH5CP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075674063717138863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有人投喂一下Yumi呀😿最近几天都好痛苦余额只有6.74了 好想借酒消愁…一元两元也可以 非常感谢😿🙇‍♀️🙌 https://t.co/B8lRohH5CP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 572,
+        "media_key": "3_2075674053525049344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM5GjeXbEAAiA-s.jpg",
+        "width": 572
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075674053525065728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM5GjeXbUAAOzmS.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075674053525049344",
+            "3_2075674053525065728"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2075674063717138863",
+        "created_at": "2026-07-10T20:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075674063717138863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8lRohH5CP",
+              "end": 81,
+              "expanded_url": "https://x.com/Yumi320521/status/2075674063717138863/photo/1",
+              "media_key": "3_2075674053525049344",
+              "start": 58,
+              "url": "https://t.co/B8lRohH5CP"
+            },
+            {
+              "display_url": "pic.x.com/B8lRohH5CP",
+              "end": 81,
+              "expanded_url": "https://x.com/Yumi320521/status/2075674063717138863/photo/1",
+              "media_key": "3_2075674053525065728",
+              "start": 58,
+              "url": "https://t.co/B8lRohH5CP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075674063717138863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人投喂一下Yumi呀😿最近几天都好痛苦余额只有6.74了 好想借酒消愁…一元两元也可以 非常感谢😿🙇‍♀️🙌 https://t.co/B8lRohH5CP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 154,
+          "like_count": 5500,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1350
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

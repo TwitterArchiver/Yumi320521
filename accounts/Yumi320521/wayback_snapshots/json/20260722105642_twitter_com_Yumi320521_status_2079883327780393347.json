@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079862463886135296"
+      ],
+      "media_source_tweet_id": [
+        "2079862470425112936"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2079883327780393347",
+    "created_at": "2026-07-22T10:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T11:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079883327780393347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776466730489163776",
+          "start": 3,
+          "username": "i_loxe_u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7SeGnKmsVK",
+          "end": 48,
+          "expanded_url": "https://x.com/i_loxe_u/status/2079862470425112936/photo/1",
+          "media_key": "3_2079862463886135296",
+          "start": 25,
+          "url": "https://t.co/7SeGnKmsVK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079883327780393347",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079862470425112936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i_loxe_u: 「あいしていたのに」 https://t.co/7SeGnKmsVK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1161,
+        "media_key": "3_2079862463886135296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0n5C2aEAAgCYG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079862463886135296"
+          ]
+        },
+        "author_id": "1776466730489163776",
+        "conversation_id": "2079862470425112936",
+        "created_at": "2026-07-22T09:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079862470425112936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7SeGnKmsVK",
+              "end": 34,
+              "expanded_url": "https://x.com/i_loxe_u/status/2079862470425112936/photo/1",
+              "media_key": "3_2079862463886135296",
+              "start": 11,
+              "url": "https://t.co/7SeGnKmsVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079862470425112936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 4572,
+          "like_count": 760,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "「あいしていたのに」 https://t.co/7SeGnKmsVK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079862463886135296"
+          ],
+          "media_source_tweet_id": [
+            "2079862470425112936"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2079883327780393347",
+        "created_at": "2026-07-22T10:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079883327780393347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776466730489163776",
+              "start": 3,
+              "username": "i_loxe_u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7SeGnKmsVK",
+              "end": 48,
+              "expanded_url": "https://x.com/i_loxe_u/status/2079862470425112936/photo/1",
+              "media_key": "3_2079862463886135296",
+              "start": 25,
+              "url": "https://t.co/7SeGnKmsVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079883327780393347",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079862470425112936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @i_loxe_u: 「あいしていたのに」 https://t.co/7SeGnKmsVK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n社会に見捨てられ 死にたい",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 161,
+          "like_count": 5872,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1569
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T04:27:34.000Z",
+        "description": "",
+        "id": "1776466730489163776",
+        "location": "依頼/DM",
+        "name": "໊",
+        "pinned_tweet_id": "2079862470425112936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077755835292524544/oKnjJt2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10054,
+          "following_count": 14,
+          "like_count": 34378,
+          "listed_count": 18,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "i_loxe_u",
+        "verified": false
+      }
+    ]
+  }
+}

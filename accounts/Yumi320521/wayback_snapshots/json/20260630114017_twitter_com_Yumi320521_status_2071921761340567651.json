@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2071901867609841798",
+    "created_at": "2026-06-30T11:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071921761340567651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1988050147587268608",
+          "start": 0,
+          "username": "c990163"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071921761340567651",
+    "in_reply_to_user_id": "1988050147587268608",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071910827729560058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c990163 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2071901867609841798",
+        "created_at": "2026-06-30T11:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071921761340567651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1988050147587268608",
+              "start": 0,
+              "username": "c990163"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071921761340567651",
+        "in_reply_to_user_id": "1988050147587268608",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071910827729560058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c990163 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988050147587268608",
+        "conversation_id": "2071901867609841798",
+        "created_at": "2026-06-30T10:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071910827729560058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071910827729560058",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071901867609841798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 怎麼了（拍拍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 140,
+          "like_count": 4876,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1004
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T01:04:47.000Z",
+        "description": "原本帳號叫Op莫名奇妙被鎖了==歡迎交友\nLes 避機器人用的",
+        "id": "1988050147587268608",
+        "name": "c990163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988050240130473984/BXmwpwq4_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 445,
+          "like_count": 13487,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 706
+        },
+        "url": "",
+        "username": "c990163",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076274484856643584"
+      ],
+      "media_source_tweet_id": [
+        "2076274489994740156"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2076762281552249159",
+    "created_at": "2026-07-13T20:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T21:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076762281552249159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1923752634529316864",
+          "start": 3,
+          "username": "ATrafficCone_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6fCCYUiwDL",
+          "end": 78,
+          "expanded_url": "https://x.com/ATrafficCone_/status/2076274489994740156/photo/1",
+          "media_key": "3_2076274484856643584",
+          "start": 55,
+          "url": "https://t.co/6fCCYUiwDL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076762281552249159",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3134
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076274489994740156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ATrafficCone_: noo youre so hot dont kill yourself https://t.co/6fCCYUiwDL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 591,
+        "media_key": "3_2076274484856643584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBopLYWYAAb9Oz.jpg",
+        "width": 566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076274484856643584"
+          ],
+          "media_source_tweet_id": [
+            "2076274489994740156"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2076762281552249159",
+        "created_at": "2026-07-13T20:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T21:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076762281552249159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1923752634529316864",
+              "start": 3,
+              "username": "ATrafficCone_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6fCCYUiwDL",
+              "end": 78,
+              "expanded_url": "https://x.com/ATrafficCone_/status/2076274489994740156/photo/1",
+              "media_key": "3_2076274484856643584",
+              "start": 55,
+              "url": "https://t.co/6fCCYUiwDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076762281552249159",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076274489994740156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ATrafficCone_: noo youre so hot dont kill yourself https://t.co/6fCCYUiwDL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076274484856643584"
+          ]
+        },
+        "author_id": "1923752634529316864",
+        "conversation_id": "2076274489994740156",
+        "created_at": "2026-07-12T11:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076274489994740156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6fCCYUiwDL",
+              "end": 59,
+              "expanded_url": "https://x.com/ATrafficCone_/status/2076274489994740156/photo/1",
+              "media_key": "3_2076274484856643584",
+              "start": 36,
+              "url": "https://t.co/6fCCYUiwDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076274489994740156",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2977,
+          "impression_count": 264395,
+          "like_count": 41656,
+          "quote_count": 34,
+          "reply_count": 13,
+          "retweet_count": 3133
+        },
+        "reply_settings": "everyone",
+        "text": "noo youre so hot dont kill yourself https://t.co/6fCCYUiwDL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか🐈‍⬛🐾\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 158,
+          "like_count": 5668,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1447
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-17T14:49:38.000Z",
+        "description": "",
+        "id": "1923752634529316864",
+        "location": "road",
+        "name": "traffic cone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072807156047319042/jaE1nUpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 125,
+          "like_count": 30679,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "ATrafficCone_",
+        "verified": false
+      }
+    ]
+  }
+}

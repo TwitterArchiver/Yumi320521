@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2072803835928801711",
+    "created_at": "2026-07-02T22:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T23:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072803835928801711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yumi320521/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/yumi320521/status/2072656699916476675",
+          "start": 21,
+          "url": "https://t.co/amMnoYf32D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072803835928801711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072656699916476675",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "兄弟们  磕药抠不了逼我躁郁的能捅死自己 https://t.co/amMnoYf32D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2072803835928801711",
+        "created_at": "2026-07-02T22:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T23:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072803835928801711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yumi320521/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/yumi320521/status/2072656699916476675",
+              "start": 21,
+              "url": "https://t.co/amMnoYf32D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072803835928801711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072656699916476675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兄弟们  磕药抠不了逼我躁郁的能捅死自己 https://t.co/amMnoYf32D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2072656699916476675",
+        "created_at": "2026-07-02T12:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072656699916476675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kotoro0223/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/kotoro0223/status/2072336516530024639",
+              "start": 20,
+              "url": "https://t.co/VPKahAl2O5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072656699916476675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 753,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072336516530024639",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先扣逼 再磕药 磕药上头自然也会割腕了 https://t.co/VPKahAl2O5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 142,
+          "like_count": 5130,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1150
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

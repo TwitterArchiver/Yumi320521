@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059320472786071668",
+    "created_at": "2026-05-26T17:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059320472786071668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2029257641579720704",
+          "start": 3,
+          "username": "cangshu_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059320472786071668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059105389510316209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cangshu_king: 一边流泪一边搞定所有事情的可爱女人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059320472786071668",
+        "created_at": "2026-05-26T17:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059320472786071668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2029257641579720704",
+              "start": 3,
+              "username": "cangshu_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059320472786071668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059105389510316209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cangshu_king: 一边流泪一边搞定所有事情的可爱女人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029257641579720704",
+        "conversation_id": "2059105389510316209",
+        "created_at": "2026-05-26T02:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059105389510316209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059105389510316209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4464,
+          "like_count": 212,
+          "quote_count": 7,
+          "reply_count": 14,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "一边流泪一边搞定所有事情的可爱女人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 69,
+          "like_count": 1828,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 553
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T18:08:29.000Z",
+        "description": "1i=3i=4i switch\n千千万万 明心见己\n别给我发私信想加我微信就给我转五千",
+        "id": "2029257641579720704",
+        "name": "无敌仓鼠大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043307335834337280/ppulwC98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 13,
+          "like_count": 1677,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 654
+        },
+        "username": "cangshu_king",
+        "verified": false
+      }
+    ]
+  }
+}

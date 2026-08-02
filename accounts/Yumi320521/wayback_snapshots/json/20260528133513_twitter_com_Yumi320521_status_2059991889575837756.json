@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059991871469006848"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WEGO",
+          "id": "1035223802358054912",
+          "name": "WEGO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Brand",
+          "id": "846427983237672960",
+          "name": "Fashion Brand"
+        }
+      }
+    ],
+    "conversation_id": "2059991889575837756",
+    "created_at": "2026-05-28T13:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059991889575837756"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3MNqeNLmCF",
+          "end": 45,
+          "expanded_url": "https://x.com/Yumi320521/status/2059991889575837756/photo/1",
+          "media_key": "3_2059991871469006848",
+          "start": 22,
+          "url": "https://t.co/3MNqeNLmCF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059991889575837756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "wego😼（椅子上白色抓痕是一只坏猫干的） https://t.co/3MNqeNLmCF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2059991871469006848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaPsVsaMAAeG5X.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059991871469006848"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WEGO",
+              "id": "1035223802358054912",
+              "name": "WEGO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          }
+        ],
+        "conversation_id": "2059991889575837756",
+        "created_at": "2026-05-28T13:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059991889575837756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MNqeNLmCF",
+              "end": 45,
+              "expanded_url": "https://x.com/Yumi320521/status/2059991889575837756/photo/1",
+              "media_key": "3_2059991871469006848",
+              "start": 22,
+              "url": "https://t.co/3MNqeNLmCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059991889575837756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wego😼（椅子上白色抓痕是一只坏猫干的） https://t.co/3MNqeNLmCF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 81,
+          "like_count": 2033,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 683
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

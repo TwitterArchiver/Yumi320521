@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062454553505861632"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2062454570966798716",
+    "created_at": "2026-06-04T08:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062454570966798716"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nOEYDlpcl7",
+          "end": 50,
+          "expanded_url": "https://x.com/Yumi320521/status/2062454570966798716/photo/1",
+          "media_key": "3_2062454553505861632",
+          "start": 27,
+          "url": "https://t.co/nOEYDlpcl7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062454570966798716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想卖0.1g的误算卫衣会有人来买吗🥲我被国际逼疯了 https://t.co/nOEYDlpcl7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_2062454553505861632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9PfTMakAAEs9w.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062454553505861632"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2062454570966798716",
+        "created_at": "2026-06-04T08:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062454570966798716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nOEYDlpcl7",
+              "end": 50,
+              "expanded_url": "https://x.com/Yumi320521/status/2062454570966798716/photo/1",
+              "media_key": "3_2062454553505861632",
+              "start": 27,
+              "url": "https://t.co/nOEYDlpcl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062454570966798716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想卖0.1g的误算卫衣会有人来买吗🥲我被国际逼疯了 https://t.co/nOEYDlpcl7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 柚子 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "Yuzumi",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062202271744901120/Mix4UWN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 99,
+          "like_count": 2667,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 921
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

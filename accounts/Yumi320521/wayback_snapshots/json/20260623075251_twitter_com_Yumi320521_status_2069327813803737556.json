@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069128063007490244",
+    "created_at": "2026-06-23T07:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069327813803737556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1947564512984567808",
+          "start": 0,
+          "username": "LINKINGMadoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069327813803737556",
+    "in_reply_to_user_id": "1947564512984567808",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069281164322648115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LINKINGMadoka 😭💦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069128063007490244",
+        "created_at": "2026-06-23T07:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069327813803737556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1947564512984567808",
+              "start": 0,
+              "username": "LINKINGMadoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069327813803737556",
+        "in_reply_to_user_id": "1947564512984567808",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069281164322648115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LINKINGMadoka 😭💦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947564512984567808",
+        "conversation_id": "2069128063007490244",
+        "created_at": "2026-06-23T04:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069281164322648115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069281164322648115",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069128063007490244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 这种垃圾药物谁跟你回家啊！拿点好东西来吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 138,
+          "like_count": 4185,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 770
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T07:49:16.000Z",
+        "description": "02年mtx&泛性恋｜hrt in 2025.6｜od｜家长党｜ADHD｜同类互fo｜坐标江苏泰州｜亲爱的@ashasw114514｜妹妹@Chiyuyu520｜脑残  患有did和癔症｜厌男 郭蛆退散｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "ashasw114514"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Chiyuyu520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+sz6i6N60Epo3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+sz6i6N60Epo3NmE1",
+                "start": 0,
+                "url": "https://t.co/WpZdDzPSRA"
+              }
+            ]
+          }
+        },
+        "id": "1947564512984567808",
+        "location": "天国",
+        "name": "LinKing阿圆🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984197385401368576/nM0gB57M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 1334,
+          "like_count": 1602,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 1622
+        },
+        "url": "https://t.co/WpZdDzPSRA",
+        "username": "LINKINGMadoka",
+        "verified": false
+      }
+    ]
+  }
+}

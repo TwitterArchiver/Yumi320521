@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069712662754406805",
+    "created_at": "2026-06-24T09:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069712662754406805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1777129646867542016",
+          "start": 3,
+          "username": "Sunset__3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069712662754406805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069673247931822199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sunset__3000: 直率一点叫滥用，含蓄一点叫偶滴，乡土一点叫嗑药，可爱一点叫oo，普通一点叫od，老外一点叫overdose，放荡一点叫吸毒，科学一点叫药物过量，风趣一点叫上劲，还有什么叫法吗🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069712662754406805",
+        "created_at": "2026-06-24T09:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069712662754406805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777129646867542016",
+              "start": 3,
+              "username": "Sunset__3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069712662754406805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069673247931822199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sunset__3000: 直率一点叫滥用，含蓄一点叫偶滴，乡土一点叫嗑药，可爱一点叫oo，普通一点叫od，老外一点叫overdose，放荡一点叫吸毒，科学一点叫药物过量，风趣一点叫上劲，还有什么叫法吗🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777129646867542016",
+        "conversation_id": "2069673247931822199",
+        "created_at": "2026-06-24T06:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069673247931822199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069673247931822199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 880,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "直率一点叫滥用，含蓄一点叫偶滴，乡土一点叫嗑药，可爱一点叫oo，普通一点叫od，老外一点叫overdose，放荡一点叫吸毒，科学一点叫药物过量，风趣一点叫上劲，还有什么叫法吗🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 140,
+          "like_count": 4440,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 826
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | 家里蹲备考 | 极端悲观主义 | 爱好生化药理板绘 | 同类互fo漏回提醒下🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/swMyC2Mdbe"
+              }
+            ]
+          }
+        },
+        "id": "1777129646867542016",
+        "location": "神秘600号",
+        "name": "日落三千次💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 605,
+          "like_count": 4005,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/swMyC2Mdbe",
+        "username": "Sunset__3000",
+        "verified": false
+      }
+    ]
+  }
+}

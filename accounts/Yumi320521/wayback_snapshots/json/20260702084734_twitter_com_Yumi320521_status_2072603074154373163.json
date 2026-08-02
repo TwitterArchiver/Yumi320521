@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072292167742263296"
+      ],
+      "media_source_tweet_id": [
+        "2072292172326752589"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2072603074154373163",
+    "created_at": "2026-07-02T08:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T09:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072603074154373163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1971663859691016193",
+          "start": 3,
+          "username": "ffxiios_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HIZfj8yfrE",
+          "end": 37,
+          "expanded_url": "https://x.com/ffxiios_/status/2072292172326752589/photo/1",
+          "media_key": "3_2072292167742263296",
+          "start": 14,
+          "url": "https://t.co/HIZfj8yfrE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072603074154373163",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 329
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072292172326752589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ffxiios_: https://t.co/HIZfj8yfrE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2072292167742263296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJCv0EaEAAA2z8.jpg",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072292167742263296"
+          ],
+          "media_source_tweet_id": [
+            "2072292172326752589"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2072603074154373163",
+        "created_at": "2026-07-02T08:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072603074154373163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1971663859691016193",
+              "start": 3,
+              "username": "ffxiios_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HIZfj8yfrE",
+              "end": 37,
+              "expanded_url": "https://x.com/ffxiios_/status/2072292172326752589/photo/1",
+              "media_key": "3_2072292167742263296",
+              "start": 14,
+              "url": "https://t.co/HIZfj8yfrE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072603074154373163",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 329
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072292172326752589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ffxiios_: https://t.co/HIZfj8yfrE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072292167742263296"
+          ]
+        },
+        "author_id": "1971663859691016193",
+        "conversation_id": "2072292172326752589",
+        "created_at": "2026-07-01T12:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072292172326752589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HIZfj8yfrE",
+              "end": 23,
+              "expanded_url": "https://x.com/ffxiios_/status/2072292172326752589/photo/1",
+              "media_key": "3_2072292167742263296",
+              "start": 0,
+              "url": "https://t.co/HIZfj8yfrE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072292172326752589",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 477,
+          "impression_count": 59273,
+          "like_count": 5183,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 329
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HIZfj8yfrE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 140,
+          "like_count": 5038,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1077
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-26T19:51:56.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ffxiios_",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@ffxiios_",
+                "start": 0,
+                "url": "https://t.co/mPAUnndIHL"
+              }
+            ]
+          }
+        },
+        "id": "1971663859691016193",
+        "name": "兎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986451518183383042/Ak_9AtA0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3040,
+          "following_count": 9,
+          "like_count": 282,
+          "listed_count": 23,
+          "media_count": 22,
+          "tweet_count": 46
+        },
+        "url": "https://t.co/mPAUnndIHL",
+        "username": "ffxiios_",
+        "verified": false
+      }
+    ]
+  }
+}

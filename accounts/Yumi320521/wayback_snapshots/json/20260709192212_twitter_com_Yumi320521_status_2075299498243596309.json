@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2075299498243596309",
+    "created_at": "2026-07-09T19:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T20:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075299498243596309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2021347310840795136",
+          "start": 3,
+          "username": "_eoantao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075299498243596309",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 149
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075076665076535713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_eoantao: O Twitter é dividido em dois grupos: os que querem morrer e os que querem transar"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2075299498243596309",
+        "created_at": "2026-07-09T19:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T20:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075299498243596309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2021347310840795136",
+              "start": 3,
+              "username": "_eoantao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075299498243596309",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075076665076535713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_eoantao: O Twitter é dividido em dois grupos: os que querem morrer e os que querem transar"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021347310840795136",
+        "conversation_id": "2075076665076535713",
+        "created_at": "2026-07-09T04:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075076665076535713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075076665076535713",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 10419,
+          "like_count": 579,
+          "quote_count": 23,
+          "reply_count": 28,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "O Twitter é dividido em dois grupos: os que querem morrer e os que querem transar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 148,
+          "like_count": 5448,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1322
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T22:15:40.000Z",
+        "description": ".",
+        "id": "2021347310840795136",
+        "name": "floptok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021347965496066054/2QeIy85S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8244,
+          "following_count": 2173,
+          "like_count": 1307,
+          "listed_count": 4,
+          "media_count": 335,
+          "tweet_count": 2084
+        },
+        "url": "",
+        "username": "_eoantao",
+        "verified": true
+      }
+    ]
+  }
+}

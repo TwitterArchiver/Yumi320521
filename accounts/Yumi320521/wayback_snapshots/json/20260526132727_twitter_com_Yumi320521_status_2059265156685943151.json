@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059265136247078912",
+        "3_2059265136226156544"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059265156685943151",
+    "created_at": "2026-05-26T13:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059265156685943151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v7WS0e2Pfv",
+          "end": 32,
+          "expanded_url": "https://x.com/Yumi320521/status/2059265156685943151/photo/1",
+          "media_key": "3_2059265136247078912",
+          "start": 9,
+          "url": "https://t.co/v7WS0e2Pfv"
+        },
+        {
+          "display_url": "pic.x.com/v7WS0e2Pfv",
+          "end": 32,
+          "expanded_url": "https://x.com/Yumi320521/status/2059265156685943151/photo/1",
+          "media_key": "3_2059265136226156544",
+          "start": 9,
+          "url": "https://t.co/v7WS0e2Pfv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059265156685943151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "69级啦！^ ^ https://t.co/v7WS0e2Pfv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2059265136247078912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJP6uyBagAAfZrn.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2059265136226156544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJP6ux8bQAAqp6k.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059265136247078912",
+            "3_2059265136226156544"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059265156685943151",
+        "created_at": "2026-05-26T13:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059265156685943151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v7WS0e2Pfv",
+              "end": 32,
+              "expanded_url": "https://x.com/Yumi320521/status/2059265156685943151/photo/1",
+              "media_key": "3_2059265136247078912",
+              "start": 9,
+              "url": "https://t.co/v7WS0e2Pfv"
+            },
+            {
+              "display_url": "pic.x.com/v7WS0e2Pfv",
+              "end": 32,
+              "expanded_url": "https://x.com/Yumi320521/status/2059265156685943151/photo/1",
+              "media_key": "3_2059265136226156544",
+              "start": 9,
+              "url": "https://t.co/v7WS0e2Pfv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059265156685943151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "69级啦！^ ^ https://t.co/v7WS0e2Pfv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 69,
+          "like_count": 1818,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 544
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059512675370184923",
+    "created_at": "2026-05-27T08:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059548613064474958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013321876224057344",
+          "start": 0,
+          "username": "OTxiashu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059548613064474958",
+    "in_reply_to_user_id": "2013321876224057344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059512675370184923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTxiashu 丢我嘴里😻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059512672509628416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTb3SdaEAAWX6-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059512675370184923",
+        "created_at": "2026-05-27T08:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059548613064474958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013321876224057344",
+              "start": 0,
+              "username": "OTxiashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059548613064474958",
+        "in_reply_to_user_id": "2013321876224057344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059512675370184923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTxiashu 丢我嘴里😻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059512672509628416"
+          ]
+        },
+        "author_id": "2013321876224057344",
+        "conversation_id": "2059512675370184923",
+        "created_at": "2026-05-27T05:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059512675370184923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HPnT6brkXB",
+              "end": 39,
+              "expanded_url": "https://x.com/OTxiashu/status/2059512675370184923/photo/1",
+              "media_key": "3_2059512672509628416",
+              "start": 16,
+              "url": "https://t.co/HPnT6brkXB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059512675370184923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还有20板愈美 不是很想要了 https://t.co/HPnT6brkXB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 71,
+          "like_count": 1861,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 585
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中                                                                                            \n   宝宝:@wmy072011",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 103,
+                "username": "wmy072011"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053748064381435904/U1--t_W1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 594,
+          "like_count": 12098,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 4567
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      }
+    ]
+  }
+}

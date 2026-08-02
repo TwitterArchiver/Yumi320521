@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069128063007490244",
+    "created_at": "2026-06-23T08:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069336706130809013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545727506870943744",
+          "start": 0,
+          "username": "Eat_cat_s_fish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069336706130809013",
+    "in_reply_to_user_id": "1545727506870943744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069329538354725227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eat_cat_s_fish 以前的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069128063007490244",
+        "created_at": "2026-06-23T08:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069336706130809013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545727506870943744",
+              "start": 0,
+              "username": "Eat_cat_s_fish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069336706130809013",
+        "in_reply_to_user_id": "1545727506870943744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069329538354725227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eat_cat_s_fish 以前的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545727506870943744",
+        "conversation_id": "2069128063007490244",
+        "created_at": "2026-06-23T07:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069329538354725227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069329538354725227",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069128063007490244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 哪買的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 137,
+          "like_count": 4201,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 776
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T11:12:20.000Z",
+        "description": "无证含糖mtf（240402） 已炸櫃 離家出走中 艱難存活 訊息收集能力-127  不怎麼看推有事QQ \n妹妹@sunshine0767",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "sunshine0767"
+              }
+            ]
+          }
+        },
+        "id": "1545727506870943744",
+        "name": "吃貓的魚 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790211196639219712/DS-R--29_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 155,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "Eat_cat_s_fish",
+        "verified": false
+      }
+    ]
+  }
+}

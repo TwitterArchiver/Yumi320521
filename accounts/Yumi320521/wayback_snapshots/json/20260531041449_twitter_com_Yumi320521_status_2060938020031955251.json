@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060921818786259121",
+    "created_at": "2026-05-31T04:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060938020031955251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1873238121430827009",
+          "start": 0,
+          "username": "enya_424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060938020031955251",
+    "in_reply_to_user_id": "1873238121430827009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060921818786259121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enya_424 少し悲しいですo̴̶̷᷄   ̫ o̴̶̷̥᷅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060921818786259121",
+        "created_at": "2026-05-31T04:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060938020031955251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1873238121430827009",
+              "start": 0,
+              "username": "enya_424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060938020031955251",
+        "in_reply_to_user_id": "1873238121430827009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060921818786259121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enya_424 少し悲しいですo̴̶̷᷄   ̫ o̴̶̷̥᷅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873238121430827009",
+        "conversation_id": "2060921818786259121",
+        "created_at": "2026-05-31T03:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060921818786259121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060921818786259121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "やっぱりみんな今回の桃井愛莉ちゃん刺さってるよね。少しだけ引こうかな⋯( ; _ ; )( ; _ ; )( ; _ ; )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 88,
+          "like_count": 2396,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 791
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T05:22:46.000Z",
+        "description": "𝐿𝑖𝑓𝑒 𝑤𝑖𝑡ℎ 𝑆ℎ𝑖𝑛𝑜𝑛𝑜𝑚𝑒 𝐸𝑛𝑎 𝑡𝑜 ᝰ✍🏻🤎",
+        "id": "1873238121430827009",
+        "name": "かえな♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059150799943720960/54zJ-JMP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 318,
+          "like_count": 7904,
+          "listed_count": 6,
+          "media_count": 140,
+          "tweet_count": 1122
+        },
+        "username": "enya_424",
+        "verified": false
+      }
+    ]
+  }
+}

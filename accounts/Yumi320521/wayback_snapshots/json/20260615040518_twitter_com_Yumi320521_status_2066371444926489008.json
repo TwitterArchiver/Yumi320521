@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875837757375078400"
+      ],
+      "media_source_tweet_id": [
+        "1875837805538226644"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2066371444926489008",
+    "created_at": "2026-06-15T04:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066371444926489008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "930087763709378560",
+          "start": 3,
+          "username": "_POR_TT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KWrKfAe2H5",
+          "end": 38,
+          "expanded_url": "https://x.com/_POR_TT/status/1875837805538226644/photo/1",
+          "media_key": "3_1875837757375078400",
+          "start": 15,
+          "url": "https://t.co/KWrKfAe2H5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066371444926489008",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2334
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875837805538226644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_POR_TT: 💖 https://t.co/KWrKfAe2H5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1875837757375078400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GghQgHCbYAAe3Tq.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875837757375078400"
+          ],
+          "media_source_tweet_id": [
+            "1875837805538226644"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2066371444926489008",
+        "created_at": "2026-06-15T04:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066371444926489008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "930087763709378560",
+              "start": 3,
+              "username": "_POR_TT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KWrKfAe2H5",
+              "end": 38,
+              "expanded_url": "https://x.com/_POR_TT/status/1875837805538226644/photo/1",
+              "media_key": "3_1875837757375078400",
+              "start": 15,
+              "url": "https://t.co/KWrKfAe2H5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066371444926489008",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2334
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875837805538226644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_POR_TT: 💖 https://t.co/KWrKfAe2H5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875837757375078400"
+          ]
+        },
+        "author_id": "930087763709378560",
+        "conversation_id": "1875837805538226644",
+        "created_at": "2025-01-05T09:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T10:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875837805538226644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KWrKfAe2H5",
+              "end": 25,
+              "expanded_url": "https://x.com/_POR_TT/status/1875837805538226644/photo/1",
+              "media_key": "3_1875837757375078400",
+              "start": 2,
+              "url": "https://t.co/KWrKfAe2H5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875837805538226644",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 874,
+          "impression_count": 288148,
+          "like_count": 17156,
+          "quote_count": 56,
+          "reply_count": 2,
+          "retweet_count": 2334
+        },
+        "reply_settings": "everyone",
+        "text": "💖 https://t.co/KWrKfAe2H5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 115,
+          "like_count": 3423,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 640
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-13T14:59:37.000Z",
+        "description": "🧬 ポル / 포르 🧬 한국어*日本語*English OK  🧬  ✉️ : poruporuring@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/6774052",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/6774052",
+                "start": 0,
+                "url": "https://t.co/tKfej8AELo"
+              }
+            ]
+          }
+        },
+        "id": "930087763709378560",
+        "name": "POR🧬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575145685803941889/bf5NvMib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79408,
+          "following_count": 25,
+          "like_count": 549,
+          "listed_count": 376,
+          "media_count": 96,
+          "tweet_count": 179
+        },
+        "url": "https://t.co/tKfej8AELo",
+        "username": "_POR_TT",
+        "verified": true
+      }
+    ]
+  }
+}

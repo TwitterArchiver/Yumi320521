@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058491524007272710",
+    "created_at": "2026-05-24T10:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T11:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058491524007272710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1759081915976720384",
+          "start": 3,
+          "username": "yurisaki13331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058491524007272710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058219557198987487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yurisaki13331: 为什么我的推文总给我一种没人互动 死气沉沉的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058491524007272710",
+        "created_at": "2026-05-24T10:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058491524007272710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1759081915976720384",
+              "start": 3,
+              "username": "yurisaki13331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058491524007272710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058219557198987487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yurisaki13331: 为什么我的推文总给我一种没人互动 死气沉沉的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759081915976720384",
+        "conversation_id": "2058219557198987487",
+        "created_at": "2026-05-23T16:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058219557198987487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058219557198987487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3510,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我的推文总给我一种没人互动 死气沉沉的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 67,
+          "like_count": 1678,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 425
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T05:06:33.000Z",
+        "description": "废物猫猫已过气（来点人多转转推吧）（只有这个号）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/denkisama_7371…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/denkisama_7371?igsh=MWhpY3MyY21xeWM2NQ==",
+                "start": 0,
+                "url": "https://t.co/9zmLgyodOO"
+              }
+            ]
+          }
+        },
+        "id": "1759081915976720384",
+        "location": "Hida-shi, Gifu",
+        "name": "纱露朵🌸",
+        "pinned_tweet_id": "1925828023401484569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044237165434155013/OCF6Elvf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15690,
+          "following_count": 504,
+          "like_count": 6202,
+          "listed_count": 36,
+          "media_count": 329,
+          "tweet_count": 940
+        },
+        "url": "https://t.co/9zmLgyodOO",
+        "username": "yurisaki13331",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057380923914747904"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2057380934614442460",
+    "created_at": "2026-05-21T08:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T09:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057380934614442460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aemV3nleVu",
+          "end": 75,
+          "expanded_url": "https://x.com/Yumi320521/status/2057380934614442460/photo/1",
+          "media_key": "3_2057380923914747904",
+          "start": 52,
+          "url": "https://t.co/aemV3nleVu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057380934614442460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近迷上了这首歌 实在是好好听 虽然旋律像是欢快的 但是有种悲伤感 而且感觉最近在tiktok很火（？ https://t.co/aemV3nleVu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057380923914747904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1JDMGagAAbaJt.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057380923914747904"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2057380934614442460",
+        "created_at": "2026-05-21T08:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T09:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057380934614442460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aemV3nleVu",
+              "end": 75,
+              "expanded_url": "https://x.com/Yumi320521/status/2057380934614442460/photo/1",
+              "media_key": "3_2057380923914747904",
+              "start": 52,
+              "url": "https://t.co/aemV3nleVu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057380934614442460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近迷上了这首歌 实在是好好听 虽然旋律像是欢快的 但是有种悲伤感 而且感觉最近在tiktok很火（？ https://t.co/aemV3nleVu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n好累…",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 59,
+          "like_count": 1414,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 287
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

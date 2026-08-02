@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2056658443831038285",
+    "created_at": "2026-05-19T11:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056694993914585195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1202344567288107008",
+          "start": 0,
+          "username": "ohlala573"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056694993914585195",
+    "in_reply_to_user_id": "1202344567288107008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056658443831038285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ohlala573 このような人は全く聞きません、ただ以前の風俗女子のためだけです 本当に気持ち悪いです🤮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2056658435954151424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIq382tbkAAT6Sy.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2056658443831038285",
+        "created_at": "2026-05-19T11:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056694993914585195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1202344567288107008",
+              "start": 0,
+              "username": "ohlala573"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056694993914585195",
+        "in_reply_to_user_id": "1202344567288107008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056658443831038285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohlala573 このような人は全く聞きません、ただ以前の風俗女子のためだけです 本当に気持ち悪いです🤮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056658435954151424"
+          ]
+        },
+        "author_id": "1202344567288107008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2056658443831038285",
+        "created_at": "2026-05-19T08:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056658443831038285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vN1mo3NjlT",
+              "end": 71,
+              "expanded_url": "https://x.com/ohlala573/status/2056658443831038285/photo/1",
+              "media_key": "3_2056658435954151424",
+              "start": 48,
+              "url": "https://t.co/vN1mo3NjlT"
+            },
+            {
+              "display_url": "x.com/ohlala573/stat…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/ohlala573/status/2056356764459954406",
+              "start": 72,
+              "url": "https://t.co/aSsYOErv1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056658443831038285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 334,
+          "impression_count": 106880,
+          "like_count": 1113,
+          "quote_count": 37,
+          "reply_count": 90,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056356764459954406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女の子、自分の身体安売りするの辞めようよ🤢\nこういう撮られ方するって分かって来てるんだろうし。 https://t.co/vN1mo3NjlT https://t.co/aSsYOErv1j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n好累…",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 75,
+          "like_count": 1358,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 269
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-04T21:51:11.000Z",
+        "description": "厳しい世界に生きる",
+        "id": "1202344567288107008",
+        "name": "I'm Okay ⌘",
+        "pinned_tweet_id": "2024676202389393879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965770359455801344/-a1uWskn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14837,
+          "following_count": 9590,
+          "like_count": 33964,
+          "listed_count": 29,
+          "media_count": 2864,
+          "tweet_count": 29948
+        },
+        "username": "ohlala573",
+        "verified": true
+      }
+    ]
+  }
+}

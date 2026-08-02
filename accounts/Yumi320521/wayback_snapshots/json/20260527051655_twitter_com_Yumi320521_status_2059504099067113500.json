@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2059503975838384129"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059504099067113500",
+    "created_at": "2026-05-27T05:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059504099067113500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ooqWqBuCtL",
+          "end": 28,
+          "expanded_url": "https://x.com/Yumi320521/status/2059504099067113500/video/1",
+          "media_key": "13_2059503975838384129",
+          "start": 5,
+          "url": "https://t.co/ooqWqBuCtL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059504099067113500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "放一只猫 https://t.co/ooqWqBuCtL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36458,
+        "height": 1280,
+        "media_key": "13_2059503975838384129",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059503975838384129/img/FVA8MbvKMUJTKKC6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059503975838384129/vid/avc1/320x568/KX8iRYHi-oFPFwck.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059503975838384129/vid/avc1/480x852/0js0XNJsQxa848ky.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059503975838384129/vid/avc1/720x1280/X8mBkiT5GjUqJEK1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059503975838384129/pl/f2BXlwMzWdTVHxW7.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059503975838384129"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059504099067113500",
+        "created_at": "2026-05-27T05:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059504099067113500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooqWqBuCtL",
+              "end": 28,
+              "expanded_url": "https://x.com/Yumi320521/status/2059504099067113500/video/1",
+              "media_key": "13_2059503975838384129",
+              "start": 5,
+              "url": "https://t.co/ooqWqBuCtL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059504099067113500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放一只猫 https://t.co/ooqWqBuCtL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 70,
+          "like_count": 1852,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 572
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

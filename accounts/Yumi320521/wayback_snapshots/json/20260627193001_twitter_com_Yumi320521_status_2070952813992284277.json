@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2070921454213116219",
+    "created_at": "2026-06-27T19:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T20:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070952813992284277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1705841149574074368",
+          "start": 0,
+          "username": "Kanadenadi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070952813992284277",
+    "in_reply_to_user_id": "1705841149574074368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070945078529692124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kanadenadi 好的感谢！ww不过我在北方太远了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2070921454213116219",
+        "created_at": "2026-06-27T19:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T20:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070952813992284277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1705841149574074368",
+              "start": 0,
+              "username": "Kanadenadi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070952813992284277",
+        "in_reply_to_user_id": "1705841149574074368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070945078529692124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanadenadi 好的感谢！ww不过我在北方太远了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705841149574074368",
+        "conversation_id": "2070921454213116219",
+        "created_at": "2026-06-27T18:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070945078529692124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0151348954a4147f"
+        },
+        "id": "2070945078529692124",
+        "in_reply_to_user_id": "1705841149574074368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070944396913340855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 我在深圳，买来自用\n价格大概1港币1t 15mg的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 141,
+          "like_count": 4724,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 923
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T07:06:51.000Z",
+        "description": "生日2010 04 22 | overdose | 常驻深圳福田/盐田/香港 | 重焦重郁 | 舞萌w4 | Arcaea 12.18 |",
+        "id": "1705841149574074368",
+        "location": "Hong Kong",
+        "name": "楱",
+        "pinned_tweet_id": "2069347315794735524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068379705368342528/UNFqEbQh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 106,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "Kanadenadi",
+        "verified": false
+      }
+    ]
+  }
+}

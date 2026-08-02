@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10037284711",
+          "name": "Disney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10037284711",
+          "name": "Disney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      }
+    ],
+    "conversation_id": "2052578413974794575",
+    "created_at": "2026-05-08T02:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T03:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052578413974794575"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kaorusanndayo/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/kaorusanndayo/status/2052075143476944959",
+          "start": 6,
+          "url": "https://t.co/8OMnXhIItz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052578413974794575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052075143476944959",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "长得像青蛙 https://t.co/8OMnXhIItz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5642,
+        "height": 944,
+        "media_key": "13_2052075075726405632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052075075726405632/img/Td9QMKPVeLVs3K3t.jpg",
+        "public_metrics": {
+          "view_count": 969681
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052075075726405632/vid/avc1/320x566/W2YKl5__RlN1LkLh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052075075726405632/vid/avc1/532x944/_uV4KROZxW1XLotM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052075075726405632/pl/aaYVU3Zk_HEq-p8w.m3u8"
+          }
+        ],
+        "width": 532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "2052578413974794575",
+        "created_at": "2026-05-08T02:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T03:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052578413974794575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kaorusanndayo/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/kaorusanndayo/status/2052075143476944959",
+              "start": 6,
+              "url": "https://t.co/8OMnXhIItz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052578413974794575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052075143476944959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "长得像青蛙 https://t.co/8OMnXhIItz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052075075726405632"
+          ]
+        },
+        "author_id": "1805936326681964544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "2052075143476944959",
+        "created_at": "2026-05-06T17:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052075143476944959"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "ディズニー"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQVBJdbcyV",
+              "end": 55,
+              "expanded_url": "https://x.com/kaorusanndayo/status/2052075143476944959/video/1",
+              "media_key": "13_2052075075726405632",
+              "start": 32,
+              "url": "https://t.co/CQVBJdbcyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052075143476944959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 451,
+          "impression_count": 3880200,
+          "like_count": 1304,
+          "quote_count": 454,
+          "reply_count": 215,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "シンプル食いすぎて胃もたれ^^\n #自撮り界隈  #ディズニー https://t.co/CQVBJdbcyV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "💙ゆず🩵🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 65,
+          "like_count": 1093,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 210
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T12:09:42.000Z",
+        "description": "ドブカス人生",
+        "id": "1805936326681964544",
+        "location": "ちなみに会えます",
+        "name": "かおるさん",
+        "pinned_tweet_id": "1949066596477231423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805973089668435968/iVuad6ES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3572,
+          "following_count": 75,
+          "like_count": 7629,
+          "listed_count": 8,
+          "media_count": 232,
+          "tweet_count": 777
+        },
+        "username": "kaorusanndayo",
+        "verified": false
+      }
+    ]
+  }
+}

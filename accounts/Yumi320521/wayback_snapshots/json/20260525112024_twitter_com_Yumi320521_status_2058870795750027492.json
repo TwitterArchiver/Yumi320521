@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058870795750027492",
+    "created_at": "2026-05-25T11:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058870795750027492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/hsn8086/status/2058762764647346304",
+          "start": 19,
+          "url": "https://t.co/NTwH5DZBNI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058870795750027492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058762764647346304",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "会…（）所以说在我这里就得停止悲剧了 https://t.co/NTwH5DZBNI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2058762742295912448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIxzmtbYAAF_FR.jpg",
+        "width": 589
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058870795750027492",
+        "created_at": "2026-05-25T11:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058870795750027492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/hsn8086/status/2058762764647346304",
+              "start": 19,
+              "url": "https://t.co/NTwH5DZBNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058870795750027492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058762764647346304",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会…（）所以说在我这里就得停止悲剧了 https://t.co/NTwH5DZBNI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058762742295912448"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2058762764647346304",
+        "created_at": "2026-05-25T04:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058762764647346304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjbEPIxKIs",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2058762764647346304/photo/1",
+              "media_key": "3_2058762742295912448",
+              "start": 0,
+              "url": "https://t.co/GjbEPIxKIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058762764647346304",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 16166,
+          "like_count": 395,
+          "quote_count": 4,
+          "reply_count": 23,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GjbEPIxKIs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 69,
+          "like_count": 1745,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 480
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120544,
+          "following_count": 1120,
+          "like_count": 52330,
+          "listed_count": 296,
+          "media_count": 21722,
+          "tweet_count": 32188
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

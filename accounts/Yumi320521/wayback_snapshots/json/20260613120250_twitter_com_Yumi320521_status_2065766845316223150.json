@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065211899982307328"
+      ],
+      "media_source_tweet_id": [
+        "2065412867348893898"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2065766845316223150",
+    "created_at": "2026-06-13T12:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065766845316223150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1363448376851800064",
+          "start": 3,
+          "username": "GOTH51259817"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/id9hWueVXk",
+          "end": 50,
+          "expanded_url": "https://x.com/GOTH51259817/status/2065412867348893898/photo/1",
+          "media_key": "3_2065211899982307328",
+          "start": 27,
+          "url": "https://t.co/id9hWueVXk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065766845316223150",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065412867348893898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GOTH51259817: 異次元登下校中🏫 https://t.co/id9hWueVXk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065211899982307328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkbR_Ra4AADjpj.jpg",
+        "width": 681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065211899982307328"
+          ],
+          "media_source_tweet_id": [
+            "2065412867348893898"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2065766845316223150",
+        "created_at": "2026-06-13T12:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065766845316223150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1363448376851800064",
+              "start": 3,
+              "username": "GOTH51259817"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/id9hWueVXk",
+              "end": 50,
+              "expanded_url": "https://x.com/GOTH51259817/status/2065412867348893898/photo/1",
+              "media_key": "3_2065211899982307328",
+              "start": 27,
+              "url": "https://t.co/id9hWueVXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065766845316223150",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065412867348893898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GOTH51259817: 異次元登下校中🏫 https://t.co/id9hWueVXk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065211899982307328"
+          ]
+        },
+        "author_id": "1363448376851800064",
+        "conversation_id": "2065412867348893898",
+        "created_at": "2026-06-12T12:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065412867348893898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/id9hWueVXk",
+              "end": 32,
+              "expanded_url": "https://x.com/GOTH51259817/status/2065412867348893898/photo/1",
+              "media_key": "3_2065211899982307328",
+              "start": 9,
+              "url": "https://t.co/id9hWueVXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065412867348893898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 8095,
+          "like_count": 818,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "異次元登下校中🏫 https://t.co/id9hWueVXk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 138,
+          "like_count": 3314,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 594
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T11:20:26.000Z",
+        "description": "I 🖤 music.\nhand drawn illustration.✍️🦭🦭🦭",
+        "id": "1363448376851800064",
+        "location": "JP",
+        "name": "🕸️Re:Re:Re...!🕸️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458935207093223425/tdcwUFhU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3710,
+          "following_count": 812,
+          "like_count": 36206,
+          "listed_count": 21,
+          "media_count": 1613,
+          "tweet_count": 3783
+        },
+        "username": "GOTH51259817",
+        "verified": false
+      }
+    ]
+  }
+}

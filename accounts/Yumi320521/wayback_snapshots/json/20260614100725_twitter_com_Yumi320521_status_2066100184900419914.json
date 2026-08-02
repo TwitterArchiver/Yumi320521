@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061405792562278400",
+        "3_2061405792465727488"
+      ],
+      "media_source_tweet_id": [
+        "2061405796123246703",
+        "2061405796123246703"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2066100184900419914",
+    "created_at": "2026-06-14T10:07:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:07:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066100184900419914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1759509638071123968",
+          "start": 3,
+          "username": "yadokarishome"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AYGTHgPVti",
+          "end": 49,
+          "expanded_url": "https://x.com/yadokarishome/status/2061405796123246703/photo/1",
+          "media_key": "3_2061405792562278400",
+          "start": 26,
+          "url": "https://t.co/AYGTHgPVti"
+        },
+        {
+          "display_url": "pic.x.com/AYGTHgPVti",
+          "end": 49,
+          "expanded_url": "https://x.com/yadokarishome/status/2061405796123246703/photo/1",
+          "media_key": "3_2061405792465727488",
+          "start": 26,
+          "url": "https://t.co/AYGTHgPVti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066100184900419914",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061405796123246703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yadokarishome: プランナ〜〜 https://t.co/AYGTHgPVti"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2061405792562278400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuVpYObcAANzSY.jpg",
+        "width": 899
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2061405792465727488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuVpX3aMAAqUko.jpg",
+        "width": 899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061405792562278400",
+            "3_2061405792465727488"
+          ],
+          "media_source_tweet_id": [
+            "2061405796123246703",
+            "2061405796123246703"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2066100184900419914",
+        "created_at": "2026-06-14T10:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066100184900419914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1759509638071123968",
+              "start": 3,
+              "username": "yadokarishome"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AYGTHgPVti",
+              "end": 49,
+              "expanded_url": "https://x.com/yadokarishome/status/2061405796123246703/photo/1",
+              "media_key": "3_2061405792562278400",
+              "start": 26,
+              "url": "https://t.co/AYGTHgPVti"
+            },
+            {
+              "display_url": "pic.x.com/AYGTHgPVti",
+              "end": 49,
+              "expanded_url": "https://x.com/yadokarishome/status/2061405796123246703/photo/1",
+              "media_key": "3_2061405792465727488",
+              "start": 26,
+              "url": "https://t.co/AYGTHgPVti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066100184900419914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061405796123246703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yadokarishome: プランナ〜〜 https://t.co/AYGTHgPVti"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061405792562278400",
+            "3_2061405792465727488"
+          ]
+        },
+        "author_id": "1759509638071123968",
+        "conversation_id": "2061405796123246703",
+        "created_at": "2026-06-01T11:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061405796123246703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AYGTHgPVti",
+              "end": 30,
+              "expanded_url": "https://x.com/yadokarishome/status/2061405796123246703/photo/1",
+              "media_key": "3_2061405792562278400",
+              "start": 7,
+              "url": "https://t.co/AYGTHgPVti"
+            },
+            {
+              "display_url": "pic.x.com/AYGTHgPVti",
+              "end": 30,
+              "expanded_url": "https://x.com/yadokarishome/status/2061405796123246703/photo/1",
+              "media_key": "3_2061405792465727488",
+              "start": 7,
+              "url": "https://t.co/AYGTHgPVti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061405796123246703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 4104,
+          "like_count": 266,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "プランナ〜〜 https://t.co/AYGTHgPVti"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 137,
+          "like_count": 3366,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 604
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T09:27:34.000Z",
+        "description": "稀に絵を描く/男女の非恋愛関係性が好き",
+        "id": "1759509638071123968",
+        "name": "かむな",
+        "pinned_tweet_id": "1993005382621687926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767022529141768192/l46M0dI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 45,
+          "like_count": 2788,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 789
+        },
+        "username": "yadokarishome",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2077778227754684436",
+    "created_at": "2026-07-16T15:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077782421261738296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1979326546847633409",
+          "start": 0,
+          "username": "hoshihoshi568"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077782421261738296",
+    "in_reply_to_user_id": "1979326546847633409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077778227754684436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshihoshi568 好可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077778224734785536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXASW9b0AACmeg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2077778224743075840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXASW_aUAAew1n.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2077778227754684436",
+        "created_at": "2026-07-16T15:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077782421261738296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1979326546847633409",
+              "start": 0,
+              "username": "hoshihoshi568"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077782421261738296",
+        "in_reply_to_user_id": "1979326546847633409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077778227754684436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshihoshi568 好可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077778224734785536",
+            "3_2077778224743075840"
+          ]
+        },
+        "author_id": "1979326546847633409",
+        "conversation_id": "2077778227754684436",
+        "created_at": "2026-07-16T15:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077778227754684436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EgjhMYtlWo",
+              "end": 37,
+              "expanded_url": "https://x.com/hoshihoshi568/status/2077778227754684436/photo/1",
+              "media_key": "3_2077778224734785536",
+              "start": 14,
+              "url": "https://t.co/EgjhMYtlWo"
+            },
+            {
+              "display_url": "pic.x.com/EgjhMYtlWo",
+              "end": 37,
+              "expanded_url": "https://x.com/hoshihoshi568/status/2077778227754684436/photo/1",
+              "media_key": "3_2077778224743075840",
+              "start": 14,
+              "url": "https://t.co/EgjhMYtlWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077778227754684436",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ロングヘア、ショートヘア？ https://t.co/EgjhMYtlWo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか🐈‍⬛🐾\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 158,
+          "like_count": 5768,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1479
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T23:20:13.000Z",
+        "description": "@mam0_0fficialt💞💕\nv系が好きです 本命R指定→マモ🩷同麵◎\nフォロー・リプ・DMお気軽にどうぞ♡\n\n無言フォロー失礼します♡ 好きな方を見つけるとついフォローしてしまいます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "mam0_0fficialt"
+              }
+            ]
+          }
+        },
+        "id": "1979326546847633409",
+        "name": "ほし",
+        "pinned_tweet_id": "2062893685877146030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065410092611391488/ulB2OP6z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 116,
+          "like_count": 1342,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 269
+        },
+        "url": "",
+        "username": "hoshihoshi568",
+        "verified": false
+      }
+    ]
+  }
+}

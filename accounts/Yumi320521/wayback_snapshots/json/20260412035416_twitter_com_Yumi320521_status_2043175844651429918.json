@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2043175844651429918",
+    "created_at": "2026-04-12T03:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T04:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043175844651429918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1301927818545238016",
+          "start": 3,
+          "username": "jiafawucbz"
+        },
+        {
+          "end": 32,
+          "id": "1853286001197879296",
+          "start": 16,
+          "username": "Rainydayovo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043175844651429918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042974777313497209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiafawucbz: @Rainydayovo8964 广东人就跟蟑螂一样爬得到处都是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2043175844651429918",
+        "created_at": "2026-04-12T03:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043175844651429918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1301927818545238016",
+              "start": 3,
+              "username": "jiafawucbz"
+            },
+            {
+              "end": 32,
+              "id": "1853286001197879296",
+              "start": 16,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043175844651429918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042974777313497209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiafawucbz: @Rainydayovo8964 广东人就跟蟑螂一样爬得到处都是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1301927818545238016",
+        "conversation_id": "2042965747186700501",
+        "created_at": "2026-04-11T14:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042974777313497209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042974777313497209",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6867,
+          "like_count": 177,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042965747186700501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 广东人就跟蟑螂一样爬得到处都是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 35,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 50
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-04T16:59:25.000Z",
+        "description": "死者情绪激动",
+        "id": "1301927818545238016",
+        "name": "紫拉无处不在",
+        "pinned_tweet_id": "2037283547619430713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038597750422740993/dYZel9zX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 164,
+          "like_count": 1647,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 78
+        },
+        "username": "jiafawucbz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37849,
+          "following_count": 197,
+          "like_count": 2665,
+          "listed_count": 123,
+          "media_count": 401,
+          "tweet_count": 5045
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

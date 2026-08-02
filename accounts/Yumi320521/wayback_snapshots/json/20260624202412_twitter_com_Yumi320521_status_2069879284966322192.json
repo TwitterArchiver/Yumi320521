@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2068505180992332106",
+    "created_at": "2026-06-24T20:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T21:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069879284966322192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1386670401422434304",
+          "start": 0,
+          "username": "xx1012000456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069879284966322192",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068505180992332106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx1012000456 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2068505180992332106",
+        "created_at": "2026-06-24T20:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T21:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069879284966322192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069879284966322192",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068505180992332106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2068505180992332106",
+        "created_at": "2026-06-21T01:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068505180992332106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068505180992332106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4816,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "先写个临时顶置\n这里是X-square/公子，od与策划药圈的科普博主/准律师/学院派药师/地雷女爱好者\n冤假错案（1/1）无罪/赔偿/追责进行中\n希望成为药圈的下一位教皇/红衣枢机\n转发/评论/点赞本条可参与抽奖，5个88口令红包，7.15开奖，希望大家冲起来\n永远怀念我的引路人和导师，伟大的爱礼酱\nR.I.P🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群 随时跑路",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 138,
+          "like_count": 4577,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 868
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 600,
+          "like_count": 24,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1745
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

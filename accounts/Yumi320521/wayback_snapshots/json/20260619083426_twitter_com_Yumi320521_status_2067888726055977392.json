@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067599785289465857"
+      ],
+      "media_source_tweet_id": [
+        "2067599789727047690"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2067888726055977392",
+    "created_at": "2026-06-19T08:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067888726055977392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "820592822285762560",
+          "start": 3,
+          "username": "R_TM__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IadKziIPBx",
+          "end": 61,
+          "expanded_url": "https://x.com/R_TM__/status/2067599789727047690/photo/1",
+          "media_key": "3_2067599785289465857",
+          "start": 38,
+          "url": "https://t.co/IadKziIPBx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067888726055977392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067599789727047690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R_TM__: がんばってるけど進めなくて\n泣いてるのがかわいい🥹 https://t.co/IadKziIPBx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 495,
+        "media_key": "3_2067599785289465857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGXDNPaQAEP9Ir.jpg",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067599785289465857"
+          ],
+          "media_source_tweet_id": [
+            "2067599789727047690"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2067888726055977392",
+        "created_at": "2026-06-19T08:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067888726055977392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "820592822285762560",
+              "start": 3,
+              "username": "R_TM__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IadKziIPBx",
+              "end": 61,
+              "expanded_url": "https://x.com/R_TM__/status/2067599789727047690/photo/1",
+              "media_key": "3_2067599785289465857",
+              "start": 38,
+              "url": "https://t.co/IadKziIPBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067888726055977392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067599789727047690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R_TM__: がんばってるけど進めなくて\n泣いてるのがかわいい🥹 https://t.co/IadKziIPBx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067599785289465857"
+          ]
+        },
+        "author_id": "820592822285762560",
+        "conversation_id": "2067599789727047690",
+        "created_at": "2026-06-18T13:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067599789727047690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IadKziIPBx",
+              "end": 49,
+              "expanded_url": "https://x.com/R_TM__/status/2067599789727047690/photo/1",
+              "media_key": "3_2067599785289465857",
+              "start": 26,
+              "url": "https://t.co/IadKziIPBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067599789727047690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 18715,
+          "like_count": 1447,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "がんばってるけど進めなくて\n泣いてるのがかわいい🥹 https://t.co/IadKziIPBx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 \n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2067556150426669153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067554649486573568/_C_kHJDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 121,
+          "like_count": 3608,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-15T11:25:49.000Z",
+        "description": "自称両声類代表 R様 ❥好きなものはちいかわ むちゃうマンはヒーロー スーパーエイター🧡💚every day ちい活 💓拍手喝采の未来であれ✨",
+        "id": "820592822285762560",
+        "location": "最強で最高の瞬間",
+        "name": "R様",
+        "pinned_tweet_id": "2047253140349796725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983498010572308481/VFaStNt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2918,
+          "following_count": 214,
+          "like_count": 1149,
+          "listed_count": 14,
+          "media_count": 763,
+          "tweet_count": 4197
+        },
+        "url": "",
+        "username": "R_TM__",
+        "verified": false
+      }
+    ]
+  }
+}

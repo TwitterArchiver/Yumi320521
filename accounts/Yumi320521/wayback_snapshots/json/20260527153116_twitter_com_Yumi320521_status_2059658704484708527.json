@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059642056956608512"
+      ],
+      "media_source_tweet_id": [
+        "2059642060383379780"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2059658704484708527",
+    "created_at": "2026-05-27T15:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059658704484708527"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 56,
+          "tag": "prsk_FA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1960328968638537728",
+          "start": 3,
+          "username": "AME_0827"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6M2qDZcmrP",
+          "end": 88,
+          "expanded_url": "https://x.com/AME_0827/status/2059642060383379780/photo/1",
+          "media_key": "3_2059642056956608512",
+          "start": 65,
+          "url": "https://t.co/6M2qDZcmrP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059658704484708527",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059642060383379780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AME_0827: 🌸･ ｡\n　  🌸∴それでもふたりで息をしている─🌸❀.*ﾟ\n　   ･ﾟ*｡🌸･\n#prsk_FA https://t.co/6M2qDZcmrP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059642056956608512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVRidFagAA_Njg.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059642056956608512"
+          ],
+          "media_source_tweet_id": [
+            "2059642060383379780"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2059658704484708527",
+        "created_at": "2026-05-27T15:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059658704484708527"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 56,
+              "tag": "prsk_FA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1960328968638537728",
+              "start": 3,
+              "username": "AME_0827"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6M2qDZcmrP",
+              "end": 88,
+              "expanded_url": "https://x.com/AME_0827/status/2059642060383379780/photo/1",
+              "media_key": "3_2059642056956608512",
+              "start": 65,
+              "url": "https://t.co/6M2qDZcmrP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059658704484708527",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059642060383379780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AME_0827: 🌸･ ｡\n　  🌸∴それでもふたりで息をしている─🌸❀.*ﾟ\n　   ･ﾟ*｡🌸･\n#prsk_FA https://t.co/6M2qDZcmrP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059642056956608512"
+          ]
+        },
+        "author_id": "1960328968638537728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2059642060383379780",
+        "created_at": "2026-05-27T14:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059642060383379780"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 42,
+              "tag": "prsk_FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6M2qDZcmrP",
+              "end": 74,
+              "expanded_url": "https://x.com/AME_0827/status/2059642060383379780/photo/1",
+              "media_key": "3_2059642056956608512",
+              "start": 51,
+              "url": "https://t.co/6M2qDZcmrP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059642060383379780",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 2438,
+          "like_count": 362,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "🌸･ ｡\n　  🌸∴それでもふたりで息をしている─🌸❀.*ﾟ\n　   ･ﾟ*｡🌸･\n#prsk_FA https://t.co/6M2qDZcmrP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 76,
+          "like_count": 1885,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 605
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T13:10:42.000Z",
+        "description": "イラスト描いてます🎶💓\n|瑞希がだいすき💞✧。゜\n🎀 18↓\n |❦ 気になった方フォロバします~‼️🫶🏻💓 pixiv→https://t.co/wT8Snpg90V\n　\n　　　サブ→@amedama_sb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "amedama_sb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/119536770",
+                "end": 84,
+                "expanded_url": "https://www.pixiv.net/users/119536770",
+                "start": 61,
+                "url": "https://t.co/wT8Snpg90V"
+              }
+            ]
+          }
+        },
+        "id": "1960328968638537728",
+        "location": "🎀˖ . ݁𝜗𝜚. ݁₊自作発言／AI学習✕",
+        "name": "あめだま",
+        "pinned_tweet_id": "2013265368555590094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013266225342668801/F96SWelk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 289,
+          "like_count": 21055,
+          "listed_count": 4,
+          "media_count": 106,
+          "tweet_count": 1000
+        },
+        "username": "AME_0827",
+        "verified": false
+      }
+    ]
+  }
+}

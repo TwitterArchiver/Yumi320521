@@ -1,0 +1,575 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Sanrio (サンリオ)",
+          "id": "1038116841485303808",
+          "name": "Sanrio"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sanrio (サンリオ)",
+          "id": "1038116841485303808",
+          "name": "Sanrio"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2070416909624115327",
+    "created_at": "2026-06-26T08:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070416909624115327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/animateinfo/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/animateinfo/status/2070313666923135059",
+          "start": 5,
+          "url": "https://t.co/oAx7g3ZmWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070416909624115327",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070313666923135059",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭😭😭🫡 https://t.co/oAx7g3ZmWQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 763,
+        "media_key": "3_2070313661709639680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLs7TmvXYAA0g4J.jpg",
+        "width": 1080
+      },
+      {
+        "height": 763,
+        "media_key": "3_2070313664788193280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLs7TyNWYAA7p-A.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2070416909624115327",
+        "created_at": "2026-06-26T08:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070416909624115327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/animateinfo/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/animateinfo/status/2070313666923135059",
+              "start": 5,
+              "url": "https://t.co/oAx7g3ZmWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070416909624115327",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070313666923135059",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭😭😭🫡 https://t.co/oAx7g3ZmWQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070313661709639680",
+            "3_2070313664788193280"
+          ]
+        },
+        "author_id": "106343759",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2070313666923135059",
+        "created_at": "2026-06-26T01:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070313666923135059"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 101,
+              "tag": "プロセカ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "キャラクターグッズなどの『プロジェクトセカイ』関連商品を豊富に展開中！（0点）日常をもっとカラフルに彩ろう！",
+              "display_url": "x.gd/Fba2qi",
+              "end": 100,
+              "expanded_url": "https://x.gd/Fba2qi",
+              "images": [
+                {
+                  "height": 627,
+                  "url": "https://pbs.twimg.com/news_img/2070313727228870656/UFI8-tYL?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070313727228870656/UFI8-tYL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 77,
+              "status": 200,
+              "title": "プロジェクトセカイ カラフルステージ! feat. 初音ミク（プロセカ） | アニメイト",
+              "unwound_url": "https://www.animate-onlineshop.jp/animetitle/?aid=14501&kw=%C3%A3%C2%82%C2%B5%C3%A3%C2%83%C2%B3%C3%A3%C2%83%C2%AA%C3%A3%C2%82%C2%AA%C3%A3%C2%82%C2%AD%C3%A3%C2%83%C2%A3%C3%A3%C2%83%C2%A9%C3%A3%C2%82%C2%AF%C3%A3%C2%82%C2%BF%C3%A3%C2%83%C2%BC%C3%A3%C2%82%C2%BA&utm_source=twitter&utm_medium=social&utm_campaign=animate_md_animetitle14501_20260626",
+              "url": "https://t.co/R8WFZcfnE6"
+            },
+            {
+              "display_url": "pic.x.com/8yDyZGVnQE",
+              "end": 130,
+              "expanded_url": "https://x.com/animateinfo/status/2070313666923135059/photo/1",
+              "media_key": "3_2070313661709639680",
+              "start": 107,
+              "url": "https://t.co/8yDyZGVnQE"
+            },
+            {
+              "display_url": "pic.x.com/8yDyZGVnQE",
+              "end": 130,
+              "expanded_url": "https://x.com/animateinfo/status/2070313666923135059/photo/1",
+              "media_key": "3_2070313664788193280",
+              "start": 107,
+              "url": "https://t.co/8yDyZGVnQE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070313666923135059",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 328,
+          "impression_count": 75108,
+          "like_count": 1132,
+          "quote_count": 104,
+          "reply_count": 0,
+          "retweet_count": 232
+        },
+        "reply_settings": "everyone",
+        "text": "10月発売予定【プロジェクトセカイ カラフルステージ！ feat. 初音ミク×サンリオキャラクターズ グッズ各種(再販)】が予約受付開始！\n詳細はこちら https://t.co/R8WFZcfnE6 #プロセカ https://t.co/8yDyZGVnQE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 141,
+          "like_count": 4636,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 884
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-19T07:29:26.000Z",
+        "description": "全国120店舗以上展開のアニメ･コミック・ゲーム専門店アニメイトの公式アカウントです。フェア情報、商品情報などをお届けします。フォロー、RP大歓迎です！※本アカウントへのお問い合わせはご遠慮ください。ご質問・各種お問い合わせはこちらよりお願いいたしますhttps://t.co/M2K11Rbi5i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "animate.co.jp/support/",
+                "end": 149,
+                "expanded_url": "http://animate.co.jp/support/",
+                "start": 126,
+                "url": "https://t.co/M2K11Rbi5i"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "animate.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.animate.co.jp/",
+                "start": 0,
+                "url": "https://t.co/9WjNRYS7Q0"
+              }
+            ]
+          }
+        },
+        "id": "106343759",
+        "location": "東京都",
+        "name": "株式会社アニメイト",
+        "pinned_tweet_id": "2069618035531608371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1403276095957336065/ijKt6SKQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189067,
+          "following_count": 597,
+          "like_count": 3634,
+          "listed_count": 6433,
+          "media_count": 56923,
+          "tweet_count": 116693
+        },
+        "url": "https://t.co/9WjNRYS7Q0",
+        "username": "animateinfo",
+        "verified": true
+      }
+    ]
+  }
+}

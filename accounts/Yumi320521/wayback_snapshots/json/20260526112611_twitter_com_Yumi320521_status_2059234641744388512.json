@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2059088892033187840"
+      ],
+      "media_source_tweet_id": [
+        "2059088947960016932"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059234641744388512",
+    "created_at": "2026-05-26T11:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059234641744388512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1129229753066635264",
+          "start": 3,
+          "username": "tanijrou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PMVNjEYtNR",
+          "end": 58,
+          "expanded_url": "https://x.com/tanijrou/status/2059088947960016932/video/1",
+          "media_key": "13_2059088892033187840",
+          "start": 35,
+          "url": "https://t.co/PMVNjEYtNR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059234641744388512",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1574
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059088947960016932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanijrou: cute little puffball https://t.co/PMVNjEYtNR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9025,
+        "height": 720,
+        "media_key": "13_2059088892033187840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059088892033187840/img/6-yt5VASsEM1jEzk.jpg",
+        "public_metrics": {
+          "view_count": 22968
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059088892033187840/vid/avc1/480x270/6rTIVNP4eUXihf1G.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059088892033187840/vid/avc1/640x360/ggUi6Q16DUSQKKI_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059088892033187840/vid/avc1/1280x720/xLIs1jWMu-UEBA84.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059088892033187840/pl/1VGlxPfdIKEUi9le.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059088892033187840"
+          ],
+          "media_source_tweet_id": [
+            "2059088947960016932"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059234641744388512",
+        "created_at": "2026-05-26T11:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059234641744388512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1129229753066635264",
+              "start": 3,
+              "username": "tanijrou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMVNjEYtNR",
+              "end": 58,
+              "expanded_url": "https://x.com/tanijrou/status/2059088947960016932/video/1",
+              "media_key": "13_2059088892033187840",
+              "start": 35,
+              "url": "https://t.co/PMVNjEYtNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059234641744388512",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1574
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059088947960016932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tanijrou: cute little puffball https://t.co/PMVNjEYtNR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059088892033187840"
+          ]
+        },
+        "author_id": "1129229753066635264",
+        "conversation_id": "2059088947960016932",
+        "created_at": "2026-05-26T01:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059088947960016932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMVNjEYtNR",
+              "end": 44,
+              "expanded_url": "https://x.com/tanijrou/status/2059088947960016932/video/1",
+              "media_key": "13_2059088892033187840",
+              "start": 21,
+              "url": "https://t.co/PMVNjEYtNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059088947960016932",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 617,
+          "impression_count": 63599,
+          "like_count": 6821,
+          "quote_count": 77,
+          "reply_count": 9,
+          "retweet_count": 1574
+        },
+        "reply_settings": "everyone",
+        "text": "cute little puffball https://t.co/PMVNjEYtNR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 69,
+          "like_count": 1808,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 538
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-17T03:38:47.000Z",
+        "description": "shinobu and yor lover ♡ NOT spoiler free ♡ icon credit: @evnight10010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "evnight10010"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "she.her.♡",
+                "end": 23,
+                "expanded_url": "http://she.her.xn--c6h/",
+                "start": 0,
+                "url": "https://t.co/yPmtuQX9gh"
+              }
+            ]
+          }
+        },
+        "id": "1129229753066635264",
+        "location": "♡",
+        "name": "amber ♡",
+        "pinned_tweet_id": "1980617736460910659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055125852120076288/_sv2gaZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131746,
+          "following_count": 904,
+          "like_count": 91989,
+          "listed_count": 336,
+          "media_count": 34857,
+          "tweet_count": 155213
+        },
+        "url": "https://t.co/yPmtuQX9gh",
+        "username": "tanijrou",
+        "verified": false
+      }
+    ]
+  }
+}

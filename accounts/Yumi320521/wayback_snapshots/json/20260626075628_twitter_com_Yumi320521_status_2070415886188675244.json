@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070415873538658304",
+        "3_2070415873526124544",
+        "3_2070415873534509056"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070415886188675244",
+    "created_at": "2026-06-26T07:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070415886188675244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z40xNeqRXP",
+          "end": 80,
+          "expanded_url": "https://x.com/Yumi320521/status/2070415886188675244/photo/1",
+          "media_key": "3_2070415873538658304",
+          "start": 57,
+          "url": "https://t.co/Z40xNeqRXP"
+        },
+        {
+          "display_url": "pic.x.com/Z40xNeqRXP",
+          "end": 80,
+          "expanded_url": "https://x.com/Yumi320521/status/2070415886188675244/photo/1",
+          "media_key": "3_2070415873526124544",
+          "start": 57,
+          "url": "https://t.co/Z40xNeqRXP"
+        },
+        {
+          "display_url": "pic.x.com/Z40xNeqRXP",
+          "end": 80,
+          "expanded_url": "https://x.com/Yumi320521/status/2070415886188675244/photo/1",
+          "media_key": "3_2070415873534509056",
+          "start": 57,
+          "url": "https://t.co/Z40xNeqRXP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070415886188675244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "pjsk怎么都复刻了 我都想跑路了有点不是滋味 虽然很喜欢 但是也证明之前买的赔钱了 我自己拿钱买的换谁都心疼吧 https://t.co/Z40xNeqRXP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1002,
+        "media_key": "3_2070415873538658304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuYRHeaEAAIGFx.jpg",
+        "width": 1012
+      },
+      {
+        "height": 764,
+        "media_key": "3_2070415873526124544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuYRHba0AAVIWw.jpg",
+        "width": 1080
+      },
+      {
+        "height": 764,
+        "media_key": "3_2070415873534509056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuYRHdawAASLhq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070415873538658304",
+            "3_2070415873526124544",
+            "3_2070415873534509056"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070415886188675244",
+        "created_at": "2026-06-26T07:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070415886188675244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z40xNeqRXP",
+              "end": 80,
+              "expanded_url": "https://x.com/Yumi320521/status/2070415886188675244/photo/1",
+              "media_key": "3_2070415873538658304",
+              "start": 57,
+              "url": "https://t.co/Z40xNeqRXP"
+            },
+            {
+              "display_url": "pic.x.com/Z40xNeqRXP",
+              "end": 80,
+              "expanded_url": "https://x.com/Yumi320521/status/2070415886188675244/photo/1",
+              "media_key": "3_2070415873526124544",
+              "start": 57,
+              "url": "https://t.co/Z40xNeqRXP"
+            },
+            {
+              "display_url": "pic.x.com/Z40xNeqRXP",
+              "end": 80,
+              "expanded_url": "https://x.com/Yumi320521/status/2070415886188675244/photo/1",
+              "media_key": "3_2070415873534509056",
+              "start": 57,
+              "url": "https://t.co/Z40xNeqRXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070415886188675244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pjsk怎么都复刻了 我都想跑路了有点不是滋味 虽然很喜欢 但是也证明之前买的赔钱了 我自己拿钱买的换谁都心疼吧 https://t.co/Z40xNeqRXP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 141,
+          "like_count": 4634,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 883
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

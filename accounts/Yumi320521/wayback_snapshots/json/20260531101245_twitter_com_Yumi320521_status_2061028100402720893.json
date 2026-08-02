@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2061028100402720893",
+    "created_at": "2026-05-31T10:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T11:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061028100402720893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2058933919081230336",
+          "start": 3,
+          "username": "lovcatshutdown"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/8JKH",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/8JKH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061028100402720893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060845445987938385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovcatshutdown: 浪人新闻管理员徐博涵，爱猫社区创建者，爱猫社区网站初代站长。06年生，虐猫虐鼠。去年在日本读语言学校，现在暂时躲在浙江杭州老家。\n\n徐博涵的抖音好友（账号81136049413）陈子豪也是一个虐猫蛆哦。 https://t.co/8JKH…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1891,
+        "media_key": "3_2060845432457121800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmYAIKX0Agnv3s.jpg",
+        "width": 1170
+      },
+      {
+        "height": 790,
+        "media_key": "3_2060845432494813186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmYAITW8AIMujd.jpg",
+        "width": 1179
+      },
+      {
+        "height": 981,
+        "media_key": "3_2060845432457068547",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmYAIKXAAMXYa2.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2061028100402720893",
+        "created_at": "2026-05-31T10:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061028100402720893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2058933919081230336",
+              "start": 3,
+              "username": "lovcatshutdown"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/8JKH",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/8JKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061028100402720893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060845445987938385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovcatshutdown: 浪人新闻管理员徐博涵，爱猫社区创建者，爱猫社区网站初代站长。06年生，虐猫虐鼠。去年在日本读语言学校，现在暂时躲在浙江杭州老家。\n\n徐博涵的抖音好友（账号81136049413）陈子豪也是一个虐猫蛆哦。 https://t.co/8JKH…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060845432457121800",
+            "3_2060845432494813186",
+            "3_2060845432457068547"
+          ]
+        },
+        "author_id": "2058933919081230336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060845445987938385",
+        "created_at": "2026-05-30T22:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T23:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060845445987938385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JKHCpyhmn",
+              "end": 125,
+              "expanded_url": "https://x.com/lovcatshutdown/status/2060845445987938385/photo/1",
+              "media_key": "3_2060845432457121800",
+              "start": 102,
+              "url": "https://t.co/8JKHCpyhmn"
+            },
+            {
+              "display_url": "pic.x.com/8JKHCpyhmn",
+              "end": 125,
+              "expanded_url": "https://x.com/lovcatshutdown/status/2060845445987938385/photo/1",
+              "media_key": "3_2060845432494813186",
+              "start": 102,
+              "url": "https://t.co/8JKHCpyhmn"
+            },
+            {
+              "display_url": "pic.x.com/8JKHCpyhmn",
+              "end": 125,
+              "expanded_url": "https://x.com/lovcatshutdown/status/2060845445987938385/photo/1",
+              "media_key": "3_2060845432457068547",
+              "start": 102,
+              "url": "https://t.co/8JKHCpyhmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060845445987938385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 778,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "浪人新闻管理员徐博涵，爱猫社区创建者，爱猫社区网站初代站长。06年生，虐猫虐鼠。去年在日本读语言学校，现在暂时躲在浙江杭州老家。\n\n徐博涵的抖音好友（账号81136049413）陈子豪也是一个虐猫蛆哦。 https://t.co/8JKHCpyhmn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 88,
+          "like_count": 2432,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 822
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T15:32:23.000Z",
+        "description": "不属于任何组织，solo反虐。讨厌炒作蛆。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lovcatshutdown",
+                "end": 23,
+                "expanded_url": "https://t.me/lovcatshutdown",
+                "start": 0,
+                "url": "https://t.co/aXbFLoOHKV"
+              }
+            ]
+          }
+        },
+        "id": "2058933919081230336",
+        "name": "刘硕",
+        "pinned_tweet_id": "2060919788252094655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058935756811386880/ZW-8Flan_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 6,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/aXbFLoOHKV",
+        "username": "lovcatshutdown",
+        "verified": false
+      }
+    ]
+  }
+}

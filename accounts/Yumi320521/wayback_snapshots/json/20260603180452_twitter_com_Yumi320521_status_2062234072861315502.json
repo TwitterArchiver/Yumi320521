@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2062234072861315502",
+    "created_at": "2026-06-03T18:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062234072861315502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2015550077436391424",
+          "start": 3,
+          "username": "_a_14_z_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062234072861315502",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062178155801309564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_a_14_z_: 不幸がいいんでしょ？1番不幸になりたいんでしょ？キズだらけの可哀想な自分が可愛くて仕方ないんでしょ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2062234072861315502",
+        "created_at": "2026-06-03T18:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062234072861315502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2015550077436391424",
+              "start": 3,
+              "username": "_a_14_z_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062234072861315502",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062178155801309564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_a_14_z_: 不幸がいいんでしょ？1番不幸になりたいんでしょ？キズだらけの可哀想な自分が可愛くて仕方ないんでしょ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015550077436391424",
+        "conversation_id": "2062178155801309564",
+        "created_at": "2026-06-03T14:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062178155801309564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062178155801309564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 19919,
+          "like_count": 440,
+          "quote_count": 12,
+          "reply_count": 2,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "不幸がいいんでしょ？1番不幸になりたいんでしょ？キズだらけの可哀想な自分が可愛くて仕方ないんでしょ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 柚子 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "Yuzumi",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062202271744901120/Mix4UWN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 96,
+          "like_count": 2660,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 914
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T22:19:49.000Z",
+        "description": "ファンマ😿🎒（14）￤🗝 @user_acvs24￤お仕事はDMまで✉️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "user_acvs24"
+              }
+            ]
+          }
+        },
+        "id": "2015550077436391424",
+        "name": "キャンマジ5番",
+        "pinned_tweet_id": "2037760051436552381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037759777024131072/fWyQFSaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12071,
+          "following_count": 77,
+          "like_count": 311,
+          "listed_count": 4,
+          "media_count": 48,
+          "tweet_count": 254
+        },
+        "username": "_a_14_z_",
+        "verified": false
+      }
+    ]
+  }
+}

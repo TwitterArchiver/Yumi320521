@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2042501906585829715",
+    "created_at": "2026-04-10T14:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042615011902918656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2021200224388341760",
+          "start": 0,
+          "username": "pet843801211906"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042615011902918656",
+    "in_reply_to_user_id": "2021200224388341760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042501906585829715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pet843801211906 吓哭了 每天撕逼吵架圈钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2042501906585829715",
+        "created_at": "2026-04-10T14:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042615011902918656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021200224388341760",
+              "start": 0,
+              "username": "pet843801211906"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042615011902918656",
+        "in_reply_to_user_id": "2021200224388341760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042501906585829715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pet843801211906 吓哭了 每天撕逼吵架圈钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2042501906585829715",
+        "created_at": "2026-04-10T07:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042501906585829715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042501906585829715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再也不会扩列v圈那些餐券妹了好刻薄好恐怖我和你们玩不来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 32,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "我叫小风｜割/磕/10｜退学/istp｜我非常温良可以闲聊｜查成分互fo。！直fo是喜欢你｜聊骚给我打钱看心情回｜漏掉回fo私我呀呀🥺",
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041751501471961088/9Z6qcf2Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 139,
+          "like_count": 2237,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 918
+        },
+        "username": "pet843801211906",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2066174055934550383",
+    "created_at": "2026-06-14T20:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T21:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066249967216587219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757603703811371008",
+          "start": 0,
+          "username": "11andpr89648964"
+        },
+        {
+          "end": 26,
+          "id": "1913084413942145024",
+          "start": 17,
+          "username": "Sui_aini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066249967216587219",
+    "in_reply_to_user_id": "1757603703811371008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066244040757215484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11andpr89648964 @Sui_aini 宝宝这个在哪里测🥺🫳💗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1442,
+        "media_key": "3_2066244025355743232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzF_l6aMAAcgux.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2066174055934550383",
+        "created_at": "2026-06-14T20:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T21:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066249967216587219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            },
+            {
+              "end": 26,
+              "id": "1913084413942145024",
+              "start": 17,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066249967216587219",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066244040757215484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 @Sui_aini 宝宝这个在哪里测🥺🫳💗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066244025355743232"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2066174055934550383",
+        "created_at": "2026-06-14T19:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066244040757215484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EgFNISomKD",
+              "end": 35,
+              "expanded_url": "https://x.com/11andpr89648964/status/2066244040757215484/photo/1",
+              "media_key": "3_2066244025355743232",
+              "start": 12,
+              "url": "https://t.co/EgFNISomKD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066244040757215484",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066174055934550383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 哎 https://t.co/EgFNISomKD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 115,
+          "like_count": 3402,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 626
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2064253156872388919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 860,
+          "like_count": 153,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1668
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2018,
+          "following_count": 781,
+          "like_count": 5624,
+          "listed_count": 5,
+          "media_count": 625,
+          "tweet_count": 5251
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

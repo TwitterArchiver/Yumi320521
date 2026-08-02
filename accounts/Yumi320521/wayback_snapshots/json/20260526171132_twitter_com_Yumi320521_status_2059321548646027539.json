@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059321530392424448",
+        "3_2059321530413412352"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059321548646027539",
+    "created_at": "2026-05-26T17:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059321548646027539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7n3KEMlUFB",
+          "end": 55,
+          "expanded_url": "https://x.com/Yumi320521/status/2059321548646027539/photo/1",
+          "media_key": "3_2059321530392424448",
+          "start": 32,
+          "url": "https://t.co/7n3KEMlUFB"
+        },
+        {
+          "display_url": "pic.x.com/7n3KEMlUFB",
+          "end": 55,
+          "expanded_url": "https://x.com/Yumi320521/status/2059321548646027539/photo/1",
+          "media_key": "3_2059321530413412352",
+          "start": 32,
+          "url": "https://t.co/7n3KEMlUFB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059321548646027539",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ねえ、ユキくんあのね！\n阿雪 你听我说！\n好可爱的一首歌….. https://t.co/7n3KEMlUFB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059321530392424448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQuBWlasAACXTa.jpg",
+        "width": 945
+      },
+      {
+        "height": 1228,
+        "media_key": "3_2059321530413412352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQuBWqa8AA3yCa.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059321530392424448",
+            "3_2059321530413412352"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059321548646027539",
+        "created_at": "2026-05-26T17:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059321548646027539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7n3KEMlUFB",
+              "end": 55,
+              "expanded_url": "https://x.com/Yumi320521/status/2059321548646027539/photo/1",
+              "media_key": "3_2059321530392424448",
+              "start": 32,
+              "url": "https://t.co/7n3KEMlUFB"
+            },
+            {
+              "display_url": "pic.x.com/7n3KEMlUFB",
+              "end": 55,
+              "expanded_url": "https://x.com/Yumi320521/status/2059321548646027539/photo/1",
+              "media_key": "3_2059321530413412352",
+              "start": 32,
+              "url": "https://t.co/7n3KEMlUFB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059321548646027539",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ねえ、ユキくんあのね！\n阿雪 你听我说！\n好可爱的一首歌….. https://t.co/7n3KEMlUFB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 69,
+          "like_count": 1832,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 555
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

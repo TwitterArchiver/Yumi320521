@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058601099624694198",
+    "created_at": "2026-05-24T17:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058601099624694198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lanlan93083241…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/lanlan93083241/status/2058522454499487963",
+          "start": 31,
+          "url": "https://t.co/Xilazqg8Za"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058601099624694198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058522454499487963",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但其实并不好 我是这么觉得的 你们都会走了 适当伪装还是好的 https://t.co/Xilazqg8Za"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058601099624694198",
+        "created_at": "2026-05-24T17:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058601099624694198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanlan93083241…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/lanlan93083241/status/2058522454499487963",
+              "start": 31,
+              "url": "https://t.co/Xilazqg8Za"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058601099624694198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058522454499487963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但其实并不好 我是这么觉得的 你们都会走了 适当伪装还是好的 https://t.co/Xilazqg8Za"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788083166856749056",
+        "conversation_id": "2058522454499487963",
+        "created_at": "2026-05-24T12:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058522454499487963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058522454499487963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 7265,
+          "like_count": 263,
+          "quote_count": 7,
+          "reply_count": 36,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "大胆疯狂袒露你的丑陋，直到赶走所有假装喜欢你的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 67,
+          "like_count": 1709,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 448
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T05:47:25.000Z",
+        "description": "一个在互联网上贩卖快乐的普通小女生\n(希望语言也可以是连续剧 谢谢关注😉)",
+        "id": "1788083166856749056",
+        "name": "LanLan",
+        "pinned_tweet_id": "2058068145429156023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978758355318611968/KQBoDyuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41481,
+          "following_count": 2909,
+          "like_count": 40872,
+          "listed_count": 132,
+          "media_count": 1674,
+          "tweet_count": 2582
+        },
+        "username": "LanLan93083241",
+        "verified": false
+      }
+    ]
+  }
+}

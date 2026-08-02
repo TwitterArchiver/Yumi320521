@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060586512862031881",
+    "created_at": "2026-05-30T18:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060787500520755335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1814650353184653312",
+          "start": 0,
+          "username": "Singe81719Gupta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060787500520755335",
+    "in_reply_to_user_id": "1814650353184653312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060586512862031881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Singe81719Gupta 笑死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 586,
+        "media_key": "3_2060560930656944129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiVP8XbAAE2KB5.png",
+        "width": 418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060586512862031881",
+        "created_at": "2026-05-30T18:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060787500520755335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1814650353184653312",
+              "start": 0,
+              "username": "Singe81719Gupta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060787500520755335",
+        "in_reply_to_user_id": "1814650353184653312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060586512862031881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Singe81719Gupta 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060560930656944129"
+          ]
+        },
+        "author_id": "1814650353184653312",
+        "conversation_id": "2060586512862031881",
+        "created_at": "2026-05-30T04:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060586512862031881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVXXHuQJum",
+              "end": 48,
+              "expanded_url": "https://x.com/Singe81719Gupta/status/2060586512862031881/photo/1",
+              "media_key": "3_2060560930656944129",
+              "start": 25,
+              "url": "https://t.co/UVXXHuQJum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060586512862031881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 13911,
+          "like_count": 1049,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "マチアプでこんな地雷きたら、さすがに帰っちゃう？ https://t.co/UVXXHuQJum"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060749668641079297/-Zh_qDzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 80,
+          "like_count": 2359,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 773
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T13:15:54.000Z",
+        "description": "♥︎|ω･ᐡ꒱: 萌きゅん人生\n🗝️→@DebbieDebbiels",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "DebbieDebbiels"
+              }
+            ]
+          }
+        },
+        "id": "1814650353184653312",
+        "name": "くろみはおれのもの❤︎",
+        "pinned_tweet_id": "2046906104387641850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044408411316686848/9to1Mg6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5696,
+          "following_count": 79,
+          "like_count": 2,
+          "listed_count": 11,
+          "media_count": 69,
+          "tweet_count": 194
+        },
+        "username": "Singe81719Gupta",
+        "verified": false
+      }
+    ]
+  }
+}

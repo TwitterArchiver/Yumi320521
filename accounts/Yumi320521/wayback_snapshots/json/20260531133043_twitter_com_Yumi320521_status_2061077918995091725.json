@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2061066549675573428",
+    "created_at": "2026-05-31T13:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061077918995091725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1742186042822979584",
+          "start": 0,
+          "username": "GeZuo12865"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061077918995091725",
+    "in_reply_to_user_id": "1742186042822979584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061077092566254053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeZuo12865 是绿色的血管 现在好多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2061066549675573428",
+        "created_at": "2026-05-31T13:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061077918995091725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1742186042822979584",
+              "start": 0,
+              "username": "GeZuo12865"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061077918995091725",
+        "in_reply_to_user_id": "1742186042822979584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061077092566254053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeZuo12865 是绿色的血管 现在好多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742186042822979584",
+        "conversation_id": "2061066549675573428",
+        "created_at": "2026-05-31T13:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061077092566254053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061077092566254053",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061066549675573428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 这样不疼那才奇怪呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 89,
+          "like_count": 2458,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 835
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T14:08:54.000Z",
+        "description": "花开不觉意，花落方知情",
+        "id": "1742186042822979584",
+        "location": "China",
+        "name": "卡茶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012285131474747396/IZrwzhUD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 125,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 155
+        },
+        "username": "GeZuo12865",
+        "verified": false
+      }
+    ]
+  }
+}

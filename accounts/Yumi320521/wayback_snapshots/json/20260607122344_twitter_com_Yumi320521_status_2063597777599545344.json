@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_814384174698139649"
+      ],
+      "media_source_tweet_id": [
+        "814384182193311744"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2063597777599545344",
+    "created_at": "2026-06-07T12:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063597777599545344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "4035350352",
+          "start": 3,
+          "username": "mam0_0fficialt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tMaHbILggz",
+          "end": 64,
+          "expanded_url": "https://x.com/mam0_0fficialt/status/814384182193311744/photo/1",
+          "media_key": "3_814384174698139649",
+          "start": 41,
+          "url": "https://t.co/tMaHbILggz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063597777599545344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 560
+    },
+    "referenced_tweets": [
+      {
+        "id": "814384182193311744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mam0_0fficialt: これはすごい！ピンゴキにマモメロまで！笑 https://t.co/tMaHbILggz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 627,
+        "media_key": "3_814384174698139649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/C01GF5OVEAEH9iD.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_814384174698139649"
+          ],
+          "media_source_tweet_id": [
+            "814384182193311744"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2063597777599545344",
+        "created_at": "2026-06-07T12:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063597777599545344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "4035350352",
+              "start": 3,
+              "username": "mam0_0fficialt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tMaHbILggz",
+              "end": 64,
+              "expanded_url": "https://x.com/mam0_0fficialt/status/814384182193311744/photo/1",
+              "media_key": "3_814384174698139649",
+              "start": 41,
+              "url": "https://t.co/tMaHbILggz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063597777599545344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 560
+        },
+        "referenced_tweets": [
+          {
+            "id": "814384182193311744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mam0_0fficialt: これはすごい！ピンゴキにマモメロまで！笑 https://t.co/tMaHbILggz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_814384174698139649"
+          ]
+        },
+        "author_id": "4035350352",
+        "conversation_id": "814384182193311744",
+        "created_at": "2016-12-29T08:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2016-12-29T08:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "814384182193311744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tMaHbILggz",
+              "end": 44,
+              "expanded_url": "https://x.com/mam0_0fficialt/status/814384182193311744/photo/1",
+              "media_key": "3_814384174698139649",
+              "start": 21,
+              "url": "https://t.co/tMaHbILggz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "814384182193311744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 0,
+          "like_count": 2108,
+          "quote_count": 11,
+          "reply_count": 61,
+          "retweet_count": 560
+        },
+        "reply_settings": "everyone",
+        "text": "これはすごい！ピンゴキにマモメロまで！笑 https://t.co/tMaHbILggz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜视觉系｜量産型｜桃井愛莉\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 108,
+          "like_count": 2820,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 480
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-27T12:34:01.000Z",
+        "description": "とあるミュージシャンの黙示録。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanicon.net/fancommunities…",
+                "end": 23,
+                "expanded_url": "https://fanicon.net/fancommunities/1146",
+                "start": 0,
+                "url": "https://t.co/eSaht6ijhN"
+              }
+            ]
+          }
+        },
+        "id": "4035350352",
+        "location": "浅草",
+        "name": "マモ",
+        "pinned_tweet_id": "2045474654350086376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913255774211739648/1q2wAWqf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78862,
+          "following_count": 166,
+          "like_count": 255,
+          "listed_count": 711,
+          "media_count": 3651,
+          "tweet_count": 8294
+        },
+        "url": "https://t.co/eSaht6ijhN",
+        "username": "mam0_0fficialt",
+        "verified": false
+      }
+    ]
+  }
+}

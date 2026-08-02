@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2052373325306110133",
+    "created_at": "2026-05-07T13:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052373325306110133"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xchatscout/sta…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/xchatscout/status/2052012404968714613",
+          "start": 28,
+          "url": "https://t.co/mm6Cb24GM7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052373325306110133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052012404968714613",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "长的跟个猴子一样 flj太恶心了🤮男的也是xyy死完了 https://t.co/mm6Cb24GM7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 73955,
+        "height": 1730,
+        "media_key": "13_2052012249267814400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052012249267814400/img/Iiu6dk0ojN3NdDis.jpg",
+        "public_metrics": {
+          "view_count": 1175306
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052012249267814400/vid/avc1/480x768/4TRU0QJjeRteL0fh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052012249267814400/vid/avc1/720x1152/1Myz12SjQVo07LTD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052012249267814400/pl/x7I6AJ8joFbQtg3u.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052012249267814400/vid/avc1/1080x1730/RIvHT4MzDLxDVCHo.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052012249267814400/vid/avc1/320x512/NTJZv-4mIx7ByQjp.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2052373325306110133",
+        "created_at": "2026-05-07T13:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052373325306110133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xchatscout/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/xchatscout/status/2052012404968714613",
+              "start": 28,
+              "url": "https://t.co/mm6Cb24GM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052373325306110133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052012404968714613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "长的跟个猴子一样 flj太恶心了🤮男的也是xyy死完了 https://t.co/mm6Cb24GM7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052012249267814400"
+          ]
+        },
+        "author_id": "1840097341086543874",
+        "conversation_id": "2052012404968714613",
+        "created_at": "2026-05-06T13:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052012404968714613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMlYf7Wx9j",
+              "end": 106,
+              "expanded_url": "https://x.com/XChatScout/status/2052012404968714613/video/1",
+              "media_key": "13_2052012249267814400",
+              "start": 83,
+              "url": "https://t.co/dMlYf7Wx9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052012404968714613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5577,
+          "impression_count": 2074234,
+          "like_count": 12654,
+          "quote_count": 34,
+          "reply_count": 2131,
+          "retweet_count": 493
+        },
+        "reply_settings": "everyone",
+        "text": "萤火虫漫展女cos被骚扰事件！\n女cos坐在汽车上让人拍照，现场发生被摸脚的情况，女孩事后说自己是被骚扰，已经报警了。正面拍摄的视频显示，女孩表情自然的在拍摄出片！ https://t.co/dMlYf7Wx9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "💙ゆず🩵🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 63,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 202
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T18:32:54.000Z",
+        "description": "每天都在加油｜项目投研分析｜数据可视化｜奇怪人类调研所｜开源项目研究｜美股｜每日内容分享",
+        "id": "1840097341086543874",
+        "name": "一",
+        "pinned_tweet_id": "2052328953365553483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045121359500746752/3sXZrWnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5216,
+          "following_count": 2419,
+          "like_count": 5171,
+          "listed_count": 11,
+          "media_count": 228,
+          "tweet_count": 5775
+        },
+        "username": "XChatScout",
+        "verified": true
+      }
+    ]
+  }
+}

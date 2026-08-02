@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057435489553289216"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2057435506418606288",
+    "created_at": "2026-05-21T12:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057435506418606288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/po1P3ziHAk",
+          "end": 27,
+          "expanded_url": "https://x.com/Yumi320521/status/2057435506418606288/photo/1",
+          "media_key": "3_2057435489553289216",
+          "start": 4,
+          "url": "https://t.co/po1P3ziHAk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057435506418606288",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😻😻😻 https://t.co/po1P3ziHAk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2057435489553289216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI16rU8bEAABmSZ.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057435489553289216"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2057435506418606288",
+        "created_at": "2026-05-21T12:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057435506418606288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/po1P3ziHAk",
+              "end": 27,
+              "expanded_url": "https://x.com/Yumi320521/status/2057435506418606288/photo/1",
+              "media_key": "3_2057435489553289216",
+              "start": 4,
+              "url": "https://t.co/po1P3ziHAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057435506418606288",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😻😻😻 https://t.co/po1P3ziHAk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n好累…",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 59,
+          "like_count": 1446,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 294
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

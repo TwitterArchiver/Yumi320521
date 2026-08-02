@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2071205983268040778",
+    "created_at": "2026-06-28T12:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071209230963773450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2069236851362418688",
+          "start": 0,
+          "username": "fangzhushijie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071209230963773450",
+    "in_reply_to_user_id": "2069236851362418688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071208438269649263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fangzhushijie omg 确实真的很有意义了 挡灾了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2071205983268040778",
+        "created_at": "2026-06-28T12:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071209230963773450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2069236851362418688",
+              "start": 0,
+              "username": "fangzhushijie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071209230963773450",
+        "in_reply_to_user_id": "2069236851362418688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071208438269649263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fangzhushijie omg 确实真的很有意义了 挡灾了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069236851362418688",
+        "conversation_id": "2071205983268040778",
+        "created_at": "2026-06-28T12:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071208438269649263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071208438269649263",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071205983268040778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 我亲自去寺庙求过一条😋不经常带后面有一天我在看到他时候自己断了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 143,
+          "like_count": 4739,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 933
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T01:52:16.000Z",
+        "description": "aaa我是傻比，关注我的全部视奸",
+        "id": "2069236851362418688",
+        "location": "火星",
+        "name": "我是傻币",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071133035068792832/kx8nTGeU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 19,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "fangzhushijie",
+        "verified": false
+      }
+    ]
+  }
+}

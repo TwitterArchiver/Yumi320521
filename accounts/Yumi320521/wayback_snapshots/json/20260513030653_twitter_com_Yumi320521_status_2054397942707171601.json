@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054138040231321600"
+      ],
+      "media_source_tweet_id": [
+        "2054141574330937716"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2054397942707171601",
+    "created_at": "2026-05-13T03:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054397942707171601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "175912257",
+          "start": 3,
+          "username": "kikujiro_shnghi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mgjE9p3Gwn",
+          "end": 76,
+          "expanded_url": "https://x.com/kikujiro_shnghi/status/2054141574330937716/video/1",
+          "media_key": "13_2054138040231321600",
+          "start": 53,
+          "url": "https://t.co/mgjE9p3Gwn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054397942707171601",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2663
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054141574330937716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @kikujiro_shnghi: 町で小さな不良に絡まれました。\n上海の治安は悪くなる一方です。 https://t.co/mgjE9p3Gwn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21900,
+        "height": 1920,
+        "media_key": "13_2054138040231321600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054138040231321600/img/A5YEfnX2-fE_7wD1.jpg",
+        "public_metrics": {
+          "view_count": 172329
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054138040231321600/vid/avc1/1080x1920/3Jg_PcYWOXS6DVTZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054138040231321600/vid/avc1/720x1280/q7F-I9d8_kSlyu0I.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054138040231321600/vid/avc1/480x852/4KjEeg9H3esW4ydO.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054138040231321600/vid/avc1/320x568/rMEFJYiwu3Xf-qOM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054138040231321600/pl/_onBdjnY_jissgqn.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054138040231321600"
+          ],
+          "media_source_tweet_id": [
+            "2054141574330937716"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054397942707171601",
+        "created_at": "2026-05-13T03:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054397942707171601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "175912257",
+              "start": 3,
+              "username": "kikujiro_shnghi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgjE9p3Gwn",
+              "end": 76,
+              "expanded_url": "https://x.com/kikujiro_shnghi/status/2054141574330937716/video/1",
+              "media_key": "13_2054138040231321600",
+              "start": 53,
+              "url": "https://t.co/mgjE9p3Gwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054397942707171601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2663
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054141574330937716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @kikujiro_shnghi: 町で小さな不良に絡まれました。\n上海の治安は悪くなる一方です。 https://t.co/mgjE9p3Gwn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054138040231321600"
+          ]
+        },
+        "author_id": "175912257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054141574330937716",
+        "created_at": "2026-05-12T10:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:54:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054138215523913982",
+          "2054141574330937716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgjE9p3Gwn",
+              "end": 55,
+              "expanded_url": "https://x.com/kikujiro_shnghi/status/2054141574330937716/video/1",
+              "media_key": "13_2054138040231321600",
+              "start": 32,
+              "url": "https://t.co/mgjE9p3Gwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054141574330937716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 919,
+          "impression_count": 480090,
+          "like_count": 21021,
+          "quote_count": 56,
+          "reply_count": 45,
+          "retweet_count": 2663
+        },
+        "reply_settings": "other",
+        "text": "町で小さな不良に絡まれました。\n上海の治安は悪くなる一方です。 https://t.co/mgjE9p3Gwn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n好累…",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 64,
+          "like_count": 1144,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 229
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-08T00:38:47.000Z",
+        "description": "21世紀初頭からレッツ上海。日本＆上海社長。上海の風景や美味しいものをメインに投稿しながらのんびり暮らしています。日常からちょっと面白いものまで、いろんな上海をご覧ください。上海｜ご飯｜レトロゲーム｜バドミントン｜中華田園猫｜中国アイス｜上海路線バス｜香菜大苦手",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/su_ga_shanghai",
+                "end": 23,
+                "expanded_url": "https://note.com/su_ga_shanghai",
+                "start": 0,
+                "url": "https://t.co/X2bxslV4wC"
+              }
+            ]
+          }
+        },
+        "id": "175912257",
+        "name": "菊次郎＠上海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776091797435056128/02G_DLoY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17067,
+          "following_count": 2330,
+          "like_count": 209962,
+          "listed_count": 129,
+          "media_count": 9929,
+          "tweet_count": 68563
+        },
+        "url": "https://t.co/X2bxslV4wC",
+        "username": "kikujiro_shnghi",
+        "verified": true
+      }
+    ]
+  }
+}

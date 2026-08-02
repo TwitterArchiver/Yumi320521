@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2050264262002827394",
+    "created_at": "2026-05-01T17:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T18:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050264262002827394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1941133163184672769",
+          "start": 3,
+          "username": "gen_kaikai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050264262002827394",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050102673542942997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gen_kaikai: それぞれバンドのスタイルがあるから善し悪しは別として、最前入って振り完璧にしなきゃいけない思想がある空間私にはきついな なんで金払って好きなとこで好きなように見るのが許されないんだ※文化とか郷とかそういう話ではなく妥当性の話をしています"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2050264262002827394",
+        "created_at": "2026-05-01T17:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T18:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050264262002827394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1941133163184672769",
+              "start": 3,
+              "username": "gen_kaikai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050264262002827394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050102673542942997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gen_kaikai: それぞれバンドのスタイルがあるから善し悪しは別として、最前入って振り完璧にしなきゃいけない思想がある空間私にはきついな なんで金払って好きなとこで好きなように見るのが許されないんだ※文化とか郷とかそういう話ではなく妥当性の話をしています"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941133163184672769",
+        "conversation_id": "2050102673542942997",
+        "created_at": "2026-05-01T06:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T07:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050102673542942997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pixxx_0101/sta…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/pixxx_0101/status/2049953692821143650",
+              "start": 119,
+              "url": "https://t.co/j060mkelZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050102673542942997",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 49522,
+          "like_count": 340,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049953692821143650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "それぞれバンドのスタイルがあるから善し悪しは別として、最前入って振り完璧にしなきゃいけない思想がある空間私にはきついな なんで金払って好きなとこで好きなように見るのが許されないんだ※文化とか郷とかそういう話ではなく妥当性の話をしています https://t.co/j060mkelZt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "茶柚/Yumi 16 153/73\n桃井爱莉｜同担拒否｜地雷系｜od\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049428958475862016/-MBbrvme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 46,
+          "like_count": 793,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 120
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T13:53:13.000Z",
+        "description": "運は不平等",
+        "id": "1941133163184672769",
+        "name": "むら さきえ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026916470241038336/Pq7A-eoP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 62
+        },
+        "username": "gen_kaikai",
+        "verified": false
+      }
+    ]
+  }
+}

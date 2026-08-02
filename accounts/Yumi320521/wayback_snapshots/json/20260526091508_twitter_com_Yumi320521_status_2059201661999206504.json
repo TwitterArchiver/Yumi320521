@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059087017846427648"
+      ],
+      "media_source_tweet_id": [
+        "2059087024431468874"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059201661999206504",
+    "created_at": "2026-05-26T09:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T10:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059201661999206504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1586779666966188032",
+          "start": 3,
+          "username": "Mallow_chiikawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xXayTbuiqc",
+          "end": 81,
+          "expanded_url": "https://x.com/Mallow_chiikawa/status/2059087024431468874/photo/1",
+          "media_key": "3_2059087017846427648",
+          "start": 58,
+          "url": "https://t.co/xXayTbuiqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059201661999206504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 851
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059087024431468874",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mallow_chiikawa: このかわいい生き物、うちで飼いたい( ⸝⸝⸝ʚ̴̶̷̆ωʚ̴̶̷̆⸝⸝) https://t.co/xXayTbuiqc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059087017846427648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNYu7Ra0AAOQ4B.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059087017846427648"
+          ],
+          "media_source_tweet_id": [
+            "2059087024431468874"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059201661999206504",
+        "created_at": "2026-05-26T09:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059201661999206504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1586779666966188032",
+              "start": 3,
+              "username": "Mallow_chiikawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xXayTbuiqc",
+              "end": 81,
+              "expanded_url": "https://x.com/Mallow_chiikawa/status/2059087024431468874/photo/1",
+              "media_key": "3_2059087017846427648",
+              "start": 58,
+              "url": "https://t.co/xXayTbuiqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059201661999206504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 851
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059087024431468874",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mallow_chiikawa: このかわいい生き物、うちで飼いたい( ⸝⸝⸝ʚ̴̶̷̆ωʚ̴̶̷̆⸝⸝) https://t.co/xXayTbuiqc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059087017846427648"
+          ]
+        },
+        "author_id": "1586779666966188032",
+        "conversation_id": "2059087024431468874",
+        "created_at": "2026-05-26T01:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059087024431468874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xXayTbuiqc",
+              "end": 60,
+              "expanded_url": "https://x.com/Mallow_chiikawa/status/2059087024431468874/photo/1",
+              "media_key": "3_2059087017846427648",
+              "start": 37,
+              "url": "https://t.co/xXayTbuiqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059087024431468874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 309,
+          "impression_count": 68774,
+          "like_count": 6363,
+          "quote_count": 28,
+          "reply_count": 5,
+          "retweet_count": 851
+        },
+        "reply_settings": "everyone",
+        "text": "このかわいい生き物、うちで飼いたい( ⸝⸝⸝ʚ̴̶̷̆ωʚ̴̶̷̆⸝⸝) https://t.co/xXayTbuiqc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 69,
+          "like_count": 1805,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 535
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T17:59:10.000Z",
+        "description": "ハチワレ＆カニちゃん推しの台湾人🇹🇼 ｜2023年夏〜ちいかわにハマり中｜台湾でゆるくちい活してます｜ぬい撮り多め📸 ｜無言フォロー失礼します＆大歓迎です！ よろしくお願いします🌸",
+        "id": "1586779666966188032",
+        "name": "メロ",
+        "pinned_tweet_id": "2021452216029298853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776892582985093121/BoUAJa_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 512,
+          "like_count": 25485,
+          "listed_count": 3,
+          "media_count": 814,
+          "tweet_count": 1482
+        },
+        "username": "Mallow_chiikawa",
+        "verified": false
+      }
+    ]
+  }
+}

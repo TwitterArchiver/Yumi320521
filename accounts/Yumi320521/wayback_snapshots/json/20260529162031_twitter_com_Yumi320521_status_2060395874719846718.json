@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060395874719846718",
+    "created_at": "2026-05-29T16:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060395874719846718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoodyliu/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/hoodyliu/status/2060167318584574100",
+          "start": 4,
+          "url": "https://t.co/1dxPC04zkE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060395874719846718",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060167318584574100",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日中韩 https://t.co/1dxPC04zkE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 503,
+        "media_key": "3_2060167310019837953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJcvQNOawAEkpzz.jpg",
+        "width": 1043
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060395874719846718",
+        "created_at": "2026-05-29T16:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060395874719846718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoodyliu/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/hoodyliu/status/2060167318584574100",
+              "start": 4,
+              "url": "https://t.co/1dxPC04zkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060395874719846718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060167318584574100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日中韩 https://t.co/1dxPC04zkE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060167310019837953"
+          ]
+        },
+        "author_id": "1902890461607698432",
+        "conversation_id": "2060167318584574100",
+        "created_at": "2026-05-29T01:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060167318584574100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xIFXc6euIR",
+              "end": 49,
+              "expanded_url": "https://x.com/HoodyLiu/status/2060167318584574100/photo/1",
+              "media_key": "3_2060167310019837953",
+              "start": 26,
+              "url": "https://t.co/xIFXc6euIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060167318584574100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5293,
+          "impression_count": 8821292,
+          "like_count": 66270,
+          "quote_count": 1741,
+          "reply_count": 836,
+          "retweet_count": 3116
+        },
+        "reply_settings": "everyone",
+        "text": "靠发型就能分辨出谁是日本人，谁是韩国人，谁是中国人 https://t.co/xIFXc6euIR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 90,
+          "like_count": 2181,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 732
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T01:10:32.000Z",
+        "description": "前字节老兵，亿级 DAU 国民剪辑工具用户增长服务端负责人\n现 All in AI，持续关注 AI 创业方向",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoodyliu.carrd.co",
+                "end": 23,
+                "expanded_url": "https://hoodyliu.carrd.co",
+                "start": 0,
+                "url": "https://t.co/ut2BAHykxk"
+              }
+            ]
+          }
+        },
+        "id": "1902890461607698432",
+        "name": "Hoody",
+        "pinned_tweet_id": "2060167318584574100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980535780192706560/RvE29C5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3415,
+          "following_count": 583,
+          "like_count": 5082,
+          "listed_count": 19,
+          "media_count": 467,
+          "tweet_count": 3153
+        },
+        "url": "https://t.co/ut2BAHykxk",
+        "username": "HoodyLiu",
+        "verified": true
+      }
+    ]
+  }
+}

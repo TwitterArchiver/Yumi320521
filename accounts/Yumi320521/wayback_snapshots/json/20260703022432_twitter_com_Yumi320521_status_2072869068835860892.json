@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2072727904233173499",
+    "created_at": "2026-07-03T02:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T03:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072869068835860892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1927025054203715584",
+          "start": 0,
+          "username": "pr80_NightHaven"
+        },
+        {
+          "end": 32,
+          "id": "1599012090517540869",
+          "start": 17,
+          "username": "loveforeversfy"
+        },
+        {
+          "end": 44,
+          "id": "1343061747914063872",
+          "start": 33,
+          "username": "Luvsenberg"
+        },
+        {
+          "end": 55,
+          "id": "1938958377620824064",
+          "start": 45,
+          "username": "LuluvWiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072869068835860892",
+    "in_reply_to_user_id": "1927025054203715584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072858689124610519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pr80_NightHaven @loveforeversfy @Luvsenberg @LuluvWiki 我还你真是鸡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 899,
+        "media_key": "3_2072858017302024192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRFYl8bkAArmxO.jpg",
+        "width": 1405
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2072727904233173499",
+        "created_at": "2026-07-03T02:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072869068835860892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1927025054203715584",
+              "start": 0,
+              "username": "pr80_NightHaven"
+            },
+            {
+              "end": 32,
+              "id": "1599012090517540869",
+              "start": 17,
+              "username": "loveforeversfy"
+            },
+            {
+              "end": 44,
+              "id": "1343061747914063872",
+              "start": 33,
+              "username": "Luvsenberg"
+            },
+            {
+              "end": 55,
+              "id": "1938958377620824064",
+              "start": 45,
+              "username": "LuluvWiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072869068835860892",
+        "in_reply_to_user_id": "1927025054203715584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072858689124610519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80_NightHaven @loveforeversfy @Luvsenberg @LuluvWiki 我还你真是鸡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072858017302024192"
+          ]
+        },
+        "author_id": "1927025054203715584",
+        "conversation_id": "2072727904233173499",
+        "created_at": "2026-07-03T01:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072858689124610519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            },
+            {
+              "end": 61,
+              "id": "1343061747914063872",
+              "start": 50,
+              "username": "Luvsenberg"
+            },
+            {
+              "end": 72,
+              "id": "1938958377620824064",
+              "start": 62,
+              "username": "LuluvWiki"
+            }
+          ],
+          "urls": [
+            {
+              "description": "luv(sic.) , lulu , EST.2025",
+              "display_url": "Luluv.wiki",
+              "end": 181,
+              "expanded_url": "http://Luluv.wiki",
+              "start": 158,
+              "status": 200,
+              "title": "主页",
+              "unwound_url": "http://Luluv.wiki",
+              "url": "https://t.co/B32QQWEhbR"
+            },
+            {
+              "display_url": "pic.x.com/0cTcKuR3Zo",
+              "end": 205,
+              "expanded_url": "https://x.com/pr80_NightHaven/status/2072858689124610519/photo/1",
+              "media_key": "3_2072858017302024192",
+              "start": 182,
+              "url": "https://t.co/0cTcKuR3Zo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072858689124610519",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 45,
+                "id": "1343061747914063872",
+                "start": 34,
+                "username": "Luvsenberg"
+              },
+              {
+                "end": 56,
+                "id": "1938958377620824064",
+                "start": 46,
+                "username": "LuluvWiki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Luluv.wiki",
+                "end": 165,
+                "expanded_url": "http://Luluv.wiki",
+                "start": 142,
+                "url": "https://t.co/TYOAunUwAO"
+              }
+            ]
+          },
+          "text": "hi虽然但是，我和鸡哥八竿子打不着，我们的官号现在是我璐璐在运营， @Luvsenberg @LuluvWiki ，永夜安港这个ID是出自彩虹六号里由Kali建立的私人安保组织，我们的想法某种意义上挺像的，于是我和几个伙伴就起了这个名字，不知道为什么有人说我是鸡哥，可以看一眼我自己的https://t.co/TYOAunUwAO ，这个是需要辟谣的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072727904233173499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy hi虽然但是，我和鸡哥八竿子打不着，我们的官号现在是我璐璐在运营， @Luvsenberg @LuluvWiki ，永夜安港这个ID是出自彩虹六号里由Kali建立的私人安保组织，我们的想法某种意义上挺像的，于是我和几个伙伴就起了这个名字，不知道为什么有人说我是鸡哥，可以看一眼我自己的https://t.co/B32QQWEhbR https://t.co/0cTcKuR3Zo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 143,
+          "like_count": 5149,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1154
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T15:32:44.000Z",
+        "description": "https://t.co/HsCioOgdzr\nhttps://t.co/F6fN8D2oJ9\n永夜安港是一个致力于为OD者交友、陪伴、减害所建立的社区，真正包容彼此、相互理解的“温柔”社群。\n会回关，目前官推由wiki主 @LuluvWiki 运营，如果他对漂亮大姐姐评论妈妈，属于正常环节，不代表永夜安港官方立场！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 112,
+                "username": "LuluvWiki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/HsCioOgdzr"
+              },
+              {
+                "display_url": "pr80.net",
+                "end": 47,
+                "expanded_url": "https://pr80.net",
+                "start": 24,
+                "url": "https://t.co/F6fN8D2oJ9"
+              }
+            ]
+          }
+        },
+        "id": "1927025054203715584",
+        "location": "NightHaven",
+        "name": "⚓️永夜安港 pr80.net",
+        "pinned_tweet_id": "2071982831732142419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069981304528265216/T45W7wQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 216,
+          "like_count": 70,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "pr80_NightHaven",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2594,
+          "following_count": 1556,
+          "like_count": 35503,
+          "listed_count": 8,
+          "media_count": 1221,
+          "tweet_count": 11424
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-27T05:10:53.000Z",
+        "description": "这里璐璐，MtX，随缘回关\nhttps://t.co/0UtkpoizUJ 创立者\n凝胶/精华购买私信 https://t.co/5Z4QwbSnog\nhttps://t.co/amyxWizAe9 永夜安港 初创成员\n璐璐Homemade 产品通知群 https://t.co/MjtRa3ulXk\n精神病学与药理学/有机化学/护肤品研发/MtX MtF群体临床精神疾病学者\n咨询问题🚪88",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Luluv.wiki",
+                "end": 37,
+                "expanded_url": "http://Luluv.wiki",
+                "start": 14,
+                "url": "https://t.co/0UtkpoizUJ"
+              },
+              {
+                "display_url": "t.me/ShineLikeRiri",
+                "end": 75,
+                "expanded_url": "http://t.me/ShineLikeRiri",
+                "start": 52,
+                "url": "https://t.co/5Z4QwbSnog"
+              },
+              {
+                "display_url": "pr80.net",
+                "end": 99,
+                "expanded_url": "http://pr80.net",
+                "start": 76,
+                "url": "https://t.co/amyxWizAe9"
+              },
+              {
+                "display_url": "t.me/LuluvCompany",
+                "end": 150,
+                "expanded_url": "http://t.me/LuluvCompany",
+                "start": 127,
+                "url": "https://t.co/MjtRa3ulXk"
+              }
+            ]
+          }
+        },
+        "id": "1343061747914063872",
+        "location": "永夜安港",
+        "name": "璐璐 Luluv (永夜安港版)",
+        "pinned_tweet_id": "2070634617397490103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935558104092991488/QWhOH5Xc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 657,
+          "like_count": 5365,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "Luvsenberg",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T13:51:26.000Z",
+        "description": "璐哥转世2.0\nhttps://t.co/Oh5yI4Htys\n永夜安港 https://t.co/hy97LSvZDv\n在售：0.33%雌二醇凝胶、4%烟酰胺0.75%熊果苷美白精华\n出售产品通知群 https://t.co/MxiKqofbkC\n我自己的wiki： https://t.co/gvPJtcy0S6 性别多元者友好的综合支持平台。\n精神病学、药理学、有机化学，询问🚪88",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 31,
+                "expanded_url": "http://t.me/ilovepr80",
+                "start": 8,
+                "url": "https://t.co/Oh5yI4Htys"
+              },
+              {
+                "display_url": "pr80.net",
+                "end": 60,
+                "expanded_url": "http://pr80.net",
+                "start": 37,
+                "url": "https://t.co/hy97LSvZDv"
+              },
+              {
+                "display_url": "t.me/LuluvCompany",
+                "end": 124,
+                "expanded_url": "http://t.me/LuluvCompany",
+                "start": 101,
+                "url": "https://t.co/MxiKqofbkC"
+              },
+              {
+                "display_url": "Luluv.wiki",
+                "end": 158,
+                "expanded_url": "http://Luluv.wiki",
+                "start": 135,
+                "url": "https://t.co/gvPJtcy0S6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "http://pr80.net",
+                "start": 0,
+                "url": "https://t.co/hy97LSvZDv"
+              }
+            ]
+          }
+        },
+        "id": "1938958377620824064",
+        "name": "Luvsenberg 璐璐",
+        "pinned_tweet_id": "2072641647054299373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072289907981398016/EzdYB0QL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 103,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/hy97LSvZDv",
+        "username": "LuluvWiki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1062249336719851520",
+        "3_1062249336715628544"
+      ],
+      "media_source_tweet_id": [
+        "1062249347620909056",
+        "1062249347620909056"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2064919603889991839",
+    "created_at": "2026-06-11T03:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T04:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064919603889991839"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 30,
+          "tag": "ピンゴキは正義"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "4035350352",
+          "start": 3,
+          "username": "mam0_0fficialt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bjyoiyilC5",
+          "end": 62,
+          "expanded_url": "https://x.com/mam0_0fficialt/status/1062249347620909056/photo/1",
+          "media_key": "3_1062249336719851520",
+          "start": 39,
+          "url": "https://t.co/bjyoiyilC5"
+        },
+        {
+          "display_url": "pic.x.com/bjyoiyilC5",
+          "end": 62,
+          "expanded_url": "https://x.com/mam0_0fficialt/status/1062249347620909056/photo/1",
+          "media_key": "3_1062249336715628544",
+          "start": 39,
+          "url": "https://t.co/bjyoiyilC5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064919603889991839",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 544
+    },
+    "referenced_tweets": [
+      {
+        "id": "1062249347620909056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mam0_0fficialt: 勝手に卒業すんな\n\n#ピンゴキは正義 https://t.co/bjyoiyilC5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1062249336719851520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Dr3eJMoUwAAi3Cc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1062249336715628544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Dr3eJMnUUAAT_i6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1062249336719851520",
+            "3_1062249336715628544"
+          ],
+          "media_source_tweet_id": [
+            "1062249347620909056",
+            "1062249347620909056"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2064919603889991839",
+        "created_at": "2026-06-11T03:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064919603889991839"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "ピンゴキは正義"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "4035350352",
+              "start": 3,
+              "username": "mam0_0fficialt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjyoiyilC5",
+              "end": 62,
+              "expanded_url": "https://x.com/mam0_0fficialt/status/1062249347620909056/photo/1",
+              "media_key": "3_1062249336719851520",
+              "start": 39,
+              "url": "https://t.co/bjyoiyilC5"
+            },
+            {
+              "display_url": "pic.x.com/bjyoiyilC5",
+              "end": 62,
+              "expanded_url": "https://x.com/mam0_0fficialt/status/1062249347620909056/photo/1",
+              "media_key": "3_1062249336715628544",
+              "start": 39,
+              "url": "https://t.co/bjyoiyilC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064919603889991839",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 544
+        },
+        "referenced_tweets": [
+          {
+            "id": "1062249347620909056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mam0_0fficialt: 勝手に卒業すんな\n\n#ピンゴキは正義 https://t.co/bjyoiyilC5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1062249336719851520",
+            "3_1062249336715628544"
+          ]
+        },
+        "author_id": "4035350352",
+        "conversation_id": "1062249347620909056",
+        "created_at": "2018-11-13T07:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2018-11-13T08:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1062249347620909056"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 10,
+              "tag": "ピンゴキは正義"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjyoiyilC5",
+              "end": 42,
+              "expanded_url": "https://x.com/mam0_0fficialt/status/1062249347620909056/photo/1",
+              "media_key": "3_1062249336719851520",
+              "start": 19,
+              "url": "https://t.co/bjyoiyilC5"
+            },
+            {
+              "display_url": "pic.x.com/bjyoiyilC5",
+              "end": 42,
+              "expanded_url": "https://x.com/mam0_0fficialt/status/1062249347620909056/photo/1",
+              "media_key": "3_1062249336715628544",
+              "start": 19,
+              "url": "https://t.co/bjyoiyilC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1062249347620909056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 0,
+          "like_count": 2343,
+          "quote_count": 60,
+          "reply_count": 99,
+          "retweet_count": 544
+        },
+        "reply_settings": "everyone",
+        "text": "勝手に卒業すんな\n\n#ピンゴキは正義 https://t.co/bjyoiyilC5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 136,
+          "like_count": 3175,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 561
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-27T12:34:01.000Z",
+        "description": "とあるミュージシャンの黙示録。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanicon.net/fancommunities…",
+                "end": 23,
+                "expanded_url": "https://fanicon.net/fancommunities/1146",
+                "start": 0,
+                "url": "https://t.co/eSaht6ijhN"
+              }
+            ]
+          }
+        },
+        "id": "4035350352",
+        "location": "浅草",
+        "name": "マモ",
+        "pinned_tweet_id": "2045474654350086376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913255774211739648/1q2wAWqf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78829,
+          "following_count": 166,
+          "like_count": 256,
+          "listed_count": 711,
+          "media_count": 3651,
+          "tweet_count": 8294
+        },
+        "url": "https://t.co/eSaht6ijhN",
+        "username": "mam0_0fficialt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073774151622664192"
+      ],
+      "media_source_tweet_id": [
+        "2073774154676076546"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2073878067840442858",
+    "created_at": "2026-07-05T21:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T22:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073878067840442858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2017260676490969088",
+          "start": 3,
+          "username": "enaluvday"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FXzuvrBEbt",
+          "end": 52,
+          "expanded_url": "https://x.com/enaluvday/status/2073774154676076546/photo/1",
+          "media_key": "3_2073774151622664192",
+          "start": 29,
+          "url": "https://t.co/FXzuvrBEbt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073878067840442858",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 322
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073774154676076546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @enaluvday: 재업할까말까햇던 미즈에나 https://t.co/FXzuvrBEbt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_2073774151622664192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeGmoPbIAAKyiD.jpg",
+        "width": 1846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073774151622664192"
+          ],
+          "media_source_tweet_id": [
+            "2073774154676076546"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2073878067840442858",
+        "created_at": "2026-07-05T21:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T22:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073878067840442858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2017260676490969088",
+              "start": 3,
+              "username": "enaluvday"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXzuvrBEbt",
+              "end": 52,
+              "expanded_url": "https://x.com/enaluvday/status/2073774154676076546/photo/1",
+              "media_key": "3_2073774151622664192",
+              "start": 29,
+              "url": "https://t.co/FXzuvrBEbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073878067840442858",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073774154676076546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @enaluvday: 재업할까말까햇던 미즈에나 https://t.co/FXzuvrBEbt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073774151622664192"
+          ]
+        },
+        "author_id": "2017260676490969088",
+        "conversation_id": "2073774154676076546",
+        "created_at": "2026-07-05T14:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073774154676076546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXzuvrBEbt",
+              "end": 37,
+              "expanded_url": "https://x.com/enaluvday/status/2073774154676076546/photo/1",
+              "media_key": "3_2073774151622664192",
+              "start": 14,
+              "url": "https://t.co/FXzuvrBEbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073774154676076546",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 11349,
+          "like_count": 1694,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "reply_settings": "everyone",
+        "text": "재업할까말까햇던 미즈에나 https://t.co/FXzuvrBEbt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 144,
+          "like_count": 5297,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1207
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T15:40:09.000Z",
+        "description": "💍 @yoiyoi__00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yoiyoi__00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hiyo25",
+                "end": 23,
+                "expanded_url": "http://lit.link/hiyo25",
+                "start": 0,
+                "url": "https://t.co/UUdRU51dFL"
+              }
+            ]
+          }
+        },
+        "id": "2017260676490969088",
+        "name": "히요",
+        "pinned_tweet_id": "2032361134939132064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067189831223115776/66BU4DWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 127,
+          "like_count": 3372,
+          "listed_count": 13,
+          "media_count": 15,
+          "tweet_count": 599
+        },
+        "url": "https://t.co/UUdRU51dFL",
+        "username": "enaluvday",
+        "verified": false
+      }
+    ]
+  }
+}

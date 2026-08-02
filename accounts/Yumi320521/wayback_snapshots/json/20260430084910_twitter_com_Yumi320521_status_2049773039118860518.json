@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049457955809153024"
+      ],
+      "media_source_tweet_id": [
+        "2049458094896464124"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2049773039118860518",
+    "created_at": "2026-04-30T08:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049773039118860518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789942738617806848",
+          "start": 3,
+          "username": "haru_yukmn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DrTkjmOWRM",
+          "end": 43,
+          "expanded_url": "https://x.com/haru_yukmn/status/2049458094896464124/video/1",
+          "media_key": "13_2049457955809153024",
+          "start": 20,
+          "url": "https://t.co/DrTkjmOWRM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049773039118860518",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049458094896464124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haru_yukmn: 👶⁉️ https://t.co/DrTkjmOWRM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27700,
+        "height": 1280,
+        "media_key": "13_2049457955809153024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049457955809153024/img/HqWDhuWus6CkhcCJ.jpg",
+        "public_metrics": {
+          "view_count": 75934
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049457955809153024/vid/avc1/320x568/QiAWEVhuOiX-o9aR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049457955809153024/vid/avc1/480x852/RF1aPH8urjusiAMw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049457955809153024/vid/avc1/720x1280/lXRpyzuFT0enX2KL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049457955809153024/pl/1LWic5q8CjUbFMcN.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049457955809153024"
+          ],
+          "media_source_tweet_id": [
+            "2049458094896464124"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2049773039118860518",
+        "created_at": "2026-04-30T08:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049773039118860518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789942738617806848",
+              "start": 3,
+              "username": "haru_yukmn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DrTkjmOWRM",
+              "end": 43,
+              "expanded_url": "https://x.com/haru_yukmn/status/2049458094896464124/video/1",
+              "media_key": "13_2049457955809153024",
+              "start": 20,
+              "url": "https://t.co/DrTkjmOWRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049773039118860518",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049458094896464124",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haru_yukmn: 👶⁉️ https://t.co/DrTkjmOWRM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049457955809153024"
+          ]
+        },
+        "author_id": "1789942738617806848",
+        "conversation_id": "2049458094896464124",
+        "created_at": "2026-04-29T11:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049458094896464124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DrTkjmOWRM",
+              "end": 27,
+              "expanded_url": "https://x.com/haru_yukmn/status/2049458094896464124/video/1",
+              "media_key": "13_2049457955809153024",
+              "start": 4,
+              "url": "https://t.co/DrTkjmOWRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049458094896464124",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 136255,
+          "like_count": 866,
+          "quote_count": 18,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "👶⁉️ https://t.co/DrTkjmOWRM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "茶柚/Yumi 16 153/73\n桃井爱莉｜同担拒否｜地雷系｜od\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049428958475862016/-MBbrvme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 43,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 105
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T08:56:27.000Z",
+        "description": "@0153_you",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "1789942738617806848",
+        "name": "はるんご",
+        "pinned_tweet_id": "1983370065820168202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985484024228507648/C2SAXysW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 160,
+          "like_count": 1206,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 375
+        },
+        "username": "haru_yukmn",
+        "verified": false
+      }
+    ]
+  }
+}

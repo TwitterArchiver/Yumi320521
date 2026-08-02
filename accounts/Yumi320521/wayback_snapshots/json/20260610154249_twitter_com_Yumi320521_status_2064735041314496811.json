@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064511194665295872"
+      ],
+      "media_source_tweet_id": [
+        "2064511199275081891"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064735041314496811",
+    "created_at": "2026-06-10T15:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064735041314496811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "100030567",
+          "start": 3,
+          "username": "evelyncarmona"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fBG8fUkYvT",
+          "end": 42,
+          "expanded_url": "https://x.com/evelyncarmona/status/2064511199275081891/photo/1",
+          "media_key": "3_2064511194665295872",
+          "start": 19,
+          "url": "https://t.co/fBG8fUkYvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064735041314496811",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9565
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064511199275081891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @evelyncarmona: https://t.co/fBG8fUkYvT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1710,
+        "media_key": "3_2064511194665295872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKad_kjXoAAUZVv.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064511194665295872"
+          ],
+          "media_source_tweet_id": [
+            "2064511199275081891"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064735041314496811",
+        "created_at": "2026-06-10T15:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064735041314496811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "100030567",
+              "start": 3,
+              "username": "evelyncarmona"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fBG8fUkYvT",
+              "end": 42,
+              "expanded_url": "https://x.com/evelyncarmona/status/2064511199275081891/photo/1",
+              "media_key": "3_2064511194665295872",
+              "start": 19,
+              "url": "https://t.co/fBG8fUkYvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064735041314496811",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9565
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064511199275081891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @evelyncarmona: https://t.co/fBG8fUkYvT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064511194665295872"
+          ]
+        },
+        "author_id": "100030567",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064511199275081891",
+        "created_at": "2026-06-10T00:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064511199275081891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fBG8fUkYvT",
+              "end": 23,
+              "expanded_url": "https://x.com/evelyncarmona/status/2064511199275081891/photo/1",
+              "media_key": "3_2064511194665295872",
+              "start": 0,
+              "url": "https://t.co/fBG8fUkYvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064511199275081891",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1398,
+          "impression_count": 735097,
+          "like_count": 73488,
+          "quote_count": 230,
+          "reply_count": 67,
+          "retweet_count": 9565
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fBG8fUkYvT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 135,
+          "like_count": 3151,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 544
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-28T19:43:30.000Z",
+        "description": "Diseñadora gráfica•traficadora de memes •NoExplicotuits• 🐈‍⬛♥️🐈 •sarcasmoLover😌•IG:@evelyncarmona (no se extrañen si ven sus tuits en mi IG) ❌No DM ❌🚫✉️❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "evelyncarmona"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/evelyncarmona",
+                "end": 23,
+                "expanded_url": "Https://www.instagram.com/evelyncarmona",
+                "start": 0,
+                "url": "https://t.co/mFtPU23Uwp"
+              }
+            ]
+          }
+        },
+        "id": "100030567",
+        "location": "Colombia  Te Sigue",
+        "name": "Papita Criolla ☻",
+        "pinned_tweet_id": "2006017429046972807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972674600375820288/CJ_w5zcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48576,
+          "following_count": 1270,
+          "like_count": 225708,
+          "listed_count": 55,
+          "media_count": 10203,
+          "tweet_count": 34784
+        },
+        "url": "https://t.co/mFtPU23Uwp",
+        "username": "evelyncarmona",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068696070453166080"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068696076715180353",
+    "created_at": "2026-06-21T14:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068696076715180353"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uMU7h7FXjG",
+          "end": 30,
+          "expanded_url": "https://x.com/Yumi320521/status/2068696076715180353/photo/1",
+          "media_key": "3_2068696070453166080",
+          "start": 7,
+          "url": "https://t.co/uMU7h7FXjG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068696076715180353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "食べよ^ ^ https://t.co/uMU7h7FXjG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1618,
+        "media_key": "3_2068696070453166080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV8HZubgAAPGjz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068696070453166080"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068696076715180353",
+        "created_at": "2026-06-21T14:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068696076715180353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uMU7h7FXjG",
+              "end": 30,
+              "expanded_url": "https://x.com/Yumi320521/status/2068696076715180353/photo/1",
+              "media_key": "3_2068696070453166080",
+              "start": 7,
+              "url": "https://t.co/uMU7h7FXjG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068696076715180353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "食べよ^ ^ https://t.co/uMU7h7FXjG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 128,
+          "like_count": 3851,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 694
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

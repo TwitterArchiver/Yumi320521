@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058588094975401984"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058588108300706230",
+    "created_at": "2026-05-24T16:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058588108300706230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sOzz2t3Cf9",
+          "end": 43,
+          "expanded_url": "https://x.com/Yumi320521/status/2058588108300706230/photo/1",
+          "media_key": "3_2058588094975401984",
+          "start": 20,
+          "url": "https://t.co/sOzz2t3Cf9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058588108300706230",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "とても好きな曲のカバーが 好きです.. https://t.co/sOzz2t3Cf9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2058588094975401984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGS9yvbYAACQYX.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058588094975401984"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058588108300706230",
+        "created_at": "2026-05-24T16:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058588108300706230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sOzz2t3Cf9",
+              "end": 43,
+              "expanded_url": "https://x.com/Yumi320521/status/2058588108300706230/photo/1",
+              "media_key": "3_2058588094975401984",
+              "start": 20,
+              "url": "https://t.co/sOzz2t3Cf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058588108300706230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "とても好きな曲のカバーが 好きです.. https://t.co/sOzz2t3Cf9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 67,
+          "like_count": 1698,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 446
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

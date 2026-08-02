@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065113788005965824",
+        "3_2065113788010147841",
+        "3_2065113788010086401"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2065113825742106840",
+    "created_at": "2026-06-11T16:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065113825742106840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xyn31Oq42h",
+          "end": 48,
+          "expanded_url": "https://x.com/Yumi320521/status/2065113825742106840/photo/1",
+          "media_key": "3_2065113788005965824",
+          "start": 25,
+          "url": "https://t.co/Xyn31Oq42h"
+        },
+        {
+          "display_url": "pic.x.com/Xyn31Oq42h",
+          "end": 48,
+          "expanded_url": "https://x.com/Yumi320521/status/2065113825742106840/photo/1",
+          "media_key": "3_2065113788010147841",
+          "start": 25,
+          "url": "https://t.co/Xyn31Oq42h"
+        },
+        {
+          "display_url": "pic.x.com/Xyn31Oq42h",
+          "end": 48,
+          "expanded_url": "https://x.com/Yumi320521/status/2065113825742106840/photo/1",
+          "media_key": "3_2065113788010086401",
+          "start": 25,
+          "url": "https://t.co/Xyn31Oq42h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065113825742106840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很久远以前画的了 现在我只会画儿童画了哈哈..（ https://t.co/Xyn31Oq42h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065113788005965824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjCDHrbYAAITp8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065113788010147841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjCDHsbMAE4H-_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065113788010086401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjCDHsaQAEEzHJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065113788005965824",
+            "3_2065113788010147841",
+            "3_2065113788010086401"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2065113825742106840",
+        "created_at": "2026-06-11T16:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065113825742106840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xyn31Oq42h",
+              "end": 48,
+              "expanded_url": "https://x.com/Yumi320521/status/2065113825742106840/photo/1",
+              "media_key": "3_2065113788005965824",
+              "start": 25,
+              "url": "https://t.co/Xyn31Oq42h"
+            },
+            {
+              "display_url": "pic.x.com/Xyn31Oq42h",
+              "end": 48,
+              "expanded_url": "https://x.com/Yumi320521/status/2065113825742106840/photo/1",
+              "media_key": "3_2065113788010147841",
+              "start": 25,
+              "url": "https://t.co/Xyn31Oq42h"
+            },
+            {
+              "display_url": "pic.x.com/Xyn31Oq42h",
+              "end": 48,
+              "expanded_url": "https://x.com/Yumi320521/status/2065113825742106840/photo/1",
+              "media_key": "3_2065113788010086401",
+              "start": 25,
+              "url": "https://t.co/Xyn31Oq42h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065113825742106840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很久远以前画的了 现在我只会画儿童画了哈哈..（ https://t.co/Xyn31Oq42h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 136,
+          "like_count": 3243,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 573
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

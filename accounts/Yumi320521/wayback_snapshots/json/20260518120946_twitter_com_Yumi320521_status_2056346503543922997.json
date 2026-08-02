@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2055860863144534183",
+    "created_at": "2026-05-18T12:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056346503543922997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955218488185982980",
+          "start": 0,
+          "username": "bbbkamen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056346503543922997",
+    "in_reply_to_user_id": "1955218488185982980",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055860863144534183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbbkamen 走好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2055860863144534183",
+        "created_at": "2026-05-18T12:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056346503543922997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955218488185982980",
+              "start": 0,
+              "username": "bbbkamen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056346503543922997",
+        "in_reply_to_user_id": "1955218488185982980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055860863144534183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbbkamen 走好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955218488185982980",
+        "conversation_id": "2055860863144534183",
+        "created_at": "2026-05-17T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055860863144534183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055860863144534183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2733,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【定时】\n买了10盒美金刚打算全吃掉(*^ω^*)\n26.5.11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n好累…",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 67,
+          "like_count": 1305,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 258
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T10:43:18.000Z",
+        "description": "传奇耐电王/MTX/出厂日09.7.11/友跨/高二物化生/不政/🍥凝胶💊OD/正在关注圈子情况/前世@aaakamen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "aaakamen"
+              }
+            ]
+          }
+        },
+        "id": "1955218488185982980",
+        "location": "中国河北",
+        "name": "一颗地雷/柒酱",
+        "pinned_tweet_id": "2040935095008407933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040938841524301824/DBpinweT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 326,
+          "like_count": 479,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 198
+        },
+        "username": "bbbkamen",
+        "verified": false
+      }
+    ]
+  }
+}

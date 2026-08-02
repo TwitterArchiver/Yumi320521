@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069111629036540253",
+    "created_at": "2026-06-22T17:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T18:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069111629036540253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/younichijou/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/younichijou/status/2068936981292450245",
+          "start": 20,
+          "url": "https://t.co/T87dy51rIW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069111629036540253",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068936981292450245",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "サビの部分はすべてとても好きです^ ^ https://t.co/T87dy51rIW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069111629036540253",
+        "created_at": "2026-06-22T17:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069111629036540253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/younichijou/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/younichijou/status/2068936981292450245",
+              "start": 20,
+              "url": "https://t.co/T87dy51rIW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069111629036540253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068936981292450245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "サビの部分はすべてとても好きです^ ^ https://t.co/T87dy51rIW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025105825354977280",
+        "conversation_id": "2068936981292450245",
+        "created_at": "2026-06-22T05:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068936981292450245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068936981292450245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 16166,
+          "like_count": 410,
+          "quote_count": 12,
+          "reply_count": 63,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "ファイナルデッドらぶ♡れたーの歌詞、どこが刺さる？考察とか好きよおれ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 137,
+          "like_count": 4100,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 741
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T07:10:39.000Z",
+        "description": "緑川ゆうの日常アカウント【@0153_you】 \n🧌🐿️🩵🪽→ファンマないけどこの辺名前についてたらそうなのかなって思っちゃう🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2025105825354977280",
+        "name": "ゆうの日常🪽(ᜊ ･･ )ᜊ",
+        "pinned_tweet_id": "2025922085865058451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067980569473138688/wW3ejwtT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7361,
+          "following_count": 486,
+          "like_count": 5311,
+          "listed_count": 29,
+          "media_count": 95,
+          "tweet_count": 609
+        },
+        "url": "",
+        "username": "younichijou",
+        "verified": true
+      }
+    ]
+  }
+}

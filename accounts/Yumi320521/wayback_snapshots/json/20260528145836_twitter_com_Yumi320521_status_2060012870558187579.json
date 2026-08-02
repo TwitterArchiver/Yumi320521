@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059316444937003023",
+    "created_at": "2026-05-28T14:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060012870558187579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1887148394176798720",
+          "start": 0,
+          "username": "huaandyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060012870558187579",
+    "in_reply_to_user_id": "1887148394176798720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059316444937003023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaandyou 我可以嘛qwq 也是女孩子有自拍什么的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059316444937003023",
+        "created_at": "2026-05-28T14:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060012870558187579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887148394176798720",
+              "start": 0,
+              "username": "huaandyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060012870558187579",
+        "in_reply_to_user_id": "1887148394176798720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059316444937003023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaandyou 我可以嘛qwq 也是女孩子有自拍什么的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887148394176798720",
+        "conversation_id": "2059316444937003023",
+        "created_at": "2026-05-26T16:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059316444937003023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059316444937003023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁和我互关呀TVT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 84,
+          "like_count": 2044,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 693
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T14:37:05.000Z",
+        "description": "是女孩\n友好的消息都会回复~ovo",
+        "id": "1887148394176798720",
+        "location": "🚪52  仅开放朋友圈\n🚪188回复消息",
+        "name": "我一直哭",
+        "pinned_tweet_id": "2058958373068947966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057695977411158016/SXXwlBAc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 18,
+          "like_count": 884,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 118
+        },
+        "username": "huaandyou",
+        "verified": false
+      }
+    ]
+  }
+}

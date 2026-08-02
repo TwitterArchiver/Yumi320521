@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2064010105079955689",
+    "created_at": "2026-06-08T15:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064010105079955689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019110438211121152",
+          "start": 3,
+          "username": "death_k1ll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064010105079955689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063892633005838829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @death_k1ll: 首吊りなら90ぱーの確率で死ねるらしい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2064010105079955689",
+        "created_at": "2026-06-08T15:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064010105079955689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019110438211121152",
+              "start": 3,
+              "username": "death_k1ll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064010105079955689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063892633005838829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @death_k1ll: 首吊りなら90ぱーの確率で死ねるらしい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019110438211121152",
+        "conversation_id": "2063892633005838829",
+        "created_at": "2026-06-08T07:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063892633005838829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063892633005838829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 28378,
+          "like_count": 857,
+          "quote_count": 20,
+          "reply_count": 7,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "首吊りなら90ぱーの確率で死ねるらしい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜视觉系｜量産型｜桃井愛莉\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 124,
+          "like_count": 3001,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 512
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T18:07:06.000Z",
+        "description": "♥あなた狙う邪魔な豚、全員死ね♥🔪🔪🔪🎀",
+        "id": "2019110438211121152",
+        "location": "♥手出したら確実にころす♥",
+        "name": "にゃんぱいあ",
+        "pinned_tweet_id": "2044978831820480698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040875353716252672/24E7AIpO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 27,
+          "like_count": 4270,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 317
+        },
+        "username": "death_k1ll",
+        "verified": false
+      }
+    ]
+  }
+}

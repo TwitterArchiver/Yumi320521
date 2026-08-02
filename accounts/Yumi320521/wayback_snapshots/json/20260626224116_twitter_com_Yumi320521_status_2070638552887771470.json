@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070638547623981056",
+        "3_2070638547619684352"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2070638552887771470",
+    "created_at": "2026-06-26T22:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T23:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070638552887771470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/03Epr1xhJb",
+          "end": 43,
+          "expanded_url": "https://x.com/Yumi320521/status/2070638552887771470/photo/1",
+          "media_key": "3_2070638547623981056",
+          "start": 20,
+          "url": "https://t.co/03Epr1xhJb"
+        },
+        {
+          "display_url": "pic.x.com/03Epr1xhJb",
+          "end": 43,
+          "expanded_url": "https://x.com/Yumi320521/status/2070638552887771470/photo/1",
+          "media_key": "3_2070638547619684352",
+          "start": 20,
+          "url": "https://t.co/03Epr1xhJb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070638552887771470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "个的有点深啊 不希望留疤 今晚太爽了啊 https://t.co/03Epr1xhJb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070638547623981056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxiydFbsAATl4s.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070638547619684352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxiydEaIAAeH0D.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070638547623981056",
+            "3_2070638547619684352"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2070638552887771470",
+        "created_at": "2026-06-26T22:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T23:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070638552887771470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/03Epr1xhJb",
+              "end": 43,
+              "expanded_url": "https://x.com/Yumi320521/status/2070638552887771470/photo/1",
+              "media_key": "3_2070638547623981056",
+              "start": 20,
+              "url": "https://t.co/03Epr1xhJb"
+            },
+            {
+              "display_url": "pic.x.com/03Epr1xhJb",
+              "end": 43,
+              "expanded_url": "https://x.com/Yumi320521/status/2070638552887771470/photo/1",
+              "media_key": "3_2070638547619684352",
+              "start": 20,
+              "url": "https://t.co/03Epr1xhJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070638552887771470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "个的有点深啊 不希望留疤 今晚太爽了啊 https://t.co/03Epr1xhJb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 140,
+          "like_count": 4693,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 899
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

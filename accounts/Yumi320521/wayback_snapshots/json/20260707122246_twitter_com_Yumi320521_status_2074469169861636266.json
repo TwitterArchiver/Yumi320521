@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2074469169861636266",
+    "created_at": "2026-07-07T12:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074469169861636266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1989832672559206400",
+          "start": 3,
+          "username": "Bai_Mi_f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074469169861636266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074053971376066851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bai_Mi_f: 推特让无数丑逼，傻逼，肥猪都当上了网红"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2074469169861636266",
+        "created_at": "2026-07-07T12:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074469169861636266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1989832672559206400",
+              "start": 3,
+              "username": "Bai_Mi_f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074469169861636266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074053971376066851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bai_Mi_f: 推特让无数丑逼，傻逼，肥猪都当上了网红"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989832672559206400",
+        "conversation_id": "2074053971376066851",
+        "created_at": "2026-07-06T08:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074053971376066851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074053971376066851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 68848,
+          "like_count": 597,
+          "quote_count": 4,
+          "reply_count": 82,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "推特让无数丑逼，傻逼，肥猪都当上了网红"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 147,
+          "like_count": 5339,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1244
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T23:07:34.000Z",
+        "description": "",
+        "id": "1989832672559206400",
+        "name": "白米饭🍚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023438395289284608/7lKjjLdK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4720,
+          "following_count": 15,
+          "like_count": 481,
+          "listed_count": 5,
+          "media_count": 31,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "Bai_Mi_f",
+        "verified": false
+      }
+    ]
+  }
+}

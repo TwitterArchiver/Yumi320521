@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044687067066855424"
+      ],
+      "media_source_tweet_id": [
+        "2044687077993042234"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2045014335203037242",
+    "created_at": "2026-04-17T05:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045014335203037242"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 30,
+          "tag": "prsk_FA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1700134518731243520",
+          "start": 3,
+          "username": "Hosikuzu_Stella"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LgMX688HnI",
+          "end": 62,
+          "expanded_url": "https://x.com/Hosikuzu_Stella/status/2044687077993042234/photo/1",
+          "media_key": "3_2044687067066855424",
+          "start": 39,
+          "url": "https://t.co/LgMX688HnI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045014335203037242",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1399
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044687077993042234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hosikuzu_Stella: モモジャン☘️\n #prsk_FA https://t.co/LgMX688HnI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044687067066855424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAwDeVa8AA3G14.jpg",
+        "width": 1341
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044687067066855424"
+          ],
+          "media_source_tweet_id": [
+            "2044687077993042234"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2045014335203037242",
+        "created_at": "2026-04-17T05:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045014335203037242"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "prsk_FA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1700134518731243520",
+              "start": 3,
+              "username": "Hosikuzu_Stella"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LgMX688HnI",
+              "end": 62,
+              "expanded_url": "https://x.com/Hosikuzu_Stella/status/2044687077993042234/photo/1",
+              "media_key": "3_2044687067066855424",
+              "start": 39,
+              "url": "https://t.co/LgMX688HnI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045014335203037242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1399
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044687077993042234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hosikuzu_Stella: モモジャン☘️\n #prsk_FA https://t.co/LgMX688HnI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044687067066855424"
+          ]
+        },
+        "author_id": "1700134518731243520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2044687077993042234",
+        "created_at": "2026-04-16T07:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044687077993042234"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "prsk_FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LgMX688HnI",
+              "end": 41,
+              "expanded_url": "https://x.com/Hosikuzu_Stella/status/2044687077993042234/photo/1",
+              "media_key": "3_2044687067066855424",
+              "start": 18,
+              "url": "https://t.co/LgMX688HnI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044687077993042234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 567,
+          "impression_count": 83435,
+          "like_count": 9708,
+          "quote_count": 16,
+          "reply_count": 0,
+          "retweet_count": 1399
+        },
+        "reply_settings": "everyone",
+        "text": "モモジャン☘️\n #prsk_FA https://t.co/LgMX688HnI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "茶柚/Yumi 16 153/73\n桃井爱莉｜同担拒否｜地雷系｜od\n中高速冲浪中…",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 48,
+          "like_count": 659,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 101
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T13:10:51.000Z",
+        "description": "『雑多垢』絵を描いて星屑.(ほしくず)と名乗っている者です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Hoshinoame",
+                "end": 23,
+                "expanded_url": "https://lit.link/Hoshinoame",
+                "start": 0,
+                "url": "https://t.co/HY1sJbj6LL"
+              }
+            ]
+          }
+        },
+        "id": "1700134518731243520",
+        "location": "※無断転載、加工、AI学習と編集、諸々禁止、FAはご本人のみ",
+        "name": "星屑.",
+        "pinned_tweet_id": "2044687077993042234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724390116217753600/_pi4CDgS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8439,
+          "following_count": 109,
+          "like_count": 6899,
+          "listed_count": 17,
+          "media_count": 201,
+          "tweet_count": 5792
+        },
+        "url": "https://t.co/HY1sJbj6LL",
+        "username": "Hosikuzu_Stella",
+        "verified": false
+      }
+    ]
+  }
+}

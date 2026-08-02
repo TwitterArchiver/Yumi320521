@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2068084448860811620",
+    "created_at": "2026-06-19T21:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T22:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068084448860811620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1900064023342964739",
+          "start": 3,
+          "username": "GrugYafumin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068084448860811620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067844332150038677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GrugYafumin: 没有自己选择是否出生的权利，想结束生命又得承受肉体痛苦的代价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2068084448860811620",
+        "created_at": "2026-06-19T21:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T22:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068084448860811620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1900064023342964739",
+              "start": 3,
+              "username": "GrugYafumin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068084448860811620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067844332150038677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GrugYafumin: 没有自己选择是否出生的权利，想结束生命又得承受肉体痛苦的代价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900064023342964739",
+        "conversation_id": "2067844332150038677",
+        "created_at": "2026-06-19T05:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067844332150038677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067844332150038677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 886,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "没有自己选择是否出生的权利，想结束生命又得承受肉体痛苦的代价"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 \n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067554649486573568/_C_kHJDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 121,
+          "like_count": 3664,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 692
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T05:59:16.000Z",
+        "description": "家里蹲/09/od/自伤/互fo\nwill I be able to see the sky again?\nOh please, one more day ,Wishing, praying..\nwon't someone allow this shadow of a girl\nTo see one more day",
+        "id": "1900064023342964739",
+        "name": "布棉（准时吃药day21）",
+        "pinned_tweet_id": "2057504966236057717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044914889031069696/c_gESC0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 248,
+          "like_count": 4180,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 646
+        },
+        "url": "",
+        "username": "GrugYafumin",
+        "verified": false
+      }
+    ]
+  }
+}

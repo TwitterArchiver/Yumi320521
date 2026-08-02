@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058867399861170522",
+    "created_at": "2026-05-25T11:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058867608192205189"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058867608192205189",
+    "in_reply_to_user_id": "2040070879888220160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058867399861170522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我给他当好朋友 他给我当飞机杯😂死妈玩意早点给鸡砍了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058867399861170522",
+        "created_at": "2026-05-25T11:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058867608192205189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058867608192205189",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058867399861170522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我给他当好朋友 他给我当飞机杯😂死妈玩意早点给鸡砍了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058867399861170522",
+        "created_at": "2026-05-25T11:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058867399861170522"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058867399861170522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但是这个睦 我真他妈吐了😂傻屌男生日我给他当好朋友 就剩200了画100出cos 又送了100红包 又给买了一点礼物 结果呢 这死傻逼天天卖惨 出来说自己一个生日⭕️了2000😂合着我是乐子呗 又对我性骚扰 然后呢当见证语气里都是看不起的话 还说什么心疼我 就继续pua吧😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 69,
+          "like_count": 1742,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 476
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

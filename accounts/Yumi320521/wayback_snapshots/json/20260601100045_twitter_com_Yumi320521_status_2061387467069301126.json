@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061025956106825728"
+      ],
+      "media_source_tweet_id": [
+        "2061025959869055040"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      }
+    ],
+    "conversation_id": "2061387467069301126",
+    "created_at": "2026-06-01T10:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T11:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061387467069301126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3661042643",
+          "start": 3,
+          "username": "entamechnnel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MFuhyyxaOp",
+          "end": 75,
+          "expanded_url": "https://x.com/entamechnnel/status/2061025959869055040/photo/1",
+          "media_key": "3_2061025956106825728",
+          "start": 52,
+          "url": "https://t.co/MFuhyyxaOp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061387467069301126",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 518
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061025959869055040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @entamechnnel: ←2時間かけてメイクした自分\n　　　　　　　　　　すっぴん顔整い→ https://t.co/MFuhyyxaOp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1164,
+        "media_key": "3_2061025956106825728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJo8L_KbcAAWEfD.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061025956106825728"
+          ],
+          "media_source_tweet_id": [
+            "2061025959869055040"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2061387467069301126",
+        "created_at": "2026-06-01T10:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061387467069301126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3661042643",
+              "start": 3,
+              "username": "entamechnnel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MFuhyyxaOp",
+              "end": 75,
+              "expanded_url": "https://x.com/entamechnnel/status/2061025959869055040/photo/1",
+              "media_key": "3_2061025956106825728",
+              "start": 52,
+              "url": "https://t.co/MFuhyyxaOp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061387467069301126",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 518
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061025959869055040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @entamechnnel: ←2時間かけてメイクした自分\n　　　　　　　　　　すっぴん顔整い→ https://t.co/MFuhyyxaOp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061025956106825728"
+          ]
+        },
+        "author_id": "3661042643",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2061025959869055040",
+        "created_at": "2026-05-31T10:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061025959869055040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MFuhyyxaOp",
+              "end": 57,
+              "expanded_url": "https://x.com/entamechnnel/status/2061025959869055040/photo/1",
+              "media_key": "3_2061025956106825728",
+              "start": 34,
+              "url": "https://t.co/MFuhyyxaOp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061025959869055040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 437,
+          "impression_count": 357887,
+          "like_count": 13932,
+          "quote_count": 393,
+          "reply_count": 16,
+          "retweet_count": 518
+        },
+        "reply_settings": "everyone",
+        "text": "←2時間かけてメイクした自分\n　　　　　　　　　　すっぴん顔整い→ https://t.co/MFuhyyxaOp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 92,
+          "like_count": 2548,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 870
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-15T06:19:52.000Z",
+        "description": "本音しか言えない、こんな世の中じゃ。",
+        "id": "3661042643",
+        "location": "業務連絡等はDMまでお願いします💌",
+        "name": "女の本音さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048086247303008256/a8V0PHpZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18661,
+          "following_count": 808,
+          "like_count": 1719,
+          "listed_count": 12,
+          "media_count": 278,
+          "tweet_count": 832
+        },
+        "username": "entamechnnel",
+        "verified": true
+      }
+    ]
+  }
+}

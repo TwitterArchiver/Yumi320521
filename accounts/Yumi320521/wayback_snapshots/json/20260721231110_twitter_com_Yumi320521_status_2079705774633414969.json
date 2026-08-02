@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079705751875203072",
+        "3_2079705751904493568"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079705774633414969",
+    "created_at": "2026-07-21T23:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T00:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079705774633414969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Bv8CIWRWc",
+          "end": 53,
+          "expanded_url": "https://x.com/Yumi320521/status/2079705774633414969/photo/1",
+          "media_key": "3_2079705751875203072",
+          "start": 30,
+          "url": "https://t.co/8Bv8CIWRWc"
+        },
+        {
+          "display_url": "pic.x.com/8Bv8CIWRWc",
+          "end": 53,
+          "expanded_url": "https://x.com/Yumi320521/status/2079705774633414969/photo/1",
+          "media_key": "3_2079705751904493568",
+          "start": 30,
+          "url": "https://t.co/8Bv8CIWRWc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079705774633414969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "幸福的太不真实 好想哭 明明我半年前 或者一年前还那么痛苦 https://t.co/8Bv8CIWRWc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2079705751875203072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNyZXNHbsAAv3ji.jpg",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079705751904493568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNyZXNOaoAABz_J.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079705751875203072",
+            "3_2079705751904493568"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079705774633414969",
+        "created_at": "2026-07-21T23:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079705774633414969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Bv8CIWRWc",
+              "end": 53,
+              "expanded_url": "https://x.com/Yumi320521/status/2079705774633414969/photo/1",
+              "media_key": "3_2079705751875203072",
+              "start": 30,
+              "url": "https://t.co/8Bv8CIWRWc"
+            },
+            {
+              "display_url": "pic.x.com/8Bv8CIWRWc",
+              "end": 53,
+              "expanded_url": "https://x.com/Yumi320521/status/2079705774633414969/photo/1",
+              "media_key": "3_2079705751904493568",
+              "start": 30,
+              "url": "https://t.co/8Bv8CIWRWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079705774633414969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幸福的太不真实 好想哭 明明我半年前 或者一年前还那么痛苦 https://t.co/8Bv8CIWRWc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n社会に見捨てられ 死にたい",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 161,
+          "like_count": 5852,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1546
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

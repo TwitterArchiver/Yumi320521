@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042922641917624320"
+      ],
+      "media_source_tweet_id": [
+        "2042922653892383075"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2043175803010367673",
+    "created_at": "2026-04-12T03:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T04:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043175803010367673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1537068303604015105",
+          "start": 3,
+          "username": "Fe__Fw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y6c0kiGFHH",
+          "end": 39,
+          "expanded_url": "https://x.com/Fe__Fw/status/2042922653892383075/photo/1",
+          "media_key": "3_2042922641917624320",
+          "start": 16,
+          "url": "https://t.co/y6c0kiGFHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043175803010367673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042922653892383075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fe__Fw: えちゃ https://t.co/y6c0kiGFHH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 809,
+        "media_key": "3_2042922641917624320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnrUacaQAA-TbC.jpg",
+        "width": 809
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042922641917624320"
+          ],
+          "media_source_tweet_id": [
+            "2042922653892383075"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2043175803010367673",
+        "created_at": "2026-04-12T03:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043175803010367673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1537068303604015105",
+              "start": 3,
+              "username": "Fe__Fw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6c0kiGFHH",
+              "end": 39,
+              "expanded_url": "https://x.com/Fe__Fw/status/2042922653892383075/photo/1",
+              "media_key": "3_2042922641917624320",
+              "start": 16,
+              "url": "https://t.co/y6c0kiGFHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043175803010367673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042922653892383075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fe__Fw: えちゃ https://t.co/y6c0kiGFHH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042922641917624320"
+          ]
+        },
+        "author_id": "1537068303604015105",
+        "conversation_id": "2042922653892383075",
+        "created_at": "2026-04-11T11:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042922653892383075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6c0kiGFHH",
+              "end": 27,
+              "expanded_url": "https://x.com/Fe__Fw/status/2042922653892383075/photo/1",
+              "media_key": "3_2042922641917624320",
+              "start": 4,
+              "url": "https://t.co/y6c0kiGFHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042922653892383075",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 5911,
+          "like_count": 654,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "えちゃ https://t.co/y6c0kiGFHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 35,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 49
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T13:43:42.000Z",
+        "description": "🕊️⭐️https://t.co/6qlxeyzKFc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/crepe",
+                "end": 27,
+                "expanded_url": "https://lit.link/crepe",
+                "start": 4,
+                "url": "https://t.co/6qlxeyzKFc"
+              }
+            ]
+          }
+        },
+        "id": "1537068303604015105",
+        "name": "こゆ。",
+        "pinned_tweet_id": "1831290075151266174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912814715170062336/12AptqLt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 101,
+          "like_count": 3144,
+          "listed_count": 2,
+          "media_count": 1826,
+          "tweet_count": 6624
+        },
+        "username": "Fe__Fw",
+        "verified": false
+      }
+    ]
+  }
+}

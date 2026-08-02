@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2080035610270871638",
+    "created_at": "2026-07-22T21:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T22:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080035610270871638"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080035610270871638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上初中时候的前一天晚上我至今记得 我妈在我旁边说 那里的同学家里都是和我们不一样的 不一样的阶层不要随便弄 可是呢 只是一群校园欺凌的霸凌者啊 我妈也是加害者啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2080035610270871638",
+        "created_at": "2026-07-22T21:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T22:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080035610270871638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080035610270871638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上初中时候的前一天晚上我至今记得 我妈在我旁边说 那里的同学家里都是和我们不一样的 不一样的阶层不要随便弄 可是呢 只是一群校园欺凌的霸凌者啊 我妈也是加害者啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n社会に見捨てられ 死にたい",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 161,
+          "like_count": 5898,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1579
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

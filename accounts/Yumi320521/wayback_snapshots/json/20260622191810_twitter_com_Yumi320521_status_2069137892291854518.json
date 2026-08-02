@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069134565344686469",
+    "created_at": "2026-06-22T19:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T20:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069137892291854518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1774278217253433344",
+          "start": 0,
+          "username": "7ksti4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069137892291854518",
+    "in_reply_to_user_id": "1774278217253433344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069134565344686469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7ksti4 这个凡凡怎么长这么萌 画的也这么牛逼😋😻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069134544171945984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcK57nb0AAZz1T.jpg",
+        "width": 946
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2069134544176041984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcK57oaUAAzKlT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069134565344686469",
+        "created_at": "2026-06-22T19:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T20:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069137892291854518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069137892291854518",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069134565344686469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 这个凡凡怎么长这么萌 画的也这么牛逼😋😻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069134544171945984",
+            "3_2069134544176041984"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "conversation_id": "2069134565344686469",
+        "created_at": "2026-06-22T19:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T20:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069134565344686469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TN95een7Sg",
+              "end": 37,
+              "expanded_url": "https://x.com/7ksti4/status/2069134565344686469/photo/1",
+              "media_key": "3_2069134544171945984",
+              "start": 14,
+              "url": "https://t.co/TN95een7Sg"
+            },
+            {
+              "display_url": "pic.x.com/TN95een7Sg",
+              "end": 37,
+              "expanded_url": "https://x.com/7ksti4/status/2069134565344686469/photo/1",
+              "media_key": "3_2069134544176041984",
+              "start": 14,
+              "url": "https://t.co/TN95een7Sg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069134565344686469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在疯狂的，兔子快跑，快跑 https://t.co/TN95een7Sg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 136,
+          "like_count": 4131,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 753
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 435,
+          "like_count": 4673,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

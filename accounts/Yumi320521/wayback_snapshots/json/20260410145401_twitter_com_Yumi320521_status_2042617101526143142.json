@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042285428469104640"
+      ],
+      "media_source_tweet_id": [
+        "2042285434517274686"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2042617101526143142",
+    "created_at": "2026-04-10T14:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042617101526143142"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "みずえな"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2014691591160791040",
+          "start": 3,
+          "username": "potenannan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/shPGKTz6wb",
+          "end": 45,
+          "expanded_url": "https://x.com/potenannan/status/2042285434517274686/photo/1",
+          "media_key": "3_2042285428469104640",
+          "start": 22,
+          "url": "https://t.co/shPGKTz6wb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042617101526143142",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 255
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042285434517274686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @potenannan: #みずえな https://t.co/shPGKTz6wb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2042285428469104640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFenxtXbgAAhHjS.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042285428469104640"
+          ],
+          "media_source_tweet_id": [
+            "2042285434517274686"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2042617101526143142",
+        "created_at": "2026-04-10T14:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042617101526143142"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "みずえな"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014691591160791040",
+              "start": 3,
+              "username": "potenannan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/shPGKTz6wb",
+              "end": 45,
+              "expanded_url": "https://x.com/potenannan/status/2042285434517274686/photo/1",
+              "media_key": "3_2042285428469104640",
+              "start": 22,
+              "url": "https://t.co/shPGKTz6wb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042617101526143142",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 255
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042285434517274686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @potenannan: #みずえな https://t.co/shPGKTz6wb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042285428469104640"
+          ]
+        },
+        "author_id": "2014691591160791040",
+        "conversation_id": "2042285434517274686",
+        "created_at": "2026-04-09T16:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042285434517274686"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "みずえな"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/shPGKTz6wb",
+              "end": 29,
+              "expanded_url": "https://x.com/potenannan/status/2042285434517274686/photo/1",
+              "media_key": "3_2042285428469104640",
+              "start": 6,
+              "url": "https://t.co/shPGKTz6wb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042285434517274686",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 18762,
+          "like_count": 3193,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "#みずえな https://t.co/shPGKTz6wb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 34,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 31
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T13:28:20.000Z",
+        "description": "20↑ 🌟（🎪箱推）、🎀🎨、🐧",
+        "id": "2014691591160791040",
+        "location": "🎀🎨中心に描いてます",
+        "name": "る💭",
+        "pinned_tweet_id": "2024153037284037077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024973246073085952/WXD1aFuX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1311,
+          "following_count": 13,
+          "like_count": 1983,
+          "listed_count": 4,
+          "media_count": 108,
+          "tweet_count": 866
+        },
+        "username": "potenannan",
+        "verified": false
+      }
+    ]
+  }
+}

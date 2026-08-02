@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062202713946079232"
+      ],
+      "media_source_tweet_id": [
+        "2062202772469215309"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2062454111396835526",
+    "created_at": "2026-06-04T08:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062454111396835526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1975850232094371840",
+          "start": 3,
+          "username": "zhizi160216"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/acmlbfvNu7",
+          "end": 40,
+          "expanded_url": "https://x.com/zhizi160216/status/2062202772469215309/photo/1",
+          "media_key": "3_2062202713946079232",
+          "start": 17,
+          "url": "https://t.co/acmlbfvNu7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062454111396835526",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062202772469215309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhizi160216: https://t.co/acmlbfvNu7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_2062202713946079232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5qcTuaQAA3i_B.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062202713946079232"
+          ],
+          "media_source_tweet_id": [
+            "2062202772469215309"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2062454111396835526",
+        "created_at": "2026-06-04T08:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062454111396835526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1975850232094371840",
+              "start": 3,
+              "username": "zhizi160216"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/acmlbfvNu7",
+              "end": 40,
+              "expanded_url": "https://x.com/zhizi160216/status/2062202772469215309/photo/1",
+              "media_key": "3_2062202713946079232",
+              "start": 17,
+              "url": "https://t.co/acmlbfvNu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062454111396835526",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062202772469215309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhizi160216: https://t.co/acmlbfvNu7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062202713946079232"
+          ]
+        },
+        "author_id": "1975850232094371840",
+        "conversation_id": "2062202772469215309",
+        "created_at": "2026-06-03T16:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062202772469215309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/acmlbfvNu7",
+              "end": 23,
+              "expanded_url": "https://x.com/zhizi160216/status/2062202772469215309/photo/1",
+              "media_key": "3_2062202713946079232",
+              "start": 0,
+              "url": "https://t.co/acmlbfvNu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062202772469215309",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 7981,
+          "like_count": 324,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/acmlbfvNu7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 柚子 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "Yuzumi",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062202271744901120/Mix4UWN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 99,
+          "like_count": 2667,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 920
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T09:07:43.000Z",
+        "description": "",
+        "id": "1975850232094371840",
+        "location": "🚪88 纯绿",
+        "name": "沫沫",
+        "pinned_tweet_id": "2053525461968490735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980630127638654976/q6sFuFBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 90,
+          "like_count": 746,
+          "listed_count": 3,
+          "media_count": 136,
+          "tweet_count": 972
+        },
+        "username": "zhizi160216",
+        "verified": false
+      }
+    ]
+  }
+}

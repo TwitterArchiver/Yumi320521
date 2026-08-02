@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2042514149675274703",
+    "created_at": "2026-04-10T08:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042514149675274703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868203874726887424",
+          "start": 3,
+          "username": "daozhir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042514149675274703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042189569756729776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daozhir: 我现在推特里10条帖子里9条都是关于广州禁毒的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2042514149675274703",
+        "created_at": "2026-04-10T08:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042514149675274703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868203874726887424",
+              "start": 3,
+              "username": "daozhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042514149675274703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042189569756729776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daozhir: 我现在推特里10条帖子里9条都是关于广州禁毒的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868203874726887424",
+        "conversation_id": "2042189569756729776",
+        "created_at": "2026-04-09T10:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042189569756729776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042189569756729776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1043,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我现在推特里10条帖子里9条都是关于广州禁毒的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 32,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "丨lesbian丨 顺女丨overdose丨LGBTQ+全友好丨 fo同类 没fo私我丨欢迎找我聊聊天丨",
+        "id": "1868203874726887424",
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "name": "Hola",
+        "pinned_tweet_id": "2025485601240441319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 433,
+          "like_count": 1351,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 966
+        },
+        "username": "daozhir",
+        "verified": false
+      }
+    ]
+  }
+}

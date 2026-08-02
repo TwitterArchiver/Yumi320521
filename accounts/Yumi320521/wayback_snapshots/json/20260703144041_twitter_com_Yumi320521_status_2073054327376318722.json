@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2073031500224979045",
+    "created_at": "2026-07-03T14:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073054327376318722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2071837188975915009",
+          "start": 0,
+          "username": "baiyeTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073054327376318722",
+    "in_reply_to_user_id": "2071837188975915009",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073051973524521057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiyeTvT 😭🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2073031500224979045",
+        "created_at": "2026-07-03T14:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073054327376318722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2071837188975915009",
+              "start": 0,
+              "username": "baiyeTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073054327376318722",
+        "in_reply_to_user_id": "2071837188975915009",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073051973524521057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiyeTvT 😭🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071837188975915009",
+        "conversation_id": "2073031500224979045",
+        "created_at": "2026-07-03T14:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073051973524521057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073051973524521057",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073031500224979045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 你们都在上普高 只有我下一站真的是职高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 144,
+          "like_count": 5187,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1159
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-30T06:05:12.000Z",
+        "description": "我們的世界不應該只剩下彼此嗎",
+        "id": "2071837188975915009",
+        "name": "白夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072381801755197440/tpVyIVkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "baiyeTvT",
+        "verified": false
+      }
+    ]
+  }
+}

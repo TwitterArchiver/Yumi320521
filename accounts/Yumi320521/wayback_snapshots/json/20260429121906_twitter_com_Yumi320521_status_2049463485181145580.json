@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049436673818411008"
+      ],
+      "media_source_tweet_id": [
+        "2049436679442989242"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2049463485181145580",
+    "created_at": "2026-04-29T12:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049463485181145580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "4620945612",
+          "start": 3,
+          "username": "0153_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OwTmI3uvR8",
+          "end": 129,
+          "expanded_url": "https://x.com/0153_official/status/2049436679442989242/photo/1",
+          "media_key": "3_2049436673818411008",
+          "start": 106,
+          "url": "https://t.co/OwTmI3uvR8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049463485181145580",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 201
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049436679442989242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0153_official: 2026.04.29 歌舞伎町フリーライブ\n\nたくさんの方にお越しいただきありがとうございました！！今日撮った動画はぜひXやTikTokに載せてください🥹拡散お願いします🫶 https://t.co/OwTmI3uvR8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2049436673818411008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEPy-SawAAmdbl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049436673818411008"
+          ],
+          "media_source_tweet_id": [
+            "2049436679442989242"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2049463485181145580",
+        "created_at": "2026-04-29T12:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049463485181145580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "4620945612",
+              "start": 3,
+              "username": "0153_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OwTmI3uvR8",
+              "end": 129,
+              "expanded_url": "https://x.com/0153_official/status/2049436679442989242/photo/1",
+              "media_key": "3_2049436673818411008",
+              "start": 106,
+              "url": "https://t.co/OwTmI3uvR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049463485181145580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 201
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049436679442989242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0153_official: 2026.04.29 歌舞伎町フリーライブ\n\nたくさんの方にお越しいただきありがとうございました！！今日撮った動画はぜひXやTikTokに載せてください🥹拡散お願いします🫶 https://t.co/OwTmI3uvR8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049436673818411008"
+          ]
+        },
+        "author_id": "4620945612",
+        "conversation_id": "2049436679442989242",
+        "created_at": "2026-04-29T10:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049436679442989242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OwTmI3uvR8",
+              "end": 110,
+              "expanded_url": "https://x.com/0153_official/status/2049436679442989242/photo/1",
+              "media_key": "3_2049436673818411008",
+              "start": 87,
+              "url": "https://t.co/OwTmI3uvR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049436679442989242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 15936,
+          "like_count": 957,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 201
+        },
+        "reply_settings": "everyone",
+        "text": "2026.04.29 歌舞伎町フリーライブ\n\nたくさんの方にお越しいただきありがとうございました！！今日撮った動画はぜひXやTikTokに載せてください🥹拡散お願いします🫶 https://t.co/OwTmI3uvR8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "茶柚/Yumi 16 153/73\n桃井爱莉｜同担拒否｜地雷系｜od\n最爱绿川先生了💙🩵🪽中高速冲浪中…",
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049428958475862016/-MBbrvme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 39,
+          "like_count": 676,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 103
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-21T10:52:42.000Z",
+        "description": "■日本1バズるV系バンド！！■Vo.緑川裕宇@0153_you Gt.河村友雪@0153_tomoyuki Gt.水田魔梨@0153_mari Ba.眞崎大輔@0153_daisuke◆YouTube 【https://t.co/qtWDiBqubr】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "0153_you"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "0153_tomoyuki"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "0153_mari"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "0153_daisuke"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UC3Bwh…",
+                "end": 125,
+                "expanded_url": "https://m.youtube.com/channel/UC3BwhCH7Z89-XdU6eltQUng",
+                "start": 102,
+                "url": "https://t.co/qtWDiBqubr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gosan.g1-corp.com",
+                "end": 23,
+                "expanded_url": "http://gosan.g1-corp.com/",
+                "start": 0,
+                "url": "https://t.co/kr56R5XDI4"
+              }
+            ]
+          }
+        },
+        "id": "4620945612",
+        "location": "ハイライト欄に振り付け動画が纏めてあります",
+        "name": "0.1gの誤算official",
+        "pinned_tweet_id": "2049391886834770405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/712972507154817028/Wcdzi8MU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45230,
+          "following_count": 5,
+          "like_count": 38,
+          "listed_count": 319,
+          "media_count": 3001,
+          "tweet_count": 6445
+        },
+        "url": "https://t.co/kr56R5XDI4",
+        "username": "0153_official",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051867765561282561"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2051867781021266371",
+    "created_at": "2026-05-06T03:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T04:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051867781021266371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b3BX3z8jF7",
+          "end": 40,
+          "expanded_url": "https://x.com/Yumi320521/status/2051867781021266371/photo/1",
+          "media_key": "3_2051867765561282561",
+          "start": 17,
+          "url": "https://t.co/b3BX3z8jF7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051867781021266371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "约了穿戴甲很期待成品🥺💕太可爱了 https://t.co/b3BX3z8jF7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1276,
+        "media_key": "3_2051867765561282561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHmy3Ixa0AEOvza.jpg",
+        "width": 1702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051867765561282561"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2051867781021266371",
+        "created_at": "2026-05-06T03:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T04:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051867781021266371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b3BX3z8jF7",
+              "end": 40,
+              "expanded_url": "https://x.com/Yumi320521/status/2051867781021266371/photo/1",
+              "media_key": "3_2051867765561282561",
+              "start": 17,
+              "url": "https://t.co/b3BX3z8jF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051867781021266371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "约了穿戴甲很期待成品🥺💕太可爱了 https://t.co/b3BX3z8jF7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg\n桃井爱莉｜地雷系｜od｜自残\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "💙ゆず🩵🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 60,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 184
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

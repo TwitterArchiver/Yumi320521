@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060545205812822017"
+      ],
+      "media_source_tweet_id": [
+        "2060545211047223419"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069047141230874866",
+    "created_at": "2026-06-22T13:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069047141230874866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818981811663548416",
+          "start": 3,
+          "username": "lllllutw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/srUPMp8coM",
+          "end": 37,
+          "expanded_url": "https://x.com/lllllutw/status/2060545211047223419/photo/1",
+          "media_key": "3_2060545205812822017",
+          "start": 14,
+          "url": "https://t.co/srUPMp8coM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069047141230874866",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060545211047223419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lllllutw: https://t.co/srUPMp8coM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060545205812822017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiG8owbgAE5S8f.jpg",
+        "width": 1377
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060545205812822017"
+          ],
+          "media_source_tweet_id": [
+            "2060545211047223419"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069047141230874866",
+        "created_at": "2026-06-22T13:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069047141230874866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818981811663548416",
+              "start": 3,
+              "username": "lllllutw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/srUPMp8coM",
+              "end": 37,
+              "expanded_url": "https://x.com/lllllutw/status/2060545211047223419/photo/1",
+              "media_key": "3_2060545205812822017",
+              "start": 14,
+              "url": "https://t.co/srUPMp8coM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069047141230874866",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060545211047223419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lllllutw: https://t.co/srUPMp8coM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060545205812822017"
+          ]
+        },
+        "author_id": "1818981811663548416",
+        "conversation_id": "2060545211047223419",
+        "created_at": "2026-05-30T02:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060545211047223419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/srUPMp8coM",
+              "end": 23,
+              "expanded_url": "https://x.com/lllllutw/status/2060545211047223419/photo/1",
+              "media_key": "3_2060545205812822017",
+              "start": 0,
+              "url": "https://t.co/srUPMp8coM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060545211047223419",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7299,
+          "like_count": 108,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/srUPMp8coM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 11 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 135,
+          "like_count": 4040,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 724
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T12:07:23.000Z",
+        "description": "趣味垢",
+        "id": "1818981811663548416",
+        "location": "あまり浮上してません",
+        "name": "ニート",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027330970085670913/fcSJ4G0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 78,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "lllllutw",
+        "verified": false
+      }
+    ]
+  }
+}

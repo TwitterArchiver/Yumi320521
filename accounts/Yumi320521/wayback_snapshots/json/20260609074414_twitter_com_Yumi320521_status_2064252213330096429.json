@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2064252213330096429",
+    "created_at": "2026-06-09T07:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064252213330096429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1995848545216458752",
+          "start": 3,
+          "username": "jy9pz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064252213330096429",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063974451927196029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @jy9pz: 未成年の女の子たちに死にたいとか言わせる世界やば。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2064252213330096429",
+        "created_at": "2026-06-09T07:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064252213330096429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1995848545216458752",
+              "start": 3,
+              "username": "jy9pz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064252213330096429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063974451927196029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @jy9pz: 未成年の女の子たちに死にたいとか言わせる世界やば。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995848545216458752",
+        "conversation_id": "2063974451927196029",
+        "created_at": "2026-06-08T13:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063974451927196029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063974451927196029",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 44025,
+          "like_count": 1780,
+          "quote_count": 23,
+          "reply_count": 11,
+          "retweet_count": 108
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "未成年の女の子たちに死にたいとか言わせる世界やば。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜视觉系｜量産型｜桃井愛莉\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 128,
+          "like_count": 3035,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 522
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T13:32:59.000Z",
+        "description": "👊🩸  /  無言フォロー",
+        "id": "1995848545216458752",
+        "name": "みのてャ",
+        "pinned_tweet_id": "2062433224434098393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038897785463083008/4B2KpazM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 214,
+          "like_count": 6901,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 359
+        },
+        "username": "jy9pz",
+        "verified": false
+      }
+    ]
+  }
+}

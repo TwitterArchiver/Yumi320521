@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075843744059023360"
+      ],
+      "media_source_tweet_id": [
+        "2075843783267426739"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2075976181535682689",
+    "created_at": "2026-07-11T16:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075976181535682689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1797273760325877760",
+          "start": 3,
+          "username": "xyv__3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/60et8zMSlq",
+          "end": 58,
+          "expanded_url": "https://x.com/xyv__3/status/2075843783267426739/photo/1",
+          "media_key": "3_2075843744059023360",
+          "start": 35,
+          "url": "https://t.co/60et8zMSlq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075976181535682689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075843783267426739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xyv__3: 我收到了？老公送的葡瑞 ？芭林？甚至还是红的 https://t.co/60et8zMSlq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075843744059023360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7g4w3a4AAF8fb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075843744059023360"
+          ],
+          "media_source_tweet_id": [
+            "2075843783267426739"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2075976181535682689",
+        "created_at": "2026-07-11T16:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075976181535682689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1797273760325877760",
+              "start": 3,
+              "username": "xyv__3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/60et8zMSlq",
+              "end": 58,
+              "expanded_url": "https://x.com/xyv__3/status/2075843783267426739/photo/1",
+              "media_key": "3_2075843744059023360",
+              "start": 35,
+              "url": "https://t.co/60et8zMSlq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075976181535682689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075843783267426739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xyv__3: 我收到了？老公送的葡瑞 ？芭林？甚至还是红的 https://t.co/60et8zMSlq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075843744059023360"
+          ]
+        },
+        "author_id": "1797273760325877760",
+        "conversation_id": "2075843783267426739",
+        "created_at": "2026-07-11T07:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075843783267426739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/60et8zMSlq",
+              "end": 46,
+              "expanded_url": "https://x.com/xyv__3/status/2075843783267426739/photo/1",
+              "media_key": "3_2075843744059023360",
+              "start": 23,
+              "url": "https://t.co/60et8zMSlq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075843783267426739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4239,
+          "like_count": 89,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我收到了？老公送的葡瑞 ？芭林？甚至还是红的 https://t.co/60et8zMSlq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか🐈‍⬛🐾\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 153,
+          "like_count": 5567,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 1387
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T14:27:20.000Z",
+        "description": "世界大爆炸\n可以叫我小鱼🐟07-双相-药物滥用-量产&地雷\n欢迎大家找我聊天\n碎碎念，啥都发\n戒割半年，此账号极少发od相关，或许有概率可以发现我的二重身…",
+        "id": "1797273760325877760",
+        "location": "不收🚪不加联系方式",
+        "name": "3600斤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797280153359499264/xavXjUcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 59,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "xyv__3",
+        "verified": false
+      }
+    ]
+  }
+}

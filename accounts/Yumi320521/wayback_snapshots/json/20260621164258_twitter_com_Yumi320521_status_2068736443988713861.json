@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2068700713837048107",
+    "created_at": "2026-06-21T16:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068736443988713861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2046660159867400192",
+          "start": 0,
+          "username": "nyanyanya6767"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068736443988713861",
+    "in_reply_to_user_id": "2046660159867400192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068700713837048107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyanyanya6767 好美的身材"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2068700704878080000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWAVKTbsAAusjr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2068700713837048107",
+        "created_at": "2026-06-21T16:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068736443988713861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046660159867400192",
+              "start": 0,
+              "username": "nyanyanya6767"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068736443988713861",
+        "in_reply_to_user_id": "2046660159867400192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068700713837048107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanyanya6767 好美的身材"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068700704878080000"
+          ]
+        },
+        "author_id": "2046660159867400192",
+        "conversation_id": "2068700713837048107",
+        "created_at": "2026-06-21T14:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068700713837048107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuypVC4Zcc",
+              "end": 58,
+              "expanded_url": "https://x.com/nyanyanya6767/status/2068700713837048107/photo/1",
+              "media_key": "3_2068700704878080000",
+              "start": 35,
+              "url": "https://t.co/WuypVC4Zcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068700713837048107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 675,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "千粉福利🌹\n毫無慾望的兒童身材（\n身上的點點是汗斑(T＿T)不是性病 https://t.co/WuypVC4Zcc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 130,
+          "like_count": 3869,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 694
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T18:39:55.000Z",
+        "description": "可以叫我歐姆\n躁鬱｜焦慮｜解離｜ADHD｜自傷｜od｜穿孔｜金屬｜Goth｜\n純綠／半綠／非綠開放中，全台可跑歡迎私訊詢問\n防走失：@omo20060903",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "omo20060903"
+              }
+            ]
+          }
+        },
+        "id": "2046660159867400192",
+        "name": "？（2.0）",
+        "pinned_tweet_id": "2061471539116339494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068574612896759808/qckpXnFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 583,
+          "like_count": 9767,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 324
+        },
+        "url": "",
+        "username": "nyanyanya6767",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073697204624371712"
+      ],
+      "media_source_tweet_id": [
+        "2073697209477165308"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2073730399629660503",
+    "created_at": "2026-07-05T11:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073730399629660503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1502371382805827585",
+          "start": 3,
+          "username": "usamorimori_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t4GWNYajbz",
+          "end": 48,
+          "expanded_url": "https://x.com/usamorimori_/status/2073697209477165308/photo/1",
+          "media_key": "3_2073697204624371712",
+          "start": 25,
+          "url": "https://t.co/t4GWNYajbz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073730399629660503",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 270
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073697209477165308",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usamorimori_: 混沌ブギるい https://t.co/t4GWNYajbz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2073697204624371712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdAnuVbMAAF6k1.jpg",
+        "width": 727
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073697204624371712"
+          ],
+          "media_source_tweet_id": [
+            "2073697209477165308"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2073730399629660503",
+        "created_at": "2026-07-05T11:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073730399629660503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1502371382805827585",
+              "start": 3,
+              "username": "usamorimori_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4GWNYajbz",
+              "end": 48,
+              "expanded_url": "https://x.com/usamorimori_/status/2073697209477165308/photo/1",
+              "media_key": "3_2073697204624371712",
+              "start": 25,
+              "url": "https://t.co/t4GWNYajbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073730399629660503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 270
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073697209477165308",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usamorimori_: 混沌ブギるい https://t.co/t4GWNYajbz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073697204624371712"
+          ]
+        },
+        "author_id": "1502371382805827585",
+        "conversation_id": "2073697209477165308",
+        "created_at": "2026-07-05T09:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073697209477165308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4GWNYajbz",
+              "end": 30,
+              "expanded_url": "https://x.com/usamorimori_/status/2073697209477165308/photo/1",
+              "media_key": "3_2073697204624371712",
+              "start": 7,
+              "url": "https://t.co/t4GWNYajbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073697209477165308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 11351,
+          "like_count": 2000,
+          "quote_count": 18,
+          "reply_count": 0,
+          "retweet_count": 270
+        },
+        "reply_settings": "everyone",
+        "text": "混沌ブギるい https://t.co/t4GWNYajbz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 144,
+          "like_count": 5280,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1201
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-11T19:50:53.000Z",
+        "description": "ワンツーだいすき｜お仕事受付中🎨｜⚠️ご依頼着手10月〜｜ご依頼について➡️ https://t.co/TfevH5clbT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/usamorimori",
+                "end": 62,
+                "expanded_url": "https://lit.link/usamorimori",
+                "start": 39,
+                "url": "https://t.co/TfevH5clbT"
+              }
+            ]
+          }
+        },
+        "id": "1502371382805827585",
+        "name": "うさもり",
+        "pinned_tweet_id": "1722540022363300331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022345793479528448/863m5c8w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9814,
+          "following_count": 18,
+          "like_count": 9974,
+          "listed_count": 39,
+          "media_count": 106,
+          "tweet_count": 2089
+        },
+        "url": "",
+        "username": "usamorimori_",
+        "verified": false
+      }
+    ]
+  }
+}

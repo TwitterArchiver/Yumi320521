@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2068338557757079578",
+    "created_at": "2026-06-20T17:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068391078601089093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053892249851998208",
+          "start": 0,
+          "username": "iiq1427276"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068391078601089093",
+    "in_reply_to_user_id": "2053892249851998208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068338557757079578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiq1427276 樱花妹很多都是从头上开始往下剪的 不是发际线的也没关系 而且更多头发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2068338557757079578",
+        "created_at": "2026-06-20T17:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068391078601089093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053892249851998208",
+              "start": 0,
+              "username": "iiq1427276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068391078601089093",
+        "in_reply_to_user_id": "2053892249851998208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068338557757079578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiq1427276 樱花妹很多都是从头上开始往下剪的 不是发际线的也没关系 而且更多头发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053892249851998208",
+        "conversation_id": "2068338557757079578",
+        "created_at": "2026-06-20T14:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068338557757079578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068338557757079578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的爆炸超级喜欢那种蕾蕾的日系贴片齐刘海，，，但是我的发际线太低了我剪不了齐刘海，我急哭了。我真的急的想剃发际线...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= ゆず 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "Yumi",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 126,
+          "like_count": 3757,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 677
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T17:38:33.000Z",
+        "description": "hi可以叫我夏美💟08|infp|双相|ADHD|超高p线下无此人|几乎全是碎碎念神经发言偶尔雪图牢骚还有一点我的画🤲|日语学习中|我推 水上由岐 曾根美雪 祢豆子|友跨友一切！我爱所有的宝宝们🥺💟查成分互fo~爱你们喵~\nhttps://t.co/2LuNaTO1e4提问箱来玩吧嗯",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/natsumi5005",
+                "end": 135,
+                "expanded_url": "https://ngl.link/natsumi5005",
+                "start": 112,
+                "url": "https://t.co/2LuNaTO1e4"
+              }
+            ]
+          }
+        },
+        "id": "2053892249851998208",
+        "name": "众生蒙太奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063990512311541760/CciKliQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 145,
+          "like_count": 1502,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 589
+        },
+        "url": "",
+        "username": "iiq1427276",
+        "verified": false
+      }
+    ]
+  }
+}

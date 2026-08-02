@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2064340590683369862",
+    "created_at": "2026-06-09T13:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064340590683369862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1832635046458748932",
+          "start": 3,
+          "username": "Xisne008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064340590683369862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063832946885189756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xisne008: 我的社交方式就是给对方点个赞然后等待对方主动找我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2064340590683369862",
+        "created_at": "2026-06-09T13:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064340590683369862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1832635046458748932",
+              "start": 3,
+              "username": "Xisne008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064340590683369862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063832946885189756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xisne008: 我的社交方式就是给对方点个赞然后等待对方主动找我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832635046458748932",
+        "conversation_id": "2063832946885189756",
+        "created_at": "2026-06-08T03:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063832946885189756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063832946885189756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 32027,
+          "like_count": 451,
+          "quote_count": 11,
+          "reply_count": 128,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "我的社交方式就是给对方点个赞然后等待对方主动找我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 134,
+          "like_count": 3087,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 528
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T04:20:32.000Z",
+        "description": "女高｜不线下 加v有🚪女孩子可以随便加 可以互关没回就是婉拒了",
+        "id": "1832635046458748932",
+        "location": "🚪52",
+        "name": "猫猫泪",
+        "pinned_tweet_id": "2048049272138953182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062853507615457280/U0Fkb2Jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 78,
+          "like_count": 59,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 136
+        },
+        "username": "Xisne008",
+        "verified": false
+      }
+    ]
+  }
+}

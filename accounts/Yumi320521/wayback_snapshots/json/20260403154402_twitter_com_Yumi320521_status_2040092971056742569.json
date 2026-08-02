@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2028060238553956481",
+    "created_at": "2026-04-03T15:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T16:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040092971056742569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1331169156",
+          "start": 0,
+          "username": "0153_you"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040092971056742569",
+    "in_reply_to_user_id": "1331169156",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028060238553956481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0153_you かわいいね！😽🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2028060213975375872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUeBP0a4AAo8zX.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2028060238553956481",
+        "created_at": "2026-04-03T15:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040092971056742569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1331169156",
+              "start": 0,
+              "username": "0153_you"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040092971056742569",
+        "in_reply_to_user_id": "1331169156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028060238553956481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0153_you かわいいね！😽🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028060213975375872"
+          ]
+        },
+        "author_id": "1331169156",
+        "conversation_id": "2028060238553956481",
+        "created_at": "2026-03-01T10:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T11:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028060238553956481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BtyZF4MSy6",
+              "end": 28,
+              "expanded_url": "https://x.com/0153_you/status/2028060238553956481/photo/1",
+              "media_key": "3_2028060213975375872",
+              "start": 5,
+              "url": "https://t.co/BtyZF4MSy6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028060238553956481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 110194,
+          "like_count": 3173,
+          "quote_count": 89,
+          "reply_count": 93,
+          "retweet_count": 332
+        },
+        "reply_settings": "everyone",
+        "text": "下妻物語 https://t.co/BtyZF4MSy6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "Yumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-06T09:46:12.000Z",
+        "description": "▪️日本1バズるV系バンド！！0.1gの誤算で作詞作曲企画考案ボーカル担当■Youtube &SNSフォロワー計50万人▪️洗足学園音楽大学卒 ▪️official Twitter @0153_official 日常アカ@younichijou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "0153_official"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "younichijou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCNNI7…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCNNI7XtOshk_gN9FuuLrn7A",
+                "start": 0,
+                "url": "https://t.co/EgkpBSzcWH"
+              }
+            ]
+          }
+        },
+        "id": "1331169156",
+        "location": "緑川ゆう",
+        "name": "0.1gの誤算 緑川裕宇",
+        "pinned_tweet_id": "1429047027086761987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032404944436035584/M9KSTKIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66093,
+          "following_count": 302,
+          "like_count": 87997,
+          "listed_count": 392,
+          "media_count": 4107,
+          "tweet_count": 20375
+        },
+        "url": "https://t.co/EgkpBSzcWH",
+        "username": "0153_you",
+        "verified": true
+      }
+    ]
+  }
+}

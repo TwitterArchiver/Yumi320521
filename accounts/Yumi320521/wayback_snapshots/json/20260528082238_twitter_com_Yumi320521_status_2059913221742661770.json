@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059913221742661770",
+    "created_at": "2026-05-28T08:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059913221742661770"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hotbunny143/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/hotbunny143/status/2059780735457018001",
+          "start": 7,
+          "url": "https://t.co/yfdtIMP19z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059913221742661770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059780735457018001",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "梦想是这样的 https://t.co/yfdtIMP19z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059780731245850624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXPqXEacAA4F44.jpg",
+        "width": 1188
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059913221742661770",
+        "created_at": "2026-05-28T08:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059913221742661770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hotbunny143/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/hotbunny143/status/2059780735457018001",
+              "start": 7,
+              "url": "https://t.co/yfdtIMP19z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059913221742661770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059780735457018001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梦想是这样的 https://t.co/yfdtIMP19z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059780731245850624"
+          ]
+        },
+        "author_id": "1458544268528783365",
+        "conversation_id": "2059780735457018001",
+        "created_at": "2026-05-27T23:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059780735457018001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PD4hTKuZzO",
+              "end": 53,
+              "expanded_url": "https://x.com/hotbunny143/status/2059780735457018001/photo/1",
+              "media_key": "3_2059780731245850624",
+              "start": 30,
+              "url": "https://t.co/PD4hTKuZzO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059780735457018001",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 3759,
+          "like_count": 429,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "me whenever i’m shopping. 🛍️🎀 https://t.co/PD4hTKuZzO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 79,
+          "like_count": 2020,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 675
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-10T21:17:15.000Z",
+        "description": "♡︎ 𝑗𝑢𝑠𝑡 𝑎 ℎ𝑦𝑝𝑒𝑟𝑓𝑒𝑚𝑖𝑛𝑖𝑛𝑒 𝑔𝑖𝑟𝑙𝑦 𝓹𝓻𝓲𝓷𝓬𝓮𝓼𝓼. 💕 Bɪᴍʙᴏ Dᴏʟʟ ❤︎ ❣︎ 🌸🎠🧸👛💖 @itgirlblog777 📔✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "itgirlblog777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "princessdoll.carrd.co",
+                "end": 23,
+                "expanded_url": "https://princessdoll.carrd.co",
+                "start": 0,
+                "url": "https://t.co/9Nj9ZUsves"
+              }
+            ]
+          }
+        },
+        "id": "1458544268528783365",
+        "location": "Land Of Glitter And Beauty 👄",
+        "name": "🎀 ෆ 𝓓♡︎𝓵𝓵𝔂 ᨳৎ୭ഒ໒⊹⋆ ꒱ྀི",
+        "pinned_tweet_id": "2050382931697287273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934808256620445696/MdjFYZyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2687,
+          "following_count": 56,
+          "like_count": 6525,
+          "listed_count": 32,
+          "media_count": 484,
+          "tweet_count": 1622
+        },
+        "url": "https://t.co/9Nj9ZUsves",
+        "username": "hotbunny143",
+        "verified": false
+      }
+    ]
+  }
+}

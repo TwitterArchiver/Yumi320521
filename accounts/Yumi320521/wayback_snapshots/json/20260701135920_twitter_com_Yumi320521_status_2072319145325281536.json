@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2072319145325281536",
+    "created_at": "2026-07-01T13:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072319145325281536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2055822314969665536",
+          "start": 3,
+          "username": "GrievousPotato1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072319145325281536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072116629882720759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GrievousPotato1: 为啥洼地健全逼G点那么多，纹身不行紫餐痕迹不行穿孔不行打钉不行od不行，只是上班赚点米都要歧视来歧视去，歧视你妈，健全逼都是一群神经病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2072319145325281536",
+        "created_at": "2026-07-01T13:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072319145325281536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2055822314969665536",
+              "start": 3,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072319145325281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072116629882720759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GrievousPotato1: 为啥洼地健全逼G点那么多，纹身不行紫餐痕迹不行穿孔不行打钉不行od不行，只是上班赚点米都要歧视来歧视去，歧视你妈，健全逼都是一群神经病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2072116629882720759",
+        "created_at": "2026-07-01T00:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T01:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072116629882720759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072116629882720759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2087,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "为啥洼地健全逼G点那么多，纹身不行紫餐痕迹不行穿孔不行打钉不行od不行，只是上班赚点米都要歧视来歧视去，歧视你妈，健全逼都是一群神经病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 140,
+          "like_count": 4991,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1051
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 262,
+          "like_count": 8403,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 519
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

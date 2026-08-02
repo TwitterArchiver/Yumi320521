@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073360246278627328"
+      ],
+      "media_source_tweet_id": [
+        "2074680652667175136"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2074931463959769382",
+    "created_at": "2026-07-08T18:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T19:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074931463959769382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1703807621554454528",
+          "start": 3,
+          "username": "BrianGimso19824"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NxLLaDbFfx",
+          "end": 44,
+          "expanded_url": "https://x.com/BrianGimso19824/status/2074680652667175136/video/1",
+          "media_key": "13_2073360246278627328",
+          "start": 21,
+          "url": "https://t.co/NxLLaDbFfx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074931463959769382",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074680652667175136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BrianGimso19824: https://t.co/NxLLaDbFfx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22639,
+        "height": 960,
+        "media_key": "13_2073360246278627328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073360246278627328/img/1W59Np27rmhgu9Mm.jpg",
+        "public_metrics": {
+          "view_count": 95358
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073360246278627328/vid/avc1/320x426/BJMs6fmgtGCsWK9T.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073360246278627328/vid/avc1/480x640/b0OqppM0F9-6nxUJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073360246278627328/vid/avc1/720x960/TKyDlexLz3WNcYw_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073360246278627328/pl/0LnKumyIM4Wgtpj4.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073360246278627328"
+          ],
+          "media_source_tweet_id": [
+            "2074680652667175136"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2074931463959769382",
+        "created_at": "2026-07-08T18:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074931463959769382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1703807621554454528",
+              "start": 3,
+              "username": "BrianGimso19824"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxLLaDbFfx",
+              "end": 44,
+              "expanded_url": "https://x.com/BrianGimso19824/status/2074680652667175136/video/1",
+              "media_key": "13_2073360246278627328",
+              "start": 21,
+              "url": "https://t.co/NxLLaDbFfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074931463959769382",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074680652667175136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BrianGimso19824: https://t.co/NxLLaDbFfx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073360246278627328"
+          ]
+        },
+        "author_id": "1703807621554454528",
+        "conversation_id": "2074680652667175136",
+        "created_at": "2026-07-08T02:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074680652667175136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxLLaDbFfx",
+              "end": 23,
+              "expanded_url": "https://x.com/BrianGimso19824/status/2074680652667175136/video/1",
+              "media_key": "13_2073360246278627328",
+              "start": 0,
+              "url": "https://t.co/NxLLaDbFfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074680652667175136",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 723,
+          "impression_count": 203998,
+          "like_count": 3469,
+          "quote_count": 8,
+          "reply_count": 131,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NxLLaDbFfx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 142,
+          "like_count": 5407,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1282
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-18T16:26:33.000Z",
+        "description": "Life is too short to be serious all the time.",
+        "id": "1703807621554454528",
+        "name": "Brian Gimson",
+        "pinned_tweet_id": "2073362515954946468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703808753332830208/w7_Rcpor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "BrianGimso19824",
+        "verified": false
+      }
+    ]
+  }
+}

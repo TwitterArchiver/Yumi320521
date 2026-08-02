@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2053803702054789179",
+    "created_at": "2026-05-11T11:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T12:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053803702054789179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1785191770118381568",
+          "start": 3,
+          "username": "zzz_aota"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053803702054789179",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052919165112230158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zzz_aota: 🟥ネキより強烈な話題でこのまま逃れようとしてない？😅バンドマンも人間だからプライベートのことは仕方ないし、彼女だって嫁だって子どもだっていてもいいよ\n\n問題なのはそのプライベートをファンのいる空間にまで持ち込んでる方がよっぽどだと思うんだけど😅訂正す…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2053803702054789179",
+        "created_at": "2026-05-11T11:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053803702054789179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1785191770118381568",
+              "start": 3,
+              "username": "zzz_aota"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053803702054789179",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052919165112230158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zzz_aota: 🟥ネキより強烈な話題でこのまま逃れようとしてない？😅バンドマンも人間だからプライベートのことは仕方ないし、彼女だって嫁だって子どもだっていてもいいよ\n\n問題なのはそのプライベートをファンのいる空間にまで持ち込んでる方がよっぽどだと思うんだけど😅訂正す…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785191770118381568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2052919165112230158",
+        "created_at": "2026-05-09T01:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052919165112230158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0153_official/…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/0153_official/status/2052907445455126703",
+              "start": 136,
+              "url": "https://t.co/RFsWF6AZI6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052919165112230158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 351037,
+          "like_count": 1668,
+          "quote_count": 14,
+          "reply_count": 9,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052907445455126703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🟥ネキより強烈な話題でこのまま逃れようとしてない？😅バンドマンも人間だからプライベートのことは仕方ないし、彼女だって嫁だって子どもだっていてもいいよ\n\n問題なのはそのプライベートをファンのいる空間にまで持ち込んでる方がよっぽどだと思うんだけど😅訂正するのはそこじゃない😅 https://t.co/RFsWF6AZI6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "💙ゆず🩵🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 65,
+          "like_count": 1105,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 220
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T06:17:48.000Z",
+        "description": "イツモミテルヨ",
+        "id": "1785191770118381568",
+        "name": "ぬめちゃん",
+        "pinned_tweet_id": "1785915511886549424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051279370858516480/0Y-aZFYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 21,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 58
+        },
+        "username": "zzz_aota",
+        "verified": false
+      }
+    ]
+  }
+}

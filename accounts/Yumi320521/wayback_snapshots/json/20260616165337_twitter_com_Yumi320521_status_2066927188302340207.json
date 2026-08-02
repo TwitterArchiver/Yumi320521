@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066927179263578112"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2066927188302340207",
+    "created_at": "2026-06-16T16:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066927188302340207"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6omewtOcAR",
+          "end": 45,
+          "expanded_url": "https://x.com/Yumi320521/status/2066927188302340207/photo/1",
+          "media_key": "3_2066927179263578112",
+          "start": 22,
+          "url": "https://t.co/6omewtOcAR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066927188302340207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我回来了 能不能不要秀转账截图我真破防了啊 https://t.co/6omewtOcAR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1268,
+        "media_key": "3_2066927179263578112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8zUYibEAAHqd3.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066927179263578112"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2066927188302340207",
+        "created_at": "2026-06-16T16:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066927188302340207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6omewtOcAR",
+              "end": 45,
+              "expanded_url": "https://x.com/Yumi320521/status/2066927188302340207/photo/1",
+              "media_key": "3_2066927179263578112",
+              "start": 22,
+              "url": "https://t.co/6omewtOcAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066927188302340207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我回来了 能不能不要秀转账截图我真破防了啊 https://t.co/6omewtOcAR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 低浮上…\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 119,
+          "like_count": 3509,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 648
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

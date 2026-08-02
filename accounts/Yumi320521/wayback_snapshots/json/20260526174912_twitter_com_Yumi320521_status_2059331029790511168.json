@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059331029790511168",
+    "created_at": "2026-05-26T17:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059331029790511168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1660110644518207492",
+          "start": 3,
+          "username": "Niko_77xiaoen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059331029790511168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059128337730285789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Niko_77xiaoen: 我需要的不是一位恋人\n我需要的是一条狗、ATM机、没爹没妈的孤儿、长的牛逼、打游戏牛、接受我出轨、粘人、不黏人、不看擦边但爱说荤话有分寸、单纯天真专一、纯爱、没有和女生聊过强谈过恋爱的感情小白、宠我并始终如一、强的、纯的、闷骚、腹黑、占有欲…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059331029790511168",
+        "created_at": "2026-05-26T17:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059331029790511168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1660110644518207492",
+              "start": 3,
+              "username": "Niko_77xiaoen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059331029790511168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059128337730285789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Niko_77xiaoen: 我需要的不是一位恋人\n我需要的是一条狗、ATM机、没爹没妈的孤儿、长的牛逼、打游戏牛、接受我出轨、粘人、不黏人、不看擦边但爱说荤话有分寸、单纯天真专一、纯爱、没有和女生聊过强谈过恋爱的感情小白、宠我并始终如一、强的、纯的、闷骚、腹黑、占有欲…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660110644518207492",
+        "conversation_id": "2059128337730285789",
+        "created_at": "2026-05-26T04:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059128337730285789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059128337730285789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 15044,
+          "like_count": 359,
+          "quote_count": 7,
+          "reply_count": 68,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "我需要的不是一位恋人\n我需要的是一条狗、ATM机、没爹没妈的孤儿、长的牛逼、打游戏牛、接受我出轨、粘人、不黏人、不看擦边但爱说荤话有分寸、单纯天真专一、纯爱、没有和女生聊过强谈过恋爱的感情小白、宠我并始终如一、强的、纯的、闷骚、腹黑、占有欲强、离不开我的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 69,
+          "like_count": 1837,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 558
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T02:30:09.000Z",
+        "description": "一个很无聊的人 有对象不加v女孩子除外",
+        "id": "1660110644518207492",
+        "location": "3.1km",
+        "name": "小星殿下",
+        "pinned_tweet_id": "2056396408203420146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793697214923251712/ScYgwVEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 15,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 73
+        },
+        "username": "Niko_77xiaoen",
+        "verified": false
+      }
+    ]
+  }
+}

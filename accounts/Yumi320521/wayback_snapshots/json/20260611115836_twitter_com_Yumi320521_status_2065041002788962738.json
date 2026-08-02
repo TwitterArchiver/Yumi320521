@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2064763094153535667",
+    "created_at": "2026-06-11T11:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065041002788962738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1899070065305325568",
+          "start": 0,
+          "username": "chuanle124172"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065041002788962738",
+    "in_reply_to_user_id": "1899070065305325568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064843277782630448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuanle124172 半年发一次工资 远在国外还和国内那些人挣的钱差不多 只有我和我妈 连我生活都不参与一直压力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2064763094153535667",
+        "created_at": "2026-06-11T11:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065041002788962738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1899070065305325568",
+              "start": 0,
+              "username": "chuanle124172"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065041002788962738",
+        "in_reply_to_user_id": "1899070065305325568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064843277782630448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuanle124172 半年发一次工资 远在国外还和国内那些人挣的钱差不多 只有我和我妈 连我生活都不参与一直压力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899070065305325568",
+        "conversation_id": "2064763094153535667",
+        "created_at": "2026-06-10T22:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T23:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064843277782630448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064843277782630448",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064763094153535667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 你爸打工不就是为了生活质量变好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 136,
+          "like_count": 3220,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 566
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T12:09:31.000Z",
+        "description": "",
+        "id": "1899070065305325568",
+        "name": "chuanle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977212461150343168/50G3xI1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 247
+        },
+        "username": "chuanle124172",
+        "verified": false
+      }
+    ]
+  }
+}

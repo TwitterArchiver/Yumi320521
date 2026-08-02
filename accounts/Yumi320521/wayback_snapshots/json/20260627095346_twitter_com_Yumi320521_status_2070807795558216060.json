@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070781168476372992"
+      ],
+      "media_source_tweet_id": [
+        "2070781170707730467"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2070807795558216060",
+    "created_at": "2026-06-27T09:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070807795558216060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960268031097266176",
+          "start": 3,
+          "username": "depaszz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vjYA3c6Xlc",
+          "end": 59,
+          "expanded_url": "https://x.com/depaszz/status/2070781170707730467/photo/1",
+          "media_key": "3_2070781168476372992",
+          "start": 36,
+          "url": "https://t.co/vjYA3c6Xlc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070807795558216060",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070781170707730467",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @depaszz: 雫とｲﾝﾀｰﾈｯﾄｵｰﾊﾞｰﾄﾞｰｽﾞのパロ https://t.co/vjYA3c6Xlc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2070781168476372992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzkgFKaQAAO3Z1.jpg",
+        "width": 1821
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070781168476372992"
+          ],
+          "media_source_tweet_id": [
+            "2070781170707730467"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2070807795558216060",
+        "created_at": "2026-06-27T09:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070807795558216060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960268031097266176",
+              "start": 3,
+              "username": "depaszz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vjYA3c6Xlc",
+              "end": 59,
+              "expanded_url": "https://x.com/depaszz/status/2070781170707730467/photo/1",
+              "media_key": "3_2070781168476372992",
+              "start": 36,
+              "url": "https://t.co/vjYA3c6Xlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070807795558216060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070781170707730467",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @depaszz: 雫とｲﾝﾀｰﾈｯﾄｵｰﾊﾞｰﾄﾞｰｽﾞのパロ https://t.co/vjYA3c6Xlc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070781168476372992"
+          ]
+        },
+        "author_id": "1960268031097266176",
+        "conversation_id": "2070781170707730467",
+        "created_at": "2026-06-27T08:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070781170707730467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vjYA3c6Xlc",
+              "end": 46,
+              "expanded_url": "https://x.com/depaszz/status/2070781170707730467/photo/1",
+              "media_key": "3_2070781168476372992",
+              "start": 23,
+              "url": "https://t.co/vjYA3c6Xlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070781170707730467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1876,
+          "like_count": 259,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "雫とｲﾝﾀｰﾈｯﾄｵｰﾊﾞｰﾄﾞｰｽﾞのパロ https://t.co/vjYA3c6Xlc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 140,
+          "like_count": 4724,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 915
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T09:08:38.000Z",
+        "description": "ニディガ+@｜20↑｜ゴミ箱です…らくがきや独り言など｜ROMあり｜韓国語/日本語o",
+        "id": "1960268031097266176",
+        "location": "🧬☔️💊",
+        "name": "しの",
+        "pinned_tweet_id": "2063318865258635424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059322770031579136/wQUbKYHY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 91,
+          "like_count": 1950,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 852
+        },
+        "url": "",
+        "username": "depaszz",
+        "verified": false
+      }
+    ]
+  }
+}

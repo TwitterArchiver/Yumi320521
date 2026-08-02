@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059125927322525871",
+    "created_at": "2026-05-26T04:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059125927322525871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1998647355839754240",
+          "start": 3,
+          "username": "VonJu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059125927322525871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058935583834341684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VonJu0: 高敏感者为什么朋友少\n因为太容易看出一个人的友善是否真诚\n一个人的慷慨是否是伪装\n这让他们的社交圈很小\n对于频繁的社交感到反胃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059125927322525871",
+        "created_at": "2026-05-26T04:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059125927322525871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1998647355839754240",
+              "start": 3,
+              "username": "VonJu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059125927322525871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058935583834341684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VonJu0: 高敏感者为什么朋友少\n因为太容易看出一个人的友善是否真诚\n一个人的慷慨是否是伪装\n这让他们的社交圈很小\n对于频繁的社交感到反胃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998647355839754240",
+        "conversation_id": "2058935583834341684",
+        "created_at": "2026-05-25T15:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058935583834341684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058935583834341684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5244,
+          "like_count": 110,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "高敏感者为什么朋友少\n因为太容易看出一个人的友善是否真诚\n一个人的慷慨是否是伪装\n这让他们的社交圈很小\n对于频繁的社交感到反胃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 68,
+          "like_count": 1760,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 518
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T06:54:05.000Z",
+        "description": "06大学生  211在读 沉默的观察者\n\n真实思考 观点输出 人生讨论 社会热点 美股投资",
+        "id": "1998647355839754240",
+        "location": "Los Angeles, CA",
+        "name": "vonju",
+        "pinned_tweet_id": "2057843895388737564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050137749106425856/cHbj5-zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 263,
+          "like_count": 1425,
+          "listed_count": 5,
+          "media_count": 54,
+          "tweet_count": 1625
+        },
+        "username": "VonJu0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063650161101008896"
+      ],
+      "media_source_tweet_id": [
+        "2063650171343536256"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2063679670797885946",
+    "created_at": "2026-06-07T17:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T18:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063679670797885946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047425753227333632",
+          "start": 3,
+          "username": "zhiyuu0823"
+        },
+        {
+          "end": 29,
+          "id": "2047867480576794624",
+          "start": 18,
+          "username": "yuganbb823"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ls2LJ17BPo",
+          "end": 94,
+          "expanded_url": "https://x.com/zhiyuu0823/status/2063650171343536256/photo/1",
+          "media_key": "3_2063650161101008896",
+          "start": 71,
+          "url": "https://t.co/Ls2LJ17BPo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063679670797885946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063650171343536256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhiyuu0823: 我是@yuganbb823 ，前世被贱人所害死了7天，只能在这个小号号跟你们玩惹求帮转助我巡回互fo😭😭😭😭 https://t.co/Ls2LJ17BPo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063650161101008896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOO40kacAAtmvq.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063650161101008896"
+          ],
+          "media_source_tweet_id": [
+            "2063650171343536256"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2063679670797885946",
+        "created_at": "2026-06-07T17:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063679670797885946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047425753227333632",
+              "start": 3,
+              "username": "zhiyuu0823"
+            },
+            {
+              "end": 29,
+              "id": "2047867480576794624",
+              "start": 18,
+              "username": "yuganbb823"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ls2LJ17BPo",
+              "end": 94,
+              "expanded_url": "https://x.com/zhiyuu0823/status/2063650171343536256/photo/1",
+              "media_key": "3_2063650161101008896",
+              "start": 71,
+              "url": "https://t.co/Ls2LJ17BPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063679670797885946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063650171343536256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhiyuu0823: 我是@yuganbb823 ，前世被贱人所害死了7天，只能在这个小号号跟你们玩惹求帮转助我巡回互fo😭😭😭😭 https://t.co/Ls2LJ17BPo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063650161101008896"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2063650171343536256",
+        "created_at": "2026-06-07T15:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063650171343536256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047867480576794624",
+              "start": 2,
+              "username": "yuganbb823"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ls2LJ17BPo",
+              "end": 78,
+              "expanded_url": "https://x.com/zhiyuu0823/status/2063650171343536256/photo/1",
+              "media_key": "3_2063650161101008896",
+              "start": 55,
+              "url": "https://t.co/Ls2LJ17BPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063650171343536256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我是@yuganbb823 ，前世被贱人所害死了7天，只能在这个小号号跟你们玩惹求帮转助我巡回互fo😭😭😭😭 https://t.co/Ls2LJ17BPo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜视觉系｜量産型｜桃井愛莉\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 125,
+          "like_count": 2879,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 488
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "我是鱼干呀 | 自伤 哦滴 餐券 |",
+        "id": "2047425753227333632",
+        "name": "为何人生如此凄惨",
+        "pinned_tweet_id": "2063650171343536256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060716224359645186/AcKCB0iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 42,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 92
+        },
+        "username": "zhiyuu0823",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T02:40:37.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |",
+        "id": "2047867480576794624",
+        "location": "你身后",
+        "name": "为何人生如此凄惨",
+        "pinned_tweet_id": "2061102606643044586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058530430505107456/xZ6M8S5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 209,
+          "like_count": 3909,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 649
+        },
+        "username": "yuganbb823",
+        "verified": false
+      }
+    ]
+  }
+}

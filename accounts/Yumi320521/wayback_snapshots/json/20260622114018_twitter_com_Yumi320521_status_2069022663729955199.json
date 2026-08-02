@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2068993374716362943",
+    "created_at": "2026-06-22T11:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069022663729955199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2043548352542040064",
+          "start": 0,
+          "username": "cykl12517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069022663729955199",
+    "in_reply_to_user_id": "2043548352542040064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069021495171657858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cykl12517 うわ すごく嬉しい！💗✨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2068993374716362943",
+        "created_at": "2026-06-22T11:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069022663729955199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2043548352542040064",
+              "start": 0,
+              "username": "cykl12517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069022663729955199",
+        "in_reply_to_user_id": "2043548352542040064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069021495171657858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cykl12517 うわ すごく嬉しい！💗✨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043548352542040064",
+        "conversation_id": "2068993374716362943",
+        "created_at": "2026-06-22T11:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069021495171657858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069021495171657858",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068994279746445471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 えぇいつも投稿の雰囲気可愛くて見てます👀ありがとうございます💕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 132,
+          "like_count": 3986,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 713
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T04:34:29.000Z",
+        "description": "♡ @TeamABCofficial ♡\n♡ @Motoki_vo ♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TeamABCofficial"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Motoki_vo"
+              }
+            ]
+          }
+        },
+        "id": "2043548352542040064",
+        "location": "V系の沼",
+        "name": "ちぃ",
+        "pinned_tweet_id": "2064605520913424606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601238566850560/8bY_QtIt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 296,
+          "like_count": 831,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "cykl12517",
+        "verified": false
+      }
+    ]
+  }
+}

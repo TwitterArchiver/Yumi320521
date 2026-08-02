@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060015425484931263",
+    "created_at": "2026-05-28T15:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060015425484931263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hanabitaminc/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hanabitaminc/status/2059946209733947429",
+          "start": 5,
+          "url": "https://t.co/lGFzLyiIjR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060015425484931263",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059946209733947429",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是啊…. https://t.co/lGFzLyiIjR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2059946200963723265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZmJ9zbsAEOdmA.jpg",
+        "width": 2826
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060015425484931263",
+        "created_at": "2026-05-28T15:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060015425484931263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hanabitaminc/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hanabitaminc/status/2059946209733947429",
+              "start": 5,
+              "url": "https://t.co/lGFzLyiIjR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060015425484931263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059946209733947429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是啊…. https://t.co/lGFzLyiIjR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059946200963723265"
+          ]
+        },
+        "author_id": "1266206715839606784",
+        "conversation_id": "2059946209733947429",
+        "created_at": "2026-05-28T10:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059946209733947429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ba178AoanJ",
+              "end": 37,
+              "expanded_url": "https://x.com/hanabitaminc/status/2059946209733947429/photo/1",
+              "media_key": "3_2059946200963723265",
+              "start": 14,
+              "url": "https://t.co/ba178AoanJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059946209733947429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 18979,
+          "like_count": 1951,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "本当は、君になりたかったの https://t.co/ba178AoanJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 84,
+          "like_count": 2057,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 699
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T03:17:22.000Z",
+        "description": "人間が好きです \n (現在、ご依頼とDMでのお返事できかねます)\n🐶→@hanabitaminb\nインスタ→ https://t.co/AmlunMW4by",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "hanabitaminb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/hanabitaminc?i…",
+                "end": 78,
+                "expanded_url": "https://www.instagram.com/hanabitaminc?igsh=MWRicWF1YzZuMGN6MA%3D%3D&utm_source=qr",
+                "start": 55,
+                "url": "https://t.co/AmlunMW4by"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/53144689",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/53144689",
+                "start": 0,
+                "url": "https://t.co/72PdX51Udv"
+              }
+            ]
+          }
+        },
+        "id": "1266206715839606784",
+        "location": "ぽかぽかホットカーペットランド",
+        "name": "花巻 花郎",
+        "pinned_tweet_id": "2059607896506372190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610904608439959553/GjAHGmmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131040,
+          "following_count": 141,
+          "like_count": 55565,
+          "listed_count": 809,
+          "media_count": 305,
+          "tweet_count": 38917
+        },
+        "url": "https://t.co/72PdX51Udv",
+        "username": "hanabitaminc",
+        "verified": false
+      }
+    ]
+  }
+}

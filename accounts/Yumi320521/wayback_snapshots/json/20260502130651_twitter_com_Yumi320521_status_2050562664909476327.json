@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2050562664909476327",
+    "created_at": "2026-05-02T13:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T14:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050562664909476327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2030530416512512000",
+          "start": 3,
+          "username": "AverageYuriLesb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050562664909476327",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050510774595186868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AverageYuriLesb: The girl is alone in a dark room..\n\nShe plays with dolls, surrounded by toys\n\nShe dresses them up, scattering and thro…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050510757549510656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTgq3_bEAAK8g-.jpg",
+        "width": 1826
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2050562664909476327",
+        "created_at": "2026-05-02T13:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050562664909476327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2030530416512512000",
+              "start": 3,
+              "username": "AverageYuriLesb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050562664909476327",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050510774595186868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AverageYuriLesb: The girl is alone in a dark room..\n\nShe plays with dolls, surrounded by toys\n\nShe dresses them up, scattering and thro…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050510757549510656"
+          ]
+        },
+        "author_id": "2030530416512512000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1298798617533100032",
+              "name": "Dolls"
+            }
+          }
+        ],
+        "conversation_id": "2050510774595186868",
+        "created_at": "2026-05-02T09:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050510774595186868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/COiwJZThFL",
+              "end": 206,
+              "expanded_url": "https://x.com/AverageYuriLesb/status/2050510774595186868/photo/1",
+              "media_key": "3_2050510757549510656",
+              "start": 183,
+              "url": "https://t.co/COiwJZThFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050510774595186868",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 224,
+          "impression_count": 20829,
+          "like_count": 1412,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "The girl is alone in a dark room..\n\nShe plays with dolls, surrounded by toys\n\nShe dresses them up, scattering and throwing them around\n\nShould we rip them apart to see what’s inside? https://t.co/COiwJZThFL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "茶柚/Yumi 16 153/73\n桃井爱莉｜同担拒否｜地雷系｜od\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 51,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 149
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T06:26:31.000Z",
+        "description": "|She/Her| Show them all, you’re far, amidst a diamond in the rough. |artstyle stolen from vivo_sun|",
+        "id": "2030530416512512000",
+        "location": "❌ NO AI TRAINING ❌",
+        "name": "Yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044105052953161729/tHLpUuaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 57,
+          "like_count": 3133,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 1301
+        },
+        "username": "AverageYuriLesb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2067950902544413174",
+    "created_at": "2026-06-20T06:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068227317063966836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055986818932424704",
+          "start": 0,
+          "username": "Koysov2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068227317063966836",
+    "in_reply_to_user_id": "2055986818932424704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068113901846429903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koysov2022 谢谢你🥺💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2067950902544413174",
+        "created_at": "2026-06-20T06:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068227317063966836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055986818932424704",
+              "start": 0,
+              "username": "Koysov2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068227317063966836",
+        "in_reply_to_user_id": "2055986818932424704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068113901846429903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koysov2022 谢谢你🥺💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055986818932424704",
+        "conversation_id": "2067950902544413174",
+        "created_at": "2026-06-19T23:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T00:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068113901846429903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068113901846429903",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067950902544413174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 好漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 \n桃井愛莉一生のファン🍑💞\n152/35kg od｜自残｜vkei｜量产地雷 欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067554649486573568/_C_kHJDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 122,
+          "like_count": 3680,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 698
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T12:23:56.000Z",
+        "description": "主机:@jkiesoft\n初代Kia转生版，如果主机没长时间更新说明我在用这个号。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jkiesoft"
+              }
+            ]
+          }
+        },
+        "id": "2055986818932424704",
+        "location": "Astoria",
+        "name": "Kia2.0",
+        "pinned_tweet_id": "2066550319723712912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062404368721379329/E_7psQzI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 86,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 435
+        },
+        "url": "",
+        "username": "Koysov2022",
+        "verified": false
+      }
+    ]
+  }
+}

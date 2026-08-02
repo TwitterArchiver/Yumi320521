@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058232840039600128"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058232851255214432",
+    "created_at": "2026-05-23T17:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T18:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058232851255214432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T5V6tUIa7e",
+          "end": 67,
+          "expanded_url": "https://x.com/Yumi320521/status/2058232851255214432/photo/1",
+          "media_key": "3_2058232840039600128",
+          "start": 44,
+          "url": "https://t.co/T5V6tUIa7e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058232851255214432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近会消停一点 我一天50条应该是达到上限了 还有就是为什么会这样ww 我想创建新号🥲 https://t.co/T5V6tUIa7e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1021,
+        "media_key": "3_2058232840039600128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJBP3O-akAA6_5a.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058232840039600128"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058232851255214432",
+        "created_at": "2026-05-23T17:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058232851255214432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T5V6tUIa7e",
+              "end": 67,
+              "expanded_url": "https://x.com/Yumi320521/status/2058232851255214432/photo/1",
+              "media_key": "3_2058232840039600128",
+              "start": 44,
+              "url": "https://t.co/T5V6tUIa7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058232851255214432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近会消停一点 我一天50条应该是达到上限了 还有就是为什么会这样ww 我想创建新号🥲 https://t.co/T5V6tUIa7e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 65,
+          "like_count": 1640,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 402
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

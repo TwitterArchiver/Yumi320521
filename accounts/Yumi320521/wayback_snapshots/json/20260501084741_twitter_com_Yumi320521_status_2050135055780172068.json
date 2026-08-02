@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2050135055780172068",
+    "created_at": "2026-05-01T08:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T09:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050135055780172068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1582164788615925760",
+          "start": 3,
+          "username": "_hitori_gotsu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050135055780172068",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 976
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049866785474957474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_hitori_gotsu_: *::;;;;::*♦*::;;;;::*♦*::;;;;::*♦*::;;;;::*♦\n\n　 𓏸𓈒 𓂃𝙷𝚊𝚙𝚙𝚢  𝙱𝚒𝚛𝚝𝚑𝚍𝚊𝚢𓂃 𓈒𓏸\n　　　　　𝙷𝙰𝙲𝙷𝙸𝚆𝙰𝚁𝙴\n　　　　　𝟤𝟢𝟤𝟨.𝟢𝟧.𝟢𝟣 💐\n\n*::;;;;::*♦*:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2049866777296023552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKW-SmasAAj2gE.jpg",
+        "width": 3152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2050135055780172068",
+        "created_at": "2026-05-01T08:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050135055780172068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1582164788615925760",
+              "start": 3,
+              "username": "_hitori_gotsu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050135055780172068",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 976
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049866785474957474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_hitori_gotsu_: *::;;;;::*♦*::;;;;::*♦*::;;;;::*♦*::;;;;::*♦\n\n　 𓏸𓈒 𓂃𝙷𝚊𝚙𝚙𝚢  𝙱𝚒𝚛𝚝𝚑𝚍𝚊𝚢𓂃 𓈒𓏸\n　　　　　𝙷𝙰𝙲𝙷𝙸𝚆𝙰𝚁𝙴\n　　　　　𝟤𝟢𝟤𝟨.𝟢𝟧.𝟢𝟣 💐\n\n*::;;;;::*♦*:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049866777296023552"
+          ]
+        },
+        "author_id": "1582164788615925760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049866785474957474",
+        "created_at": "2026-04-30T15:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049866785474957474"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 161,
+              "start": 153,
+              "tag": "ハチワレ生誕祭"
+            },
+            {
+              "end": 175,
+              "start": 163,
+              "tag": "ハチワレ生誕祭2026"
+            },
+            {
+              "end": 189,
+              "start": 177,
+              "tag": "ちいかわハチワレ生誕祭"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YNYJpw3h4p",
+              "end": 213,
+              "expanded_url": "https://x.com/_hitori_gotsu_/status/2049866785474957474/photo/1",
+              "media_key": "3_2049866777296023552",
+              "start": 190,
+              "url": "https://t.co/YNYJpw3h4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049866785474957474",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 486,
+          "impression_count": 314093,
+          "like_count": 7952,
+          "quote_count": 295,
+          "reply_count": 36,
+          "retweet_count": 976
+        },
+        "reply_settings": "everyone",
+        "text": "*::;;;;::*♦*::;;;;::*♦*::;;;;::*♦*::;;;;::*♦\n\n　 𓏸𓈒 𓂃𝙷𝚊𝚙𝚙𝚢  𝙱𝚒𝚛𝚝𝚑𝚍𝚊𝚢𓂃 𓈒𓏸\n　　　　　𝙷𝙰𝙲𝙷𝙸𝚆𝙰𝚁𝙴\n　　　　　𝟤𝟢𝟤𝟨.𝟢𝟧.𝟢𝟣 💐\n\n*::;;;;::*♦*::;;;;::*♦*::;;;;::*♦*::;;;;::*♦\n\n #ハチワレ生誕祭\n #ハチワレ生誕祭2026\n #ちいかわハチワレ生誕祭 https://t.co/YNYJpw3h4p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "茶柚/Yumi 16 153/73\n桃井爱莉｜同担拒否｜地雷系｜od\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049428958475862016/-MBbrvme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 43,
+          "like_count": 746,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 112
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-18T00:21:03.000Z",
+        "description": "ハチワレ推しちいかわ族🐱￤フォロー大歓迎です♪気づけなかったらごめんなさい( ᵕ̩̩ ᵕ )￤リプ・呼びタメとってもうれしいです♡￤取引垢は別にありますがこちらでもお取引しています￤記録用タグ🏷𓈒𓏸︎ #はちわれらんど",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 101,
+                "tag": "はちわれらんど"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/_hitori_gotsu_",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/_hitori_gotsu_",
+                "start": 0,
+                "url": "https://t.co/IIakP7o6qA"
+              }
+            ]
+          }
+        },
+        "id": "1582164788615925760",
+        "location": "ちいかわらんど",
+        "name": "ぴ@ちいかわ",
+        "pinned_tweet_id": "1917598703608815890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858252899425677312/oJjJxew7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 404,
+          "like_count": 21849,
+          "listed_count": 18,
+          "media_count": 2323,
+          "tweet_count": 12271
+        },
+        "url": "https://t.co/IIakP7o6qA",
+        "username": "_hitori_gotsu_",
+        "verified": true
+      }
+    ]
+  }
+}

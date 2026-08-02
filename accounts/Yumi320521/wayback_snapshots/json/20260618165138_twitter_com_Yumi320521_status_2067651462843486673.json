@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1337415114329182208",
+          "name": "Seiko Oomori"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1337415114329182208",
+          "name": "Seiko Oomori"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1337415114329182208",
+          "name": "Seiko Oomori"
+        }
+      }
+    ],
+    "conversation_id": "2067651462843486673",
+    "created_at": "2026-06-18T16:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067651462843486673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/deathdolnote/s…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/deathdolnote/status/2067600814802350275",
+          "start": 25,
+          "url": "https://t.co/tyOtzRIDPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067651462843486673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067600814802350275",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草你妈滚啊 这一定是假的吧🥲😭😱要干啥死亡笔记 https://t.co/tyOtzRIDPC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1887,
+        "media_key": "3_2067600618487967744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGXztJacAAYcM1.jpg",
+        "width": 868
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2067600618496417792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGXztLbYAAIPMl.jpg",
+        "width": 1108
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2067600618483748864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGXztIaEAArXQv.jpg",
+        "width": 1108
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067600618487963648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGXztJaYAArkJI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          }
+        ],
+        "conversation_id": "2067651462843486673",
+        "created_at": "2026-06-18T16:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067651462843486673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/deathdolnote/s…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/deathdolnote/status/2067600814802350275",
+              "start": 25,
+              "url": "https://t.co/tyOtzRIDPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067651462843486673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067600814802350275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草你妈滚啊 这一定是假的吧🥲😭😱要干啥死亡笔记 https://t.co/tyOtzRIDPC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067600618487967744",
+            "3_2067600618496417792",
+            "3_2067600618483748864",
+            "3_2067600618487963648"
+          ]
+        },
+        "author_id": "1921131419977609216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "METAMUSE on July 7th 2022, Used to be ZOC",
+              "id": "1517594026303578112",
+              "name": "METAMUSE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "METAMUSE on July 7th 2022, Used to be ZOC",
+              "id": "1517594026303578112",
+              "name": "METAMUSE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "METAMUSE on July 7th 2022, Used to be ZOC",
+              "id": "1517594026303578112",
+              "name": "METAMUSE"
+            }
+          }
+        ],
+        "conversation_id": "2067600814802350275",
+        "created_at": "2026-06-18T13:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:29:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067600625505010099",
+          "2067600814802350275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "116026747",
+              "start": 21,
+              "username": "oomoriseiko"
+            },
+            {
+              "end": 65,
+              "id": "1331169156",
+              "start": 56,
+              "username": "0153_you"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dTyvyMCcPi",
+              "end": 89,
+              "expanded_url": "https://x.com/deathdolnote/status/2067600814802350275/photo/1",
+              "media_key": "3_2067600618487967744",
+              "start": 66,
+              "url": "https://t.co/dTyvyMCcPi"
+            },
+            {
+              "display_url": "pic.x.com/dTyvyMCcPi",
+              "end": 89,
+              "expanded_url": "https://x.com/deathdolnote/status/2067600814802350275/photo/1",
+              "media_key": "3_2067600618496417792",
+              "start": 66,
+              "url": "https://t.co/dTyvyMCcPi"
+            },
+            {
+              "display_url": "pic.x.com/dTyvyMCcPi",
+              "end": 89,
+              "expanded_url": "https://x.com/deathdolnote/status/2067600814802350275/photo/1",
+              "media_key": "3_2067600618483748864",
+              "start": 66,
+              "url": "https://t.co/dTyvyMCcPi"
+            },
+            {
+              "display_url": "pic.x.com/dTyvyMCcPi",
+              "end": 89,
+              "expanded_url": "https://x.com/deathdolnote/status/2067600814802350275/photo/1",
+              "media_key": "3_2067600618487963648",
+              "start": 66,
+              "url": "https://t.co/dTyvyMCcPi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067600814802350275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 577,
+          "impression_count": 1298678,
+          "like_count": 5276,
+          "quote_count": 451,
+          "reply_count": 203,
+          "retweet_count": 258
+        },
+        "reply_settings": "everyone",
+        "text": "【熱愛スクープ】\n\n大森靖子(知名度A)\n@oomoriseiko \n\n0.1gの誤算\n緑川裕宇(知名度D+)\n@0153_you https://t.co/dTyvyMCcPi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 \n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2067556150426669153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067554649486573568/_C_kHJDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 120,
+          "like_count": 3572,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 653
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T09:14:31.000Z",
+        "description": "知名度C以下の地底用。本垢@deathdol_note\nmond専用 @misa_deathdol",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "deathdol_note"
+              },
+              {
+                "end": 49,
+                "start": 35,
+                "username": "misa_deathdol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@DEATHDOLNOTE",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@DEATHDOLNOTE",
+                "start": 0,
+                "url": "https://t.co/aqcE5pH1lb"
+              }
+            ]
+          }
+        },
+        "id": "1921131419977609216",
+        "name": "DEATHDOL NOTE (サブ垢)",
+        "pinned_tweet_id": "2051164942934688116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043466603568988160/sD_aHL8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340265,
+          "following_count": 5,
+          "like_count": 1843,
+          "listed_count": 288,
+          "media_count": 276,
+          "tweet_count": 336
+        },
+        "url": "https://t.co/aqcE5pH1lb",
+        "username": "deathdolnote",
+        "verified": true
+      }
+    ]
+  }
+}

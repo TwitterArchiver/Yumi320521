@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053805503290163200",
+        "3_2053805503290204160"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WEGO",
+          "id": "1035223802358054912",
+          "name": "WEGO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Brand",
+          "id": "846427983237672960",
+          "name": "Fashion Brand"
+        }
+      }
+    ],
+    "conversation_id": "2053805520465879401",
+    "created_at": "2026-05-11T11:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T12:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053805520465879401"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C80f2RRHMj",
+          "end": 46,
+          "expanded_url": "https://x.com/Yumi320521/status/2053805520465879401/photo/1",
+          "media_key": "3_2053805503290163200",
+          "start": 23,
+          "url": "https://t.co/C80f2RRHMj"
+        },
+        {
+          "display_url": "pic.x.com/C80f2RRHMj",
+          "end": 46,
+          "expanded_url": "https://x.com/Yumi320521/status/2053805520465879401/photo/1",
+          "media_key": "3_2053805503290204160",
+          "start": 23,
+          "url": "https://t.co/C80f2RRHMj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053805520465879401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买到了喜欢的小裙子 开心 想搭配wego痛包 https://t.co/C80f2RRHMj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053805503290163200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICVOUVaQAAntas.jpg",
+        "width": 945
+      },
+      {
+        "height": 1813,
+        "media_key": "3_2053805503290204160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICVOUVa4AA_5ia.jpg",
+        "width": 1813
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053805503290163200",
+            "3_2053805503290204160"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WEGO",
+              "id": "1035223802358054912",
+              "name": "WEGO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          }
+        ],
+        "conversation_id": "2053805520465879401",
+        "created_at": "2026-05-11T11:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053805520465879401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C80f2RRHMj",
+              "end": 46,
+              "expanded_url": "https://x.com/Yumi320521/status/2053805520465879401/photo/1",
+              "media_key": "3_2053805503290163200",
+              "start": 23,
+              "url": "https://t.co/C80f2RRHMj"
+            },
+            {
+              "display_url": "pic.x.com/C80f2RRHMj",
+              "end": 46,
+              "expanded_url": "https://x.com/Yumi320521/status/2053805520465879401/photo/1",
+              "media_key": "3_2053805503290204160",
+              "start": 23,
+              "url": "https://t.co/C80f2RRHMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053805520465879401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买到了喜欢的小裙子 开心 想搭配wego痛包 https://t.co/C80f2RRHMj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "💙ゆず🩵🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 65,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 224
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2066466275942142459",
+    "created_at": "2026-06-16T08:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T09:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066795987142938993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1101189825976303616",
+          "start": 0,
+          "username": "Ym4Fourth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066795987142938993",
+    "in_reply_to_user_id": "1101189825976303616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066466275942142459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ym4Fourth 这招太阴了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066466265099862016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2QHpebAAAq4ix.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2066466275942142459",
+        "created_at": "2026-06-16T08:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066795987142938993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1101189825976303616",
+              "start": 0,
+              "username": "Ym4Fourth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066795987142938993",
+        "in_reply_to_user_id": "1101189825976303616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066466275942142459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ym4Fourth 这招太阴了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066466265099862016"
+          ]
+        },
+        "author_id": "1101189825976303616",
+        "conversation_id": "2066466275942142459",
+        "created_at": "2026-06-15T10:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066466275942142459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUl5gvO3IH",
+              "end": 52,
+              "expanded_url": "https://x.com/Ym4Fourth/status/2066466275942142459/photo/1",
+              "media_key": "3_2066466265099862016",
+              "start": 29,
+              "url": "https://t.co/gUl5gvO3IH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066466275942142459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5062,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气消了，我要买愈美结果骗子发帖子说我买普瑞发过来的是晚安 https://t.co/gUl5gvO3IH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 117,
+          "like_count": 3471,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 638
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-28T18:38:08.000Z",
+        "description": "2024年1月14日含糖，100斤/165厘米，是小念最可爱的宝宝提问箱👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tnagxin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tnagxin",
+                "start": 0,
+                "url": "https://t.co/WIxKYpF0jL"
+              }
+            ]
+          }
+        },
+        "id": "1101189825976303616",
+        "location": "距离你1000米",
+        "name": "雨梦🍥",
+        "pinned_tweet_id": "1887229891927810247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935308151785394176/7Yjx61XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7578,
+          "following_count": 146,
+          "like_count": 949,
+          "listed_count": 19,
+          "media_count": 151,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/WIxKYpF0jL",
+        "username": "Ym4Fourth",
+        "verified": false
+      }
+    ]
+  }
+}

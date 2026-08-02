@@ -1,0 +1,20 @@
+{
+  "name": "ゆず",
+  "username": "@Yumi320521",
+  "bio": "= Yumi  明日私の人生はどうなるのでしょうか @Yumi320521lin",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 40,
+        "start": 26,
+        "username": "Yumi320521lin"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg"
+}

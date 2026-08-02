@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065396390038233088"
+      ],
+      "media_source_tweet_id": [
+        "2065396396140937588"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2065514265201549545",
+    "created_at": "2026-06-12T19:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T20:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065514265201549545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805518768946528258",
+          "start": 3,
+          "username": "0x0Hinq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P3Kk1CRL4Y",
+          "end": 36,
+          "expanded_url": "https://x.com/0x0Hinq/status/2065396396140937588/photo/1",
+          "media_key": "3_2065396390038233088",
+          "start": 13,
+          "url": "https://t.co/P3Kk1CRL4Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065514265201549545",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 635
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065396396140937588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0x0Hinq: https://t.co/P3Kk1CRL4Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2065396390038233088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnDEuSaYAA_G0s.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065396390038233088"
+          ],
+          "media_source_tweet_id": [
+            "2065396396140937588"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2065514265201549545",
+        "created_at": "2026-06-12T19:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T20:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065514265201549545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805518768946528258",
+              "start": 3,
+              "username": "0x0Hinq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P3Kk1CRL4Y",
+              "end": 36,
+              "expanded_url": "https://x.com/0x0Hinq/status/2065396396140937588/photo/1",
+              "media_key": "3_2065396390038233088",
+              "start": 13,
+              "url": "https://t.co/P3Kk1CRL4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065514265201549545",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 635
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065396396140937588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0x0Hinq: https://t.co/P3Kk1CRL4Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065396390038233088"
+          ]
+        },
+        "author_id": "1805518768946528258",
+        "conversation_id": "2065396396140937588",
+        "created_at": "2026-06-12T11:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065396396140937588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P3Kk1CRL4Y",
+              "end": 23,
+              "expanded_url": "https://x.com/0x0Hinq/status/2065396396140937588/photo/1",
+              "media_key": "3_2065396390038233088",
+              "start": 0,
+              "url": "https://t.co/P3Kk1CRL4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065396396140937588",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 709,
+          "impression_count": 94177,
+          "like_count": 5974,
+          "quote_count": 28,
+          "reply_count": 1,
+          "retweet_count": 635
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/P3Kk1CRL4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 135,
+          "like_count": 3291,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 586
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T08:30:19.000Z",
+        "description": "アニメーター志望(投稿内容アニメーター志望とは思えない)アイコン@namegata_1701さん💗タグ▶︎▶︎ #雛FA skeb▷▶ https://t.co/BS4KwVuSBE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 56,
+                "tag": "雛FA"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "namegata_1701"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@0x0Hinq",
+                "end": 91,
+                "expanded_url": "https://skeb.jp/@0x0Hinq",
+                "start": 68,
+                "url": "https://t.co/BS4KwVuSBE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/qe3t2fgu8ztapb…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/qe3t2fgu8ztapbo?t=shpzns&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/kl35Rc5CiB"
+              }
+            ]
+          }
+        },
+        "id": "1805518768946528258",
+        "name": "雛",
+        "pinned_tweet_id": "2038866583582560756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922551528885518338/IYKvAct__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20404,
+          "following_count": 922,
+          "like_count": 34737,
+          "listed_count": 63,
+          "media_count": 249,
+          "tweet_count": 697
+        },
+        "url": "https://t.co/kl35Rc5CiB",
+        "username": "0x0Hinq",
+        "verified": false
+      }
+    ]
+  }
+}

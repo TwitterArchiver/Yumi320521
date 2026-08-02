@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060377222054305792"
+      ],
+      "media_source_tweet_id": [
+        "2060377231160230043"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "2060664069808632266",
+    "created_at": "2026-05-30T10:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060664069808632266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2850598800",
+          "start": 3,
+          "username": "Reiya_xaaxaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sahwcdUFid",
+          "end": 71,
+          "expanded_url": "https://x.com/Reiya_xaaxaa/status/2060377231160230043/photo/1",
+          "media_key": "3_2060377222054305792",
+          "start": 48,
+          "url": "https://t.co/sahwcdUFid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060664069808632266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060377231160230043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Reiya_xaaxaa: 大阪ありがとうございました。\nやっぱザアザアの地元だなぁ。 https://t.co/sahwcdUFid"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2060377222054305792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfuKsfaYAAG9Zi.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060377222054305792"
+          ],
+          "media_source_tweet_id": [
+            "2060377231160230043"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2060664069808632266",
+        "created_at": "2026-05-30T10:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060664069808632266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2850598800",
+              "start": 3,
+              "username": "Reiya_xaaxaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sahwcdUFid",
+              "end": 71,
+              "expanded_url": "https://x.com/Reiya_xaaxaa/status/2060377231160230043/photo/1",
+              "media_key": "3_2060377222054305792",
+              "start": 48,
+              "url": "https://t.co/sahwcdUFid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060664069808632266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060377231160230043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Reiya_xaaxaa: 大阪ありがとうございました。\nやっぱザアザアの地元だなぁ。 https://t.co/sahwcdUFid"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060377222054305792"
+          ]
+        },
+        "author_id": "2850598800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2060377231160230043",
+        "created_at": "2026-05-29T15:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060377231160230043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sahwcdUFid",
+              "end": 53,
+              "expanded_url": "https://x.com/Reiya_xaaxaa/status/2060377231160230043/photo/1",
+              "media_key": "3_2060377222054305792",
+              "start": 30,
+              "url": "https://t.co/sahwcdUFid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060377231160230043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7887,
+          "like_count": 549,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "大阪ありがとうございました。\nやっぱザアザアの地元だなぁ。 https://t.co/sahwcdUFid"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉/视觉系乐队/量产型/药圈\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 99,
+          "like_count": 2317,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 745
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-10T16:09:42.000Z",
+        "description": "ザアザアというヴィジュアル系バンドでベースを弾いてるエロい人です。生粋のギャ男。高知県産です。宜しくお願いします。",
+        "id": "2850598800",
+        "name": "ザアザア 零夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019632275651182592/0I2P7iI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24322,
+          "following_count": 234,
+          "like_count": 377,
+          "listed_count": 163,
+          "media_count": 1804,
+          "tweet_count": 6398
+        },
+        "username": "Reiya_xaaxaa",
+        "verified": false
+      }
+    ]
+  }
+}

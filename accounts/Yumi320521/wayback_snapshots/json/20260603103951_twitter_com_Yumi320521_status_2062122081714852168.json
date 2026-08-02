@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062087964407328768"
+      ],
+      "media_source_tweet_id": [
+        "2062087968584843360"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2062122081714852168",
+    "created_at": "2026-06-03T10:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062122081714852168"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 21,
+          "tag": "Prsk_FA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1680582880316227584",
+          "start": 3,
+          "username": "ramunegasyuwawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/alaff5rLYt",
+          "end": 55,
+          "expanded_url": "https://x.com/ramunegasyuwawa/status/2062087968584843360/photo/1",
+          "media_key": "3_2062087964407328768",
+          "start": 32,
+          "url": "https://t.co/alaff5rLYt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062122081714852168",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 168
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062087968584843360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ramunegasyuwawa: #Prsk_FA\n💍 https://t.co/alaff5rLYt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062087964407328768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4CFAYbcAAyaZe.jpg",
+        "width": 1394
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062087964407328768"
+          ],
+          "media_source_tweet_id": [
+            "2062087968584843360"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2062122081714852168",
+        "created_at": "2026-06-03T10:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062122081714852168"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "Prsk_FA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1680582880316227584",
+              "start": 3,
+              "username": "ramunegasyuwawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/alaff5rLYt",
+              "end": 55,
+              "expanded_url": "https://x.com/ramunegasyuwawa/status/2062087968584843360/photo/1",
+              "media_key": "3_2062087964407328768",
+              "start": 32,
+              "url": "https://t.co/alaff5rLYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062122081714852168",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 168
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062087968584843360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ramunegasyuwawa: #Prsk_FA\n💍 https://t.co/alaff5rLYt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062087964407328768"
+          ]
+        },
+        "author_id": "1680582880316227584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2062087968584843360",
+        "created_at": "2026-06-03T08:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062087968584843360"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "Prsk_FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/alaff5rLYt",
+              "end": 34,
+              "expanded_url": "https://x.com/ramunegasyuwawa/status/2062087968584843360/photo/1",
+              "media_key": "3_2062087964407328768",
+              "start": 11,
+              "url": "https://t.co/alaff5rLYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062087968584843360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 6856,
+          "like_count": 999,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "#Prsk_FA\n💍 https://t.co/alaff5rLYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 95,
+          "like_count": 2630,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 893
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T14:19:31.000Z",
+        "description": "錠菓(らむね) | illustration",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/b8eb5002-a707-…",
+                "end": 23,
+                "expanded_url": "https://lit.link/b8eb5002-a707-450d-ad19-70920d55767d",
+                "start": 0,
+                "url": "https://t.co/P0X3hGQa0N"
+              }
+            ]
+          }
+        },
+        "id": "1680582880316227584",
+        "location": "絵をぼちぼち",
+        "name": "錠菓",
+        "pinned_tweet_id": "2034283692374507741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970436326018424833/cwK7VRQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 165,
+          "like_count": 17075,
+          "listed_count": 11,
+          "media_count": 802,
+          "tweet_count": 3361
+        },
+        "url": "https://t.co/P0X3hGQa0N",
+        "username": "ramunegasyuwawa",
+        "verified": false
+      }
+    ]
+  }
+}

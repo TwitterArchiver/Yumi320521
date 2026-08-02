@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2050593669301076439",
+    "created_at": "2026-05-02T15:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050593669301076439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1942576385144545280",
+          "start": 3,
+          "username": "mari98012v"
+        },
+        {
+          "end": 25,
+          "id": "1331169156",
+          "start": 16,
+          "username": "0153_you"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050593669301076439",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050546039829189073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mari98012v: @0153_you 今回の騒動に逃げずにきちんと対応したらファンも逃げずにもっと増えると思う。\nあの動画は中途半端。\nもう触れてほしくないならそう言ってほしい。\n向き合えるならまた話してほしい。\n赤髪ネキとの関係は論点じゃないよ。\nもっと大事なこ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2050593669301076439",
+        "created_at": "2026-05-02T15:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050593669301076439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1942576385144545280",
+              "start": 3,
+              "username": "mari98012v"
+            },
+            {
+              "end": 25,
+              "id": "1331169156",
+              "start": 16,
+              "username": "0153_you"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050593669301076439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050546039829189073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mari98012v: @0153_you 今回の騒動に逃げずにきちんと対応したらファンも逃げずにもっと増えると思う。\nあの動画は中途半端。\nもう触れてほしくないならそう言ってほしい。\n向き合えるならまた話してほしい。\n赤髪ネキとの関係は論点じゃないよ。\nもっと大事なこ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942576385144545280",
+        "conversation_id": "2050522785823511004",
+        "created_at": "2026-05-02T12:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050546039829189073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1331169156",
+              "start": 0,
+              "username": "0153_you"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050546039829189073",
+        "in_reply_to_user_id": "1331169156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 135935,
+          "like_count": 426,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050522785823511004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0153_you 今回の騒動に逃げずにきちんと対応したらファンも逃げずにもっと増えると思う。\nあの動画は中途半端。\nもう触れてほしくないならそう言ってほしい。\n向き合えるならまた話してほしい。\n赤髪ネキとの関係は論点じゃないよ。\nもっと大事なことあるでしょ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "茶柚/Yumi 16 153/73\n桃井爱莉｜同担拒否｜地雷系｜od\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 51,
+          "like_count": 900,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 150
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T13:28:13.000Z",
+        "description": "30代女。淡々と延々と自論を綴ります。フォローいいねリツイートリプミュートブロックご自由にどうぞ。こちらの反応も自由にいたします。東海オンエア虫さんとBLACKPINKジェニ様と0.1gの誤算ゆう様が好きです。某ある方のアンチ発言多めです苦手な方は自衛してください。",
+        "id": "1942576385144545280",
+        "location": "東海",
+        "name": "mari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969109917559898113/Le5l6gIV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 39,
+          "like_count": 225,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 106
+        },
+        "username": "mari98012v",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-06T09:46:12.000Z",
+        "description": "▪️日本1バズるV系バンド！！0.1gの誤算で作詞作曲企画考案ボーカル担当■Youtube &SNSフォロワー計50万人▪️洗足学園音楽大学卒 ▪️official Twitter @0153_official 日常アカ@younichijou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "0153_official"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "younichijou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCNNI7…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCNNI7XtOshk_gN9FuuLrn7A",
+                "start": 0,
+                "url": "https://t.co/EgkpBSzcWH"
+              }
+            ]
+          }
+        },
+        "id": "1331169156",
+        "location": "緑川ゆう",
+        "name": "0.1gの誤算 緑川裕宇",
+        "pinned_tweet_id": "1429047027086761987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032404944436035584/M9KSTKIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67967,
+          "following_count": 304,
+          "like_count": 87958,
+          "listed_count": 390,
+          "media_count": 4108,
+          "tweet_count": 20389
+        },
+        "url": "https://t.co/EgkpBSzcWH",
+        "username": "0153_you",
+        "verified": true
+      }
+    ]
+  }
+}

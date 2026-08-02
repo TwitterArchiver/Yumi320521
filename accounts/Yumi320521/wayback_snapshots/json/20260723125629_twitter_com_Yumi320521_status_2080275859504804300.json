@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2079845902655852567",
+    "created_at": "2026-07-23T12:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080275859504804300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1979326546847633409",
+          "start": 0,
+          "username": "hoshihoshi568"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080275859504804300",
+    "in_reply_to_user_id": "1979326546847633409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080274588819468490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshihoshi568 对 后面看了一圈美甲感觉价格太贵打算戴穿戴甲了🌚 谢谢你小宝宝呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2079845902655852567",
+        "created_at": "2026-07-23T12:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080275859504804300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1979326546847633409",
+              "start": 0,
+              "username": "hoshihoshi568"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080275859504804300",
+        "in_reply_to_user_id": "1979326546847633409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080274588819468490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshihoshi568 对 后面看了一圈美甲感觉价格太贵打算戴穿戴甲了🌚 谢谢你小宝宝呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979326546847633409",
+        "conversation_id": "2079845902655852567",
+        "created_at": "2026-07-23T12:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080274588819468490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080274588819468490",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079845902655852567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 你可以试试买穿戴甲呀，我感觉现在穿戴甲的做的挺可爱的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n社会に見捨てられ 死にたい",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 161,
+          "like_count": 5918,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1586
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T23:20:13.000Z",
+        "description": "@mam0_0fficialt💞💕\nv系が好きです 本命R指定→マモ🩷同麵◎\nフォロー・リプ・DMお気軽にどうぞ♡\n\n無言フォロー失礼します♡ 好きな方を見つけるとついフォローしてしまいます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "mam0_0fficialt"
+              }
+            ]
+          }
+        },
+        "id": "1979326546847633409",
+        "name": "ほし",
+        "pinned_tweet_id": "2062893685877146030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065410092611391488/ulB2OP6z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 136,
+          "like_count": 1589,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 391
+        },
+        "url": "",
+        "username": "hoshihoshi568",
+        "verified": false
+      }
+    ]
+  }
+}

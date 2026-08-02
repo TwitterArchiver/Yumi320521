@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2059195363819765760"
+      ],
+      "media_source_tweet_id": [
+        "2059195379489665085"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059280868456468851",
+    "created_at": "2026-05-26T14:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059280868456468851"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 13,
+          "tag": "みずえな"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040706212266987520",
+          "start": 3,
+          "username": "_827430"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Ot440QMIZ",
+          "end": 55,
+          "expanded_url": "https://x.com/_827430/status/2059195379489665085/photo/1",
+          "media_key": "16_2059195363819765760",
+          "start": 32,
+          "url": "https://t.co/1Ot440QMIZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059280868456468851",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 247
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059195379489665085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @_827430: #みずえな\n🌸🎀🎨🌸\n\nⓒ 쨔마 님 https://t.co/1Ot440QMIZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "16_2059195363819765760",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJO7RfebwAAMxbH.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJO7RfebwAAMxbH.mp4"
+          }
+        ],
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2059195363819765760"
+          ],
+          "media_source_tweet_id": [
+            "2059195379489665085"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059280868456468851",
+        "created_at": "2026-05-26T14:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059280868456468851"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "みずえな"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040706212266987520",
+              "start": 3,
+              "username": "_827430"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Ot440QMIZ",
+              "end": 55,
+              "expanded_url": "https://x.com/_827430/status/2059195379489665085/photo/1",
+              "media_key": "16_2059195363819765760",
+              "start": 32,
+              "url": "https://t.co/1Ot440QMIZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059280868456468851",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 247
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059195379489665085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @_827430: #みずえな\n🌸🎀🎨🌸\n\nⓒ 쨔마 님 https://t.co/1Ot440QMIZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2059195363819765760"
+          ]
+        },
+        "author_id": "2040706212266987520",
+        "conversation_id": "2059195379489665085",
+        "created_at": "2026-05-26T08:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059195379489665085"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "みずえな"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Ot440QMIZ",
+              "end": 42,
+              "expanded_url": "https://x.com/_827430/status/2059195379489665085/photo/1",
+              "media_key": "16_2059195363819765760",
+              "start": 19,
+              "url": "https://t.co/1Ot440QMIZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059195379489665085",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 8656,
+          "like_count": 1134,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 247
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "#みずえな\n🌸🎀🎨🌸\n\nⓒ 쨔마 님 https://t.co/1Ot440QMIZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 69,
+          "like_count": 1825,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 549
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T08:22:59.000Z",
+        "description": "❄️推し / 🎀🎨 / 그럼에도 둘이서 숨을 쉬고있어",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/mzener",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/mzener",
+                "start": 0,
+                "url": "https://t.co/sV6iHUPOBN"
+              }
+            ]
+          }
+        },
+        "id": "2040706212266987520",
+        "location": "🎼と❄️は非性愛",
+        "name": "얄뽀",
+        "pinned_tweet_id": "2050506647760724372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043017486942281728/s_AuW99Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/sV6iHUPOBN",
+        "username": "_827430",
+        "verified": false
+      }
+    ]
+  }
+}

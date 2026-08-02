@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043177300934672384"
+      ],
+      "media_source_tweet_id": [
+        "2043177310959161743"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2043182090125238411",
+    "created_at": "2026-04-12T04:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T05:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043182090125238411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u3Q7roqNHb",
+          "end": 64,
+          "expanded_url": "https://x.com/amecandy_x/status/2043177310959161743/photo/1",
+          "media_key": "3_2043177300934672384",
+          "start": 41,
+          "url": "https://t.co/u3Q7roqNHb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043182090125238411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043177310959161743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 呃广州禁毒也是神了，求解码厕妹和od的关系。。。 https://t.co/u3Q7roqNHb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1850,
+        "media_key": "3_2043177300934672384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrS7hNaQAAaFJd.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043177300934672384"
+          ],
+          "media_source_tweet_id": [
+            "2043177310959161743"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2043182090125238411",
+        "created_at": "2026-04-12T04:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043182090125238411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3Q7roqNHb",
+              "end": 64,
+              "expanded_url": "https://x.com/amecandy_x/status/2043177310959161743/photo/1",
+              "media_key": "3_2043177300934672384",
+              "start": 41,
+              "url": "https://t.co/u3Q7roqNHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043182090125238411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043177310959161743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 呃广州禁毒也是神了，求解码厕妹和od的关系。。。 https://t.co/u3Q7roqNHb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043177300934672384"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2043177310959161743",
+        "created_at": "2026-04-12T04:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043177310959161743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3Q7roqNHb",
+              "end": 48,
+              "expanded_url": "https://x.com/amecandy_x/status/2043177310959161743/photo/1",
+              "media_key": "3_2043177300934672384",
+              "start": 25,
+              "url": "https://t.co/u3Q7roqNHb"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2043177310959161743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "呃广州禁毒也是神了，求解码厕妹和od的关系。。。 https://t.co/u3Q7roqNHb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 36,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 58
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 大模型工程师 /  药百GPT开发者 / 抽烟嗑药",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5884,
+          "following_count": 2073,
+          "like_count": 26890,
+          "listed_count": 15,
+          "media_count": 1401,
+          "tweet_count": 9972
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

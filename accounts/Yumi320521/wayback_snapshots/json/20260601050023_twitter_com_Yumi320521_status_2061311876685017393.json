@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061166118618984449",
+        "3_2061166118610608128"
+      ],
+      "media_source_tweet_id": [
+        "2061166125736776110",
+        "2061166125736776110"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2061311876685017393",
+    "created_at": "2026-06-01T05:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061311876685017393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1304790538982273024",
+          "start": 3,
+          "username": "bossgobu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AnMW5jk9TX",
+          "end": 39,
+          "expanded_url": "https://x.com/bossgobu/status/2061166125736776110/photo/1",
+          "media_key": "3_2061166118618984449",
+          "start": 16,
+          "url": "https://t.co/AnMW5jk9TX"
+        },
+        {
+          "display_url": "pic.x.com/AnMW5jk9TX",
+          "end": 39,
+          "expanded_url": "https://x.com/bossgobu/status/2061166125736776110/photo/1",
+          "media_key": "3_2061166118610608128",
+          "start": 16,
+          "url": "https://t.co/AnMW5jk9TX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061311876685017393",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 250
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061166125736776110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bossgobu: 🤫 https://t.co/AnMW5jk9TX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_2061166118618984449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJq7qhNa8AEHPge.jpg",
+        "width": 3840
+      },
+      {
+        "height": 1964,
+        "media_key": "3_2061166118610608128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJq7qhLbIAAFPnZ.jpg",
+        "width": 1244
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061166118618984449",
+            "3_2061166118610608128"
+          ],
+          "media_source_tweet_id": [
+            "2061166125736776110",
+            "2061166125736776110"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2061311876685017393",
+        "created_at": "2026-06-01T05:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061311876685017393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1304790538982273024",
+              "start": 3,
+              "username": "bossgobu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnMW5jk9TX",
+              "end": 39,
+              "expanded_url": "https://x.com/bossgobu/status/2061166125736776110/photo/1",
+              "media_key": "3_2061166118618984449",
+              "start": 16,
+              "url": "https://t.co/AnMW5jk9TX"
+            },
+            {
+              "display_url": "pic.x.com/AnMW5jk9TX",
+              "end": 39,
+              "expanded_url": "https://x.com/bossgobu/status/2061166125736776110/photo/1",
+              "media_key": "3_2061166118610608128",
+              "start": 16,
+              "url": "https://t.co/AnMW5jk9TX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061311876685017393",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 250
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061166125736776110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bossgobu: 🤫 https://t.co/AnMW5jk9TX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061166118618984449",
+            "3_2061166118610608128"
+          ]
+        },
+        "author_id": "1304790538982273024",
+        "conversation_id": "2061166125736776110",
+        "created_at": "2026-05-31T19:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T20:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061166125736776110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnMW5jk9TX",
+              "end": 25,
+              "expanded_url": "https://x.com/bossgobu/status/2061166125736776110/photo/1",
+              "media_key": "3_2061166118618984449",
+              "start": 2,
+              "url": "https://t.co/AnMW5jk9TX"
+            },
+            {
+              "display_url": "pic.x.com/AnMW5jk9TX",
+              "end": 25,
+              "expanded_url": "https://x.com/bossgobu/status/2061166125736776110/photo/1",
+              "media_key": "3_2061166118610608128",
+              "start": 2,
+              "url": "https://t.co/AnMW5jk9TX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061166125736776110",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 22733,
+          "like_count": 1498,
+          "quote_count": 14,
+          "reply_count": 0,
+          "retweet_count": 250
+        },
+        "reply_settings": "everyone",
+        "text": "🤫 https://t.co/AnMW5jk9TX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 91,
+          "like_count": 2507,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 859
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-12T14:34:55.000Z",
+        "description": "プロセカエンジョイ勢 奏と穂波推し：みんなへの質問募集中、DMにて投稿お待ちしております：採用時はこちらから返信します🙋‍♂️イラスト捜索系は❌：更新不定期なサブ→@bossgobu2 ：ヘッダー→ @sakubonge 様 アイコン→ @marimo577 様に描いて頂きました",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "bossgobu2"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "sakubonge"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "marimo577"
+              }
+            ]
+          }
+        },
+        "id": "1304790538982273024",
+        "location": "毎日言おう、かーねーちょん",
+        "name": "ボスゴブ@セカシン横浜参加",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760610085401960448/22dsZv6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98363,
+          "following_count": 23642,
+          "like_count": 58798,
+          "listed_count": 204,
+          "media_count": 23313,
+          "tweet_count": 40729
+        },
+        "username": "bossgobu",
+        "verified": true
+      }
+    ]
+  }
+}

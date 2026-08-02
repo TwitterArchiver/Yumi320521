@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054542639605899264"
+      ],
+      "media_source_tweet_id": [
+        "2054542645888979423"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2054750900368101505",
+    "created_at": "2026-05-14T02:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T03:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054750900368101505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1940035434530447360",
+          "start": 3,
+          "username": "___ll7n6d"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LQh9ZEYuy6",
+          "end": 50,
+          "expanded_url": "https://x.com/___ll7n6d/status/2054542645888979423/photo/1",
+          "media_key": "3_2054542639605899264",
+          "start": 27,
+          "url": "https://t.co/LQh9ZEYuy6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054750900368101505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 214
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054542645888979423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @___ll7n6d: みずえな 🤍𝜗𝜚 .⋆ https://t.co/LQh9ZEYuy6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1590,
+        "media_key": "3_2054542639605899264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMzpTGaYAAj1YD.jpg",
+        "width": 1146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054542639605899264"
+          ],
+          "media_source_tweet_id": [
+            "2054542645888979423"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2054750900368101505",
+        "created_at": "2026-05-14T02:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T03:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054750900368101505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1940035434530447360",
+              "start": 3,
+              "username": "___ll7n6d"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQh9ZEYuy6",
+              "end": 50,
+              "expanded_url": "https://x.com/___ll7n6d/status/2054542645888979423/photo/1",
+              "media_key": "3_2054542639605899264",
+              "start": 27,
+              "url": "https://t.co/LQh9ZEYuy6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054750900368101505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054542645888979423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @___ll7n6d: みずえな 🤍𝜗𝜚 .⋆ https://t.co/LQh9ZEYuy6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054542639605899264"
+          ]
+        },
+        "author_id": "1940035434530447360",
+        "conversation_id": "2054542645888979423",
+        "created_at": "2026-05-13T12:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054542645888979423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQh9ZEYuy6",
+              "end": 35,
+              "expanded_url": "https://x.com/___ll7n6d/status/2054542645888979423/photo/1",
+              "media_key": "3_2054542639605899264",
+              "start": 12,
+              "url": "https://t.co/LQh9ZEYuy6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054542645888979423",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 160,
+          "impression_count": 15177,
+          "like_count": 1795,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "みずえな 🤍𝜗𝜚 .⋆ https://t.co/LQh9ZEYuy6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n好累…",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 65,
+          "like_count": 1164,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 233
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T13:11:40.000Z",
+        "description": "illustration ⏦ﾟ￤ 🍼￤skeb▷▷ https://t.co/PRAX97P1iX ￤ ご依頼について▷▷ https://t.co/cmfHisz3HW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@___ll7n6d",
+                "end": 49,
+                "expanded_url": "http://skeb.jp/@___ll7n6d",
+                "start": 26,
+                "url": "https://t.co/PRAX97P1iX"
+              },
+              {
+                "display_url": "lit.link/ll7n6d",
+                "end": 85,
+                "expanded_url": "https://lit.link/ll7n6d",
+                "start": 62,
+                "url": "https://t.co/cmfHisz3HW"
+              }
+            ]
+          }
+        },
+        "id": "1940035434530447360",
+        "location": "🍈🪽",
+        "name": "くむぎ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993294653840637952/2Plronm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 35,
+          "like_count": 2179,
+          "listed_count": 8,
+          "media_count": 21,
+          "tweet_count": 161
+        },
+        "username": "___ll7n6d",
+        "verified": false
+      }
+    ]
+  }
+}

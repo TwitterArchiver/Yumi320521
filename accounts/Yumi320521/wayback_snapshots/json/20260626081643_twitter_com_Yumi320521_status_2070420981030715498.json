@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1320741783333056513",
+        "3_1320741791872610304"
+      ],
+      "media_source_tweet_id": [
+        "1320741811669725186",
+        "1320741811669725186"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2070420981030715498",
+    "created_at": "2026-06-26T08:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070420981030715498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "324391547",
+          "start": 3,
+          "username": "avogado6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nTt8jdVp2O",
+          "end": 40,
+          "expanded_url": "https://x.com/avogado6/status/1320741811669725186/photo/1",
+          "media_key": "3_1320741783333056513",
+          "start": 17,
+          "url": "https://t.co/nTt8jdVp2O"
+        },
+        {
+          "display_url": "pic.x.com/nTt8jdVp2O",
+          "end": 40,
+          "expanded_url": "https://x.com/avogado6/status/1320741811669725186/photo/1",
+          "media_key": "3_1320741791872610304",
+          "start": 17,
+          "url": "https://t.co/nTt8jdVp2O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070420981030715498",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6466
+    },
+    "referenced_tweets": [
+      {
+        "id": "1320741811669725186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @avogado6: OD https://t.co/nTt8jdVp2O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1320741783333056513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/ElQ3p4OVMAEDqlM.jpg",
+        "width": 3600
+      },
+      {
+        "height": 3000,
+        "media_key": "3_1320741791872610304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/ElQ3qYCUcAA-WIL.jpg",
+        "width": 3600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1320741783333056513",
+            "3_1320741791872610304"
+          ],
+          "media_source_tweet_id": [
+            "1320741811669725186",
+            "1320741811669725186"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2070420981030715498",
+        "created_at": "2026-06-26T08:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070420981030715498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "324391547",
+              "start": 3,
+              "username": "avogado6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nTt8jdVp2O",
+              "end": 40,
+              "expanded_url": "https://x.com/avogado6/status/1320741811669725186/photo/1",
+              "media_key": "3_1320741783333056513",
+              "start": 17,
+              "url": "https://t.co/nTt8jdVp2O"
+            },
+            {
+              "display_url": "pic.x.com/nTt8jdVp2O",
+              "end": 40,
+              "expanded_url": "https://x.com/avogado6/status/1320741811669725186/photo/1",
+              "media_key": "3_1320741791872610304",
+              "start": 17,
+              "url": "https://t.co/nTt8jdVp2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070420981030715498",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6466
+        },
+        "referenced_tweets": [
+          {
+            "id": "1320741811669725186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @avogado6: OD https://t.co/nTt8jdVp2O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1320741783333056513",
+            "3_1320741791872610304"
+          ]
+        },
+        "author_id": "324391547",
+        "conversation_id": "1320741811669725186",
+        "created_at": "2020-10-26T14:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2020-10-26T15:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1320741811669725186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nTt8jdVp2O",
+              "end": 26,
+              "expanded_url": "https://x.com/avogado6/status/1320741811669725186/photo/1",
+              "media_key": "3_1320741783333056513",
+              "start": 3,
+              "url": "https://t.co/nTt8jdVp2O"
+            },
+            {
+              "display_url": "pic.x.com/nTt8jdVp2O",
+              "end": 26,
+              "expanded_url": "https://x.com/avogado6/status/1320741811669725186/photo/1",
+              "media_key": "3_1320741791872610304",
+              "start": 3,
+              "url": "https://t.co/nTt8jdVp2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1320741811669725186",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 579,
+          "impression_count": 0,
+          "like_count": 67541,
+          "quote_count": 243,
+          "reply_count": 106,
+          "retweet_count": 6466
+        },
+        "reply_settings": "everyone",
+        "text": "OD https://t.co/nTt8jdVp2O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 141,
+          "like_count": 4652,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 885
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-26T14:46:50.000Z",
+        "description": "化学が好きな一般人です。映像作品とか創ってます。https://t.co/lMOTGT5AX4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/28725264",
+                "end": 47,
+                "expanded_url": "http://nicovideo.jp/mylist/28725264",
+                "start": 24,
+                "url": "https://t.co/lMOTGT5AX4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "avogado6.com",
+                "end": 23,
+                "expanded_url": "https://www.avogado6.com/",
+                "start": 0,
+                "url": "https://t.co/C6ykDstxlb"
+              }
+            ]
+          }
+        },
+        "id": "324391547",
+        "name": "アボガド6",
+        "pinned_tweet_id": "2046566686254637230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/982977860804554753/2TGsjSo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2415982,
+          "following_count": 22,
+          "like_count": 35,
+          "listed_count": 8816,
+          "media_count": 3726,
+          "tweet_count": 4459
+        },
+        "url": "https://t.co/C6ykDstxlb",
+        "username": "avogado6",
+        "verified": true
+      }
+    ]
+  }
+}

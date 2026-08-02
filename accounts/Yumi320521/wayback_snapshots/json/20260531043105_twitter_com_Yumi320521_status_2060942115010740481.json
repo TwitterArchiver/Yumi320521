@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060942115010740481",
+    "created_at": "2026-05-31T04:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060942115010740481"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060942115010740481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从小就告诉我节俭 家穷 草他妈初中前一晚上到现在我都不能忘记..同学家都有地位真的吗 在我眼里就是我们是个老鼠 钻到了宫殿 但是那些死母同学一直孤立霸凌我 甚至做了一些违法的事情 我一直当老鼠活的 我受够了这样的生活 一毛钱也要对比 还有个控制欲强和精神肉体压力的父母"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060942115010740481",
+        "created_at": "2026-05-31T04:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060942115010740481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060942115010740481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从小就告诉我节俭 家穷 草他妈初中前一晚上到现在我都不能忘记..同学家都有地位真的吗 在我眼里就是我们是个老鼠 钻到了宫殿 但是那些死母同学一直孤立霸凌我 甚至做了一些违法的事情 我一直当老鼠活的 我受够了这样的生活 一毛钱也要对比 还有个控制欲强和精神肉体压力的父母"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 88,
+          "like_count": 2404,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 794
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

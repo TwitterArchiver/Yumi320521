@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050947997396353024"
+      ],
+      "media_source_tweet_id": [
+        "2050948205953892607"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2050970609514111223",
+    "created_at": "2026-05-03T16:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T17:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050970609514111223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1765214863453016064",
+          "start": 3,
+          "username": "DEATHDOL_NOTE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hBrLdg6BEV",
+          "end": 59,
+          "expanded_url": "https://x.com/DEATHDOL_NOTE/status/2050948205953892607/photo/1",
+          "media_key": "3_2050947997396353024",
+          "start": 36,
+          "url": "https://t.co/hBrLdg6BEV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050970609514111223",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 276
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050948205953892607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DEATHDOL_NOTE: 【デスドル史上最高 超特大暴露】 https://t.co/hBrLdg6BEV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2050947997396353024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZuVlWbwAAvCP3.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050947997396353024"
+          ],
+          "media_source_tweet_id": [
+            "2050948205953892607"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2050970609514111223",
+        "created_at": "2026-05-03T16:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050970609514111223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1765214863453016064",
+              "start": 3,
+              "username": "DEATHDOL_NOTE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hBrLdg6BEV",
+              "end": 59,
+              "expanded_url": "https://x.com/DEATHDOL_NOTE/status/2050948205953892607/photo/1",
+              "media_key": "3_2050947997396353024",
+              "start": 36,
+              "url": "https://t.co/hBrLdg6BEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050970609514111223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 276
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050948205953892607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DEATHDOL_NOTE: 【デスドル史上最高 超特大暴露】 https://t.co/hBrLdg6BEV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050947997396353024"
+          ]
+        },
+        "author_id": "1765214863453016064",
+        "conversation_id": "2050948205953892607",
+        "created_at": "2026-05-03T14:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050948205953892607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hBrLdg6BEV",
+              "end": 40,
+              "expanded_url": "https://x.com/DEATHDOL_NOTE/status/2050948205953892607/photo/1",
+              "media_key": "3_2050947997396353024",
+              "start": 17,
+              "url": "https://t.co/hBrLdg6BEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050948205953892607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1425,
+          "impression_count": 3191444,
+          "like_count": 7657,
+          "quote_count": 538,
+          "reply_count": 987,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "【デスドル史上最高 超特大暴露】 https://t.co/hBrLdg6BEV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg\n桃井爱莉｜地雷系｜od｜自残\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 54,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 169
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T03:16:46.000Z",
+        "description": "名前を書かれたアイドルは晒される。タレコミやお仕事のご依頼はDMまで。サブ垢@deathdolnote 創設者@masawo_deathdol",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "deathdolnote"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "masawo_deathdol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@DEATHDOLNOTE",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@DEATHDOLNOTE",
+                "start": 0,
+                "url": "https://t.co/kFGt9GlQKe"
+              }
+            ]
+          }
+        },
+        "id": "1765214863453016064",
+        "name": "DEATHDOL NOTE",
+        "pinned_tweet_id": "2022226072407093424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043465780688556032/8qWpX6XZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158262,
+          "following_count": 10,
+          "like_count": 11864,
+          "listed_count": 771,
+          "media_count": 250,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/kFGt9GlQKe",
+        "username": "DEATHDOL_NOTE",
+        "verified": true
+      }
+    ]
+  }
+}

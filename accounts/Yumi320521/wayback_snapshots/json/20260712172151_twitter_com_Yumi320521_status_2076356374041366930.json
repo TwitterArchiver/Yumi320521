@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2076356374041366930",
+    "created_at": "2026-07-12T17:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076356374041366930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776272593089331200",
+          "start": 3,
+          "username": "wwwwRaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076356374041366930",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076165071588540696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wwwwRaii: 有朋友真好 世界上最不能缺的就是好朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2076356374041366930",
+        "created_at": "2026-07-12T17:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076356374041366930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776272593089331200",
+              "start": 3,
+              "username": "wwwwRaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076356374041366930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076165071588540696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wwwwRaii: 有朋友真好 世界上最不能缺的就是好朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776272593089331200",
+        "conversation_id": "2076165071588540696",
+        "created_at": "2026-07-12T04:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076165071588540696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076165071588540696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有朋友真好 世界上最不能缺的就是好朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n致死 及ぶさ オーバードース🐈‍⬛🐾\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 159,
+          "like_count": 5614,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1416
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T15:36:25.000Z",
+        "description": "愛してくれてありがとう",
+        "id": "1776272593089331200",
+        "name": "ラン",
+        "pinned_tweet_id": "1944442477047595145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074198708414300160/2BjS8Poq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 91,
+          "like_count": 3085,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2233
+        },
+        "url": "",
+        "username": "wwwwRaii",
+        "verified": false
+      }
+    ]
+  }
+}

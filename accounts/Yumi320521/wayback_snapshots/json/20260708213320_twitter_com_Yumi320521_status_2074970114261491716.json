@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074817710601781248"
+      ],
+      "media_source_tweet_id": [
+        "2074818216178905246"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2074970114261491716",
+    "created_at": "2026-07-08T21:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T22:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074970114261491716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1851829070763618304",
+          "start": 3,
+          "username": "usagi_melon3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TdWE8UiCG7",
+          "end": 50,
+          "expanded_url": "https://x.com/usagi_melon3/status/2074818216178905246/photo/1",
+          "media_key": "3_2074817710601781248",
+          "start": 27,
+          "url": "https://t.co/TdWE8UiCG7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074970114261491716",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 476
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074818216178905246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usagi_melon3: もちもち❄️🎼🥧 https://t.co/TdWE8UiCG7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1878,
+        "media_key": "3_2074817710601781248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMs7twYbwAA__hd.jpg",
+        "width": 2962
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074817710601781248"
+          ],
+          "media_source_tweet_id": [
+            "2074818216178905246"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2074970114261491716",
+        "created_at": "2026-07-08T21:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T22:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074970114261491716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1851829070763618304",
+              "start": 3,
+              "username": "usagi_melon3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TdWE8UiCG7",
+              "end": 50,
+              "expanded_url": "https://x.com/usagi_melon3/status/2074818216178905246/photo/1",
+              "media_key": "3_2074817710601781248",
+              "start": 27,
+              "url": "https://t.co/TdWE8UiCG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074970114261491716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 476
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074818216178905246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usagi_melon3: もちもち❄️🎼🥧 https://t.co/TdWE8UiCG7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074817710601781248"
+          ]
+        },
+        "author_id": "1851829070763618304",
+        "conversation_id": "2074818216178905246",
+        "created_at": "2026-07-08T11:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074818216178905246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TdWE8UiCG7",
+              "end": 32,
+              "expanded_url": "https://x.com/usagi_melon3/status/2074818216178905246/photo/1",
+              "media_key": "3_2074817710601781248",
+              "start": 9,
+              "url": "https://t.co/TdWE8UiCG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074818216178905246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1423,
+          "impression_count": 47942,
+          "like_count": 6375,
+          "quote_count": 14,
+          "reply_count": 12,
+          "retweet_count": 476
+        },
+        "reply_settings": "everyone",
+        "text": "もちもち❄️🎼🥧 https://t.co/TdWE8UiCG7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 143,
+          "like_count": 5412,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1288
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T03:30:45.000Z",
+        "description": "ムチムチした絵を描いています。イラストの無断利用、無断転載＆AI学習❌\nサブ垢⇒@ekakunin012722\n✉️：maruusa22pochitarou@gmail.com\nskeb：https://t.co/w9pZse9Y6g",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 40,
+                "username": "ekakunin012722"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@usagi_melon3",
+                "end": 117,
+                "expanded_url": "https://skeb.jp/@usagi_melon3",
+                "start": 94,
+                "url": "https://t.co/w9pZse9Y6g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/111177095",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/111177095",
+                "start": 0,
+                "url": "https://t.co/sVzx0G1d3V"
+              }
+            ]
+          }
+        },
+        "id": "1851829070763618304",
+        "name": "うさぎメロン3@1日目西な25b",
+        "pinned_tweet_id": "2062830676307783869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862142901716942848/Q1OXuV8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24598,
+          "following_count": 149,
+          "like_count": 2597,
+          "listed_count": 105,
+          "media_count": 213,
+          "tweet_count": 2911
+        },
+        "url": "https://t.co/sVzx0G1d3V",
+        "username": "usagi_melon3",
+        "verified": true
+      }
+    ]
+  }
+}

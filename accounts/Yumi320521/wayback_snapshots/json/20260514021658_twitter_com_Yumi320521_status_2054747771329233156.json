@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054500878242226176"
+      ],
+      "media_source_tweet_id": [
+        "2054500894398726506"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2054747771329233156",
+    "created_at": "2026-05-14T02:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T03:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054747771329233156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1986136179721240576",
+          "start": 3,
+          "username": "QwQIO3O"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kYnn30BjNm",
+          "end": 81,
+          "expanded_url": "https://x.com/QwQIO3O/status/2054500894398726506/photo/1",
+          "media_key": "3_2054500878242226176",
+          "start": 58,
+          "url": "https://t.co/kYnn30BjNm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054747771329233156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054500894398726506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QwQIO3O: 卧槽居然有人这样评价我们冰工厂，一块钱的雪糕做成这样的美味还在这挑刺，我操死你啊啊啊啊啊 https://t.co/kYnn30BjNm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054500878242226176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMNqd5bIAAhKYU.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054500878242226176"
+          ],
+          "media_source_tweet_id": [
+            "2054500894398726506"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054747771329233156",
+        "created_at": "2026-05-14T02:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T03:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054747771329233156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1986136179721240576",
+              "start": 3,
+              "username": "QwQIO3O"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kYnn30BjNm",
+              "end": 81,
+              "expanded_url": "https://x.com/QwQIO3O/status/2054500894398726506/photo/1",
+              "media_key": "3_2054500878242226176",
+              "start": 58,
+              "url": "https://t.co/kYnn30BjNm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054747771329233156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054500894398726506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QwQIO3O: 卧槽居然有人这样评价我们冰工厂，一块钱的雪糕做成这样的美味还在这挑刺，我操死你啊啊啊啊啊 https://t.co/kYnn30BjNm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054500878242226176"
+          ]
+        },
+        "author_id": "1986136179721240576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054500894398726506",
+        "created_at": "2026-05-13T09:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054500894398726506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kYnn30BjNm",
+              "end": 68,
+              "expanded_url": "https://x.com/QwQIO3O/status/2054500894398726506/photo/1",
+              "media_key": "3_2054500878242226176",
+              "start": 45,
+              "url": "https://t.co/kYnn30BjNm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054500894398726506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 29285,
+          "like_count": 356,
+          "quote_count": 2,
+          "reply_count": 96,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽居然有人这样评价我们冰工厂，一块钱的雪糕做成这样的美味还在这挑刺，我操死你啊啊啊啊啊 https://t.co/kYnn30BjNm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n好累…",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 65,
+          "like_count": 1150,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 230
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T18:20:18.000Z",
+        "description": "说好话，做好事",
+        "id": "1986136179721240576",
+        "location": "南京",
+        "name": "盖浇饭",
+        "pinned_tweet_id": "2048611512672256383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034605424658481152/uKDUuhoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 240,
+          "like_count": 9085,
+          "listed_count": 1,
+          "media_count": 421,
+          "tweet_count": 2187
+        },
+        "username": "QwQIO3O",
+        "verified": false
+      }
+    ]
+  }
+}

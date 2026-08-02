@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2070563705335746607",
+    "created_at": "2026-06-27T08:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070793706056327488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1494669485214633984",
+          "start": 0,
+          "username": "Nu1tZ333216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070793706056327488",
+    "in_reply_to_user_id": "1494669485214633984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070791419007263095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nu1tZ333216 竟然这么便宜 有推荐商家吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2070563705335746607",
+        "created_at": "2026-06-27T08:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070793706056327488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "Nu1tZ333216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070793706056327488",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070791419007263095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nu1tZ333216 竟然这么便宜 有推荐商家吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2070563705335746607",
+        "created_at": "2026-06-27T08:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070791419007263095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070791419007263095",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070563705335746607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 我买的是1hkd/t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 140,
+          "like_count": 4721,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 912
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？ 航天/观鸟/音游 enby any pronoun hrt2026.3 阴湿自闭地雷精神病药蛆毒虫促智批 混沌中立 已去键政化......                 \n夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 138,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 115,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 1800,
+          "like_count": 80380,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 5093
+        },
+        "url": "",
+        "username": "Nu1tZ333216",
+        "verified": false
+      }
+    ]
+  }
+}

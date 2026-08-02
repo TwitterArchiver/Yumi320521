@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2053103246059938035",
+    "created_at": "2026-05-09T13:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053103246059938035"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053103246059938035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那几天我特别喜欢0.1g的误算 两天切了12700 円的东西 结果大概是三天后就塌房了😅我还是忘不掉好想每天都说一遍 真的是又气又心疼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2053103246059938035",
+        "created_at": "2026-05-09T13:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053103246059938035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053103246059938035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那几天我特别喜欢0.1g的误算 两天切了12700 円的东西 结果大概是三天后就塌房了😅我还是忘不掉好想每天都说一遍 真的是又气又心疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "💙ゆず🩵🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 65,
+          "like_count": 1109,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 219
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

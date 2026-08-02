@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2068970022329094144"
+      ],
+      "media_source_tweet_id": [
+        "2068970046454747499"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069140213340025032",
+    "created_at": "2026-06-22T19:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T20:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069140213340025032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1985536149541306371",
+          "start": 3,
+          "username": "hime1004chi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o5sFupyr5L",
+          "end": 51,
+          "expanded_url": "https://x.com/hime1004chi/status/2068970046454747499/video/1",
+          "media_key": "7_2068970022329094144",
+          "start": 28,
+          "url": "https://t.co/o5sFupyr5L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069140213340025032",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068970046454747499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hime1004chi: ❤︎아이리라이드❤︎ https://t.co/o5sFupyr5L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18715,
+        "height": 590,
+        "media_key": "7_2068970022329094144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068970022329094144/pu/img/jpCIvEpqqjHoVlXD.jpg",
+        "public_metrics": {
+          "view_count": 110
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068970022329094144/pu/vid/avc1/584x270/mlvuzLCTxfsFxBNJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068970022329094144/pu/vid/avc1/780x360/WFsua7_lpR99OSad.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068970022329094144/pu/vid/avc1/1280x590/p6_Yfr95FA9y-6N8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068970022329094144/pu/pl/0RMR1nCYecPu5Wag.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068970022329094144"
+          ],
+          "media_source_tweet_id": [
+            "2068970046454747499"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069140213340025032",
+        "created_at": "2026-06-22T19:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T20:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069140213340025032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1985536149541306371",
+              "start": 3,
+              "username": "hime1004chi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5sFupyr5L",
+              "end": 51,
+              "expanded_url": "https://x.com/hime1004chi/status/2068970046454747499/video/1",
+              "media_key": "7_2068970022329094144",
+              "start": 28,
+              "url": "https://t.co/o5sFupyr5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069140213340025032",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068970046454747499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hime1004chi: ❤︎아이리라이드❤︎ https://t.co/o5sFupyr5L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068970022329094144"
+          ]
+        },
+        "author_id": "1985536149541306371",
+        "conversation_id": "2068970046454747499",
+        "created_at": "2026-06-22T08:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068970046454747499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5sFupyr5L",
+              "end": 34,
+              "expanded_url": "https://x.com/hime1004chi/status/2068970046454747499/video/1",
+              "media_key": "7_2068970022329094144",
+              "start": 11,
+              "url": "https://t.co/o5sFupyr5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068970046454747499",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 343,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "❤︎아이리라이드❤︎ https://t.co/o5sFupyr5L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 136,
+          "like_count": 4140,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 755
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T02:35:00.000Z",
+        "description": "🎨🍑🎨\n☘️\n스토리 스포○\n\nsub: @himecat1004",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "himecat1004"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/himechi1004",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/himechi1004",
+                "start": 0,
+                "url": "https://t.co/RZq7qdOaHa"
+              }
+            ]
+          }
+        },
+        "id": "1985536149541306371",
+        "location": "🍑右",
+        "name": "ヒメ",
+        "pinned_tweet_id": "2060271974128271360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039358299708280832/UmishZgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 53,
+          "like_count": 1635,
+          "listed_count": 0,
+          "media_count": 689,
+          "tweet_count": 2518
+        },
+        "url": "https://t.co/RZq7qdOaHa",
+        "username": "hime1004chi",
+        "verified": false
+      }
+    ]
+  }
+}

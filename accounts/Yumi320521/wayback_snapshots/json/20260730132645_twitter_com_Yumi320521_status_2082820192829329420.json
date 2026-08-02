@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082820172277317633",
+        "3_2082820172268920832"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082820192829329420",
+    "created_at": "2026-07-30T13:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082820192829329420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AOuep5YcLd",
+          "end": 34,
+          "expanded_url": "https://x.com/Yumi320521/status/2082820192829329420/photo/1",
+          "media_key": "3_2082820172277317633",
+          "start": 11,
+          "url": "https://t.co/AOuep5YcLd"
+        },
+        {
+          "display_url": "pic.x.com/AOuep5YcLd",
+          "end": 34,
+          "expanded_url": "https://x.com/Yumi320521/status/2082820192829329420/photo/1",
+          "media_key": "3_2082820172268920832",
+          "start": 11,
+          "url": "https://t.co/AOuep5YcLd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082820192829329420",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "赤いハートの女王❤︎ https://t.co/AOuep5YcLd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082820172277317633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOep6VObgAE81_d.jpg",
+        "width": 1538
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2082820172268920832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOep6VMbYAApk1e.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082820172277317633",
+            "3_2082820172268920832"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082820192829329420",
+        "created_at": "2026-07-30T13:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082820192829329420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AOuep5YcLd",
+              "end": 34,
+              "expanded_url": "https://x.com/Yumi320521/status/2082820192829329420/photo/1",
+              "media_key": "3_2082820172277317633",
+              "start": 11,
+              "url": "https://t.co/AOuep5YcLd"
+            },
+            {
+              "display_url": "pic.x.com/AOuep5YcLd",
+              "end": 34,
+              "expanded_url": "https://x.com/Yumi320521/status/2082820192829329420/photo/1",
+              "media_key": "3_2082820172268920832",
+              "start": 11,
+              "url": "https://t.co/AOuep5YcLd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082820192829329420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赤いハートの女王❤︎ https://t.co/AOuep5YcLd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 157,
+          "like_count": 5963,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1625
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

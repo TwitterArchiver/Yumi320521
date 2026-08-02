@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069128063007490244",
+    "created_at": "2026-06-22T22:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T23:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069185838341316869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053188363566391296",
+          "start": 0,
+          "username": "ayahuasca6948"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069185838341316869",
+    "in_reply_to_user_id": "2053188363566391296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069184605538906607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayahuasca6948 来来来😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069128063007490244",
+        "created_at": "2026-06-22T22:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T23:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069185838341316869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053188363566391296",
+              "start": 0,
+              "username": "ayahuasca6948"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069185838341316869",
+        "in_reply_to_user_id": "2053188363566391296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069184605538906607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayahuasca6948 来来来😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053188363566391296",
+        "conversation_id": "2069128063007490244",
+        "created_at": "2026-06-22T22:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T23:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069184605538906607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069184605538906607",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069128063007490244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 媽媽。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 136,
+          "like_count": 4164,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 766
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T19:00:39.000Z",
+        "description": "死藤水改革歸來，看廣州禁毒土崩瓦解，化學極樂的日子終將到來。",
+        "id": "2053188363566391296",
+        "name": "Len1n",
+        "pinned_tweet_id": "2056634860186530096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053188556403945472/rkYeyjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 20,
+          "like_count": 4106,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "ayahuasca6948",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059881020086993093",
+    "created_at": "2026-05-28T06:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059881020086993093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/borvior/status…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/borvior/status/2059618849876529303",
+          "start": 60,
+          "url": "https://t.co/mmLIeMxRQq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059881020086993093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059618849876529303",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "7h-15h 9h-17h我感觉都不错 不过上班很罪恶啊 但是这两个时间都是充满阳光的 所以我很开心吧可能 我喜欢白天 https://t.co/mmLIeMxRQq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059881020086993093",
+        "created_at": "2026-05-28T06:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059881020086993093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/borvior/status…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/borvior/status/2059618849876529303",
+              "start": 60,
+              "url": "https://t.co/mmLIeMxRQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059881020086993093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059618849876529303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "7h-15h 9h-17h我感觉都不错 不过上班很罪恶啊 但是这两个时间都是充满阳光的 所以我很开心吧可能 我喜欢白天 https://t.co/mmLIeMxRQq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "69756300",
+        "conversation_id": "2059618849876529303",
+        "created_at": "2026-05-27T12:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059618849876529303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059618849876529303",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 751,
+          "impression_count": 3895409,
+          "like_count": 16706,
+          "quote_count": 2061,
+          "reply_count": 2310,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "Qual turno de trabalho você preferiria pegar?\n\n• 5h às 13h\n• 7h às 15h\n• 9h às 17h\n• 15h às 23h\n• 22h às 6h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 76,
+          "like_count": 1994,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 665
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-29T01:54:06.000Z",
+        "description": "poxa bb que barra… vai avisando qualquer coisa tá",
+        "id": "69756300",
+        "location": "São Paulo, Brasil",
+        "name": "vitor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041034499623124993/FLH6Iw7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57658,
+          "following_count": 2306,
+          "like_count": 38646,
+          "listed_count": 919,
+          "media_count": 1094,
+          "tweet_count": 67402
+        },
+        "username": "borvior",
+        "verified": true
+      }
+    ]
+  }
+}

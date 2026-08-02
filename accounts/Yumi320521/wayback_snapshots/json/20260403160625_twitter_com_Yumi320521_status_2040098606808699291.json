@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037568801949315072"
+      ],
+      "media_source_tweet_id": [
+        "2037568891132764377"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2040098606808699291",
+    "created_at": "2026-04-03T16:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T17:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040098606808699291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1168879969579061249",
+          "start": 3,
+          "username": "spon_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l2sFNLHkA3",
+          "end": 41,
+          "expanded_url": "https://x.com/spon_7/status/2037568891132764377/photo/1",
+          "media_key": "3_2037568801949315072",
+          "start": 18,
+          "url": "https://t.co/l2sFNLHkA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040098606808699291",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 143
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037568891132764377",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @spon_7: べいえいほ https://t.co/l2sFNLHkA3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 520,
+        "media_key": "3_2037568801949315072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbmB6WbcAAn3FS.png",
+        "width": 520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037568801949315072"
+          ],
+          "media_source_tweet_id": [
+            "2037568891132764377"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2040098606808699291",
+        "created_at": "2026-04-03T16:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040098606808699291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1168879969579061249",
+              "start": 3,
+              "username": "spon_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l2sFNLHkA3",
+              "end": 41,
+              "expanded_url": "https://x.com/spon_7/status/2037568891132764377/photo/1",
+              "media_key": "3_2037568801949315072",
+              "start": 18,
+              "url": "https://t.co/l2sFNLHkA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040098606808699291",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037568891132764377",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @spon_7: べいえいほ https://t.co/l2sFNLHkA3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037568801949315072"
+          ]
+        },
+        "author_id": "1168879969579061249",
+        "conversation_id": "2037568891132764377",
+        "created_at": "2026-03-27T16:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037568891132764377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l2sFNLHkA3",
+              "end": 29,
+              "expanded_url": "https://x.com/spon_7/status/2037568891132764377/photo/1",
+              "media_key": "3_2037568801949315072",
+              "start": 6,
+              "url": "https://t.co/l2sFNLHkA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037568891132764377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 14924,
+          "like_count": 2342,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "べいえいほ https://t.co/l2sFNLHkA3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "Yumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 26,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-03T13:34:44.000Z",
+        "description": "ᓀ‸ᓂ👍🍺🍜🍣アル中/成人/へたりや💙💚主/あん🌟、🌈🕒 大体ごはんの写真絵は描きたい時に描く💐🤍 スペース多めです🐶アイコンはにらっち画🐶別アカ【@sppn_3】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 74,
+                "username": "sppn_3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/123sws",
+                "end": 23,
+                "expanded_url": "https://pixiv.me/123sws",
+                "start": 0,
+                "url": "https://t.co/hPTLRE9bNj"
+              }
+            ]
+          }
+        },
+        "id": "1168879969579061249",
+        "name": "さわべ",
+        "pinned_tweet_id": "1765076600138449027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835567351061975040/DYq1y3EB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5214,
+          "following_count": 217,
+          "like_count": 18294,
+          "listed_count": 2,
+          "media_count": 1010,
+          "tweet_count": 7716
+        },
+        "url": "https://t.co/hPTLRE9bNj",
+        "username": "spon_7",
+        "verified": false
+      }
+    ]
+  }
+}

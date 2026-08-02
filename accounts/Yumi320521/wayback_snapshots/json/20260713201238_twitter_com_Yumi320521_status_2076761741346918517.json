@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2076621069679812974",
+    "created_at": "2026-07-13T20:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T21:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076761741346918517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829229897195368455",
+          "start": 0,
+          "username": "angel_OvO27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076761741346918517",
+    "in_reply_to_user_id": "1829229897195368455",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076621069679812974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angel_OvO27 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076621062323007488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGj2pDbcAAcBGk.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076621062285266944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGj2o6bkAACU-v.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2076621069679812974",
+        "created_at": "2026-07-13T20:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T21:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076761741346918517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829229897195368455",
+              "start": 0,
+              "username": "angel_OvO27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076761741346918517",
+        "in_reply_to_user_id": "1829229897195368455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076621069679812974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angel_OvO27 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076621062323007488",
+            "3_2076621062285266944"
+          ]
+        },
+        "author_id": "1829229897195368455",
+        "conversation_id": "2076621069679812974",
+        "created_at": "2026-07-13T10:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076621069679812974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DBuhtp0oDM",
+              "end": 27,
+              "expanded_url": "https://x.com/angel_OvO27/status/2076621069679812974/photo/1",
+              "media_key": "3_2076621062323007488",
+              "start": 4,
+              "url": "https://t.co/DBuhtp0oDM"
+            },
+            {
+              "display_url": "pic.x.com/DBuhtp0oDM",
+              "end": 27,
+              "expanded_url": "https://x.com/angel_OvO27/status/2076621069679812974/photo/1",
+              "media_key": "3_2076621062285266944",
+              "start": 4,
+              "url": "https://t.co/DBuhtp0oDM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076621069679812974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2734,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绝绝子 https://t.co/DBuhtp0oDM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか🐈‍⬛🐾\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 158,
+          "like_count": 5667,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1446
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户487",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068721135324385280/FkNg_ewA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2721,
+          "following_count": 65,
+          "like_count": 2667,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 5327
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "angel_OvO27",
+        "verified": false
+      }
+    ]
+  }
+}

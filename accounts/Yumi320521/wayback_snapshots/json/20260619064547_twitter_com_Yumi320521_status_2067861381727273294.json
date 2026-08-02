@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2067861381727273294",
+    "created_at": "2026-06-19T06:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067861381727273294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1158668053183266816",
+          "start": 3,
+          "username": "pj_sekai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067861381727273294",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7072
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067851547623715194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pj_sekai: 明日、6月20日15:00より\nイベント『Phantom maze monster』を開催👿\n\n会議により自分達の公演をやろうと決めたワンダーランズ×ショウタイム。榊の協力で劇場の確保も叶い順調に初日を迎える。しかし公演後榊から「この公演はまだ良くな…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2067851543681105920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJ8BeVbAAAyVOS.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2067861381727273294",
+        "created_at": "2026-06-19T06:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067861381727273294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1158668053183266816",
+              "start": 3,
+              "username": "pj_sekai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067861381727273294",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7072
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067851547623715194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pj_sekai: 明日、6月20日15:00より\nイベント『Phantom maze monster』を開催👿\n\n会議により自分達の公演をやろうと決めたワンダーランズ×ショウタイム。榊の協力で劇場の確保も叶い順調に初日を迎える。しかし公演後榊から「この公演はまだ良くな…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067851543681105920"
+          ]
+        },
+        "author_id": "1158668053183266816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2067851547623715194",
+        "created_at": "2026-06-19T06:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067851547623715194"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 156,
+              "start": 151,
+              "tag": "プロセカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6dOR9vRmqH",
+              "end": 180,
+              "expanded_url": "https://x.com/pj_sekai/status/2067851547623715194/photo/1",
+              "media_key": "3_2067851543681105920",
+              "start": 157,
+              "url": "https://t.co/6dOR9vRmqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067851547623715194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1405,
+          "impression_count": 667905,
+          "like_count": 18677,
+          "quote_count": 4817,
+          "reply_count": 239,
+          "retweet_count": 7072
+        },
+        "reply_settings": "everyone",
+        "text": "明日、6月20日15:00より\nイベント『Phantom maze monster』を開催👿\n\n会議により自分達の公演をやろうと決めたワンダーランズ×ショウタイム。榊の協力で劇場の確保も叶い順調に初日を迎える。しかし公演後榊から「この公演はまだ良くなる。よければ手伝わせてくれない？」と言われ——。\n\n#プロセカ https://t.co/6dOR9vRmqH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼 \n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2067556150426669153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067554649486573568/_C_kHJDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 120,
+          "like_count": 3597,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 658
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-06T09:16:05.000Z",
+        "description": "SEGA×Colorful Paletteが贈る、スマートフォンリズムゲーム #プロセカ 公式アカウント\nクリスタルをお得に買える公式ストアはこちら：https://t.co/zacMyTdlWW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "プロセカ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pjsekai.sega.jp/webstore",
+                "end": 98,
+                "expanded_url": "https://pjsekai.sega.jp/webstore",
+                "start": 75,
+                "url": "https://t.co/zacMyTdlWW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.adjust.com/iaq3ido",
+                "end": 23,
+                "expanded_url": "https://app.adjust.com/iaq3ido",
+                "start": 0,
+                "url": "https://t.co/joevC53VDM"
+              }
+            ]
+          }
+        },
+        "id": "1158668053183266816",
+        "name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク【プロセカ】",
+        "pinned_tweet_id": "1839874318832152732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854064399478398976/W-uuO8DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303157,
+          "following_count": 620,
+          "like_count": 27,
+          "listed_count": 8886,
+          "media_count": 14244,
+          "tweet_count": 19322
+        },
+        "url": "https://t.co/joevC53VDM",
+        "username": "pj_sekai",
+        "verified": true
+      }
+    ]
+  }
+}

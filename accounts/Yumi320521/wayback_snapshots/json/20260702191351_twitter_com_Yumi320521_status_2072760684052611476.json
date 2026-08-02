@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072760676544860160"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2072760684052611476",
+    "created_at": "2026-07-02T19:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T20:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072760684052611476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y0wSIlaXdR",
+          "end": 30,
+          "expanded_url": "https://x.com/Yumi320521/status/2072760684052611476/photo/1",
+          "media_key": "3_2072760676544860160",
+          "start": 7,
+          "url": "https://t.co/Y0wSIlaXdR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072760684052611476",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "血か錆か？🩸 https://t.co/Y0wSIlaXdR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072760676544860160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPs2nXa0AAc73x.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072760676544860160"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2072760684052611476",
+        "created_at": "2026-07-02T19:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072760684052611476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y0wSIlaXdR",
+              "end": 30,
+              "expanded_url": "https://x.com/Yumi320521/status/2072760684052611476/photo/1",
+              "media_key": "3_2072760676544860160",
+              "start": 7,
+              "url": "https://t.co/Y0wSIlaXdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072760684052611476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "血か錆か？🩸 https://t.co/Y0wSIlaXdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 142,
+          "like_count": 5125,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1121
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

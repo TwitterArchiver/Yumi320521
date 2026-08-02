@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2042532410961858822",
+    "created_at": "2026-04-10T09:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T10:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042532410961858822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2039392230784618496",
+          "start": 3,
+          "username": "Zoe0q0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042532410961858822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042278840035328156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zoe0q0: 扫黄扫黄 扫到最后黄没得看了 只剩下万达广场"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2042532410961858822",
+        "created_at": "2026-04-10T09:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042532410961858822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2039392230784618496",
+              "start": 3,
+              "username": "Zoe0q0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042532410961858822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042278840035328156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zoe0q0: 扫黄扫黄 扫到最后黄没得看了 只剩下万达广场"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039392230784618496",
+        "conversation_id": "2042278840035328156",
+        "created_at": "2026-04-09T16:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042278840035328156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042278840035328156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 33222,
+          "like_count": 448,
+          "quote_count": 2,
+          "reply_count": 76,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "扫黄扫黄 扫到最后黄没得看了 只剩下万达广场"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 32,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 26
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:20:19.000Z",
+        "description": "",
+        "id": "2039392230784618496",
+        "name": "zoey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039393751848927232/UaUg2Ajd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 9,
+          "like_count": 22,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 23
+        },
+        "username": "Zoe0q0",
+        "verified": false
+      }
+    ]
+  }
+}

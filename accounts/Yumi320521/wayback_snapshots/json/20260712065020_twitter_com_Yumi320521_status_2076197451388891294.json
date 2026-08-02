@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2075970972830884257",
+    "created_at": "2026-07-12T06:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076197451388891294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1901870910904393728",
+          "start": 0,
+          "username": "furutsukiinnga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076197451388891294",
+    "in_reply_to_user_id": "1901870910904393728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076054039197085852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@furutsukiinnga 哎哟看到了www 谢谢老大了 等我睡醒起来干杯 赛博敬酒啊喵🐈‍⬛🍺！🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2075970972830884257",
+        "created_at": "2026-07-12T06:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076197451388891294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1901870910904393728",
+              "start": 0,
+              "username": "furutsukiinnga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076197451388891294",
+        "in_reply_to_user_id": "1901870910904393728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076054039197085852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@furutsukiinnga 哎哟看到了www 谢谢老大了 等我睡醒起来干杯 赛博敬酒啊喵🐈‍⬛🍺！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901870910904393728",
+        "conversation_id": "2075970972830884257",
+        "created_at": "2026-07-11T21:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T22:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076054039197085852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076054039197085852",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075970972830884257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 给喵了，替咱也喝点吧，咱喝不了酒，替我也晕晕，每天的寂寞。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n致死 及ぶさ オーバードース🐈‍⬛🐾\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 153,
+          "like_count": 5570,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 1397
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T05:39:09.000Z",
+        "description": "",
+        "id": "1901870910904393728",
+        "name": "古月インガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901871519783075840/f36tSSCD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 99,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "furutsukiinnga",
+        "verified": false
+      }
+    ]
+  }
+}

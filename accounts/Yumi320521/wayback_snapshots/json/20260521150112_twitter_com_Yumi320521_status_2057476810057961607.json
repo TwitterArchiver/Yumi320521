@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057476753317355520",
+        "3_2057476753329991680"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2057476810057961607",
+    "created_at": "2026-05-21T15:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057476810057961607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/18aUJJ72tm",
+          "end": 34,
+          "expanded_url": "https://x.com/Yumi320521/status/2057476810057961607/photo/1",
+          "media_key": "3_2057476753317355520",
+          "start": 11,
+          "url": "https://t.co/18aUJJ72tm"
+        },
+        {
+          "display_url": "pic.x.com/18aUJJ72tm",
+          "end": 34,
+          "expanded_url": "https://x.com/Yumi320521/status/2057476810057961607/photo/1",
+          "media_key": "3_2057476753329991680",
+          "start": 11,
+          "url": "https://t.co/18aUJJ72tm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057476810057961607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "青柳冬弥不仅牛逼还嫩 https://t.co/18aUJJ72tm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_2057476753317355520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2gNMca4AAUu2S.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2057476753329991680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2gNMfbsAACaT7.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057476753317355520",
+            "3_2057476753329991680"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2057476810057961607",
+        "created_at": "2026-05-21T15:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057476810057961607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/18aUJJ72tm",
+              "end": 34,
+              "expanded_url": "https://x.com/Yumi320521/status/2057476810057961607/photo/1",
+              "media_key": "3_2057476753317355520",
+              "start": 11,
+              "url": "https://t.co/18aUJJ72tm"
+            },
+            {
+              "display_url": "pic.x.com/18aUJJ72tm",
+              "end": 34,
+              "expanded_url": "https://x.com/Yumi320521/status/2057476810057961607/photo/1",
+              "media_key": "3_2057476753329991680",
+              "start": 11,
+              "url": "https://t.co/18aUJJ72tm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057476810057961607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青柳冬弥不仅牛逼还嫩 https://t.co/18aUJJ72tm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n好累…",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 59,
+          "like_count": 1450,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 295
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

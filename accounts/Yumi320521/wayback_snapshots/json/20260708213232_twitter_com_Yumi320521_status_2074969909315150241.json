@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_860147009314934784"
+      ],
+      "media_source_tweet_id": [
+        "860147017250504704"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2074969909315150241",
+    "created_at": "2026-07-08T21:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T22:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074969909315150241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "4035350352",
+          "start": 3,
+          "username": "mam0_0fficialt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gGnTGymcjw",
+          "end": 120,
+          "expanded_url": "https://x.com/mam0_0fficialt/status/860147017250504704/photo/1",
+          "media_key": "3_860147009314934784",
+          "start": 97,
+          "url": "https://t.co/gGnTGymcjw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074969909315150241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1894
+    },
+    "referenced_tweets": [
+      {
+        "id": "860147017250504704",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mam0_0fficialt: 生まれて来た事に感謝をした事は一度もないですが、生まれて来たからには自分らしく生きて悔いなく死のうと思います。だから僕は今も同じ髪型でいるのでしょう\nか https://t.co/gGnTGymcjw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1019,
+        "media_key": "3_860147009314934784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/C-_bJdDU0AAM6pq.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_860147009314934784"
+          ],
+          "media_source_tweet_id": [
+            "860147017250504704"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2074969909315150241",
+        "created_at": "2026-07-08T21:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T22:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074969909315150241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "4035350352",
+              "start": 3,
+              "username": "mam0_0fficialt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGnTGymcjw",
+              "end": 120,
+              "expanded_url": "https://x.com/mam0_0fficialt/status/860147017250504704/photo/1",
+              "media_key": "3_860147009314934784",
+              "start": 97,
+              "url": "https://t.co/gGnTGymcjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074969909315150241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1894
+        },
+        "referenced_tweets": [
+          {
+            "id": "860147017250504704",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mam0_0fficialt: 生まれて来た事に感謝をした事は一度もないですが、生まれて来たからには自分らしく生きて悔いなく死のうと思います。だから僕は今も同じ髪型でいるのでしょう\nか https://t.co/gGnTGymcjw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_860147009314934784"
+          ]
+        },
+        "author_id": "4035350352",
+        "conversation_id": "860147017250504704",
+        "created_at": "2017-05-04T15:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2017-05-04T15:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "860147017250504704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGnTGymcjw",
+              "end": 100,
+              "expanded_url": "https://x.com/mam0_0fficialt/status/860147017250504704/photo/1",
+              "media_key": "3_860147009314934784",
+              "start": 77,
+              "url": "https://t.co/gGnTGymcjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "860147017250504704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 0,
+          "like_count": 5928,
+          "quote_count": 61,
+          "reply_count": 640,
+          "retweet_count": 1894
+        },
+        "reply_settings": "everyone",
+        "text": "生まれて来た事に感謝をした事は一度もないですが、生まれて来たからには自分らしく生きて悔いなく死のうと思います。だから僕は今も同じ髪型でいるのでしょう\nか https://t.co/gGnTGymcjw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 143,
+          "like_count": 5411,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1287
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-27T12:34:01.000Z",
+        "description": "とあるミュージシャンの黙示録。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanicon.net/fancommunities…",
+                "end": 23,
+                "expanded_url": "https://fanicon.net/fancommunities/1146",
+                "start": 0,
+                "url": "https://t.co/eSaht6ijhN"
+              }
+            ]
+          }
+        },
+        "id": "4035350352",
+        "location": "浅草",
+        "name": "マモ",
+        "pinned_tweet_id": "2045474654350086376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913255774211739648/1q2wAWqf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78863,
+          "following_count": 166,
+          "like_count": 261,
+          "listed_count": 710,
+          "media_count": 3651,
+          "tweet_count": 8301
+        },
+        "url": "https://t.co/eSaht6ijhN",
+        "username": "mam0_0fficialt",
+        "verified": false
+      }
+    ]
+  }
+}

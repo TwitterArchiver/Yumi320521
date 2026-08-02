@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060261238664286208"
+      ],
+      "media_source_tweet_id": [
+        "2060261244183904743"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060395625422991448",
+    "created_at": "2026-05-29T16:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060395625422991448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1094785110489157633",
+          "start": 3,
+          "username": "koushuiba"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4zUsFKQ6Jc",
+          "end": 45,
+          "expanded_url": "https://x.com/koushuiba/status/2060261244183904743/photo/1",
+          "media_key": "3_2060261238664286208",
+          "start": 22,
+          "url": "https://t.co/4zUsFKQ6Jc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060395625422991448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 148
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060261244183904743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koushuiba: 一些战斗AU https://t.co/4zUsFKQ6Jc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060395625422991448].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060395625422991448",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060395625422991448"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1774,
+        "media_key": "3_2060261238664286208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeErksXUAA32bR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060261238664286208"
+          ]
+        },
+        "author_id": "1094785110489157633",
+        "conversation_id": "2060261244183904743",
+        "created_at": "2026-05-29T07:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060261244183904743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4zUsFKQ6Jc",
+              "end": 30,
+              "expanded_url": "https://x.com/koushuiba/status/2060261244183904743/photo/1",
+              "media_key": "3_2060261238664286208",
+              "start": 7,
+              "url": "https://t.co/4zUsFKQ6Jc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060261244183904743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 4273,
+          "like_count": 764,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "一些战斗AU https://t.co/4zUsFKQ6Jc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 90,
+          "like_count": 2181,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 731
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-11T02:28:05.000Z",
+        "description": "☕️🥞🔄❌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "poipiku.com/1515886/",
+                "end": 23,
+                "expanded_url": "https://poipiku.com/1515886/",
+                "start": 0,
+                "url": "https://t.co/RpnxblIgFc"
+              }
+            ]
+          }
+        },
+        "id": "1094785110489157633",
+        "name": "口水君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057253742055936000/aSPrppvp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16631,
+          "following_count": 274,
+          "like_count": 5455,
+          "listed_count": 43,
+          "media_count": 246,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/RpnxblIgFc",
+        "username": "koushuiba",
+        "verified": false
+      }
+    ]
+  }
+}

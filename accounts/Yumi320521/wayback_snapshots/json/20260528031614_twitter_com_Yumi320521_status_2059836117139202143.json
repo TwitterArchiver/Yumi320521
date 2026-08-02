@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059836117139202143",
+    "created_at": "2026-05-28T03:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059836117139202143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754422463860228096",
+          "start": 3,
+          "username": "pam99ham"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059836117139202143",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 734
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059636948726325267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pam99ham: 女の子はマジで愛嬌が全てだよな。ルッキズムとか関係なしに、明るい子の方が一緒にいて楽しいし、ポジティブな子の方がこっちまで元気貰える。一緒にいると運気が上がる気すらしてくるもん。どれだけ顔が可愛くてもネガティブだったり卑屈だと、一緒にいてガチで疲れる…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059836117139202143",
+        "created_at": "2026-05-28T03:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059836117139202143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754422463860228096",
+              "start": 3,
+              "username": "pam99ham"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059836117139202143",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 734
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059636948726325267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pam99ham: 女の子はマジで愛嬌が全てだよな。ルッキズムとか関係なしに、明るい子の方が一緒にいて楽しいし、ポジティブな子の方がこっちまで元気貰える。一緒にいると運気が上がる気すらしてくるもん。どれだけ顔が可愛くてもネガティブだったり卑屈だと、一緒にいてガチで疲れる…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754422463860228096",
+        "conversation_id": "2059636948726325267",
+        "created_at": "2026-05-27T14:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059636948726325267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059636948726325267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1265,
+          "impression_count": 569830,
+          "like_count": 12977,
+          "quote_count": 540,
+          "reply_count": 78,
+          "retweet_count": 734
+        },
+        "reply_settings": "everyone",
+        "text": "女の子はマジで愛嬌が全てだよな。ルッキズムとか関係なしに、明るい子の方が一緒にいて楽しいし、ポジティブな子の方がこっちまで元気貰える。一緒にいると運気が上がる気すらしてくるもん。どれだけ顔が可愛くてもネガティブだったり卑屈だと、一緒にいてガチで疲れる。女で一番大事なのは愛嬌です。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 80,
+          "like_count": 1943,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 641
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T08:31:36.000Z",
+        "description": "25歳整形レズ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/dp/B0FTSL2RYD",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.jp/dp/B0FTSL2RYD",
+                "start": 0,
+                "url": "https://t.co/uH1OtnUDK5"
+              }
+            ]
+          }
+        },
+        "id": "1754422463860228096",
+        "location": "→本",
+        "name": "さとう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002008575519195137/U4oqm__r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170164,
+          "following_count": 228,
+          "like_count": 28440,
+          "listed_count": 262,
+          "media_count": 1026,
+          "tweet_count": 5029
+        },
+        "url": "https://t.co/uH1OtnUDK5",
+        "username": "pam99ham",
+        "verified": true
+      }
+    ]
+  }
+}

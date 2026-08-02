@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058072183499530259",
+    "created_at": "2026-05-23T14:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058197505138139647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1953859279003561984",
+          "start": 0,
+          "username": "hKa8cKjZtF32839"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058197505138139647",
+    "in_reply_to_user_id": "1953859279003561984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058140258320163089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hKa8cKjZtF32839 什么没懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058072183499530259",
+        "created_at": "2026-05-23T14:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058197505138139647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1953859279003561984",
+              "start": 0,
+              "username": "hKa8cKjZtF32839"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058197505138139647",
+        "in_reply_to_user_id": "1953859279003561984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058140258320163089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hKa8cKjZtF32839 什么没懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953859279003561984",
+        "conversation_id": "2058072183499530259",
+        "created_at": "2026-05-23T10:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058140258320163089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058140258320163089",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058072183499530259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 除了我是给别人花钱其他全占了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残｜ISFP\n会发自拍和碎碎念 欢迎互fo哦",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 63,
+          "like_count": 1622,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 392
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T16:42:26.000Z",
+        "description": "宅/安徽/命比愈美苦三分",
+        "id": "1953859279003561984",
+        "name": "你们随便吧我不玩了",
+        "pinned_tweet_id": "2057285111377518921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039319061059002369/CIeLrZoi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 41,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 166
+        },
+        "username": "hKa8cKjZtF32839",
+        "verified": false
+      }
+    ]
+  }
+}

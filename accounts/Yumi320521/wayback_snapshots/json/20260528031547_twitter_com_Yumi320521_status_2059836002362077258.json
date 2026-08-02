@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059836002362077258",
+    "created_at": "2026-05-28T03:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059836002362077258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/de4dgrrrl/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/de4dgrrrl/status/2059633175920357555",
+          "start": 5,
+          "url": "https://t.co/2ubM5kH7Pm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059836002362077258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059633175920357555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "水色系… https://t.co/2ubM5kH7Pm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1104,
+        "media_key": "3_2059633170018938886",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVJdKqXMAY46AT.jpg",
+        "width": 736
+      },
+      {
+        "height": 981,
+        "media_key": "3_2059633170824241154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVJdNqXIAIxTVQ.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059836002362077258",
+        "created_at": "2026-05-28T03:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059836002362077258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/de4dgrrrl/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/de4dgrrrl/status/2059633175920357555",
+              "start": 5,
+              "url": "https://t.co/2ubM5kH7Pm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059836002362077258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059633175920357555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "水色系… https://t.co/2ubM5kH7Pm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059633170018938886",
+            "3_2059633170824241154"
+          ]
+        },
+        "author_id": "1503603323831820288",
+        "conversation_id": "2059633175920357555",
+        "created_at": "2026-05-27T13:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059633175920357555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6VOOdW1ggP",
+              "end": 93,
+              "expanded_url": "https://x.com/De4dGrrrl/status/2059633175920357555/photo/1",
+              "media_key": "3_2059633170018938886",
+              "start": 70,
+              "url": "https://t.co/6VOOdW1ggP"
+            },
+            {
+              "display_url": "pic.x.com/6VOOdW1ggP",
+              "end": 93,
+              "expanded_url": "https://x.com/De4dGrrrl/status/2059633175920357555/photo/1",
+              "media_key": "3_2059633170824241154",
+              "start": 70,
+              "url": "https://t.co/6VOOdW1ggP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059633175920357555",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 318,
+          "impression_count": 36056,
+          "like_count": 2502,
+          "quote_count": 24,
+          "reply_count": 27,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "Is tenshi kaiwai even relevant anymore? I rarely ever saw it in japan https://t.co/6VOOdW1ggP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 80,
+          "like_count": 1941,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 640
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-15T05:25:51.000Z",
+        "description": "23♡ jiraitwt♡ tw vent♡-16dnf 🍉\nuse my code DE4DGRRRL for 5% off in honey wardrobe\nhttps://t.co/jOzebPVUrE\npfp by @rottenlandmine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 113,
+                "username": "rottenlandmine"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "de4dgrrrl.straw.page",
+                "end": 105,
+                "expanded_url": "https://de4dgrrrl.straw.page",
+                "start": 82,
+                "url": "https://t.co/jOzebPVUrE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/deadgrrrl",
+                "end": 23,
+                "expanded_url": "https://throne.com/deadgrrrl",
+                "start": 0,
+                "url": "https://t.co/cs3OZGU7EB"
+              }
+            ]
+          }
+        },
+        "id": "1503603323831820288",
+        "name": "envy!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046444234115563521/VhyTN8Ub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25420,
+          "following_count": 4319,
+          "like_count": 88265,
+          "listed_count": 60,
+          "media_count": 6354,
+          "tweet_count": 44659
+        },
+        "url": "https://t.co/cs3OZGU7EB",
+        "username": "De4dGrrrl",
+        "verified": false
+      }
+    ]
+  }
+}

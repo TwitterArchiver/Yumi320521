@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064332509526278144"
+      ],
+      "media_source_tweet_id": [
+        "2064332514047758807"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2064335761399525887",
+    "created_at": "2026-06-09T13:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064335761399525887"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 54,
+          "tag": "バンギャさんと繋がりたい"
+        },
+        {
+          "end": 81,
+          "start": 68,
+          "tag": "V系好きな人と繋がりたい"
+        },
+        {
+          "end": 92,
+          "start": 82,
+          "tag": "古の自己紹介カード"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040085742383169536",
+          "start": 3,
+          "username": "_qllxy_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pqppqS4Md1",
+          "end": 116,
+          "expanded_url": "https://x.com/_qllxy_/status/2064332514047758807/photo/1",
+          "media_key": "3_2064332509526278144",
+          "start": 93,
+          "url": "https://t.co/pqppqS4Md1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064335761399525887",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064332514047758807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_qllxy_: お友達ください(͒ ᴖ ·̫ ᴖ⸝⸝ )͒ \n♡で気になった方お迎え行きます！\n\n#バンギャさんと繋がりたい\n#V系好きな人と繋がりたい\n#古の自己紹介カード https://t.co/pqppqS4Md1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_2064332509526278144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKX7euiawAAH7p_.jpg",
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064332509526278144"
+          ],
+          "media_source_tweet_id": [
+            "2064332514047758807"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2064335761399525887",
+        "created_at": "2026-06-09T13:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064335761399525887"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 54,
+              "tag": "バンギャさんと繋がりたい"
+            },
+            {
+              "end": 81,
+              "start": 68,
+              "tag": "V系好きな人と繋がりたい"
+            },
+            {
+              "end": 92,
+              "start": 82,
+              "tag": "古の自己紹介カード"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040085742383169536",
+              "start": 3,
+              "username": "_qllxy_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqppqS4Md1",
+              "end": 116,
+              "expanded_url": "https://x.com/_qllxy_/status/2064332514047758807/photo/1",
+              "media_key": "3_2064332509526278144",
+              "start": 93,
+              "url": "https://t.co/pqppqS4Md1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064335761399525887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064332514047758807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_qllxy_: お友達ください(͒ ᴖ ·̫ ᴖ⸝⸝ )͒ \n♡で気になった方お迎え行きます！\n\n#バンギャさんと繋がりたい\n#V系好きな人と繋がりたい\n#古の自己紹介カード https://t.co/pqppqS4Md1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064332509526278144"
+          ]
+        },
+        "author_id": "2040085742383169536",
+        "conversation_id": "2064332514047758807",
+        "created_at": "2026-06-09T13:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064332514047758807"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 41,
+              "tag": "バンギャさんと繋がりたい"
+            },
+            {
+              "end": 68,
+              "start": 55,
+              "tag": "V系好きな人と繋がりたい"
+            },
+            {
+              "end": 79,
+              "start": 69,
+              "tag": "古の自己紹介カード"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqppqS4Md1",
+              "end": 103,
+              "expanded_url": "https://x.com/_qllxy_/status/2064332514047758807/photo/1",
+              "media_key": "3_2064332509526278144",
+              "start": 80,
+              "url": "https://t.co/pqppqS4Md1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064332514047758807",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "お友達ください(͒ ᴖ ·̫ ᴖ⸝⸝ )͒ \n♡で気になった方お迎え行きます！\n\n#バンギャさんと繋がりたい\n#V系好きな人と繋がりたい\n#古の自己紹介カード https://t.co/pqppqS4Md1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 134,
+          "like_count": 3084,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 527
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T15:15:30.000Z",
+        "description": "多趣味垢  ♥@0153_mari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "0153_mari"
+              }
+            ]
+          }
+        },
+        "id": "2040085742383169536",
+        "name": "ななちま",
+        "pinned_tweet_id": "2064332514047758807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061332255205949440/-znjjj0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "_qllxy_",
+        "verified": false
+      }
+    ]
+  }
+}

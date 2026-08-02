@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2070563327420584221",
+    "created_at": "2026-06-27T11:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070833026901418411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1685283805207154688",
+          "start": 0,
+          "username": "linhanilove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070833026901418411",
+    "in_reply_to_user_id": "1685283805207154688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070815541598761293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linhanilove 好的ww谢谢😢😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2070563327420584221",
+        "created_at": "2026-06-27T11:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070833026901418411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1685283805207154688",
+              "start": 0,
+              "username": "linhanilove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070833026901418411",
+        "in_reply_to_user_id": "1685283805207154688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070815541598761293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linhanilove 好的ww谢谢😢😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685283805207154688",
+        "conversation_id": "2070563327420584221",
+        "created_at": "2026-06-27T10:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070815541598761293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070815541598761293",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070563327420584221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 真的别弄了宝宝就算弄的不深疤痕恢复两年左右还是一条一条白色的 看起来很丑😢😢很有存在感  好像只有纹身能遮住了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 141,
+          "like_count": 4722,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 916
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T13:39:21.000Z",
+        "description": "",
+        "id": "1685283805207154688",
+        "name": "1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043021600258428928/rDgsZp2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 73,
+          "like_count": 3509,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "linhanilove",
+        "verified": false
+      }
+    ]
+  }
+}

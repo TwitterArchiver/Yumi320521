@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2072831926746923158",
+    "created_at": "2026-07-03T19:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T20:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073132596759011592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039986041218592768",
+          "start": 0,
+          "username": "7xEcuUp3Sf61887"
+        },
+        {
+          "end": 26,
+          "id": "2071924874163912704",
+          "start": 17,
+          "username": "EVEgojj5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073132596759011592",
+    "in_reply_to_user_id": "2039986041218592768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073014986318749809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7xEcuUp3Sf61887 @EVEgojj5 好厉害啊啊 我明年也要去打工 上海工资好高羡慕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2072831926746923158",
+        "created_at": "2026-07-03T19:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T20:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073132596759011592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039986041218592768",
+              "start": 0,
+              "username": "7xEcuUp3Sf61887"
+            },
+            {
+              "end": 26,
+              "id": "2071924874163912704",
+              "start": 17,
+              "username": "EVEgojj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073132596759011592",
+        "in_reply_to_user_id": "2039986041218592768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073014986318749809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7xEcuUp3Sf61887 @EVEgojj5 好厉害啊啊 我明年也要去打工 上海工资好高羡慕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039986041218592768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2072831926746923158",
+        "created_at": "2026-07-03T12:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073014986318749809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2071924874163912704",
+              "start": 0,
+              "username": "EVEgojj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073014986318749809",
+        "in_reply_to_user_id": "2071924874163912704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 77,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072831926746923158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EVEgojj5 您好 我也是16歲左右開始打工\n可以去醫院開健康證然後去餐飲類行業打工\n麥當勞肯德基時薪在18.5r左右 高薪一點的可以去薩莉亞 我記得16歲左右在那裡打工時薪是23r\n我現在17歲 在杭州一家livehouse干兼職 有演出的時候負責物料販售 沒演出的時候負責當調酒師…20r左右\n只要肯努力幹 肯定會好起來的 加油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 146,
+          "like_count": 5214,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1172
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T08:39:21.000Z",
+        "description": "廢話很多。可以叫我hibiki｜江浙滬正體字消腫逼一枚｜DM○",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 0,
+                "url": "https://t.co/5WmYE4Ga5J"
+              }
+            ]
+          }
+        },
+        "id": "2039986041218592768",
+        "location": "一個人 一條街 一場雨 心碎一整夜",
+        "name": "響き渡る🥃",
+        "pinned_tweet_id": "2070813276167094635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039992924474392576/YSYh1AIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 97,
+          "like_count": 5619,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1327
+        },
+        "url": "https://t.co/5WmYE4Ga5J",
+        "username": "7xEcuUp3Sf61887",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "",
+        "id": "2071924874163912704",
+        "name": "霸王龍愛吃三角龍（侏羅紀第二世版）",
+        "pinned_tweet_id": "2071995187539111969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071925633051934720/R23GN4U-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 162,
+          "like_count": 635,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "EVEgojj5",
+        "verified": false
+      }
+    ]
+  }
+}

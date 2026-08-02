@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "ALPHA DRIVE ONE Prologue Single ‘No School Tomorrow’ Spoiler Party\n\nALLYZ 오늘 쉬는 날이다! OMG!\n\n갑자기 생긴 쉬는 날 ALLYZ에게만 보여주는 OMG! Spoiler Party!\nALLYZ는 ALD1이랑 같이 놀 준비만 하면 돼 😻\n\n2026. 5. 25 7PM Coming Soon!",
+          "id": "2054422303950196736",
+          "name": "ALPHA DRIVE ONE Spoiler Party"
+        }
+      }
+    ],
+    "conversation_id": "2058091413762703540",
+    "created_at": "2026-05-23T08:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058103760531210450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1894342873740709890",
+          "start": 0,
+          "username": "mi_e_n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058103760531210450",
+    "in_reply_to_user_id": "1894342873740709890",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058091413762703540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mi_e_n omg 聞くととても痛そうです😨🤕🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "ALPHA DRIVE ONE Prologue Single ‘No School Tomorrow’ Spoiler Party\n\nALLYZ 오늘 쉬는 날이다! OMG!\n\n갑자기 생긴 쉬는 날 ALLYZ에게만 보여주는 OMG! Spoiler Party!\nALLYZ는 ALD1이랑 같이 놀 준비만 하면 돼 😻\n\n2026. 5. 25 7PM Coming Soon!",
+              "id": "2054422303950196736",
+              "name": "ALPHA DRIVE ONE Spoiler Party"
+            }
+          }
+        ],
+        "conversation_id": "2058091413762703540",
+        "created_at": "2026-05-23T08:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058103760531210450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1894342873740709890",
+              "start": 0,
+              "username": "mi_e_n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058103760531210450",
+        "in_reply_to_user_id": "1894342873740709890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058091413762703540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi_e_n omg 聞くととても痛そうです😨🤕🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894342873740709890",
+        "conversation_id": "2058091413762703540",
+        "created_at": "2026-05-23T07:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058091413762703540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058091413762703540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尾てい骨ら辺痛めた絶対部活のせい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残｜ISFP\n会发自拍和碎碎念 欢迎互fo哦",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 64,
+          "like_count": 1595,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 379
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T11:05:30.000Z",
+        "description": "壁打ち お友達ください 無言フォロー失礼しまつ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/4gvmo3jofyeokb…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/4gvmo3jofyeokb4?t=Ez3Szu&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/On2K0pikAv"
+              }
+            ]
+          }
+        },
+        "id": "1894342873740709890",
+        "location": "夢ノ咲学院   宝塚大劇場",
+        "name": "フォロストラトス",
+        "pinned_tweet_id": "2042925071904444491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030108056252772352/BHN4TXd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 134,
+          "like_count": 126723,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 4985
+        },
+        "url": "https://t.co/On2K0pikAv",
+        "username": "mi_e_n",
+        "verified": false
+      }
+    ]
+  }
+}

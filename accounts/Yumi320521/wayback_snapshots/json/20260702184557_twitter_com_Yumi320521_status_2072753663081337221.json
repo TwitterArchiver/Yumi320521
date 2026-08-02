@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2072742524918419834",
+    "created_at": "2026-07-02T18:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T19:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072753663081337221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1724030081520259072",
+          "start": 0,
+          "username": "QAQ1187232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072753663081337221",
+    "in_reply_to_user_id": "1724030081520259072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072751406675534058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QAQ1187232 喝饱了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1283,
+        "media_key": "3_2072751393903931392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPkaS1W8AAiVHC.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2072742524918419834",
+        "created_at": "2026-07-02T18:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072753663081337221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1724030081520259072",
+              "start": 0,
+              "username": "QAQ1187232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072753663081337221",
+        "in_reply_to_user_id": "1724030081520259072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072751406675534058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QAQ1187232 喝饱了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072751393903931392"
+          ]
+        },
+        "author_id": "1724030081520259072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072742524918419834",
+        "created_at": "2026-07-02T18:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072751406675534058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vLPCMBThsv",
+              "end": 66,
+              "expanded_url": "https://x.com/QAQ1187232/status/2072751406675534058/photo/1",
+              "media_key": "3_2072751393903931392",
+              "start": 43,
+              "url": "https://t.co/vLPCMBThsv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072751406675534058",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072742524918419834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 不哭喝奶奶不哭喝奶奶不哭喝奶奶不哭喝奶奶不哭喝奶奶不哭喝奶奶 https://t.co/vLPCMBThsv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 142,
+          "like_count": 5118,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1119
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-13T11:43:05.000Z",
+        "description": "他（她）关注了你",
+        "id": "1724030081520259072",
+        "location": "2.7km",
+        "name": "盼盼面包🍞",
+        "pinned_tweet_id": "1871140022205997438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010789337198182400/VSOAyQ-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 69,
+          "like_count": 1956,
+          "listed_count": 0,
+          "media_count": 667,
+          "tweet_count": 1587
+        },
+        "url": "",
+        "username": "QAQ1187232",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2072660710774264205",
+    "created_at": "2026-07-02T12:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072660710774264205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sleeppyguy/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/sleeppyguy/status/2072334360338891193",
+          "start": 13,
+          "url": "https://t.co/0l8N6Nrw9Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072660710774264205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072334360338891193",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "羡慕了 超级繁华的地带啊 https://t.co/0l8N6Nrw9Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2072334353313521664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJpHVkXYAA30Gh.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2072660710774264205",
+        "created_at": "2026-07-02T12:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072660710774264205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sleeppyguy/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/sleeppyguy/status/2072334360338891193",
+              "start": 13,
+              "url": "https://t.co/0l8N6Nrw9Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072660710774264205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072334360338891193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羡慕了 超级繁华的地带啊 https://t.co/0l8N6Nrw9Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072334353313521664"
+          ]
+        },
+        "author_id": "1995994200060690434",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072334360338891193",
+        "created_at": "2026-07-01T14:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072334360338891193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6daGK0yHm",
+              "end": 48,
+              "expanded_url": "https://x.com/SleeppyGuy/status/2072334360338891193/photo/1",
+              "media_key": "3_2072334353313521664",
+              "start": 25,
+              "url": "https://t.co/F6daGK0yHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072334360338891193",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 63192,
+          "like_count": 6195,
+          "quote_count": 35,
+          "reply_count": 23,
+          "retweet_count": 878
+        },
+        "reply_settings": "everyone",
+        "text": "Perfect spot for smoking https://t.co/F6daGK0yHm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 142,
+          "like_count": 5081,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1105
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T23:11:24.000Z",
+        "description": "22 | Smoking Rn (No Nsfw)",
+        "id": "1995994200060690434",
+        "location": "Working out",
+        "name": "Kan",
+        "pinned_tweet_id": "2040159469628162464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019888514951757824/sHKsWqRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 672,
+          "like_count": 94325,
+          "listed_count": 15,
+          "media_count": 787,
+          "tweet_count": 5291
+        },
+        "url": "",
+        "username": "SleeppyGuy",
+        "verified": false
+      }
+    ]
+  }
+}

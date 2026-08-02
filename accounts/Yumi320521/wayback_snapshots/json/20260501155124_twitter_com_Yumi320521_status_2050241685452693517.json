@@ -1,0 +1,545 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1401962477756162049",
+          "name": "Visual kei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1401962477756162049",
+          "name": "Visual kei"
+        }
+      }
+    ],
+    "conversation_id": "2050241685452693517",
+    "created_at": "2026-05-01T15:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T16:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050241685452693517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1765214863453016064",
+          "start": 3,
+          "username": "DEATHDOL_NOTE"
+        },
+        {
+          "end": 59,
+          "id": "1331169156",
+          "start": 50,
+          "username": "0153_you"
+        },
+        {
+          "end": 84,
+          "id": "752165893354823680",
+          "start": 76,
+          "username": "krbr_az"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050241685452693517",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1292
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050157351601324335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DEATHDOL_NOTE: 【知名度D / V系知名度SS】\n\n0.1gの誤算\n緑川裕宇 @0153_you\n\n本カノ(通称 : 赤髪ネキ)\n@krbr_az \n\n備考\n・10年間、常に最前ドセンが家族公認彼女\n・権力で早番出た新規からチケット回収 https://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 664,
+        "media_key": "3_2050157167794339840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOfFPgaQAAEiAB.jpg",
+        "width": 827
+      },
+      {
+        "duration_ms": 67684,
+        "height": 1280,
+        "media_key": "13_2050157167806914560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050157167806914560/img/Eb5OFcJZexOp95ng.jpg",
+        "public_metrics": {
+          "view_count": 2434848
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050157167806914560/vid/avc1/320x568/TOJOZqqUmA4-p3BO.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050157167806914560/vid/avc1/480x852/84BAiDmFT_vBbAgJ.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050157167806914560/vid/avc1/720x1280/4VUuwj2WD_9qgqj0.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050157167806914560/pl/25zrJ_FN9cOoqWbb.m3u8?tag=27&v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2050157167807025152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOfFPjb0AAr8dc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          }
+        ],
+        "conversation_id": "2050241685452693517",
+        "created_at": "2026-05-01T15:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050241685452693517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1765214863453016064",
+              "start": 3,
+              "username": "DEATHDOL_NOTE"
+            },
+            {
+              "end": 59,
+              "id": "1331169156",
+              "start": 50,
+              "username": "0153_you"
+            },
+            {
+              "end": 84,
+              "id": "752165893354823680",
+              "start": 76,
+              "username": "krbr_az"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050241685452693517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1292
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050157351601324335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DEATHDOL_NOTE: 【知名度D / V系知名度SS】\n\n0.1gの誤算\n緑川裕宇 @0153_you\n\n本カノ(通称 : 赤髪ネキ)\n@krbr_az \n\n備考\n・10年間、常に最前ドセンが家族公認彼女\n・権力で早番出た新規からチケット回収 https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050157167794339840",
+            "13_2050157167806914560",
+            "3_2050157167807025152"
+          ]
+        },
+        "author_id": "1765214863453016064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          }
+        ],
+        "conversation_id": "2050157351601324335",
+        "created_at": "2026-05-01T10:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050157351601324335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "1331169156",
+              "start": 31,
+              "username": "0153_you"
+            },
+            {
+              "end": 65,
+              "id": "752165893354823680",
+              "start": 57,
+              "username": "krbr_az"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GkAP5EHIdz",
+              "end": 134,
+              "expanded_url": "https://x.com/DEATHDOL_NOTE/status/2050157351601324335/video/1",
+              "media_key": "3_2050157167794339840",
+              "start": 111,
+              "url": "https://t.co/GkAP5EHIdz"
+            },
+            {
+              "display_url": "pic.x.com/GkAP5EHIdz",
+              "end": 134,
+              "expanded_url": "https://x.com/DEATHDOL_NOTE/status/2050157351601324335/video/1",
+              "media_key": "13_2050157167806914560",
+              "start": 111,
+              "url": "https://t.co/GkAP5EHIdz"
+            },
+            {
+              "display_url": "pic.x.com/GkAP5EHIdz",
+              "end": 134,
+              "expanded_url": "https://x.com/DEATHDOL_NOTE/status/2050157351601324335/video/1",
+              "media_key": "3_2050157167807025152",
+              "start": 111,
+              "url": "https://t.co/GkAP5EHIdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050157351601324335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7051,
+          "impression_count": 9815959,
+          "like_count": 30429,
+          "quote_count": 2227,
+          "reply_count": 2015,
+          "retweet_count": 1292
+        },
+        "reply_settings": "everyone",
+        "text": "【知名度D / V系知名度SS】\n\n0.1gの誤算\n緑川裕宇 @0153_you\n\n本カノ(通称 : 赤髪ネキ)\n@krbr_az \n\n備考\n・10年間、常に最前ドセンが家族公認彼女\n・権力で早番出た新規からチケット回収 https://t.co/GkAP5EHIdz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "茶柚/Yumi 16 153/73\n桃井爱莉｜同担拒否｜地雷系｜od\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049428958475862016/-MBbrvme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 46,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 115
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T03:16:46.000Z",
+        "description": "名前を書かれたアイドルは晒される。タレコミやお仕事のご依頼はDMまで。サブ垢@deathdolnote 創設者@masawo_deathdol",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "deathdolnote"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "masawo_deathdol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@DEATHDOLNOTE",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@DEATHDOLNOTE",
+                "start": 0,
+                "url": "https://t.co/kFGt9GlQKe"
+              }
+            ]
+          }
+        },
+        "id": "1765214863453016064",
+        "name": "DEATHDOL NOTE",
+        "pinned_tweet_id": "2022226072407093424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043465780688556032/8qWpX6XZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157274,
+          "following_count": 10,
+          "like_count": 11773,
+          "listed_count": 769,
+          "media_count": 245,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/kFGt9GlQKe",
+        "username": "DEATHDOL_NOTE",
+        "verified": true
+      },
+      {
+        "created_at": "2013-04-06T09:46:12.000Z",
+        "description": "▪️日本1バズるV系バンド！！0.1gの誤算で作詞作曲企画考案ボーカル担当■Youtube &SNSフォロワー計50万人▪️洗足学園音楽大学卒 ▪️official Twitter @0153_official 日常アカ@younichijou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "0153_official"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "younichijou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCNNI7…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCNNI7XtOshk_gN9FuuLrn7A",
+                "start": 0,
+                "url": "https://t.co/EgkpBSzcWH"
+              }
+            ]
+          }
+        },
+        "id": "1331169156",
+        "location": "緑川ゆう",
+        "name": "0.1gの誤算 緑川裕宇",
+        "pinned_tweet_id": "1429047027086761987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032404944436035584/M9KSTKIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67885,
+          "following_count": 304,
+          "like_count": 87960,
+          "listed_count": 390,
+          "media_count": 4108,
+          "tweet_count": 20388
+        },
+        "url": "https://t.co/EgkpBSzcWH",
+        "username": "0153_you",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-10T15:41:38.000Z",
+        "description": "0153【🦁】／SD🏀【10🌸】【4🦍】",
+        "id": "752165893354823680",
+        "location": "そこら中のそこ",
+        "name": "まゆおたま",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677024321632620544/POAzmC4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17324,
+          "following_count": 1100,
+          "like_count": 29429,
+          "listed_count": 70,
+          "media_count": 1315,
+          "tweet_count": 9625
+        },
+        "username": "krbr_az",
+        "verified": true
+      }
+    ]
+  }
+}

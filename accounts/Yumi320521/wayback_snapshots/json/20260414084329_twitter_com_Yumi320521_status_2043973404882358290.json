@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042501883768815621"
+      ],
+      "media_source_tweet_id": [
+        "2043678086747783433"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2043973404882358290",
+    "created_at": "2026-04-14T08:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043973404882358290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1608317625922207745",
+          "start": 3,
+          "username": "710RIVER"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i7NwiUIqOZ",
+          "end": 37,
+          "expanded_url": "https://x.com/710RIVER/status/2043678086747783433/photo/1",
+          "media_key": "3_2042501883768815621",
+          "start": 14,
+          "url": "https://t.co/i7NwiUIqOZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043973404882358290",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1113
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043678086747783433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @710RIVER: https://t.co/i7NwiUIqOZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2042501883768815621",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhspEMbQAUDQAr.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042501883768815621"
+          ],
+          "media_source_tweet_id": [
+            "2043678086747783433"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2043973404882358290",
+        "created_at": "2026-04-14T08:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043973404882358290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608317625922207745",
+              "start": 3,
+              "username": "710RIVER"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7NwiUIqOZ",
+              "end": 37,
+              "expanded_url": "https://x.com/710RIVER/status/2043678086747783433/photo/1",
+              "media_key": "3_2042501883768815621",
+              "start": 14,
+              "url": "https://t.co/i7NwiUIqOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043973404882358290",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1113
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043678086747783433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @710RIVER: https://t.co/i7NwiUIqOZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042501883768815621"
+          ]
+        },
+        "author_id": "1608317625922207745",
+        "conversation_id": "2043678086747783433",
+        "created_at": "2026-04-13T13:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043678086747783433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7NwiUIqOZ",
+              "end": 23,
+              "expanded_url": "https://x.com/710RIVER/status/2043678086747783433/photo/1",
+              "media_key": "3_2042501883768815621",
+              "start": 0,
+              "url": "https://t.co/i7NwiUIqOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043678086747783433",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 292,
+          "impression_count": 52381,
+          "like_count": 7258,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 1113
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/i7NwiUIqOZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 39,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 82
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T04:23:07.000Z",
+        "description": "色んなゲームとか漫画の話をする垢。18↑\nﾏｼｭﾏﾛ→https://t.co/NqBTNWh0hx…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/710river?utm_m",
+                "end": 50,
+                "expanded_url": "http://marshmallow-qa.com/710river?utm_m",
+                "start": 27,
+                "url": "https://t.co/NqBTNWh0hx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/HumanOtaku",
+                "end": 23,
+                "expanded_url": "https://lit.link/HumanOtaku",
+                "start": 0,
+                "url": "https://t.co/buC1TlJ7CA"
+              }
+            ]
+          }
+        },
+        "id": "1608317625922207745",
+        "name": "otaku",
+        "pinned_tweet_id": "2042940561213264094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909781787347501057/F9R2qPg7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5660,
+          "following_count": 82,
+          "like_count": 3052,
+          "listed_count": 13,
+          "media_count": 452,
+          "tweet_count": 2839
+        },
+        "url": "https://t.co/buC1TlJ7CA",
+        "username": "710RIVER",
+        "verified": false
+      }
+    ]
+  }
+}

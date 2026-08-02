@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2061674592197025939",
+    "created_at": "2026-06-02T05:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T06:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061674592197025939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1323216034396999681",
+          "start": 3,
+          "username": "ZZSSNNi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/f32eb89",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/f32eb89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061674592197025939",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1033
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061621771279937639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZZSSNNi: 방금 놀라운 사실을 앎\n세수를 잘하는 고양이들한테는 앞발안쪽에 특이한 무늬가 생긴다고함!!\n털색과 길이와 상관없이 오로지 앞발을 핥아 세수를 자주하는 고양이들한테만 생긴다함(스핑크스 제외) https://t.co/f32eb89…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1648,
+        "media_key": "3_2061621759921811456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxaEVVa8AAObD8.jpg",
+        "width": 1600
+      },
+      {
+        "height": 2027,
+        "media_key": "3_2061621759930191872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxaEVXa0AA5LRK.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1812,
+        "media_key": "3_2061621759565352960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxaEUAb0AA85qW.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061621759556870144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxaET-aYAACMyu.jpg",
+        "width": 1671
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2061674592197025939",
+        "created_at": "2026-06-02T05:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061674592197025939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1323216034396999681",
+              "start": 3,
+              "username": "ZZSSNNi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/f32eb89",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/f32eb89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061674592197025939",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1033
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061621771279937639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZZSSNNi: 방금 놀라운 사실을 앎\n세수를 잘하는 고양이들한테는 앞발안쪽에 특이한 무늬가 생긴다고함!!\n털색과 길이와 상관없이 오로지 앞발을 핥아 세수를 자주하는 고양이들한테만 생긴다함(스핑크스 제외) https://t.co/f32eb89…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061621759921811456",
+            "3_2061621759930191872",
+            "3_2061621759565352960",
+            "3_2061621759556870144"
+          ]
+        },
+        "author_id": "1323216034396999681",
+        "conversation_id": "2061621771279937639",
+        "created_at": "2026-06-02T01:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061621771279937639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f32eb89egB",
+              "end": 129,
+              "expanded_url": "https://x.com/ZZSSNNi/status/2061621771279937639/photo/1",
+              "media_key": "3_2061621759921811456",
+              "start": 106,
+              "url": "https://t.co/f32eb89egB"
+            },
+            {
+              "display_url": "pic.x.com/f32eb89egB",
+              "end": 129,
+              "expanded_url": "https://x.com/ZZSSNNi/status/2061621771279937639/photo/1",
+              "media_key": "3_2061621759930191872",
+              "start": 106,
+              "url": "https://t.co/f32eb89egB"
+            },
+            {
+              "display_url": "pic.x.com/f32eb89egB",
+              "end": 129,
+              "expanded_url": "https://x.com/ZZSSNNi/status/2061621771279937639/photo/1",
+              "media_key": "3_2061621759565352960",
+              "start": 106,
+              "url": "https://t.co/f32eb89egB"
+            },
+            {
+              "display_url": "pic.x.com/f32eb89egB",
+              "end": 129,
+              "expanded_url": "https://x.com/ZZSSNNi/status/2061621771279937639/photo/1",
+              "media_key": "3_2061621759556870144",
+              "start": 106,
+              "url": "https://t.co/f32eb89egB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061621771279937639",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 467,
+          "impression_count": 80908,
+          "like_count": 1547,
+          "quote_count": 210,
+          "reply_count": 8,
+          "retweet_count": 1033
+        },
+        "reply_settings": "everyone",
+        "text": "방금 놀라운 사실을 앎\n세수를 잘하는 고양이들한테는 앞발안쪽에 특이한 무늬가 생긴다고함!!\n털색과 길이와 상관없이 오로지 앞발을 핥아 세수를 자주하는 고양이들한테만 생긴다함(스핑크스 제외) https://t.co/f32eb89egB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 94,
+          "like_count": 2575,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 879
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-02T10:51:10.000Z",
+        "description": "역마살 버섯팔이피플🍄‍🟫중국에서 자영업(백수)🦢제태크 초보📈3n살 한국인여성🇰🇷\n좋아하는거 위주로 아무거나 올립니다\n유튭: https://t.co/iavVtNg9et",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mogoomogoo0508",
+                "end": 92,
+                "expanded_url": "https://youtube.com/@mogoomogoo0508",
+                "start": 69,
+                "url": "https://t.co/iavVtNg9et"
+              }
+            ]
+          }
+        },
+        "id": "1323216034396999681",
+        "location": "중국 어딘가",
+        "name": "모구모구🍄",
+        "pinned_tweet_id": "2061621771279937639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642158239705092096/toqgIa3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5709,
+          "following_count": 1240,
+          "like_count": 48837,
+          "listed_count": 25,
+          "media_count": 4691,
+          "tweet_count": 14348
+        },
+        "username": "ZZSSNNi",
+        "verified": true
+      }
+    ]
+  }
+}

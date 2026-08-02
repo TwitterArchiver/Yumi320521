@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060570083542650880"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060570093327954363",
+    "created_at": "2026-05-30T03:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T04:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060570093327954363"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "桃井愛莉"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iyjumm4NQX",
+          "end": 29,
+          "expanded_url": "https://x.com/Yumi320521/status/2060570093327954363/photo/1",
+          "media_key": "3_2060570083542650880",
+          "start": 6,
+          "url": "https://t.co/iyjumm4NQX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060570093327954363",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#桃井愛莉 https://t.co/iyjumm4NQX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2060570083542650880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJidkthbUAAVbT6.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060570083542650880"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060570093327954363",
+        "created_at": "2026-05-30T03:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060570093327954363"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "桃井愛莉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iyjumm4NQX",
+              "end": 29,
+              "expanded_url": "https://x.com/Yumi320521/status/2060570093327954363/photo/1",
+              "media_key": "3_2060570083542650880",
+              "start": 6,
+              "url": "https://t.co/iyjumm4NQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060570093327954363",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#桃井愛莉 https://t.co/iyjumm4NQX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 94,
+          "like_count": 2226,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 736
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

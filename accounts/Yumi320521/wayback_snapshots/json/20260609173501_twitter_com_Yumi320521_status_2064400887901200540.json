@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064333125296222208"
+      ],
+      "media_source_tweet_id": [
+        "2064333203310264580"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2064400887901200540",
+    "created_at": "2026-06-09T17:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064400887901200540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994914107829714944",
+          "start": 3,
+          "username": "mmj_wxs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DX5uJDZ1Ja",
+          "end": 44,
+          "expanded_url": "https://x.com/mmj_wxs/status/2064333203310264580/photo/1",
+          "media_key": "3_2064333125296222208",
+          "start": 21,
+          "url": "https://t.co/DX5uJDZ1Ja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064400887901200540",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064333203310264580",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmj_wxs: ジュンブラ🩷💐 https://t.co/DX5uJDZ1Ja"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2064333125296222208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKX8CkdacAAqeQv.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064333125296222208"
+          ],
+          "media_source_tweet_id": [
+            "2064333203310264580"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2064400887901200540",
+        "created_at": "2026-06-09T17:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064400887901200540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994914107829714944",
+              "start": 3,
+              "username": "mmj_wxs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DX5uJDZ1Ja",
+              "end": 44,
+              "expanded_url": "https://x.com/mmj_wxs/status/2064333203310264580/photo/1",
+              "media_key": "3_2064333125296222208",
+              "start": 21,
+              "url": "https://t.co/DX5uJDZ1Ja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064400887901200540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064333203310264580",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmj_wxs: ジュンブラ🩷💐 https://t.co/DX5uJDZ1Ja"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064333125296222208"
+          ]
+        },
+        "author_id": "1994914107829714944",
+        "conversation_id": "2064333203310264580",
+        "created_at": "2026-06-09T13:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064333203310264580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DX5uJDZ1Ja",
+              "end": 31,
+              "expanded_url": "https://x.com/mmj_wxs/status/2064333203310264580/photo/1",
+              "media_key": "3_2064333125296222208",
+              "start": 8,
+              "url": "https://t.co/DX5uJDZ1Ja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064333203310264580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 900,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "ジュンブラ🩷💐 https://t.co/DX5uJDZ1Ja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 135,
+          "like_count": 3109,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 535
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T23:42:26.000Z",
+        "description": "18↓￤🍑，🎈￤https://t.co/7wjf9m1MlV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/mmj_wxs",
+                "end": 31,
+                "expanded_url": "https://lit.link/mmj_wxs",
+                "start": 8,
+                "url": "https://t.co/7wjf9m1MlV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/dn5ptjrtt…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/dn5ptjrttpdy97i5/",
+                "start": 0,
+                "url": "https://t.co/69f406CUCD"
+              }
+            ]
+          }
+        },
+        "id": "1994914107829714944",
+        "location": "髪色変更ください",
+        "name": "わん",
+        "pinned_tweet_id": "2057438249120149971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050769784758022144/vUjnWA_y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 124,
+          "like_count": 29738,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 526
+        },
+        "url": "https://t.co/69f406CUCD",
+        "username": "mmj_wxs",
+        "verified": false
+      }
+    ]
+  }
+}

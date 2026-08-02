@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063214955311284224"
+      ],
+      "media_source_tweet_id": [
+        "2063214959862149358"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2063265638848798767",
+    "created_at": "2026-06-06T14:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063265638848798767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1495421600",
+          "start": 3,
+          "username": "chiharu389"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NbzQiAWmzy",
+          "end": 42,
+          "expanded_url": "https://x.com/chiharu389/status/2063214959862149358/photo/1",
+          "media_key": "3_2063214955311284224",
+          "start": 19,
+          "url": "https://t.co/NbzQiAWmzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063265638848798767",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 218
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063214959862149358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chiharu389: 🍑💍 https://t.co/NbzQiAWmzy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2063214955311284224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIDEgqaQAALcfI.jpg",
+        "width": 2667
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063214955311284224"
+          ],
+          "media_source_tweet_id": [
+            "2063214959862149358"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2063265638848798767",
+        "created_at": "2026-06-06T14:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063265638848798767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1495421600",
+              "start": 3,
+              "username": "chiharu389"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NbzQiAWmzy",
+              "end": 42,
+              "expanded_url": "https://x.com/chiharu389/status/2063214959862149358/photo/1",
+              "media_key": "3_2063214955311284224",
+              "start": 19,
+              "url": "https://t.co/NbzQiAWmzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063265638848798767",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063214959862149358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chiharu389: 🍑💍 https://t.co/NbzQiAWmzy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063214955311284224"
+          ]
+        },
+        "author_id": "1495421600",
+        "conversation_id": "2063214959862149358",
+        "created_at": "2026-06-06T11:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063214959862149358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NbzQiAWmzy",
+              "end": 26,
+              "expanded_url": "https://x.com/chiharu389/status/2063214959862149358/photo/1",
+              "media_key": "3_2063214955311284224",
+              "start": 3,
+              "url": "https://t.co/NbzQiAWmzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063214959862149358",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 11625,
+          "like_count": 1315,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "🍑💍 https://t.co/NbzQiAWmzy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=ゆず/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "Yuzumi",
+        "pinned_tweet_id": "2062839753180107101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 100,
+          "like_count": 2737,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 869
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-09T12:02:04.000Z",
+        "description": "桃井愛莉ちゃん大好き/しずあい/みさここ 好きなものいろいろ。CPの左右は表記通りです。■💧🍑裏(更新頻度低)→【@hnszmmai】■ブルスカ→【https://t.co/M7vETcmRRo】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "hnszmmai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/chihar…",
+                "end": 97,
+                "expanded_url": "https://bsky.app/profile/chiharu389.bsky.social",
+                "start": 74,
+                "url": "https://t.co/M7vETcmRRo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=3418020",
+                "start": 0,
+                "url": "https://t.co/UXD5zYr2qW"
+              }
+            ]
+          }
+        },
+        "id": "1495421600",
+        "name": "春沢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023044640933625857/F-t4FTj6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24555,
+          "following_count": 483,
+          "like_count": 19038,
+          "listed_count": 318,
+          "media_count": 3040,
+          "tweet_count": 40836
+        },
+        "url": "https://t.co/UXD5zYr2qW",
+        "username": "chiharu389",
+        "verified": false
+      }
+    ]
+  }
+}

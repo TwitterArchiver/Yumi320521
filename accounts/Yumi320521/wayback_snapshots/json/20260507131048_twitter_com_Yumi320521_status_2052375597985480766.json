@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2052375597985480766",
+    "created_at": "2026-05-07T13:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052375597985480766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843630769308348416",
+          "start": 3,
+          "username": "VOIDPINKGIRL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052375597985480766",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052039082201780678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VOIDPINKGIRL: 女の子って超可愛いよぉって褒めても3日後にはまた鏡見て病み散らかしてるの可愛い。私可愛い♡の3日後には鏡見て泣きじゃくって欲しい。また可愛いよって勝手に言いたいから。女の子もう泣かないでいいくらい可愛いよ、けど女の子\"かわいい\"が無くても生き…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2052375597985480766",
+        "created_at": "2026-05-07T13:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052375597985480766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843630769308348416",
+              "start": 3,
+              "username": "VOIDPINKGIRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052375597985480766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052039082201780678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VOIDPINKGIRL: 女の子って超可愛いよぉって褒めても3日後にはまた鏡見て病み散らかしてるの可愛い。私可愛い♡の3日後には鏡見て泣きじゃくって欲しい。また可愛いよって勝手に言いたいから。女の子もう泣かないでいいくらい可愛いよ、けど女の子\"かわいい\"が無くても生き…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843630769308348416",
+        "conversation_id": "2052039082201780678",
+        "created_at": "2026-05-06T14:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052039082201780678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052039082201780678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 13271,
+          "like_count": 819,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "女の子って超可愛いよぉって褒めても3日後にはまた鏡見て病み散らかしてるの可愛い。私可愛い♡の3日後には鏡見て泣きじゃくって欲しい。また可愛いよって勝手に言いたいから。女の子もう泣かないでいいくらい可愛いよ、けど女の子\"かわいい\"が無くても生きていけるくらい可愛い事に気づかないで"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "💙ゆず🩵🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 64,
+          "like_count": 1077,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 203
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T12:33:38.000Z",
+        "description": "私が君を世界一かわいい少女にしてあげる",
+        "id": "1843630769308348416",
+        "name": "まりめろ♡",
+        "pinned_tweet_id": "2050836882192531640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877663863300354048/tohxl6CD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3397,
+          "following_count": 206,
+          "like_count": 42048,
+          "listed_count": 10,
+          "media_count": 43,
+          "tweet_count": 1114
+        },
+        "username": "VOIDPINKGIRL",
+        "verified": false
+      }
+    ]
+  }
+}

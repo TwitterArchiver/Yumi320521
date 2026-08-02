@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2073031500224979045",
+    "created_at": "2026-07-03T14:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073048849523130664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2066238469358379008",
+          "start": 0,
+          "username": "Mafuyuzxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073048849523130664",
+    "in_reply_to_user_id": "2066238469358379008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073044690165989819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mafuyuzxz 好的谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2073031500224979045",
+        "created_at": "2026-07-03T14:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073048849523130664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066238469358379008",
+              "start": 0,
+              "username": "Mafuyuzxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073048849523130664",
+        "in_reply_to_user_id": "2066238469358379008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073044690165989819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mafuyuzxz 好的谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066238469358379008",
+        "conversation_id": "2073031500224979045",
+        "created_at": "2026-07-03T14:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073044690165989819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073044690165989819",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073031500224979045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 我16岁的时候也去打工了！如果能找一个同龄人多一些的店铺的话会好很多。虽然我当时一天要在那呆11h左右，但是一有空就和别人聊天什么的，就感觉没那么累了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 144,
+          "like_count": 5184,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1157
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T19:17:39.000Z",
+        "description": "来点涩图蟹蟹喵. 交友OK. 尊重所有and致歉一切\n原账号丢失，请为我哀悼.\n推文只是些自言自语，豪到你了对不起。",
+        "id": "2066238469358379008",
+        "location": "亥珀波瑞亚",
+        "name": "Mafuyuzxz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066656252349091840/FOk2ZrIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 24,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "Mafuyuzxz",
+        "verified": false
+      }
+    ]
+  }
+}

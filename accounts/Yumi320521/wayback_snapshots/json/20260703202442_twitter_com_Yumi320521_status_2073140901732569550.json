@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073085140696489984"
+      ],
+      "media_source_tweet_id": [
+        "2073085144655933920"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2073140901732569550",
+    "created_at": "2026-07-03T20:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T21:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073140901732569550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1637073307211296768",
+          "start": 3,
+          "username": "nekoko_pjsk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oiz1pygr69",
+          "end": 44,
+          "expanded_url": "https://x.com/nekoko_pjsk/status/2073085144655933920/photo/1",
+          "media_key": "3_2073085140696489984",
+          "start": 21,
+          "url": "https://t.co/oiz1pygr69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073140901732569550",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073085144655933920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekoko_pjsk: 仲良し https://t.co/oiz1pygr69"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 656,
+        "media_key": "3_2073085140696489984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUT86ha4AAlg-t.jpg",
+        "width": 1073
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073085140696489984"
+          ],
+          "media_source_tweet_id": [
+            "2073085144655933920"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2073140901732569550",
+        "created_at": "2026-07-03T20:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T21:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073140901732569550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1637073307211296768",
+              "start": 3,
+              "username": "nekoko_pjsk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oiz1pygr69",
+              "end": 44,
+              "expanded_url": "https://x.com/nekoko_pjsk/status/2073085144655933920/photo/1",
+              "media_key": "3_2073085140696489984",
+              "start": 21,
+              "url": "https://t.co/oiz1pygr69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073140901732569550",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073085144655933920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekoko_pjsk: 仲良し https://t.co/oiz1pygr69"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073085140696489984"
+          ]
+        },
+        "author_id": "1637073307211296768",
+        "conversation_id": "2073085144655933920",
+        "created_at": "2026-07-03T16:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073085144655933920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oiz1pygr69",
+              "end": 27,
+              "expanded_url": "https://x.com/nekoko_pjsk/status/2073085144655933920/photo/1",
+              "media_key": "3_2073085140696489984",
+              "start": 4,
+              "url": "https://t.co/oiz1pygr69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073085144655933920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 782,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "仲良し https://t.co/oiz1pygr69"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 146,
+          "like_count": 5216,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1173
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T12:48:01.000Z",
+        "description": "プロセカ絵専用🍑(ボカロ関連もたまに描きます)",
+        "id": "1637073307211296768",
+        "location": "日本",
+        "name": "ネココ@C108(土)西1な24a",
+        "pinned_tweet_id": "1695321366701158524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893314828653170688/0QOWXlYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10245,
+          "following_count": 348,
+          "like_count": 21362,
+          "listed_count": 28,
+          "media_count": 200,
+          "tweet_count": 6527
+        },
+        "url": "",
+        "username": "nekoko_pjsk",
+        "verified": false
+      }
+    ]
+  }
+}

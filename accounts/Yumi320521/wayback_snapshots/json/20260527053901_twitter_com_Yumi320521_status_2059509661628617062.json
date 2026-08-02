@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059509661628617062",
+    "created_at": "2026-05-27T05:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059509661628617062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1729831830214344704",
+          "start": 3,
+          "username": "qiqi61595220678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059509661628617062",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059477052978569562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiqi61595220678: 自卑贯穿了我不漂亮的一生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059509661628617062",
+        "created_at": "2026-05-27T05:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059509661628617062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1729831830214344704",
+              "start": 3,
+              "username": "qiqi61595220678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059509661628617062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059477052978569562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiqi61595220678: 自卑贯穿了我不漂亮的一生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729831830214344704",
+        "conversation_id": "2059477052978569562",
+        "created_at": "2026-05-27T03:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059477052978569562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059477052978569562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1812,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "自卑贯穿了我不漂亮的一生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 71,
+          "like_count": 1860,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 580
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T11:57:10.000Z",
+        "description": "",
+        "id": "1729831830214344704",
+        "name": "Qiiquq",
+        "pinned_tweet_id": "2022006402068488489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862102195555995648/BAiZzT5Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 79,
+          "like_count": 929,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 258
+        },
+        "username": "qiqi61595220678",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060645156039389184"
+      ],
+      "media_source_tweet_id": [
+        "2060645158908280867"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060958192323166686",
+    "created_at": "2026-05-31T05:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060958192323166686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1985536149541306371",
+          "start": 3,
+          "username": "hime1004chi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VfcrFmib90",
+          "end": 85,
+          "expanded_url": "https://x.com/hime1004chi/status/2060645158908280867/photo/1",
+          "media_key": "3_2060645156039389184",
+          "start": 62,
+          "url": "https://t.co/VfcrFmib90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060958192323166686",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060645158908280867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hime1004chi: 카드 이름도 마치 공주님 같이(아닐수도)니까 준브라 아이리 공주님으로 주세요🍑🩷 https://t.co/VfcrFmib90"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_2060645156039389184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjh2gXbcAA6mIT.jpg",
+        "width": 1181
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060645156039389184"
+          ],
+          "media_source_tweet_id": [
+            "2060645158908280867"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060958192323166686",
+        "created_at": "2026-05-31T05:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060958192323166686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1985536149541306371",
+              "start": 3,
+              "username": "hime1004chi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VfcrFmib90",
+              "end": 85,
+              "expanded_url": "https://x.com/hime1004chi/status/2060645158908280867/photo/1",
+              "media_key": "3_2060645156039389184",
+              "start": 62,
+              "url": "https://t.co/VfcrFmib90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060958192323166686",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060645158908280867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hime1004chi: 카드 이름도 마치 공주님 같이(아닐수도)니까 준브라 아이리 공주님으로 주세요🍑🩷 https://t.co/VfcrFmib90"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060645156039389184"
+          ]
+        },
+        "author_id": "1985536149541306371",
+        "conversation_id": "2060645158908280867",
+        "created_at": "2026-05-30T08:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060645158908280867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VfcrFmib90",
+              "end": 68,
+              "expanded_url": "https://x.com/hime1004chi/status/2060645158908280867/photo/1",
+              "media_key": "3_2060645156039389184",
+              "start": 45,
+              "url": "https://t.co/VfcrFmib90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060645158908280867",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 567,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "카드 이름도 마치 공주님 같이(아닐수도)니까 준브라 아이리 공주님으로 주세요🍑🩷 https://t.co/VfcrFmib90"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 88,
+          "like_count": 2418,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 804
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T02:35:00.000Z",
+        "description": "🎨🍑🎨\n☘️♡\n\n스토리스포○\n\nsub: @himecat1004\n\nhttps://t.co/DSTljaTHOa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "himecat1004"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20248…",
+                "end": 59,
+                "expanded_url": "https://x.com/i/status/2024803794245341333",
+                "start": 36,
+                "url": "https://t.co/DSTljaTHOa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/himechi1004",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/himechi1004",
+                "start": 0,
+                "url": "https://t.co/RZq7qdOaHa"
+              }
+            ]
+          }
+        },
+        "id": "1985536149541306371",
+        "location": "🍑右",
+        "name": "ヒメ",
+        "pinned_tweet_id": "2060271974128271360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039358299708280832/UmishZgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 48,
+          "like_count": 1540,
+          "listed_count": 0,
+          "media_count": 622,
+          "tweet_count": 2314
+        },
+        "url": "https://t.co/RZq7qdOaHa",
+        "username": "hime1004chi",
+        "verified": false
+      }
+    ]
+  }
+}

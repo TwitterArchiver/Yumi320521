@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2042515601521021345",
+    "created_at": "2026-04-10T08:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042515601521021345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1703762928",
+          "start": 3,
+          "username": "1965chich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042515601521021345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042232155871559788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1965chich: 我身边认识的人基本都不会翻墙，然后我经常能看到，有的人过得很痛苦，就不知道为什么，或者是身边有发生一点小事就被完全扼住了未来，他们的视野很局限，看不到更多的东西，他们也不知道这个国家正在发生的自己的生活正在发生的，我能看到现在年轻人的无力感，直到最…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2042515601521021345",
+        "created_at": "2026-04-10T08:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042515601521021345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1703762928",
+              "start": 3,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042515601521021345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042232155871559788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1965chich: 我身边认识的人基本都不会翻墙，然后我经常能看到，有的人过得很痛苦，就不知道为什么，或者是身边有发生一点小事就被完全扼住了未来，他们的视野很局限，看不到更多的东西，他们也不知道这个国家正在发生的自己的生活正在发生的，我能看到现在年轻人的无力感，直到最…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703762928",
+        "conversation_id": "2042232155871559788",
+        "created_at": "2026-04-09T13:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042232155871559788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042232155871559788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 66467,
+          "like_count": 730,
+          "quote_count": 2,
+          "reply_count": 172,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "我身边认识的人基本都不会翻墙，然后我经常能看到，有的人过得很痛苦，就不知道为什么，或者是身边有发生一点小事就被完全扼住了未来，他们的视野很局限，看不到更多的东西，他们也不知道这个国家正在发生的自己的生活正在发生的，我能看到现在年轻人的无力感，直到最近，现在梯子也加强打击，彻底完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 32,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到互联网上的大王KFC的内心世界 非跨/不会尊重人的关小黑屋/敌蜜@akui1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "akui1121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/pdROfRxwRx"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "location": "Hong Kong",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "2018603726110601607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036915004172296192/eM928-u__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9245,
+          "following_count": 1281,
+          "like_count": 25618,
+          "listed_count": 9,
+          "media_count": 402,
+          "tweet_count": 8619
+        },
+        "url": "https://t.co/pdROfRxwRx",
+        "username": "1965chich",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072122217140482048"
+      ],
+      "media_source_tweet_id": [
+        "2072122225613021519"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072249925178650874",
+    "created_at": "2026-07-01T09:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T10:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072249925178650874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "4620945612",
+          "start": 3,
+          "username": "0153_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jq9BIL4LJj",
+          "end": 77,
+          "expanded_url": "https://x.com/0153_official/status/2072122225613021519/photo/1",
+          "media_key": "3_2072122217140482048",
+          "start": 54,
+          "url": "https://t.co/Jq9BIL4LJj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072249925178650874",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 273
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072122225613021519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0153_official: 「ファイナルデッドらぶ♡れたー」\n本日より各種サブスクにて配信開始💖 https://t.co/Jq9BIL4LJj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2072122217140482048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGoLYvacAAPFgW.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072122217140482048"
+          ],
+          "media_source_tweet_id": [
+            "2072122225613021519"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072249925178650874",
+        "created_at": "2026-07-01T09:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072249925178650874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "4620945612",
+              "start": 3,
+              "username": "0153_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jq9BIL4LJj",
+              "end": 77,
+              "expanded_url": "https://x.com/0153_official/status/2072122225613021519/photo/1",
+              "media_key": "3_2072122217140482048",
+              "start": 54,
+              "url": "https://t.co/Jq9BIL4LJj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072249925178650874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 273
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072122225613021519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0153_official: 「ファイナルデッドらぶ♡れたー」\n本日より各種サブスクにて配信開始💖 https://t.co/Jq9BIL4LJj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072122217140482048"
+          ]
+        },
+        "author_id": "4620945612",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072122225613021519",
+        "created_at": "2026-07-01T00:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T01:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072122225613021519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jq9BIL4LJj",
+              "end": 58,
+              "expanded_url": "https://x.com/0153_official/status/2072122225613021519/photo/1",
+              "media_key": "3_2072122217140482048",
+              "start": 35,
+              "url": "https://t.co/Jq9BIL4LJj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072122225613021519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 28342,
+          "like_count": 962,
+          "quote_count": 55,
+          "reply_count": 0,
+          "retweet_count": 273
+        },
+        "reply_settings": "everyone",
+        "text": "「ファイナルデッドらぶ♡れたー」\n本日より各種サブスクにて配信開始💖 https://t.co/Jq9BIL4LJj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 137,
+          "like_count": 4954,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1032
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-21T10:52:42.000Z",
+        "description": "■日本1バズるV系バンド！！■Vo.緑川裕宇@0153_you Gt.河村友雪@0153_tomoyuki Gt.水田魔梨@0153_mari Ba.眞崎大輔@0153_daisuke◆YouTube 【https://t.co/qtWDiBqubr】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "0153_you"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "0153_tomoyuki"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "0153_mari"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "0153_daisuke"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UC3Bwh…",
+                "end": 125,
+                "expanded_url": "https://m.youtube.com/channel/UC3BwhCH7Z89-XdU6eltQUng",
+                "start": 102,
+                "url": "https://t.co/qtWDiBqubr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gosan.g1-corp.com",
+                "end": 23,
+                "expanded_url": "http://gosan.g1-corp.com/",
+                "start": 0,
+                "url": "https://t.co/kr56R5XDI4"
+              }
+            ]
+          }
+        },
+        "id": "4620945612",
+        "location": "ハイライト欄に振り付け動画が纏めてあります",
+        "name": "0.1gの誤算official",
+        "pinned_tweet_id": "2067910365414109360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/712972507154817028/Wcdzi8MU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44674,
+          "following_count": 5,
+          "like_count": 40,
+          "listed_count": 313,
+          "media_count": 3037,
+          "tweet_count": 6496
+        },
+        "url": "https://t.co/kr56R5XDI4",
+        "username": "0153_official",
+        "verified": true
+      }
+    ]
+  }
+}

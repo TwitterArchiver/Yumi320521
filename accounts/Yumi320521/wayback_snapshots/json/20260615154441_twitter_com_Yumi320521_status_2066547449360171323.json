@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034292595497766912"
+      ],
+      "media_source_tweet_id": [
+        "2034292603894849555"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2066547449360171323",
+    "created_at": "2026-06-15T15:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066547449360171323"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 32,
+          "tag": "桃井愛莉誕生祭2026"
+        },
+        {
+          "end": 53,
+          "start": 45,
+          "tag": "prsk_FA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "159428669",
+          "start": 3,
+          "username": "mairu03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5YJxFJuXhK",
+          "end": 77,
+          "expanded_url": "https://x.com/mairu03/status/2034292603894849555/photo/1",
+          "media_key": "3_2034292595497766912",
+          "start": 54,
+          "url": "https://t.co/5YJxFJuXhK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066547449360171323",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 383
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034292603894849555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mairu03: 愛莉ちゃんお誕生日おめでとう！🩷☘️\n#桃井愛莉誕生祭2026 #prsk_FA https://t.co/5YJxFJuXhK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2034292595497766912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtCVmPaEAA4yGH.jpg",
+        "width": 2886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034292595497766912"
+          ],
+          "media_source_tweet_id": [
+            "2034292603894849555"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2066547449360171323",
+        "created_at": "2026-06-15T15:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066547449360171323"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 32,
+              "tag": "桃井愛莉誕生祭2026"
+            },
+            {
+              "end": 53,
+              "start": 45,
+              "tag": "prsk_FA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "159428669",
+              "start": 3,
+              "username": "mairu03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5YJxFJuXhK",
+              "end": 77,
+              "expanded_url": "https://x.com/mairu03/status/2034292603894849555/photo/1",
+              "media_key": "3_2034292595497766912",
+              "start": 54,
+              "url": "https://t.co/5YJxFJuXhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066547449360171323",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 383
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034292603894849555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mairu03: 愛莉ちゃんお誕生日おめでとう！🩷☘️\n#桃井愛莉誕生祭2026 #prsk_FA https://t.co/5YJxFJuXhK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034292595497766912"
+          ]
+        },
+        "author_id": "159428669",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2034292603894849555",
+        "created_at": "2026-03-18T15:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T16:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034292603894849555"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 19,
+              "tag": "桃井愛莉誕生祭2026"
+            },
+            {
+              "end": 40,
+              "start": 32,
+              "tag": "prsk_FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5YJxFJuXhK",
+              "end": 64,
+              "expanded_url": "https://x.com/mairu03/status/2034292603894849555/photo/1",
+              "media_key": "3_2034292595497766912",
+              "start": 41,
+              "url": "https://t.co/5YJxFJuXhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034292603894849555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 19888,
+          "like_count": 1715,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 383
+        },
+        "reply_settings": "everyone",
+        "text": "愛莉ちゃんお誕生日おめでとう！🩷☘️\n#桃井愛莉誕生祭2026 #prsk_FA https://t.co/5YJxFJuXhK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 118,
+          "like_count": 3439,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 627
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-25T10:16:52.000Z",
+        "description": "こはまひ/かのちさ/みさここ/りんあこ /しずあい/みのはる/WJ本誌勢/逆裁~4,検事大逆済",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/mairu03",
+                "end": 23,
+                "expanded_url": "https://lit.link/mairu03",
+                "start": 0,
+                "url": "https://t.co/qisZVZIjfT"
+              }
+            ]
+          }
+        },
+        "id": "159428669",
+        "location": "Skeb、通販など→",
+        "name": "まいる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451406363704250373/JVT7Xq-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5792,
+          "following_count": 755,
+          "like_count": 39409,
+          "listed_count": 107,
+          "media_count": 3227,
+          "tweet_count": 476710
+        },
+        "url": "https://t.co/qisZVZIjfT",
+        "username": "mairu03",
+        "verified": false
+      }
+    ]
+  }
+}

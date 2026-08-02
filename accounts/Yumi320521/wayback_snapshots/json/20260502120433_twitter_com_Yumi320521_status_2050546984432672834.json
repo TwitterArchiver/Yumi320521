@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2050522785823511004",
+    "created_at": "2026-05-02T12:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T13:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050546984432672834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "82990591",
+          "start": 0,
+          "username": "ritsuppy"
+        },
+        {
+          "end": 19,
+          "id": "1331169156",
+          "start": 10,
+          "username": "0153_you"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050546984432672834",
+    "in_reply_to_user_id": "82990591",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050528069748744340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ritsuppy @0153_you ちょっと落ち込んでたけど、コメント見て元気になった！私もそう願ってる🥹🥲🙌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2050522785823511004",
+        "created_at": "2026-05-02T12:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050546984432672834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "82990591",
+              "start": 0,
+              "username": "ritsuppy"
+            },
+            {
+              "end": 19,
+              "id": "1331169156",
+              "start": 10,
+              "username": "0153_you"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050546984432672834",
+        "in_reply_to_user_id": "82990591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050528069748744340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ritsuppy @0153_you ちょっと落ち込んでたけど、コメント見て元気になった！私もそう願ってる🥹🥲🙌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "82990591",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          }
+        ],
+        "conversation_id": "2050522785823511004",
+        "created_at": "2026-05-02T10:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050528069748744340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1331169156",
+              "start": 0,
+              "username": "0153_you"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050528069748744340",
+        "in_reply_to_user_id": "1331169156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46895,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050522785823511004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0153_you ゆうさんなら絶対これをチャンスに変える天才やなーって見た瞬間から思いました。\n\n悪いこと一つもしていませんし、\n逆にこんな素敵な関係知れて嬉しく思ってます。\n\n謝るとかじゃなくて\n面白い動画の台本にしてくれ！！！！！\n\nヴィジュアル系一の天才\nブラジルから応援してますぞーーー！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "茶柚/Yumi 16 153/73\n桃井爱莉｜同担拒否｜地雷系｜od\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 50,
+          "like_count": 882,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 144
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-16T22:31:02.000Z",
+        "description": "ブラジルニキ₍ᐢ. ̫.ᐢ₎🕺🇧🇷 Instagram: @ritsuppy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "ritsuppy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@ritsuppy",
+                "end": 23,
+                "expanded_url": "http://tiktok.com/@ritsuppy",
+                "start": 0,
+                "url": "https://t.co/kPmWgs2ug0"
+              }
+            ]
+          }
+        },
+        "id": "82990591",
+        "name": "gui ritsu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047289080803713024/8m_O6Eyo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6784,
+          "following_count": 2673,
+          "like_count": 74862,
+          "listed_count": 69,
+          "media_count": 14695,
+          "tweet_count": 214777
+        },
+        "url": "https://t.co/kPmWgs2ug0",
+        "username": "ritsuppy",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-06T09:46:12.000Z",
+        "description": "▪️日本1バズるV系バンド！！0.1gの誤算で作詞作曲企画考案ボーカル担当■Youtube &SNSフォロワー計50万人▪️洗足学園音楽大学卒 ▪️official Twitter @0153_official 日常アカ@younichijou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "0153_official"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "younichijou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCNNI7…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCNNI7XtOshk_gN9FuuLrn7A",
+                "start": 0,
+                "url": "https://t.co/EgkpBSzcWH"
+              }
+            ]
+          }
+        },
+        "id": "1331169156",
+        "location": "緑川ゆう",
+        "name": "0.1gの誤算 緑川裕宇",
+        "pinned_tweet_id": "1429047027086761987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032404944436035584/M9KSTKIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67957,
+          "following_count": 304,
+          "like_count": 87958,
+          "listed_count": 391,
+          "media_count": 4108,
+          "tweet_count": 20389
+        },
+        "url": "https://t.co/EgkpBSzcWH",
+        "username": "0153_you",
+        "verified": true
+      }
+    ]
+  }
+}

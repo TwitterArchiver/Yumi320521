@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060572576297213952"
+      ],
+      "media_source_tweet_id": [
+        "2060572591602159771"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060656113822187876",
+    "created_at": "2026-05-30T09:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060656113822187876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1243326507747094528",
+          "start": 3,
+          "username": "Diana41681419"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OKQoEh2E0Q",
+          "end": 63,
+          "expanded_url": "https://x.com/Diana41681419/status/2060572591602159771/photo/1",
+          "media_key": "3_2060572576297213952",
+          "start": 40,
+          "url": "https://t.co/OKQoEh2E0Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060656113822187876",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060572591602159771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Diana41681419: 支配される側の気持ち\n(1/7) SFW https://t.co/OKQoEh2E0Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1413,
+        "media_key": "3_2060572576297213952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJif1zwbYAAhatv.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060572576297213952"
+          ],
+          "media_source_tweet_id": [
+            "2060572591602159771"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060656113822187876",
+        "created_at": "2026-05-30T09:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060656113822187876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1243326507747094528",
+              "start": 3,
+              "username": "Diana41681419"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OKQoEh2E0Q",
+              "end": 63,
+              "expanded_url": "https://x.com/Diana41681419/status/2060572591602159771/photo/1",
+              "media_key": "3_2060572576297213952",
+              "start": 40,
+              "url": "https://t.co/OKQoEh2E0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060656113822187876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060572591602159771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Diana41681419: 支配される側の気持ち\n(1/7) SFW https://t.co/OKQoEh2E0Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060572576297213952"
+          ]
+        },
+        "author_id": "1243326507747094528",
+        "conversation_id": "2060572591602159771",
+        "created_at": "2026-05-30T04:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060572591602159771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OKQoEh2E0Q",
+              "end": 44,
+              "expanded_url": "https://x.com/Diana41681419/status/2060572591602159771/photo/1",
+              "media_key": "3_2060572576297213952",
+              "start": 21,
+              "url": "https://t.co/OKQoEh2E0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060572591602159771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 436,
+          "impression_count": 72961,
+          "like_count": 942,
+          "quote_count": 11,
+          "reply_count": 5,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "支配される側の気持ち\n(1/7) SFW https://t.co/OKQoEh2E0Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉/视觉系乐队/量产型/药圈\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060607310649831797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 98,
+          "like_count": 2299,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 741
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-26T23:58:43.000Z",
+        "description": "PR",
+        "id": "1243326507747094528",
+        "name": "どんちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042942073176006656/CA0gUkMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 861,
+          "like_count": 255,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 334
+        },
+        "username": "Diana41681419",
+        "verified": false
+      }
+    ]
+  }
+}

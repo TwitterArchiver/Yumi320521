@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2056347092344611108",
+    "created_at": "2026-05-18T12:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056347092344611108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2028432059002150912",
+          "start": 3,
+          "username": "NinJaCatRising"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056347092344611108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056216748131553562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NinJaCatRising: 东亚小孩九件套：\n束缚天性，压制情绪，无视需求，讨好人格，苦难教育，不停攀比，功利思维，放松羞耻，延迟幸福。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2056347092344611108",
+        "created_at": "2026-05-18T12:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056347092344611108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2028432059002150912",
+              "start": 3,
+              "username": "NinJaCatRising"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056347092344611108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056216748131553562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NinJaCatRising: 东亚小孩九件套：\n束缚天性，压制情绪，无视需求，讨好人格，苦难教育，不停攀比，功利思维，放松羞耻，延迟幸福。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028432059002150912",
+        "conversation_id": "2056216748131553562",
+        "created_at": "2026-05-18T03:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056216748131553562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056216748131553562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 12288,
+          "like_count": 403,
+          "quote_count": 8,
+          "reply_count": 24,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "东亚小孩九件套：\n束缚天性，压制情绪，无视需求，讨好人格，苦难教育，不停攀比，功利思维，放松羞耻，延迟幸福。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残\n好累…",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 68,
+          "like_count": 1310,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 260
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T11:29:34.000Z",
+        "description": "保持佛系，不加任何联系方式；分享我想发的\n帖子仅代表个人",
+        "id": "2028432059002150912",
+        "name": "gangjeup",
+        "pinned_tweet_id": "2053443454030459336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055250638217371648/y1PXaqD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 18,
+          "like_count": 2104,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 327
+        },
+        "username": "NinJaCatRising",
+        "verified": false
+      }
+    ]
+  }
+}

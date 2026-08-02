@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2082130205074919509",
+    "created_at": "2026-07-28T20:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T21:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082200856133538022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1971244609943564290",
+          "start": 0,
+          "username": "Donna1054957"
+        },
+        {
+          "end": 23,
+          "id": "2057552254463291393",
+          "start": 14,
+          "username": "6De_dian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082200856133538022",
+    "in_reply_to_user_id": "1971244609943564290",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082130205074919509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Donna1054957 @6De_dian 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2082130205074919509",
+        "created_at": "2026-07-28T20:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082200856133538022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1971244609943564290",
+              "start": 0,
+              "username": "Donna1054957"
+            },
+            {
+              "end": 23,
+              "id": "2057552254463291393",
+              "start": 14,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082200856133538022",
+        "in_reply_to_user_id": "1971244609943564290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082130205074919509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Donna1054957 @6De_dian 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2082130205074919509",
+        "created_at": "2026-07-28T15:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082130205074919509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082130205074919509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 423,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "很无聊 于是我们来抽奖吧 正好大家一直在关注我😺\n第一名:20r\n第二名:10r\n第三名:5r三位\n抽奖采用gork随机开奖 点赞转发评论即可参与🐺🐺🐺🐺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 159,
+          "like_count": 5961,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1623
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2079489884654555350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081482275225739264/layUdQ90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 206,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 486,
+          "like_count": 11848,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2131
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2067950902544413174",
+    "created_at": "2026-06-21T07:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068594534632894553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038644495533723648",
+          "start": 0,
+          "username": "staryhrzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068594534632894553",
+    "in_reply_to_user_id": "2038644495533723648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068591569645846662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@staryhrzzz 爱你！^ ^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2067950902544413174",
+        "created_at": "2026-06-21T07:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068594534632894553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038644495533723648",
+              "start": 0,
+              "username": "staryhrzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068594534632894553",
+        "in_reply_to_user_id": "2038644495533723648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068591569645846662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@staryhrzzz 爱你！^ ^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038644495533723648",
+        "conversation_id": "2067950902544413174",
+        "created_at": "2026-06-21T07:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068591569645846662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068591569645846662",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067950902544413174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 好乖巧的黑髮！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 126,
+          "like_count": 3817,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 686
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T15:50:40.000Z",
+        "description": "我是kyo 會當日記來發 希望大家都獲得幸福！od｜宅家｜蕾系｜電波系｜infp\n戀人是教主大人💗\n素學家 and電波作愛好者 我吃信徒組",
+        "id": "2038644495533723648",
+        "name": "kyo",
+        "pinned_tweet_id": "2045425240092922059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038645383853666305/UGax8MKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 181,
+          "like_count": 818,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 306
+        },
+        "url": "",
+        "username": "staryhrzzz",
+        "verified": false
+      }
+    ]
+  }
+}

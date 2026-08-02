@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2050900551739875328"
+      ],
+      "media_source_tweet_id": [
+        "2050900644576506195"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050967002374971895",
+    "created_at": "2026-05-03T15:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T16:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050967002374971895"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 74,
+          "start": 69,
+          "tag": "誤算の日"
+        },
+        {
+          "end": 81,
+          "start": 76,
+          "tag": "緑川裕宇"
+        },
+        {
+          "end": 90,
+          "start": 82,
+          "tag": "0ꓸ1gの誤算"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1274260075553554432",
+          "start": 3,
+          "username": "uta0609uta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WOryltoKcE",
+          "end": 114,
+          "expanded_url": "https://x.com/uta0609uta/status/2050900644576506195/video/1",
+          "media_key": "7_2050900551739875328",
+          "start": 91,
+          "url": "https://t.co/WOryltoKcE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050967002374971895",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050900644576506195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uta0609uta: 2026/05/03\n取り急ぎ!!\nバンギャに水をあげるゆうさん🩵🪽\nしっかりあげさせていただきます!!\n#誤算の日 \n#緑川裕宇\n#0ꓸ1gの誤算 https://t.co/WOryltoKcE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 78115,
+        "height": 1280,
+        "media_key": "7_2050900551739875328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050900551739875328/pu/img/DGGGSaZjLo6PwEF_.jpg",
+        "public_metrics": {
+          "view_count": 35966
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050900551739875328/pu/vid/avc1/320x568/Y4PnzMsTO9qvYztA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050900551739875328/pu/vid/avc1/480x852/iVtWpdF9nau8hYZz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050900551739875328/pu/vid/avc1/720x1280/NABBj_7oOX27PGck.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050900551739875328/pu/pl/tzpPFMOW913oCaSe.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050900551739875328"
+          ],
+          "media_source_tweet_id": [
+            "2050900644576506195"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050967002374971895",
+        "created_at": "2026-05-03T15:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050967002374971895"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "誤算の日"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "緑川裕宇"
+            },
+            {
+              "end": 90,
+              "start": 82,
+              "tag": "0ꓸ1gの誤算"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1274260075553554432",
+              "start": 3,
+              "username": "uta0609uta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WOryltoKcE",
+              "end": 114,
+              "expanded_url": "https://x.com/uta0609uta/status/2050900644576506195/video/1",
+              "media_key": "7_2050900551739875328",
+              "start": 91,
+              "url": "https://t.co/WOryltoKcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050967002374971895",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050900644576506195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uta0609uta: 2026/05/03\n取り急ぎ!!\nバンギャに水をあげるゆうさん🩵🪽\nしっかりあげさせていただきます!!\n#誤算の日 \n#緑川裕宇\n#0ꓸ1gの誤算 https://t.co/WOryltoKcE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050900551739875328"
+          ]
+        },
+        "author_id": "1274260075553554432",
+        "conversation_id": "2050900644576506195",
+        "created_at": "2026-05-03T11:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T12:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050900644576506195"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "誤算の日"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "緑川裕宇"
+            },
+            {
+              "end": 74,
+              "start": 66,
+              "tag": "0ꓸ1gの誤算"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WOryltoKcE",
+              "end": 98,
+              "expanded_url": "https://x.com/uta0609uta/status/2050900644576506195/video/1",
+              "media_key": "7_2050900551739875328",
+              "start": 75,
+              "url": "https://t.co/WOryltoKcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050900644576506195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 61971,
+          "like_count": 304,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "2026/05/03\n取り急ぎ!!\nバンギャに水をあげるゆうさん🩵🪽\nしっかりあげさせていただきます!!\n#誤算の日 \n#緑川裕宇\n#0ꓸ1gの誤算 https://t.co/WOryltoKcE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg\n桃井爱莉｜地雷系｜od｜自残\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 53,
+          "like_count": 957,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 166
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-20T08:37:47.000Z",
+        "description": "母の古いレンズを見つけたのでカメラ始めました。🔰\n雑多にあげます。フォローご自由に、無言フォロー失礼します。\n趣味垢:水田サイド🩷 .🌎️",
+        "id": "1274260075553554432",
+        "name": "うた",
+        "pinned_tweet_id": "2038792775500738795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836214077112393728/EhQ1jgAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 42,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 901
+        },
+        "username": "uta0609uta",
+        "verified": false
+      }
+    ]
+  }
+}

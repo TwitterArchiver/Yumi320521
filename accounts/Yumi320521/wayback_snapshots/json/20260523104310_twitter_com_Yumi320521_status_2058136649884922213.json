@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058027301238173696"
+      ],
+      "media_source_tweet_id": [
+        "2058095587615265113"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2058136649884922213",
+    "created_at": "2026-05-23T10:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058136649884922213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1214064832829259777",
+          "start": 3,
+          "username": "Man_SU_11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q7ATf84zld",
+          "end": 45,
+          "expanded_url": "https://x.com/Man_SU_11/status/2058095587615265113/photo/1",
+          "media_key": "3_2058027301238173696",
+          "start": 22,
+          "url": "https://t.co/Q7ATf84zld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058136649884922213",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 474
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058095587615265113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Man_SU_11: 迷惑カップル https://t.co/Q7ATf84zld"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2888,
+        "media_key": "3_2058027301238173696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-U7TRbcAAZ-KS.jpg",
+        "width": 2041
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058027301238173696"
+          ],
+          "media_source_tweet_id": [
+            "2058095587615265113"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2058136649884922213",
+        "created_at": "2026-05-23T10:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058136649884922213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1214064832829259777",
+              "start": 3,
+              "username": "Man_SU_11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q7ATf84zld",
+              "end": 45,
+              "expanded_url": "https://x.com/Man_SU_11/status/2058095587615265113/photo/1",
+              "media_key": "3_2058027301238173696",
+              "start": 22,
+              "url": "https://t.co/Q7ATf84zld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058136649884922213",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 474
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058095587615265113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Man_SU_11: 迷惑カップル https://t.co/Q7ATf84zld"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058027301238173696"
+          ]
+        },
+        "author_id": "1214064832829259777",
+        "conversation_id": "2058095587615265113",
+        "created_at": "2026-05-23T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058095587615265113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q7ATf84zld",
+              "end": 30,
+              "expanded_url": "https://x.com/Man_SU_11/status/2058095587615265113/photo/1",
+              "media_key": "3_2058027301238173696",
+              "start": 7,
+              "url": "https://t.co/Q7ATf84zld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058095587615265113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 840,
+          "impression_count": 55374,
+          "like_count": 6151,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 474
+        },
+        "reply_settings": "everyone",
+        "text": "迷惑カップル https://t.co/Q7ATf84zld"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 153/36kg 🐼\n桃井爱莉｜地雷系｜od｜自残｜ISFP\n会发自拍和碎碎念 欢迎互fo哦",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 64,
+          "like_count": 1600,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 385
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-06T06:03:17.000Z",
+        "description": "OC - 間宮遊(Mamiya yuu)🖤  アシャル(Ashal)💛\n\n📧CONTACT : mansu113355@gmail.com\npatreon: https://t.co/g6ainLoHID\nfanbox: https://t.co/idEzTBPvcD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/ManSU113355",
+                "end": 102,
+                "expanded_url": "https://www.patreon.com/c/ManSU113355",
+                "start": 79,
+                "url": "https://t.co/g6ainLoHID"
+              },
+              {
+                "display_url": "mansu.fanbox.cc",
+                "end": 134,
+                "expanded_url": "https://mansu.fanbox.cc/",
+                "start": 111,
+                "url": "https://t.co/idEzTBPvcD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/46801999",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/46801999",
+                "start": 0,
+                "url": "https://t.co/0FeXGhUibN"
+              }
+            ]
+          }
+        },
+        "id": "1214064832829259777",
+        "name": "ManSU",
+        "pinned_tweet_id": "1880893554450645482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966893309659672583/Gcfq1Tus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95072,
+          "following_count": 4503,
+          "like_count": 13596,
+          "listed_count": 567,
+          "media_count": 113,
+          "tweet_count": 3217
+        },
+        "url": "https://t.co/0FeXGhUibN",
+        "username": "Man_SU_11",
+        "verified": true
+      }
+    ]
+  }
+}

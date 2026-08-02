@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2071163113110688138",
+    "created_at": "2026-06-28T12:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071202298097971339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1987007193720475648",
+          "start": 0,
+          "username": "cai_huan78720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071202298097971339",
+    "in_reply_to_user_id": "1987007193720475648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071190235476861032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cai_huan78720 鸭嘴水蜜桃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2071163113110688138",
+        "created_at": "2026-06-28T12:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071202298097971339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987007193720475648",
+              "start": 0,
+              "username": "cai_huan78720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071202298097971339",
+        "in_reply_to_user_id": "1987007193720475648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071190235476861032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cai_huan78720 鸭嘴水蜜桃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987007193720475648",
+        "conversation_id": "2071163113110688138",
+        "created_at": "2026-06-28T11:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071190235476861032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071190235476861032",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071163113110688138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 什么样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 143,
+          "like_count": 4731,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 930
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T04:01:30.000Z",
+        "description": "出口",
+        "id": "1987007193720475648",
+        "name": "289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987007547640061955/gnTXOSWr_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 23,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "cai_huan78720",
+        "verified": false
+      }
+    ]
+  }
+}

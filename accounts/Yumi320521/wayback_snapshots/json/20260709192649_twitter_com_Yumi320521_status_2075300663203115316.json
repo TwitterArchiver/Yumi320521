@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2075054793635004417"
+      ],
+      "media_source_tweet_id": [
+        "2075054809602826692"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2075300663203115316",
+    "created_at": "2026-07-09T19:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T20:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075300663203115316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1652093768282120194",
+          "start": 3,
+          "username": "r1nwtff"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kfp4l7vDHN",
+          "end": 80,
+          "expanded_url": "https://x.com/r1nwtff/status/2075054809602826692/photo/1",
+          "media_key": "16_2075054793635004417",
+          "start": 57,
+          "url": "https://t.co/kfp4l7vDHN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075300663203115316",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 535
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075054809602826692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @r1nwtff: Pasa un mínimo inconveniente en mi vida\nYo: https://t.co/kfp4l7vDHN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 226,
+        "media_key": "16_2075054793635004417",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMwTVzgWAAEolfq.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMwTVzgWAAEolfq.mp4"
+          }
+        ],
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2075054793635004417"
+          ],
+          "media_source_tweet_id": [
+            "2075054809602826692"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2075300663203115316",
+        "created_at": "2026-07-09T19:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T20:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075300663203115316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1652093768282120194",
+              "start": 3,
+              "username": "r1nwtff"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kfp4l7vDHN",
+              "end": 80,
+              "expanded_url": "https://x.com/r1nwtff/status/2075054809602826692/photo/1",
+              "media_key": "16_2075054793635004417",
+              "start": 57,
+              "url": "https://t.co/kfp4l7vDHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075300663203115316",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 535
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075054809602826692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @r1nwtff: Pasa un mínimo inconveniente en mi vida\nYo: https://t.co/kfp4l7vDHN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2075054793635004417"
+          ]
+        },
+        "author_id": "1652093768282120194",
+        "conversation_id": "2075054809602826692",
+        "created_at": "2026-07-09T03:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075054809602826692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kfp4l7vDHN",
+              "end": 67,
+              "expanded_url": "https://x.com/r1nwtff/status/2075054809602826692/photo/1",
+              "media_key": "16_2075054793635004417",
+              "start": 44,
+              "url": "https://t.co/kfp4l7vDHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075054809602826692",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 12125,
+          "like_count": 1644,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 535
+        },
+        "reply_settings": "everyone",
+        "text": "Pasa un mínimo inconveniente en mi vida\nYo: https://t.co/kfp4l7vDHN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 148,
+          "like_count": 5453,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1323
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-28T23:34:01.000Z",
+        "description": "she/her #subtwt \npúblico lo que pienso y siento 🥢",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 8,
+                "tag": "subtwt"
+              }
+            ]
+          }
+        },
+        "id": "1652093768282120194",
+        "location": "Raccon city 🩻",
+        "name": "Rin 💌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073988248980865025/QfvtIqtW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 152,
+          "like_count": 766,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 305
+        },
+        "url": "",
+        "username": "r1nwtff",
+        "verified": false
+      }
+    ]
+  }
+}

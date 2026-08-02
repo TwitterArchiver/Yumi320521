@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069853603100229894",
+    "created_at": "2026-06-25T07:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T08:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070048269296926826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1892178323415216128",
+          "start": 0,
+          "username": "sakurakobuchiyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070048269296926826",
+    "in_reply_to_user_id": "1892178323415216128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070029755576152454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakurakobuchiyu 那就好！可以问问新号吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069853603100229894",
+        "created_at": "2026-06-25T07:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070048269296926826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1892178323415216128",
+              "start": 0,
+              "username": "sakurakobuchiyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070048269296926826",
+        "in_reply_to_user_id": "1892178323415216128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070029755576152454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakurakobuchiyu 那就好！可以问问新号吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892178323415216128",
+        "conversation_id": "2069853603100229894",
+        "created_at": "2026-06-25T06:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070029755576152454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070029755576152454",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069853603100229894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 这素我朋友，她换号了这个号说登不上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 140,
+          "like_count": 4592,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 870
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T11:44:14.000Z",
+        "description": "=Sakura  ♡@Amane_TENRIN 中国語OK、日本語は苦手",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "Amane_TENRIN"
+              }
+            ]
+          }
+        },
+        "id": "1892178323415216128",
+        "location": "🍼",
+        "name": "さくら",
+        "pinned_tweet_id": "2065677388609180121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068668000702742529/NPqxyDx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 102,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 408
+        },
+        "url": "",
+        "username": "sakurakobuchiyu",
+        "verified": false
+      }
+    ]
+  }
+}

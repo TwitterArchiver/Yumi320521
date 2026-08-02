@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058261021517860864"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2058261031865217244",
+    "created_at": "2026-05-23T18:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T19:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058261031865217244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AIiuIodNSJ",
+          "end": 66,
+          "expanded_url": "https://x.com/Yumi320521/status/2058261031865217244/photo/1",
+          "media_key": "3_2058261021517860864",
+          "start": 43,
+          "url": "https://t.co/AIiuIodNSJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058261031865217244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨晚让我妈买酒 但是她说零食店里没有rio就只买了这些 我想和药搭配在一起 希望好喝 https://t.co/AIiuIodNSJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2058261021517860864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJBpfnKa0AA7a4O.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058261021517860864"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058261031865217244",
+        "created_at": "2026-05-23T18:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058261031865217244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AIiuIodNSJ",
+              "end": 66,
+              "expanded_url": "https://x.com/Yumi320521/status/2058261031865217244/photo/1",
+              "media_key": "3_2058261021517860864",
+              "start": 43,
+              "url": "https://t.co/AIiuIodNSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058261031865217244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚让我妈买酒 但是她说零食店里没有rio就只买了这些 我想和药搭配在一起 希望好喝 https://t.co/AIiuIodNSJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 66,
+          "like_count": 1650,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 406
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2065464762503426235",
+    "created_at": "2026-06-12T16:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065464762503426235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/5885643597549c…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/5885643597549c/status/2065055463692263530",
+          "start": 4,
+          "url": "https://t.co/iymVMgFAzx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065464762503426235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065055463692263530",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好心酸 https://t.co/iymVMgFAzx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065055456364736512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiM_xYaMAAPXBg.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2065464762503426235",
+        "created_at": "2026-06-12T16:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065464762503426235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/5885643597549c…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/5885643597549c/status/2065055463692263530",
+              "start": 4,
+              "url": "https://t.co/iymVMgFAzx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065464762503426235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065055463692263530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好心酸 https://t.co/iymVMgFAzx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065055456364736512"
+          ]
+        },
+        "author_id": "1929164111491076097",
+        "conversation_id": "2065055463692263530",
+        "created_at": "2026-06-11T12:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065055463692263530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VDQahDnvDP",
+              "end": 32,
+              "expanded_url": "https://x.com/5885643597549c/status/2065055463692263530/photo/1",
+              "media_key": "3_2065055456364736512",
+              "start": 9,
+              "url": "https://t.co/VDQahDnvDP"
+            },
+            {
+              "display_url": "x.com/mxxx_n_xxxu/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/mxxx_n_xxxu/status/2064664807429861524",
+              "start": 33,
+              "url": "https://t.co/PhXAbjC8vA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065055463692263530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 180055,
+          "like_count": 6101,
+          "quote_count": 76,
+          "reply_count": 0,
+          "retweet_count": 236
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064664807429861524",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "現実が見えてきた https://t.co/VDQahDnvDP https://t.co/PhXAbjC8vA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 135,
+          "like_count": 3268,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 584
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T13:12:35.000Z",
+        "description": "👊🩸/全コンプ/無言フォロー🙇/コミュ障/自虐\nhttps://t.co/nBEArsxbIp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/4m45vqh0l2lvij…",
+                "end": 47,
+                "expanded_url": "https://marshmallow-qa.com/4m45vqh0l2lviji?t=GqJqfT&utm_medium=url_text&utm_source=promotion",
+                "start": 24,
+                "url": "https://t.co/nBEArsxbIp"
+              }
+            ]
+          }
+        },
+        "id": "1929164111491076097",
+        "name": "ｵｰﾝ",
+        "pinned_tweet_id": "2057401571718430918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056367829478502400/cQOVoCVb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 123,
+          "like_count": 1660,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 407
+        },
+        "username": "5885643597549c",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063217091222855680"
+      ],
+      "media_source_tweet_id": [
+        "2063217099217248748"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2063263386511847890",
+    "created_at": "2026-06-06T14:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063263386511847890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1331169156",
+          "start": 3,
+          "username": "0153_you"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wAiH4W3mtP",
+          "end": 65,
+          "expanded_url": "https://x.com/0153_you/status/2063217099217248748/photo/1",
+          "media_key": "3_2063217091222855680",
+          "start": 42,
+          "url": "https://t.co/wAiH4W3mtP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063263386511847890",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063217099217248748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0153_you: 地雷系になっちゃった꒰ᐢɞ̴̶̷ ·̫ ɞ̴̶̷ᐢ꒱🔪 https://t.co/wAiH4W3mtP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2063217091222855680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIFA1jaYAAmFA6.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063217091222855680"
+          ],
+          "media_source_tweet_id": [
+            "2063217099217248748"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2063263386511847890",
+        "created_at": "2026-06-06T14:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063263386511847890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1331169156",
+              "start": 3,
+              "username": "0153_you"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAiH4W3mtP",
+              "end": 65,
+              "expanded_url": "https://x.com/0153_you/status/2063217099217248748/photo/1",
+              "media_key": "3_2063217091222855680",
+              "start": 42,
+              "url": "https://t.co/wAiH4W3mtP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063263386511847890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063217099217248748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0153_you: 地雷系になっちゃった꒰ᐢɞ̴̶̷ ·̫ ɞ̴̶̷ᐢ꒱🔪 https://t.co/wAiH4W3mtP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063217091222855680"
+          ]
+        },
+        "author_id": "1331169156",
+        "conversation_id": "2063217099217248748",
+        "created_at": "2026-06-06T11:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063217099217248748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAiH4W3mtP",
+              "end": 51,
+              "expanded_url": "https://x.com/0153_you/status/2063217099217248748/photo/1",
+              "media_key": "3_2063217091222855680",
+              "start": 28,
+              "url": "https://t.co/wAiH4W3mtP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063217099217248748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 23835,
+          "like_count": 1058,
+          "quote_count": 45,
+          "reply_count": 88,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "地雷系になっちゃった꒰ᐢɞ̴̶̷ ·̫ ɞ̴̶̷ᐢ꒱🔪 https://t.co/wAiH4W3mtP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=ゆず/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "Yuzumi",
+        "pinned_tweet_id": "2062839753180107101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 100,
+          "like_count": 2736,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 868
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-06T09:46:12.000Z",
+        "description": "▪️日本1バズるV系バンド！！0.1gの誤算で作詞作曲企画考案ボーカル担当■Youtube &SNSフォロワー計50万人▪️洗足学園音楽大学卒 ▪️official Twitter @0153_official 日常アカ@younichijou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "0153_official"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "younichijou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCNNI7…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCNNI7XtOshk_gN9FuuLrn7A",
+                "start": 0,
+                "url": "https://t.co/EgkpBSzcWH"
+              }
+            ]
+          }
+        },
+        "id": "1331169156",
+        "location": "緑川ゆう",
+        "name": "0.1gの誤算 緑川裕宇",
+        "pinned_tweet_id": "1429047027086761987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032404944436035584/M9KSTKIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66979,
+          "following_count": 304,
+          "like_count": 87934,
+          "listed_count": 386,
+          "media_count": 4113,
+          "tweet_count": 20393
+        },
+        "url": "https://t.co/EgkpBSzcWH",
+        "username": "0153_you",
+        "verified": true
+      }
+    ]
+  }
+}

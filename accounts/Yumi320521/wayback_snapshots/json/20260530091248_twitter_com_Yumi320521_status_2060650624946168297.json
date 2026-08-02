@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060650624946168297",
+    "created_at": "2026-05-30T09:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060650624946168297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1698497281073225728",
+          "start": 3,
+          "username": "_Yuivox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060650624946168297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 492
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060480895463940381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Yuivox: 自分を愛せない人が他人を愛すると\n依存しやすいらしいよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060650624946168297",
+        "created_at": "2026-05-30T09:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060650624946168297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1698497281073225728",
+              "start": 3,
+              "username": "_Yuivox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060650624946168297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 492
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060480895463940381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Yuivox: 自分を愛せない人が他人を愛すると\n依存しやすいらしいよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698497281073225728",
+        "conversation_id": "2060480895463940381",
+        "created_at": "2026-05-29T21:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060480895463940381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060480895463940381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 42905,
+          "like_count": 2103,
+          "quote_count": 108,
+          "reply_count": 282,
+          "retweet_count": 492
+        },
+        "reply_settings": "everyone",
+        "text": "自分を愛せない人が他人を愛すると\n依存しやすいらしいよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 97,
+          "like_count": 2277,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 734
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-04T00:44:52.000Z",
+        "description": "やがみゆい \n∔唯一無二の声を武器に活動しています∔\n\n†❤︎ @yagami__yui 裏垢@yui_menship",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "yagami__yui"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "yui_menship"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@YuiVox25",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@YuiVox25",
+                "start": 0,
+                "url": "https://t.co/iRkOii7xRO"
+              }
+            ]
+          }
+        },
+        "id": "1698497281073225728",
+        "location": "Vtuber準備中…",
+        "name": "夜神ゆい",
+        "pinned_tweet_id": "2001233740526444847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039363703829852160/1HZogWkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14983,
+          "following_count": 2157,
+          "like_count": 75195,
+          "listed_count": 59,
+          "media_count": 82,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/iRkOii7xRO",
+        "username": "_Yuivox",
+        "verified": true
+      }
+    ]
+  }
+}

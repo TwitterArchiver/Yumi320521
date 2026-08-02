@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061822249255190528"
+      ],
+      "media_source_tweet_id": [
+        "2061822317920178221"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2061872602608750687",
+    "created_at": "2026-06-02T18:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T19:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061872602608750687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1586638893574934528",
+          "start": 3,
+          "username": "yaginohone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DBu0j0ygbc",
+          "end": 53,
+          "expanded_url": "https://x.com/yaginohone/status/2061822317920178221/photo/1",
+          "media_key": "3_2061822249255190528",
+          "start": 30,
+          "url": "https://t.co/DBu0j0ygbc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061872602608750687",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 474
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061822317920178221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaginohone: 戦傷か自傷かもうわからない https://t.co/DBu0j0ygbc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061822249255190528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0QaWTaQAA9lFa.jpg",
+        "width": 1518
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061822249255190528"
+          ],
+          "media_source_tweet_id": [
+            "2061822317920178221"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2061872602608750687",
+        "created_at": "2026-06-02T18:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061872602608750687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1586638893574934528",
+              "start": 3,
+              "username": "yaginohone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DBu0j0ygbc",
+              "end": 53,
+              "expanded_url": "https://x.com/yaginohone/status/2061822317920178221/photo/1",
+              "media_key": "3_2061822249255190528",
+              "start": 30,
+              "url": "https://t.co/DBu0j0ygbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061872602608750687",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 474
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061822317920178221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaginohone: 戦傷か自傷かもうわからない https://t.co/DBu0j0ygbc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061822249255190528"
+          ]
+        },
+        "author_id": "1586638893574934528",
+        "conversation_id": "2061822317920178221",
+        "created_at": "2026-06-02T14:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061822317920178221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DBu0j0ygbc",
+              "end": 37,
+              "expanded_url": "https://x.com/yaginohone/status/2061822317920178221/photo/1",
+              "media_key": "3_2061822249255190528",
+              "start": 14,
+              "url": "https://t.co/DBu0j0ygbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061822317920178221",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 391,
+          "impression_count": 21336,
+          "like_count": 3682,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 474
+        },
+        "reply_settings": "everyone",
+        "text": "戦傷か自傷かもうわからない https://t.co/DBu0j0ygbc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 94,
+          "like_count": 2603,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 889
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T08:39:37.000Z",
+        "description": "表情と血\n絵柄は決めてません\ncontact↓",
+        "id": "1586638893574934528",
+        "location": "✉️yaginohone@gmail.com",
+        "name": "山羊骨",
+        "pinned_tweet_id": "2060559012060610904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931533147990331392/90ezrkmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2327,
+          "following_count": 47,
+          "like_count": 230,
+          "listed_count": 10,
+          "media_count": 63,
+          "tweet_count": 90
+        },
+        "username": "yaginohone",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069128063007490244",
+    "created_at": "2026-06-23T07:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069327944141754626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733157188057853952",
+          "start": 0,
+          "username": "nigich436594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069327944141754626",
+    "in_reply_to_user_id": "1733157188057853952",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069276009665638908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nigich436594 🥺💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069128063007490244",
+        "created_at": "2026-06-23T07:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069327944141754626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733157188057853952",
+              "start": 0,
+              "username": "nigich436594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069327944141754626",
+        "in_reply_to_user_id": "1733157188057853952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069276009665638908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nigich436594 🥺💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733157188057853952",
+        "conversation_id": "2069128063007490244",
+        "created_at": "2026-06-23T04:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069276009665638908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069276009665638908",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069128063007490244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 我来惹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 138,
+          "like_count": 4187,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 773
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T16:10:56.000Z",
+        "description": "💕OD｜餐卷妹｜165 79｜正常聊天欢迎｜互fo私信｜直fo就是喜欢你吖",
+        "id": "1733157188057853952",
+        "location": "🚪77聊天+好友",
+        "name": "想当幸福小猫",
+        "pinned_tweet_id": "2067070907714252991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068757507158491136/PWWft643_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 220,
+          "like_count": 2349,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 831
+        },
+        "url": "",
+        "username": "nigich436594",
+        "verified": false
+      }
+    ]
+  }
+}

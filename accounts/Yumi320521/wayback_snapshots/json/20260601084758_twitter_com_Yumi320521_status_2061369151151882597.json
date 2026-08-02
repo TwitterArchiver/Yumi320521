@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060956548806094848"
+      ],
+      "media_source_tweet_id": [
+        "2060956557861597272"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2061369151151882597",
+    "created_at": "2026-06-01T08:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T09:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061369151151882597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1304790538982273024",
+          "start": 3,
+          "username": "bossgobu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WXj4WxVPLl",
+          "end": 64,
+          "expanded_url": "https://x.com/bossgobu/status/2060956557861597272/photo/1",
+          "media_key": "3_2060956548806094848",
+          "start": 41,
+          "url": "https://t.co/WXj4WxVPLl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061369151151882597",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 463
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060956557861597272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bossgobu: いい感じでイラストが繋がったシリーズで1番笑ったやつ https://t.co/WXj4WxVPLl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "3_2060956548806094848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJn9D80aMAAOVU2.jpg",
+        "width": 674
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060956548806094848"
+          ],
+          "media_source_tweet_id": [
+            "2060956557861597272"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2061369151151882597",
+        "created_at": "2026-06-01T08:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061369151151882597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1304790538982273024",
+              "start": 3,
+              "username": "bossgobu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WXj4WxVPLl",
+              "end": 64,
+              "expanded_url": "https://x.com/bossgobu/status/2060956557861597272/photo/1",
+              "media_key": "3_2060956548806094848",
+              "start": 41,
+              "url": "https://t.co/WXj4WxVPLl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061369151151882597",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 463
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060956557861597272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bossgobu: いい感じでイラストが繋がったシリーズで1番笑ったやつ https://t.co/WXj4WxVPLl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060956548806094848"
+          ]
+        },
+        "author_id": "1304790538982273024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2060956557861597272",
+        "created_at": "2026-05-31T05:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060956557861597272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WXj4WxVPLl",
+              "end": 50,
+              "expanded_url": "https://x.com/bossgobu/status/2060956557861597272/photo/1",
+              "media_key": "3_2060956548806094848",
+              "start": 27,
+              "url": "https://t.co/WXj4WxVPLl"
+            },
+            {
+              "display_url": "x.com/chaniwaloid/st…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/chaniwaloid/status/2060922971322269909",
+              "start": 51,
+              "url": "https://t.co/Uju0lfPNnA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060956557861597272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 130773,
+          "like_count": 4279,
+          "quote_count": 37,
+          "reply_count": 5,
+          "retweet_count": 463
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060922971322269909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "いい感じでイラストが繋がったシリーズで1番笑ったやつ https://t.co/WXj4WxVPLl https://t.co/Uju0lfPNnA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060822435700912128/e9nuQ7wC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 91,
+          "like_count": 2541,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 869
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-12T14:34:55.000Z",
+        "description": "プロセカエンジョイ勢 奏と穂波推し：みんなへの質問募集中、DMにて投稿お待ちしております：採用時はこちらから返信します🙋‍♂️イラスト捜索系は❌：更新不定期なサブ→@bossgobu2 ：ヘッダー→ @sakubonge 様 アイコン→ @marimo577 様に描いて頂きました",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "bossgobu2"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "sakubonge"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "marimo577"
+              }
+            ]
+          }
+        },
+        "id": "1304790538982273024",
+        "location": "毎日言おう、かーねーちょん",
+        "name": "ボスゴブ@セカシン横浜参加",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760610085401960448/22dsZv6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98362,
+          "following_count": 23643,
+          "like_count": 58797,
+          "listed_count": 204,
+          "media_count": 23317,
+          "tweet_count": 40734
+        },
+        "username": "bossgobu",
+        "verified": true
+      }
+    ]
+  }
+}

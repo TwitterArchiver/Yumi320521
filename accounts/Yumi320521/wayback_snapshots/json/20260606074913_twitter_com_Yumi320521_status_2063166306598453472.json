@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061394443643854848"
+      ],
+      "media_source_tweet_id": [
+        "2061394447691338011"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2063166306598453472",
+    "created_at": "2026-06-06T07:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T08:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063166306598453472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1557296150440726529",
+          "start": 3,
+          "username": "ai__gp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CGGw6rKmjK",
+          "end": 50,
+          "expanded_url": "https://x.com/ai__gp/status/2061394447691338011/photo/1",
+          "media_key": "3_2061394443643854848",
+          "start": 27,
+          "url": "https://t.co/CGGw6rKmjK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063166306598453472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 326
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061394447691338011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ai__gp: 照れ顔って可愛いと思うんです https://t.co/CGGw6rKmjK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1411,
+        "media_key": "3_2061394443643854848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuLUyNbIAAzejf.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061394443643854848"
+          ],
+          "media_source_tweet_id": [
+            "2061394447691338011"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2063166306598453472",
+        "created_at": "2026-06-06T07:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063166306598453472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1557296150440726529",
+              "start": 3,
+              "username": "ai__gp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CGGw6rKmjK",
+              "end": 50,
+              "expanded_url": "https://x.com/ai__gp/status/2061394447691338011/photo/1",
+              "media_key": "3_2061394443643854848",
+              "start": 27,
+              "url": "https://t.co/CGGw6rKmjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063166306598453472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 326
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061394447691338011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ai__gp: 照れ顔って可愛いと思うんです https://t.co/CGGw6rKmjK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061394443643854848"
+          ]
+        },
+        "author_id": "1557296150440726529",
+        "conversation_id": "2061394447691338011",
+        "created_at": "2026-06-01T10:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061394447691338011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CGGw6rKmjK",
+              "end": 38,
+              "expanded_url": "https://x.com/ai__gp/status/2061394447691338011/photo/1",
+              "media_key": "3_2061394443643854848",
+              "start": 15,
+              "url": "https://t.co/CGGw6rKmjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061394447691338011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 19392,
+          "like_count": 2379,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 326
+        },
+        "reply_settings": "everyone",
+        "text": "照れ顔って可愛いと思うんです https://t.co/CGGw6rKmjK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=ゆず/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "Yuzumi",
+        "pinned_tweet_id": "2062839753180107101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 99,
+          "like_count": 2717,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 862
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T09:21:59.000Z",
+        "description": "すいうです┊︎prsk︎︎\nご依頼垢：@RiriSa0111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "RiriSa0111"
+              }
+            ]
+          }
+        },
+        "id": "1557296150440726529",
+        "location": "お仕事募集中です",
+        "name": "翠雨",
+        "pinned_tweet_id": "2058455111744287091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015805211554816000/UGu91lbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12992,
+          "following_count": 91,
+          "like_count": 2294,
+          "listed_count": 38,
+          "media_count": 216,
+          "tweet_count": 1005
+        },
+        "username": "ai__gp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2075928773174902784"
+      ],
+      "media_source_tweet_id": [
+        "2075928787498463528"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2075937160864383309",
+    "created_at": "2026-07-11T13:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075937160864383309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827203342436855812",
+          "start": 3,
+          "username": "nanaj00_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IanOXvFjAc",
+          "end": 44,
+          "expanded_url": "https://x.com/nanaj00_/status/2075928787498463528/photo/1",
+          "media_key": "16_2075928773174902784",
+          "start": 21,
+          "url": "https://t.co/IanOXvFjAc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075937160864383309",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075928787498463528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanaj00_: ゴキブリの味 https://t.co/IanOXvFjAc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2075928773174902784",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HM8uOHAaQAAQjhN.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HM8uOHAaQAAQjhN.mp4"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2075928773174902784"
+          ],
+          "media_source_tweet_id": [
+            "2075928787498463528"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2075937160864383309",
+        "created_at": "2026-07-11T13:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075937160864383309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827203342436855812",
+              "start": 3,
+              "username": "nanaj00_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IanOXvFjAc",
+              "end": 44,
+              "expanded_url": "https://x.com/nanaj00_/status/2075928787498463528/photo/1",
+              "media_key": "16_2075928773174902784",
+              "start": 21,
+              "url": "https://t.co/IanOXvFjAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075937160864383309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075928787498463528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanaj00_: ゴキブリの味 https://t.co/IanOXvFjAc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2075928773174902784"
+          ]
+        },
+        "author_id": "1827203342436855812",
+        "conversation_id": "2075928787498463528",
+        "created_at": "2026-07-11T13:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075928787498463528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IanOXvFjAc",
+              "end": 30,
+              "expanded_url": "https://x.com/nanaj00_/status/2075928787498463528/photo/1",
+              "media_key": "16_2075928773174902784",
+              "start": 7,
+              "url": "https://t.co/IanOXvFjAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075928787498463528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 689,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "ゴキブリの味 https://t.co/IanOXvFjAc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか🐈‍⬛🐾\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 152,
+          "like_count": 5558,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1375
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T04:36:54.000Z",
+        "description": "✧illustration\n✦NEEDY GIRL OVERDOSE\n✦絵の勉強中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nanas70",
+                "end": 23,
+                "expanded_url": "https://lit.link/nanas70",
+                "start": 0,
+                "url": "https://t.co/CsyqLwBTOx"
+              }
+            ]
+          }
+        },
+        "id": "1827203342436855812",
+        "location": "トレス・無断転載・参考×",
+        "name": "七時",
+        "pinned_tweet_id": "2075225403762086308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072676097825947648/HfYZCcL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10038,
+          "following_count": 36,
+          "like_count": 33381,
+          "listed_count": 30,
+          "media_count": 74,
+          "tweet_count": 859
+        },
+        "url": "https://t.co/CsyqLwBTOx",
+        "username": "nanaj00_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059605870015836399",
+    "created_at": "2026-05-27T12:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059605870015836399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nekokolife/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/nekokolife/status/2059411803030143358",
+          "start": 24,
+          "url": "https://t.co/SBQBg8N8ET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059605870015836399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059411803030143358",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我以前就拿这个同系列的猫做头像的 啊.. 怀念 https://t.co/SBQBg8N8ET"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1198,
+        "media_key": "3_2059411797237788672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSAHkybcAAl1ew.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059605870015836399",
+        "created_at": "2026-05-27T12:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059605870015836399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekokolife/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/nekokolife/status/2059411803030143358",
+              "start": 24,
+              "url": "https://t.co/SBQBg8N8ET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059605870015836399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059411803030143358",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以前就拿这个同系列的猫做头像的 啊.. 怀念 https://t.co/SBQBg8N8ET"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059411797237788672"
+          ]
+        },
+        "author_id": "225551618",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2059411803030143358",
+        "created_at": "2026-05-26T23:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T00:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059411803030143358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQ0jktjWOA",
+              "end": 39,
+              "expanded_url": "https://x.com/nekokolife/status/2059411803030143358/photo/1",
+              "media_key": "3_2059411797237788672",
+              "start": 16,
+              "url": "https://t.co/FQ0jktjWOA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059411803030143358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 85307,
+          "like_count": 7181,
+          "quote_count": 29,
+          "reply_count": 36,
+          "retweet_count": 572
+        },
+        "reply_settings": "everyone",
+        "text": "突然パンに挟まれ困惑する猫さん https://t.co/FQ0jktjWOA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 74,
+          "like_count": 1875,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 596
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-11T21:30:34.000Z",
+        "description": "ネコさんが大好きな人はフォローして下さい🐱",
+        "id": "225551618",
+        "location": "No Cats No Life🐈",
+        "name": "Cat is life ~猫は人生~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014167644933406720/f3TAbmTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196355,
+          "following_count": 996,
+          "like_count": 490,
+          "listed_count": 467,
+          "media_count": 6894,
+          "tweet_count": 185703
+        },
+        "username": "nekokolife",
+        "verified": true
+      }
+    ]
+  }
+}

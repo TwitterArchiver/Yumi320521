@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2040386032299126784",
+        "3_2040386032269721600"
+      ],
+      "media_source_tweet_id": [
+        "2040386275828752538",
+        "2040386275828752538"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2040397131723514364",
+    "created_at": "2026-04-04T11:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T12:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040397131723514364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1692195211404103680",
+          "start": 3,
+          "username": "_waruicotton_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5gQakXznGP",
+          "end": 117,
+          "expanded_url": "https://x.com/_waruicotton_/status/2040386275828752538/video/1",
+          "media_key": "13_2040386032299126784",
+          "start": 94,
+          "url": "https://t.co/5gQakXznGP"
+        },
+        {
+          "display_url": "pic.x.com/5gQakXznGP",
+          "end": 117,
+          "expanded_url": "https://x.com/_waruicotton_/status/2040386275828752538/video/1",
+          "media_key": "3_2040386032269721600",
+          "start": 94,
+          "url": "https://t.co/5gQakXznGP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040397131723514364",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040386275828752538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_waruicotton_: 4/1💖かわいいフェスティバル🎀\n\nSEかわいいフェスティバル\nマジカルHELL赤血球\n-MC-\nくりてぃかる♡ぷりちー\n\nありがとうございました🐇 https://t.co/5gQakXznGP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24283,
+        "height": 720,
+        "media_key": "13_2040386032299126784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040386032299126784/img/LJXnZrABw6IHTe6T.jpg",
+        "public_metrics": {
+          "view_count": 871
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040386032299126784/vid/avc1/330x270/VpZPSE8NjfG4xMFC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040386032299126784/vid/avc1/440x360/Q87CgvnB-Ed9bfYJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040386032299126784/vid/avc1/880x720/VBPDZmYrvqsStHSw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040386032299126784/pl/hCbn2p4buu3X3Col.m3u8?v=ec5"
+          }
+        ],
+        "width": 880
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040386032269721600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFDoSTIbAAAviAt.jpg",
+        "width": 1734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040386032299126784",
+            "3_2040386032269721600"
+          ],
+          "media_source_tweet_id": [
+            "2040386275828752538",
+            "2040386275828752538"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2040397131723514364",
+        "created_at": "2026-04-04T11:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040397131723514364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1692195211404103680",
+              "start": 3,
+              "username": "_waruicotton_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5gQakXznGP",
+              "end": 117,
+              "expanded_url": "https://x.com/_waruicotton_/status/2040386275828752538/video/1",
+              "media_key": "13_2040386032299126784",
+              "start": 94,
+              "url": "https://t.co/5gQakXznGP"
+            },
+            {
+              "display_url": "pic.x.com/5gQakXznGP",
+              "end": 117,
+              "expanded_url": "https://x.com/_waruicotton_/status/2040386275828752538/video/1",
+              "media_key": "3_2040386032269721600",
+              "start": 94,
+              "url": "https://t.co/5gQakXznGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040397131723514364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040386275828752538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_waruicotton_: 4/1💖かわいいフェスティバル🎀\n\nSEかわいいフェスティバル\nマジカルHELL赤血球\n-MC-\nくりてぃかる♡ぷりちー\n\nありがとうございました🐇 https://t.co/5gQakXznGP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040386032299126784",
+            "3_2040386032269721600"
+          ]
+        },
+        "author_id": "1692195211404103680",
+        "conversation_id": "2040386275828752538",
+        "created_at": "2026-04-04T11:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040386275828752538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5gQakXznGP",
+              "end": 98,
+              "expanded_url": "https://x.com/_waruicotton_/status/2040386275828752538/video/1",
+              "media_key": "13_2040386032299126784",
+              "start": 75,
+              "url": "https://t.co/5gQakXznGP"
+            },
+            {
+              "display_url": "pic.x.com/5gQakXznGP",
+              "end": 98,
+              "expanded_url": "https://x.com/_waruicotton_/status/2040386275828752538/video/1",
+              "media_key": "3_2040386032269721600",
+              "start": 75,
+              "url": "https://t.co/5gQakXznGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040386275828752538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3755,
+          "like_count": 185,
+          "quote_count": 12,
+          "reply_count": 3,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "4/1💖かわいいフェスティバル🎀\n\nSEかわいいフェスティバル\nマジカルHELL赤血球\n-MC-\nくりてぃかる♡ぷりちー\n\nありがとうございました🐇 https://t.co/5gQakXznGP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "这里ゆず你好呀 152｜34｜15 \n中度焦虑抑郁 拒桃井爱莉一切\n我喜欢你喵😽💕",
+        "id": "2040070879888220160",
+        "name": "Yumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 24,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T15:23:03.000Z",
+        "description": "🎌@mercuro_info 黄色担当ふわふわケヰキ⸝⸝◞ ̫ ◟⸝⸝ 🌟🍰♡ｻﾌﾞ@_kamitenshi_ ♡ﾀｸﾞ #カミテのデザート",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 61,
+                "tag": "カミテのデザート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "mercuro_info"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "_kamitenshi_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/waruicotton",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/waruicotton",
+                "start": 0,
+                "url": "https://t.co/Ea0dxF7FS6"
+              }
+            ]
+          }
+        },
+        "id": "1692195211404103680",
+        "name": "雅楽代カミテ【マーキュロ】",
+        "pinned_tweet_id": "2007014324255269056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007014530480754688/KQFwrsW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13457,
+          "following_count": 120,
+          "like_count": 45198,
+          "listed_count": 111,
+          "media_count": 199,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/Ea0dxF7FS6",
+        "username": "_waruicotton_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066271059373182976"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2066271070328606807",
+    "created_at": "2026-06-14T21:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T22:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066271070328606807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y1EnXLmBkE",
+          "end": 38,
+          "expanded_url": "https://x.com/Yumi320521/status/2066271070328606807/photo/1",
+          "media_key": "3_2066271059373182976",
+          "start": 15,
+          "url": "https://t.co/y1EnXLmBkE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066271070328606807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好亢奋😱😭 买了这些..（ https://t.co/y1EnXLmBkE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1353,
+        "media_key": "3_2066271059373182976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzelLeb0AA_HxI.jpg",
+        "width": 801
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066271059373182976"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2066271070328606807",
+        "created_at": "2026-06-14T21:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T22:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066271070328606807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1EnXLmBkE",
+              "end": 38,
+              "expanded_url": "https://x.com/Yumi320521/status/2066271070328606807/photo/1",
+              "media_key": "3_2066271059373182976",
+              "start": 15,
+              "url": "https://t.co/y1EnXLmBkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066271070328606807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好亢奋😱😭 买了这些..（ https://t.co/y1EnXLmBkE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 115,
+          "like_count": 3410,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 635
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

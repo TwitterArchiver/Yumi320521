@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2076564494713803095",
+    "created_at": "2026-07-13T07:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076564494713803095"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076564494713803095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做梦的时候梦见了复学…大概是去年下半年也做过同样场景的地方吧 学校很大很大很大 但是我特别慌乱害怕不想看见有关的一切 我早已轨道崩坏 妈妈给我接了回去 嘴里还是声音很大很高 我买了饭团走在那里 好悲哀 养了新的猫 我找不到了我的芝麻…我梦见了社会 国家 我好失望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2076564494713803095",
+        "created_at": "2026-07-13T07:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076564494713803095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076564494713803095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做梦的时候梦见了复学…大概是去年下半年也做过同样场景的地方吧 学校很大很大很大 但是我特别慌乱害怕不想看见有关的一切 我早已轨道崩坏 妈妈给我接了回去 嘴里还是声音很大很高 我买了饭团走在那里 好悲哀 养了新的猫 我找不到了我的芝麻…我梦见了社会 国家 我好失望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか🐈‍⬛🐾\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 159,
+          "like_count": 5622,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1428
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

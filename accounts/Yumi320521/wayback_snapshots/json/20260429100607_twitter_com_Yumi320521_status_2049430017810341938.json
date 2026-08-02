@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048357470469566464"
+      ],
+      "media_source_tweet_id": [
+        "2048357547858600323"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2049430017810341938",
+    "created_at": "2026-04-29T10:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049430017810341938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2025105825354977280",
+          "start": 3,
+          "username": "younichijou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nxNLbCM4P2",
+          "end": 57,
+          "expanded_url": "https://x.com/younichijou/status/2048357547858600323/video/1",
+          "media_key": "13_2048357470469566464",
+          "start": 34,
+          "url": "https://t.co/nxNLbCM4P2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049430017810341938",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 160
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048357547858600323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @younichijou: もっと煽られたいやつファボしろ† https://t.co/nxNLbCM4P2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14966,
+        "height": 1920,
+        "media_key": "13_2048357470469566464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048357470469566464/img/pP5kMdiCSdeasgEc.jpg",
+        "public_metrics": {
+          "view_count": 10547
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048357470469566464/pl/KKrbP70kaW6_pBGR.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048357470469566464/vid/avc1/320x568/G_mT7Pd6tdNpnWNE.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048357470469566464/vid/avc1/1080x1920/VlO7zIeFAQNgFzjZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048357470469566464/vid/avc1/720x1280/2LaO14pwludwI4AY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048357470469566464/vid/avc1/480x852/QXeGqpQfuVb_uXM3.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048357470469566464"
+          ],
+          "media_source_tweet_id": [
+            "2048357547858600323"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2049430017810341938",
+        "created_at": "2026-04-29T10:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049430017810341938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2025105825354977280",
+              "start": 3,
+              "username": "younichijou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxNLbCM4P2",
+              "end": 57,
+              "expanded_url": "https://x.com/younichijou/status/2048357547858600323/video/1",
+              "media_key": "13_2048357470469566464",
+              "start": 34,
+              "url": "https://t.co/nxNLbCM4P2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049430017810341938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 160
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048357547858600323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @younichijou: もっと煽られたいやつファボしろ† https://t.co/nxNLbCM4P2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048357470469566464"
+          ]
+        },
+        "author_id": "2025105825354977280",
+        "conversation_id": "2048357547858600323",
+        "created_at": "2026-04-26T11:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048357547858600323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxNLbCM4P2",
+              "end": 40,
+              "expanded_url": "https://x.com/younichijou/status/2048357547858600323/video/1",
+              "media_key": "13_2048357470469566464",
+              "start": 17,
+              "url": "https://t.co/nxNLbCM4P2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048357547858600323",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 30732,
+          "like_count": 1374,
+          "quote_count": 21,
+          "reply_count": 58,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "もっと煽られたいやつファボしろ† https://t.co/nxNLbCM4P2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "茶柚/Yumi 16 153/73\n桃井爱莉｜同担拒否｜地雷系｜od\n最爱绿川先生了💙🩵🪽中高速冲浪中…",
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049428958475862016/-MBbrvme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 0,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 102
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T07:10:39.000Z",
+        "description": "緑川ゆうの日常アカウント【@0153_you】 ゆっくりフォロバ中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2025105825354977280",
+        "name": "ゆうの日常🪽(ᜊ ･･ )ᜊ",
+        "pinned_tweet_id": "2025922085865058451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048779784688406528/K9yLLBuF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7082,
+          "following_count": 416,
+          "like_count": 1684,
+          "listed_count": 30,
+          "media_count": 71,
+          "tweet_count": 432
+        },
+        "username": "younichijou",
+        "verified": true
+      }
+    ]
+  }
+}

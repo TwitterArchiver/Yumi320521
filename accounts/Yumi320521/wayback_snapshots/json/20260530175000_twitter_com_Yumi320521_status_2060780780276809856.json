@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2060661788367294895",
+    "created_at": "2026-05-30T17:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T18:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060780780276809856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974218651474829312",
+          "start": 0,
+          "username": "Elther2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060780780276809856",
+    "in_reply_to_user_id": "1974218651474829312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060776674132639802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elther2778 xp如此^ ^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2060661788367294895",
+        "created_at": "2026-05-30T17:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060780780276809856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974218651474829312",
+              "start": 0,
+              "username": "Elther2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060780780276809856",
+        "in_reply_to_user_id": "1974218651474829312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060776674132639802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elther2778 xp如此^ ^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974218651474829312",
+        "conversation_id": "2060661788367294895",
+        "created_at": "2026-05-30T17:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060776674132639802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060776674132639802",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060661788367294895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 为什么喜欢的面会是女型长发（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井爱莉一生のファン🍑💞\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2060661788367294895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060749668641079297/-Zh_qDzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 100,
+          "like_count": 2352,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 766
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T21:03:07.000Z",
+        "description": "英国留学生一枚，希望成为可爱的女孩子。❤️ @TrikoLari78l 同好私我互fo喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "TrikoLari78l"
+              }
+            ]
+          }
+        },
+        "id": "1974218651474829312",
+        "location": "London, England",
+        "name": "Elther",
+        "pinned_tweet_id": "2050218519699354090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060479802457391111/7pDvfWcX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 225,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 712
+        },
+        "username": "Elther2778",
+        "verified": true
+      }
+    ]
+  }
+}

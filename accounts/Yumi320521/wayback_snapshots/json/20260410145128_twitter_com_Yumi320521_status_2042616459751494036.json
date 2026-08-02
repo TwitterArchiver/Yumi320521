@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042616436577947648"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2042616459751494036",
+    "created_at": "2026-04-10T14:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042616459751494036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CJ87qwWdp6",
+          "end": 29,
+          "expanded_url": "https://x.com/Yumi320521/status/2042616459751494036/photo/1",
+          "media_key": "3_2042616436577947648",
+          "start": 6,
+          "url": "https://t.co/CJ87qwWdp6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042616459751494036",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "粉色…😽💕 https://t.co/CJ87qwWdp6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042616436577947648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjU06qaUAA0867.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042616436577947648"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2042616459751494036",
+        "created_at": "2026-04-10T14:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042616459751494036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJ87qwWdp6",
+              "end": 29,
+              "expanded_url": "https://x.com/Yumi320521/status/2042616459751494036/photo/1",
+              "media_key": "3_2042616436577947648",
+              "start": 6,
+              "url": "https://t.co/CJ87qwWdp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042616459751494036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粉色…😽💕 https://t.co/CJ87qwWdp6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040071396324483072/4hoJ4BHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 33,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 30
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2059804830131236864"
+      ],
+      "media_source_tweet_id": [
+        "2059804944795119714"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059877576538234892",
+    "created_at": "2026-05-28T06:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059877576538234892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1362702574407716864",
+          "start": 3,
+          "username": "tintinpapa1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8jmMvu319k",
+          "end": 75,
+          "expanded_url": "https://x.com/tintinpapa1/status/2059804944795119714/video/1",
+          "media_key": "13_2059804830131236864",
+          "start": 52,
+          "url": "https://t.co/8jmMvu319k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059877576538234892",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 396
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059804944795119714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tintinpapa1: 日本のどこかに\n\nねこ村神社という\n\nネコ様専用の神社があるらしい😸 https://t.co/8jmMvu319k"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32368,
+        "height": 1280,
+        "media_key": "13_2059804830131236864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059804830131236864/img/NZfNLw54e9WIfzto.jpg",
+        "public_metrics": {
+          "view_count": 23499
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059804830131236864/vid/avc1/320x568/xnnwNdavO92EVriH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059804830131236864/vid/avc1/480x852/KpRZli91ZfwYtyO7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059804830131236864/vid/avc1/720x1280/w8Ao4-22VXwwA4ib.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059804830131236864/pl/LtPvZU3NPLdzakKH.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059804830131236864"
+          ],
+          "media_source_tweet_id": [
+            "2059804944795119714"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059877576538234892",
+        "created_at": "2026-05-28T06:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059877576538234892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1362702574407716864",
+              "start": 3,
+              "username": "tintinpapa1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8jmMvu319k",
+              "end": 75,
+              "expanded_url": "https://x.com/tintinpapa1/status/2059804944795119714/video/1",
+              "media_key": "13_2059804830131236864",
+              "start": 52,
+              "url": "https://t.co/8jmMvu319k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059877576538234892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 396
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059804944795119714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tintinpapa1: 日本のどこかに\n\nねこ村神社という\n\nネコ様専用の神社があるらしい😸 https://t.co/8jmMvu319k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059804830131236864"
+          ]
+        },
+        "author_id": "1362702574407716864",
+        "conversation_id": "2059804944795119714",
+        "created_at": "2026-05-28T01:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059804944795119714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8jmMvu319k",
+              "end": 58,
+              "expanded_url": "https://x.com/tintinpapa1/status/2059804944795119714/video/1",
+              "media_key": "13_2059804830131236864",
+              "start": 35,
+              "url": "https://t.co/8jmMvu319k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059804944795119714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "日本のどこかに\n\nねこ村神社という\n\nネコ様専用の神社があるらしい😸"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 73274,
+          "like_count": 2843,
+          "quote_count": 10,
+          "reply_count": 24,
+          "retweet_count": 396
+        },
+        "reply_settings": "everyone",
+        "text": "日本のどこかに\n\nねこ村神社という\n\nネコ様専用の神社があるらしい😸 https://t.co/8jmMvu319k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 75,
+          "like_count": 1983,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 661
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T09:56:50.000Z",
+        "description": "ﾜｲﾔｰﾌｫｯｸｽﾃﾘｱ タンタン2025.3月永眠🌈のパパです。 開業はしていませんがドッグトレーナーの資格をもっています。 主に動物に感情移入してもらうための動画と 最新の犬の知識を発信しています。 SNS上での議論は不毛なのでしません。Amazonおすすめなど紹介。無言フォローOKですしします",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ameblo.jp/tintinpapa/",
+                "end": 23,
+                "expanded_url": "https://ameblo.jp/tintinpapa/",
+                "start": 0,
+                "url": "https://t.co/EnUybJAeIu"
+              }
+            ]
+          }
+        },
+        "id": "1362702574407716864",
+        "location": "日本 東京",
+        "name": "タンタンパパ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609726358577610756/AeAseYfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85774,
+          "following_count": 1313,
+          "like_count": 317587,
+          "listed_count": 306,
+          "media_count": 18244,
+          "tweet_count": 61163
+        },
+        "url": "https://t.co/EnUybJAeIu",
+        "username": "tintinpapa1",
+        "verified": true
+      }
+    ]
+  }
+}

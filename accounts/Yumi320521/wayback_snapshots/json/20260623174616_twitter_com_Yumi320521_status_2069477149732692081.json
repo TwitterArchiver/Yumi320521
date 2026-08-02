@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2069420700394532997",
+    "created_at": "2026-06-23T17:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T18:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069477149732692081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781893716183060480",
+          "start": 0,
+          "username": "akihiro_0313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069477149732692081",
+    "in_reply_to_user_id": "1781893716183060480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069474665798705294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akihiro_0313 诶 这要怎么改"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069420700394532997",
+        "created_at": "2026-06-23T17:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069477149732692081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781893716183060480",
+              "start": 0,
+              "username": "akihiro_0313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069477149732692081",
+        "in_reply_to_user_id": "1781893716183060480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069474665798705294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akihiro_0313 诶 这要怎么改"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781893716183060480",
+        "conversation_id": "2069420700394532997",
+        "created_at": "2026-06-23T17:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069474665798705294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069474665798705294",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069420700394532997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 可以帮老师改改收款码吗，会更好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 140,
+          "like_count": 4397,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 812
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "あきひろ ☄️ 🇨🇳 15yo.\n\n🌌 アニメと宇宙が好き\n✏️ 日本語勉強中\n😼 たまに変なこと言うけど仲良くしてね\n\n🐾 大切な親友が一人います➰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akihiro0313",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akihiro0313",
+                "start": 0,
+                "url": "https://t.co/5zPAH9OdaS"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "location": "A happy world...",
+        "name": "💁あきひろくんです✨",
+        "pinned_tweet_id": "2051359435285766386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061123813845409792/vmhK_GSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 495,
+          "like_count": 5568,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 3589
+        },
+        "url": "https://t.co/5zPAH9OdaS",
+        "username": "akihiro_0313",
+        "verified": true
+      }
+    ]
+  }
+}

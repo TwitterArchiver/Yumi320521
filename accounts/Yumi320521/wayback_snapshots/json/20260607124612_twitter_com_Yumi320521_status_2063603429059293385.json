@@ -1,0 +1,619 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1401962477756162049",
+          "name": "Visual kei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1401962477756162049",
+          "name": "Visual kei"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2063603429059293385",
+    "created_at": "2026-06-07T12:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063603429059293385"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 56,
+          "tag": "V系ファンアート"
+        },
+        {
+          "end": 136,
+          "start": 126,
+          "tag": "古の自己紹介カード"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1512285645297025025",
+          "start": 3,
+          "username": "illust_visual"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063603429059293385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 195
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819347752314458549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @illust_visual: V系バンドマンのイラストを描きます🌹\nファンアートからV系を盛り上げる「 #V系ファンアート」タグもぜひご覧ください…✝🌹\n\n色々なバンドのファンの方と繋がりたいです☺✨\nRP♡してくださった方お迎えいきます！\n\n#古の自己紹介カード\n#バ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1819345835886612480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GT-dZf-bkAA7YTH.jpg",
+        "width": 848
+      },
+      {
+        "height": 3720,
+        "media_key": "3_1819347383177641984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GT-ezkFXAAA_ylK.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2803,
+        "media_key": "3_1819347426383482884",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GT-e2FCb0AQEGxV.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2063603429059293385",
+        "created_at": "2026-06-07T12:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063603429059293385"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 56,
+              "tag": "V系ファンアート"
+            },
+            {
+              "end": 136,
+              "start": 126,
+              "tag": "古の自己紹介カード"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1512285645297025025",
+              "start": 3,
+              "username": "illust_visual"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063603429059293385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 195
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819347752314458549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @illust_visual: V系バンドマンのイラストを描きます🌹\nファンアートからV系を盛り上げる「 #V系ファンアート」タグもぜひご覧ください…✝🌹\n\n色々なバンドのファンの方と繋がりたいです☺✨\nRP♡してくださった方お迎えいきます！\n\n#古の自己紹介カード\n#バ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819345835886612480",
+            "3_1819347383177641984",
+            "3_1819347426383482884"
+          ]
+        },
+        "author_id": "1512285645297025025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1819347752314458549",
+        "created_at": "2024-08-02T12:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T13:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819347752314458549"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 37,
+              "tag": "V系ファンアート"
+            },
+            {
+              "end": 117,
+              "start": 107,
+              "tag": "古の自己紹介カード"
+            },
+            {
+              "end": 131,
+              "start": 118,
+              "tag": "バンギャさんと繋がりたい"
+            },
+            {
+              "end": 146,
+              "start": 133,
+              "tag": "V系好きな人と繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0kmRm8H37i",
+              "end": 170,
+              "expanded_url": "https://x.com/illust_visual/status/1819347752314458549/photo/1",
+              "media_key": "3_1819345835886612480",
+              "start": 147,
+              "url": "https://t.co/0kmRm8H37i"
+            },
+            {
+              "display_url": "pic.x.com/0kmRm8H37i",
+              "end": 170,
+              "expanded_url": "https://x.com/illust_visual/status/1819347752314458549/photo/1",
+              "media_key": "3_1819347383177641984",
+              "start": 147,
+              "url": "https://t.co/0kmRm8H37i"
+            },
+            {
+              "display_url": "pic.x.com/0kmRm8H37i",
+              "end": 170,
+              "expanded_url": "https://x.com/illust_visual/status/1819347752314458549/photo/1",
+              "media_key": "3_1819347426383482884",
+              "start": 147,
+              "url": "https://t.co/0kmRm8H37i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819347752314458549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 101637,
+          "like_count": 1133,
+          "quote_count": 9,
+          "reply_count": 13,
+          "retweet_count": 195
+        },
+        "reply_settings": "everyone",
+        "text": "V系バンドマンのイラストを描きます🌹\nファンアートからV系を盛り上げる「 #V系ファンアート」タグもぜひご覧ください…✝🌹\n\n色々なバンドのファンの方と繋がりたいです☺✨\nRP♡してくださった方お迎えいきます！\n\n#古の自己紹介カード\n#バンギャさんと繋がりたい \n#V系好きな人と繋がりたい https://t.co/0kmRm8H37i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜视觉系｜量産型｜桃井愛莉\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 114,
+          "like_count": 2831,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 481
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T04:26:21.000Z",
+        "description": "「ファンアートから、V系を盛り上げる。」#V系ファンアート ┊✝V系の世界観🌹を愛している社会人バンギャル┊ illustrator┊色々なV系バンドマンのファンアートを描きます☻┊無言フォロー歓迎です◎┊︎モンストロ┊︎DIAURA┊︎各種ご依頼はDMまで┊【前垢@illust_v】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 20,
+                "tag": "V系ファンアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "illust_v"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/illustvisual",
+                "end": 23,
+                "expanded_url": "https://lit.link/illustvisual",
+                "start": 0,
+                "url": "https://t.co/08yAdvquQL"
+              }
+            ]
+          }
+        },
+        "id": "1512285645297025025",
+        "location": "無断転載は禁止です。",
+        "name": "緋-aka-🌹#V系ファンアート",
+        "pinned_tweet_id": "1819347752314458549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062528558866817024/YgojB6A1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2224,
+          "following_count": 1474,
+          "like_count": 17876,
+          "listed_count": 10,
+          "media_count": 511,
+          "tweet_count": 4147
+        },
+        "url": "https://t.co/08yAdvquQL",
+        "username": "illust_visual",
+        "verified": false
+      }
+    ]
+  }
+}

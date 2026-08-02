@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065443337516273664"
+      ],
+      "media_source_tweet_id": [
+        "2065443347884576774"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2065466571565490372",
+    "created_at": "2026-06-12T16:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065466571565490372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "829899414026072066",
+          "start": 3,
+          "username": "karu_mamire"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z9FQDorWiY",
+          "end": 53,
+          "expanded_url": "https://x.com/karu_mamire/status/2065443347884576774/photo/1",
+          "media_key": "3_2065443337516273664",
+          "start": 30,
+          "url": "https://t.co/Z9FQDorWiY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065466571565490372",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065443347884576774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karu_mamire: ありがとうございましたあ https://t.co/Z9FQDorWiY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065443337516273664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKntxbRa0AAzHVU.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065443337516273664"
+          ],
+          "media_source_tweet_id": [
+            "2065443347884576774"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2065466571565490372",
+        "created_at": "2026-06-12T16:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065466571565490372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "829899414026072066",
+              "start": 3,
+              "username": "karu_mamire"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9FQDorWiY",
+              "end": 53,
+              "expanded_url": "https://x.com/karu_mamire/status/2065443347884576774/photo/1",
+              "media_key": "3_2065443337516273664",
+              "start": 30,
+              "url": "https://t.co/Z9FQDorWiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065466571565490372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065443347884576774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karu_mamire: ありがとうございましたあ https://t.co/Z9FQDorWiY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065443337516273664"
+          ]
+        },
+        "author_id": "829899414026072066",
+        "conversation_id": "2065443347884576774",
+        "created_at": "2026-06-12T14:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065443347884576774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9FQDorWiY",
+              "end": 36,
+              "expanded_url": "https://x.com/karu_mamire/status/2065443347884576774/photo/1",
+              "media_key": "3_2065443337516273664",
+              "start": 13,
+              "url": "https://t.co/Z9FQDorWiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065443347884576774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1690,
+          "like_count": 181,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "ありがとうございましたあ https://t.co/Z9FQDorWiY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 135,
+          "like_count": 3280,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 585
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-10T03:46:53.000Z",
+        "description": "まみれたのベース",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/karu.1026",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/karu.1026",
+                "start": 0,
+                "url": "https://t.co/SULoDm5bI1"
+              }
+            ]
+          }
+        },
+        "id": "829899414026072066",
+        "name": "かる。",
+        "pinned_tweet_id": "1862499112945688920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014070861305880576/ftE-KpC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10926,
+          "following_count": 197,
+          "like_count": 11,
+          "listed_count": 48,
+          "media_count": 391,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/SULoDm5bI1",
+        "username": "karu_mamire",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063843915208536064"
+      ],
+      "media_source_tweet_id": [
+        "2063843921235734557"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2064010612439654862",
+    "created_at": "2026-06-08T15:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064010612439654862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960048085964574720",
+          "start": 3,
+          "username": "pwkwjwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/64UrD0DUhE",
+          "end": 52,
+          "expanded_url": "https://x.com/pwkwjwt/status/2063843921235734557/photo/1",
+          "media_key": "3_2063843915208536064",
+          "start": 29,
+          "url": "https://t.co/64UrD0DUhE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064010612439654862",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063843921235734557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pwkwjwt: 嫌々\n宿題に付き合わされてる猫 https://t.co/64UrD0DUhE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_2063843915208536064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQ_Gy3bMAAFpZ_.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063843915208536064"
+          ],
+          "media_source_tweet_id": [
+            "2063843921235734557"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2064010612439654862",
+        "created_at": "2026-06-08T15:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064010612439654862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960048085964574720",
+              "start": 3,
+              "username": "pwkwjwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/64UrD0DUhE",
+              "end": 52,
+              "expanded_url": "https://x.com/pwkwjwt/status/2063843921235734557/photo/1",
+              "media_key": "3_2063843915208536064",
+              "start": 29,
+              "url": "https://t.co/64UrD0DUhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064010612439654862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063843921235734557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pwkwjwt: 嫌々\n宿題に付き合わされてる猫 https://t.co/64UrD0DUhE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063843915208536064"
+          ]
+        },
+        "author_id": "1960048085964574720",
+        "conversation_id": "2063843921235734557",
+        "created_at": "2026-06-08T04:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063843921235734557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/64UrD0DUhE",
+              "end": 39,
+              "expanded_url": "https://x.com/pwkwjwt/status/2063843921235734557/photo/1",
+              "media_key": "3_2063843915208536064",
+              "start": 16,
+              "url": "https://t.co/64UrD0DUhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063843921235734557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 29146,
+          "like_count": 2500,
+          "quote_count": 8,
+          "reply_count": 42,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "嫌々\n宿題に付き合わされてる猫 https://t.co/64UrD0DUhE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜视觉系｜量産型｜桃井愛莉\n记录自己和家女的日常 含大量碎碎念 欢迎互fo\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 124,
+          "like_count": 3003,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 514
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T18:34:24.000Z",
+        "description": "タイムラインを猫で癒すお仕事しております。I post cute cats every day😼",
+        "id": "1960048085964574720",
+        "name": "可愛い猫🐱速報",
+        "pinned_tweet_id": "1975501716411064736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973966889736155136/FikzcprZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6199,
+          "following_count": 0,
+          "like_count": 7,
+          "listed_count": 27,
+          "media_count": 710,
+          "tweet_count": 714
+        },
+        "username": "pwkwjwt",
+        "verified": true
+      }
+    ]
+  }
+}

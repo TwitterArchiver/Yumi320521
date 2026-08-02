@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2059129670956925177",
+    "created_at": "2026-05-26T04:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059129670956925177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050906352994684928",
+          "start": 3,
+          "username": "Cuttterssi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059129670956925177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058799907796926574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cuttterssi: 胖女孩的大胸和瘦子的腹肌一样无聊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2059129670956925177",
+        "created_at": "2026-05-26T04:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059129670956925177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050906352994684928",
+              "start": 3,
+              "username": "Cuttterssi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059129670956925177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058799907796926574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cuttterssi: 胖女孩的大胸和瘦子的腹肌一样无聊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050906352994684928",
+        "conversation_id": "2058799907796926574",
+        "created_at": "2026-05-25T06:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058799907796926574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058799907796926574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 202059,
+          "like_count": 1134,
+          "quote_count": 15,
+          "reply_count": 143,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "胖女孩的大胸和瘦子的腹肌一样无聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 16 🐼 \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n最近老是发不了帖子🥲会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 69,
+          "like_count": 1768,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 521
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T11:53:16.000Z",
+        "description": "07/166/55/enfp",
+        "id": "2050906352994684928",
+        "name": "cuttte",
+        "pinned_tweet_id": "2057470548469567765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052220702925758466/4Dixzrk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 128,
+          "like_count": 1090,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 593
+        },
+        "username": "Cuttterssi",
+        "verified": false
+      }
+    ]
+  }
+}

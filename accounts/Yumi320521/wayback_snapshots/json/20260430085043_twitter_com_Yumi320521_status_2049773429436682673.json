@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049676311527055360",
+        "3_2049676312911151104"
+      ],
+      "media_source_tweet_id": [
+        "2049676315817857237",
+        "2049676315817857237"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049773429436682673",
+    "created_at": "2026-04-30T08:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049773429436682673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1985536149541306371",
+          "start": 3,
+          "username": "hime1004chi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cEozv93SHY",
+          "end": 63,
+          "expanded_url": "https://x.com/hime1004chi/status/2049676315817857237/photo/1",
+          "media_key": "3_2049676311527055360",
+          "start": 40,
+          "url": "https://t.co/cEozv93SHY"
+        },
+        {
+          "display_url": "pic.x.com/cEozv93SHY",
+          "end": 63,
+          "expanded_url": "https://x.com/hime1004chi/status/2049676315817857237/photo/1",
+          "media_key": "3_2049676312911151104",
+          "start": 40,
+          "url": "https://t.co/cEozv93SHY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049773429436682673",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049676315817857237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hime1004chi: ♡🍑🎨🍑 2026 KR서버 생일일러스트♡ https://t.co/cEozv93SHY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1358,
+        "media_key": "3_2049676311527055360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHpvuUaYAA0pzP.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1358,
+        "media_key": "3_2049676312911151104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHpvzeaAAA2-VD.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049676311527055360",
+            "3_2049676312911151104"
+          ],
+          "media_source_tweet_id": [
+            "2049676315817857237",
+            "2049676315817857237"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049773429436682673",
+        "created_at": "2026-04-30T08:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049773429436682673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1985536149541306371",
+              "start": 3,
+              "username": "hime1004chi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cEozv93SHY",
+              "end": 63,
+              "expanded_url": "https://x.com/hime1004chi/status/2049676315817857237/photo/1",
+              "media_key": "3_2049676311527055360",
+              "start": 40,
+              "url": "https://t.co/cEozv93SHY"
+            },
+            {
+              "display_url": "pic.x.com/cEozv93SHY",
+              "end": 63,
+              "expanded_url": "https://x.com/hime1004chi/status/2049676315817857237/photo/1",
+              "media_key": "3_2049676312911151104",
+              "start": 40,
+              "url": "https://t.co/cEozv93SHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049773429436682673",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049676315817857237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hime1004chi: ♡🍑🎨🍑 2026 KR서버 생일일러스트♡ https://t.co/cEozv93SHY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049676311527055360",
+            "3_2049676312911151104"
+          ]
+        },
+        "author_id": "1985536149541306371",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049676315817857237",
+        "created_at": "2026-04-30T02:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049676315817857237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cEozv93SHY",
+              "end": 46,
+              "expanded_url": "https://x.com/hime1004chi/status/2049676315817857237/photo/1",
+              "media_key": "3_2049676311527055360",
+              "start": 23,
+              "url": "https://t.co/cEozv93SHY"
+            },
+            {
+              "display_url": "pic.x.com/cEozv93SHY",
+              "end": 46,
+              "expanded_url": "https://x.com/hime1004chi/status/2049676315817857237/photo/1",
+              "media_key": "3_2049676312911151104",
+              "start": 23,
+              "url": "https://t.co/cEozv93SHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049676315817857237",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "♡🍑🎨🍑 2026 KR서버 생일일러스트♡ https://t.co/cEozv93SHY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "茶柚/Yumi 16 153/73\n桃井爱莉｜同担拒否｜地雷系｜od\n一生の王子様@0153_you🩵🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "0153_you"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049428958475862016/-MBbrvme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 43,
+          "like_count": 701,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 106
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T02:35:00.000Z",
+        "description": "🎨🍑🎨\n☘️♡\n\n스토리스포○\n\nsub: @himecat1004",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "himecat1004"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/himechi1004",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/himechi1004",
+                "start": 0,
+                "url": "https://t.co/RZq7qdOaHa"
+              }
+            ]
+          }
+        },
+        "id": "1985536149541306371",
+        "location": "🍑右",
+        "name": "ヒメ",
+        "pinned_tweet_id": "2024803794245341333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039358299708280832/UmishZgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 35,
+          "like_count": 1067,
+          "listed_count": 0,
+          "media_count": 466,
+          "tweet_count": 1625
+        },
+        "url": "https://t.co/RZq7qdOaHa",
+        "username": "hime1004chi",
+        "verified": false
+      }
+    ]
+  }
+}

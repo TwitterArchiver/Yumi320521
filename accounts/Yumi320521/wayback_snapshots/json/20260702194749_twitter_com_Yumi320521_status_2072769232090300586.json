@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2072767120799060341",
+    "created_at": "2026-07-02T19:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T20:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072769232090300586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1772860258710622208",
+          "start": 0,
+          "username": "xxxixixmwt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072769232090300586",
+    "in_reply_to_user_id": "1772860258710622208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072767120799060341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxixixmwt 我草 狠人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2072767120799060341",
+        "created_at": "2026-07-02T19:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072769232090300586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1772860258710622208",
+              "start": 0,
+              "username": "xxxixixmwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072769232090300586",
+        "in_reply_to_user_id": "1772860258710622208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072767120799060341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxixixmwt 我草 狠人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772860258710622208",
+        "conversation_id": "2072767120799060341",
+        "created_at": "2026-07-02T19:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072767120799060341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yumi320521/sta…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/Yumi320521/status/2072723777574842785",
+              "start": 68,
+              "url": "https://t.co/jjYTJmNW3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072767120799060341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072723777574842785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有回o上头了觉得只o抽不尽兴拿起红贝印就开割，结果割到筋膜层了，没当回事结果喜提反复发炎感染半个月，好了之后又起水泡，现在终于彻底好了 https://t.co/jjYTJmNW3d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 142,
+          "like_count": 5127,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1122
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T05:36:52.000Z",
+        "description": "笑笑:D",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xmimi42164",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xmimi42164",
+                "start": 0,
+                "url": "https://t.co/AZm1US1O7D"
+              }
+            ]
+          }
+        },
+        "id": "1772860258710622208",
+        "name": "网警",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031747411186728961/1nfqo_AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 71,
+          "like_count": 1772,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/AZm1US1O7D",
+        "username": "xxxixixmwt",
+        "verified": false
+      }
+    ]
+  }
+}

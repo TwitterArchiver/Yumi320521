@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2065848774619193759",
+    "created_at": "2026-06-14T10:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066101906334949673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055295693770956800",
+          "start": 0,
+          "username": "yun0411111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066101906334949673",
+    "in_reply_to_user_id": "2055295693770956800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066063542516945133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yun0411111 台湾经常有喜欢的偶像什么的吧 而且和大陆政策也不同 出国也方便"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2065848774619193759",
+        "created_at": "2026-06-14T10:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066101906334949673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055295693770956800",
+              "start": 0,
+              "username": "yun0411111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066101906334949673",
+        "in_reply_to_user_id": "2055295693770956800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066063542516945133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yun0411111 台湾经常有喜欢的偶像什么的吧 而且和大陆政策也不同 出国也方便"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055295693770956800",
+        "conversation_id": "2065848774619193759",
+        "created_at": "2026-06-14T07:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066063542516945133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066063542516945133",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065848774619193759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 為什麼呀咪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "=茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\n记录自己和家女的日常 含大量碎碎念 欢迎互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2063307501299548227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063149846773878784/m3zovO_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 139,
+          "like_count": 3372,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 606
+        },
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T14:34:28.000Z",
+        "description": "餐卷|性格地雷系|不od|不看病|社恐|內向|怕人|搞抽象|誕生日0107|\n✧˖°@ahyun0107༘ ⋆｡°已經不能發文 懷念",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "ahyun0107"
+              }
+            ]
+          }
+        },
+        "id": "2055295693770956800",
+        "name": "𐙚₊˚⊹yun2.0₊˚⊹🩸｡⋆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055296416302702594/dgVvGHQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 21,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 41
+        },
+        "username": "yun0411111",
+        "verified": false
+      }
+    ]
+  }
+}
