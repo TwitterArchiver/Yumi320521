@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089953326129430528",
+        "3_2089953326129422336"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1250915122278567936",
+          "name": "Obon Week"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1323336569109925888",
+          "name": "Tanabata"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1250915122278567936",
+          "name": "Obon Week"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1323336569109925888",
+          "name": "Tanabata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1323336569109925888",
+          "name": "Tanabata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2089953345008001526",
+    "created_at": "2026-08-19T05:51:21.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T06:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089953345008001526"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 23,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 32,
+          "start": 28,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "门槛"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 47,
+          "start": 42,
+          "tag": "电子女友"
+        },
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "地雷系"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ZqtOvNJoU",
+          "end": 76,
+          "expanded_url": "https://x.com/Yumi320521/status/2089953345008001526/photo/1",
+          "media_key": "3_2089953326129430528",
+          "start": 53,
+          "url": "https://t.co/0ZqtOvNJoU"
+        },
+        {
+          "display_url": "pic.x.com/0ZqtOvNJoU",
+          "end": 76,
+          "expanded_url": "https://x.com/Yumi320521/status/2089953345008001526/photo/1",
+          "media_key": "3_2089953326129422336",
+          "start": 53,
+          "url": "https://t.co/0ZqtOvNJoU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089953345008001526",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2089953326129430528"
+      },
+      {
+        "media_key": "3_2089953326129422336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天七夕有没有人过我门呀 哭 投喂也可以ww\n#门槛妹 #爸爸活 #门槛 #妈妈活 #电子女友 #地雷系 https://t.co/0ZqtOvNJoU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2089953326129430528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEBeiEXQAAStWs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1351,
+        "media_key": "3_2089953326129422336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEBeiEXIAAO0wJ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089953326129430528",
+            "3_2089953326129422336"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2089953345008001526",
+        "created_at": "2026-08-19T05:51:21.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089953345008001526"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "门槛"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "电子女友"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ZqtOvNJoU",
+              "end": 76,
+              "expanded_url": "https://x.com/Yumi320521/status/2089953345008001526/photo/1",
+              "media_key": "3_2089953326129430528",
+              "start": 53,
+              "url": "https://t.co/0ZqtOvNJoU"
+            },
+            {
+              "display_url": "pic.x.com/0ZqtOvNJoU",
+              "end": 76,
+              "expanded_url": "https://x.com/Yumi320521/status/2089953345008001526/photo/1",
+              "media_key": "3_2089953326129422336",
+              "start": 53,
+              "url": "https://t.co/0ZqtOvNJoU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089953345008001526",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089953326129430528"
+          },
+          {
+            "media_key": "3_2089953326129422336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天七夕有没有人过我门呀 哭 投喂也可以ww\n#门槛妹 #爸爸活 #门槛 #妈妈活 #电子女友 #地雷系 https://t.co/0ZqtOvNJoU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi 🚪52\n明日私の人生はどうなるのでしょうか\n防炸@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089953345008001526",
+        "name": "ゆず",
+        "pinned_tweet_id": "2086749737945055365",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040070879888220160/1782630256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 193,
+          "like_count": 6490,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1931
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2089606507730214959",
+    "created_at": "2026-08-18T06:53:09.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T07:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089606507730214959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8964yekatinez/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/8964yekatinez/status/2089568578832077003",
+          "start": 11,
+          "url": "https://t.co/v5iATkh79A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089606507730214959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089568578832077003",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "emrio老师说的对 https://t.co/v5iATkh79A"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2089606507730214959",
+        "created_at": "2026-08-18T06:53:09.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089606507730214959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964yekatinez/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/8964yekatinez/status/2089568578832077003",
+              "start": 11,
+              "url": "https://t.co/v5iATkh79A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089606507730214959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089568578832077003",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "emrio老师说的对 https://t.co/v5iATkh79A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751584887738716160",
+        "conversation_id": "2089561469415538896",
+        "created_at": "2026-08-18T04:22:26.000Z",
+        "display_text_range": [
+          17,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089568578832077003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039986041218592768",
+              "start": 0,
+              "username": "hibikiwataru167"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089568578832077003",
+        "in_reply_to_user_id": "2039986041218592768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089561469415538896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hibikiwataru167 有人好好爱你的时候你就别装那个逼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi 🚪52\n明日私の人生はどうなるのでしょうか\n防炸@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089606507730214959",
+        "name": "ゆず",
+        "pinned_tweet_id": "2086749737945055365",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040070879888220160/1782630256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 186,
+          "like_count": 6455,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1912
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-28T12:36:02.000Z",
+        "description": "逃生舱@emiri7_/杯子@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "emiri7_"
+              },
+              {
+                "end": 23,
+                "start": 14,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1751584887738716160",
+        "is_identity_verified": false,
+        "location": "宇宙",
+        "most_recent_tweet_id": "2089570209728467450",
+        "name": "emrio",
+        "pinned_tweet_id": "1884115787520303208",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751584887738716160/1738253616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076350463696572416/sJae7a1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 306,
+          "like_count": 1838,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 1843
+        },
+        "url": "",
+        "username": "8964yekatinez",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-03T08:39:21.000Z",
+        "description": "廢話很多。可以叫我hibiki｜江浙滬正體字消腫逼一枚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 0,
+                "url": "https://t.co/5WmYE4FCgb"
+              }
+            ]
+          }
+        },
+        "id": "2039986041218592768",
+        "is_identity_verified": false,
+        "location": "一個人 一條街 一場雨 心碎一整夜",
+        "most_recent_tweet_id": "2089567068563951665",
+        "name": "響き渡る🥃",
+        "pinned_tweet_id": "2081734565341929541",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2039986041218592768/1775208525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039992924474392576/YSYh1AIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 92,
+          "like_count": 7470,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1640
+        },
+        "url": "https://t.co/5WmYE4FCgb",
+        "username": "hibikiwataru167",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

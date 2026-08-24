@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2084986875023065123",
+    "created_at": "2026-08-05T12:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084986875023065123"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/matind789/stat…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/matind789/status/2084294242067787878",
+          "start": 23,
+          "url": "https://t.co/FlmYa0kqzC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084986875023065123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084294242067787878",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太糟糕了….我之前就是混乱型依恋 恐惧又期待 https://t.co/FlmYa0kqzC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2084986875023065123",
+        "created_at": "2026-08-05T12:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084986875023065123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/matind789/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/matind789/status/2084294242067787878",
+              "start": 23,
+              "url": "https://t.co/FlmYa0kqzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084986875023065123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084294242067787878",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太糟糕了….我之前就是混乱型依恋 恐惧又期待 https://t.co/FlmYa0kqzC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814654357230792706",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2084294242067787878",
+        "created_at": "2026-08-03T15:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084294242067787878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084294242067787878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 38077,
+          "like_count": 1272,
+          "quote_count": 16,
+          "reply_count": 114,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "东亚家庭的小孩面对真正的幸福和健康的亲密关系第一反应竟然是恐惧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 154,
+          "like_count": 6132,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1693
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T13:31:43.000Z",
+        "description": "Wubba lubba dub dub\n宇宙第一反差人的阴暗世界",
+        "id": "1814654357230792706",
+        "name": "matind",
+        "pinned_tweet_id": "2074071637742191001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008216015021441024/TbvOnfcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 88,
+          "like_count": 303,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "Matind789",
+        "verified": false
+      }
+    ]
+  }
+}

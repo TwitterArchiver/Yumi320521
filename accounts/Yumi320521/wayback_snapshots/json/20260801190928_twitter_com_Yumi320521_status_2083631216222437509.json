@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083631200623841280"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2083631216222437509",
+    "created_at": "2026-08-01T19:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083631216222437509"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lmX6QXzGkP",
+          "end": 48,
+          "expanded_url": "https://x.com/Yumi320521/status/2083631216222437509/photo/1",
+          "media_key": "3_2083631200623841280",
+          "start": 25,
+          "url": "https://t.co/lmX6QXzGkP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083631216222437509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和朋友见面后两人又互相感冒 虽然她似乎是一直没好 https://t.co/lmX6QXzGkP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1272,
+        "media_key": "3_2083631200623841280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqLiZQa0AAG4y4.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083631200623841280"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2083631216222437509",
+        "created_at": "2026-08-01T19:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083631216222437509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lmX6QXzGkP",
+              "end": 48,
+              "expanded_url": "https://x.com/Yumi320521/status/2083631216222437509/photo/1",
+              "media_key": "3_2083631200623841280",
+              "start": 25,
+              "url": "https://t.co/lmX6QXzGkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083631216222437509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和朋友见面后两人又互相感冒 虽然她似乎是一直没好 https://t.co/lmX6QXzGkP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 153,
+          "like_count": 6037,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1648
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

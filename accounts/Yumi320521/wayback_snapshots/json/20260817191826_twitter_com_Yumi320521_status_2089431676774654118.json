@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089408037362561024",
+        "3_2089408036313899008",
+        "3_2089408036355936256",
+        "3_2089408036381114368"
+      ],
+      "media_source_tweet_id": [
+        "2089408078189904137",
+        "2089408078189904137",
+        "2089408078189904137",
+        "2089408078189904137"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2089431676774654118",
+    "created_at": "2026-08-17T19:18:26.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T20:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089431676774654118"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 71,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "门槛"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "金主"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2027785341495873540",
+          "start": 3,
+          "username": "Zhouzhou28ep"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rb6gBK9hU5",
+          "end": 107,
+          "expanded_url": "https://x.com/Zhouzhou28ep/status/2089408078189904137/photo/1",
+          "media_key": "3_2089408037362561024",
+          "start": 84,
+          "url": "https://t.co/rb6gBK9hU5"
+        },
+        {
+          "display_url": "pic.x.com/rb6gBK9hU5",
+          "end": 107,
+          "expanded_url": "https://x.com/Zhouzhou28ep/status/2089408078189904137/photo/1",
+          "media_key": "3_2089408036313899008",
+          "start": 84,
+          "url": "https://t.co/rb6gBK9hU5"
+        },
+        {
+          "display_url": "pic.x.com/rb6gBK9hU5",
+          "end": 107,
+          "expanded_url": "https://x.com/Zhouzhou28ep/status/2089408078189904137/photo/1",
+          "media_key": "3_2089408036355936256",
+          "start": 84,
+          "url": "https://t.co/rb6gBK9hU5"
+        },
+        {
+          "display_url": "pic.x.com/rb6gBK9hU5",
+          "end": 107,
+          "expanded_url": "https://x.com/Zhouzhou28ep/status/2089408078189904137/photo/1",
+          "media_key": "3_2089408036381114368",
+          "start": 84,
+          "url": "https://t.co/rb6gBK9hU5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089431676774654118",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089408037362561024"
+      },
+      {
+        "media_key": "3_2089408036313899008"
+      },
+      {
+        "media_key": "3_2089408036355936256"
+      },
+      {
+        "media_key": "3_2089408036381114368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089408078189904137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zhouzhou28ep: 粥粥de价格表\n有没有人互转一下 求入门吖🥹\n详情见图呀 不懂的可以私信问我嘿嘿 \n我想要很多钱和很多爱\n#门槛妹 #门槛 #金主 https://t.co/rb6gBK9hU5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2089408037362561024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8RijHXcAAn771.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089408036313899008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8RifNWIAAnC9Z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2089408036355936256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8RifXXkAADRGd.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1928,
+        "media_key": "3_2089408036381114368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8RifdXwAAyB1I.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089408037362561024",
+            "3_2089408036313899008",
+            "3_2089408036355936256",
+            "3_2089408036381114368"
+          ],
+          "media_source_tweet_id": [
+            "2089408078189904137",
+            "2089408078189904137",
+            "2089408078189904137",
+            "2089408078189904137"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2089431676774654118",
+        "created_at": "2026-08-17T19:18:26.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T20:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089431676774654118"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "门槛"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "金主"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2027785341495873540",
+              "start": 3,
+              "username": "Zhouzhou28ep"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rb6gBK9hU5",
+              "end": 107,
+              "expanded_url": "https://x.com/Zhouzhou28ep/status/2089408078189904137/photo/1",
+              "media_key": "3_2089408037362561024",
+              "start": 84,
+              "url": "https://t.co/rb6gBK9hU5"
+            },
+            {
+              "display_url": "pic.x.com/rb6gBK9hU5",
+              "end": 107,
+              "expanded_url": "https://x.com/Zhouzhou28ep/status/2089408078189904137/photo/1",
+              "media_key": "3_2089408036313899008",
+              "start": 84,
+              "url": "https://t.co/rb6gBK9hU5"
+            },
+            {
+              "display_url": "pic.x.com/rb6gBK9hU5",
+              "end": 107,
+              "expanded_url": "https://x.com/Zhouzhou28ep/status/2089408078189904137/photo/1",
+              "media_key": "3_2089408036355936256",
+              "start": 84,
+              "url": "https://t.co/rb6gBK9hU5"
+            },
+            {
+              "display_url": "pic.x.com/rb6gBK9hU5",
+              "end": 107,
+              "expanded_url": "https://x.com/Zhouzhou28ep/status/2089408078189904137/photo/1",
+              "media_key": "3_2089408036381114368",
+              "start": 84,
+              "url": "https://t.co/rb6gBK9hU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089431676774654118",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089408037362561024"
+          },
+          {
+            "media_key": "3_2089408036313899008"
+          },
+          {
+            "media_key": "3_2089408036355936256"
+          },
+          {
+            "media_key": "3_2089408036381114368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089408078189904137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zhouzhou28ep: 粥粥de价格表\n有没有人互转一下 求入门吖🥹\n详情见图呀 不懂的可以私信问我嘿嘿 \n我想要很多钱和很多爱\n#门槛妹 #门槛 #金主 https://t.co/rb6gBK9hU5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089408037362561024",
+            "3_2089408036313899008",
+            "3_2089408036355936256",
+            "3_2089408036381114368"
+          ]
+        },
+        "author_id": "2027785341495873540",
+        "conversation_id": "2089408078189904137",
+        "created_at": "2026-08-17T17:44:39.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089408078189904137"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "门槛"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "金主"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rb6gBK9hU5",
+              "end": 89,
+              "expanded_url": "https://x.com/Zhouzhou28ep/status/2089408078189904137/photo/1",
+              "media_key": "3_2089408037362561024",
+              "start": 66,
+              "url": "https://t.co/rb6gBK9hU5"
+            },
+            {
+              "display_url": "pic.x.com/rb6gBK9hU5",
+              "end": 89,
+              "expanded_url": "https://x.com/Zhouzhou28ep/status/2089408078189904137/photo/1",
+              "media_key": "3_2089408036313899008",
+              "start": 66,
+              "url": "https://t.co/rb6gBK9hU5"
+            },
+            {
+              "display_url": "pic.x.com/rb6gBK9hU5",
+              "end": 89,
+              "expanded_url": "https://x.com/Zhouzhou28ep/status/2089408078189904137/photo/1",
+              "media_key": "3_2089408036355936256",
+              "start": 66,
+              "url": "https://t.co/rb6gBK9hU5"
+            },
+            {
+              "display_url": "pic.x.com/rb6gBK9hU5",
+              "end": 89,
+              "expanded_url": "https://x.com/Zhouzhou28ep/status/2089408078189904137/photo/1",
+              "media_key": "3_2089408036381114368",
+              "start": 66,
+              "url": "https://t.co/rb6gBK9hU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089408078189904137",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089408037362561024"
+          },
+          {
+            "media_key": "3_2089408036313899008"
+          },
+          {
+            "media_key": "3_2089408036355936256"
+          },
+          {
+            "media_key": "3_2089408036381114368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "粥粥de价格表\n有没有人互转一下 求入门吖🥹\n详情见图呀 不懂的可以私信问我嘿嘿 \n我想要很多钱和很多爱\n#门槛妹 #门槛 #金主 https://t.co/rb6gBK9hU5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi 🚪52欢迎闲聊\n明日私の人生はどうなるのでしょうか\n防炸@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089431676774654118",
+        "name": "ゆず",
+        "pinned_tweet_id": "2086749737945055365",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040070879888220160/1782630256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 186,
+          "like_count": 6450,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1908
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T16:39:01.000Z",
+        "description": "本人没素质傻逼一个此账号发表的所有言论,意在取悦自己,并通过文字或图片强制干预他人的思想,如果翻阅之后出现不适等症状,恭喜你,你怀了我的孩子 查成分回fo 🚪20纯绿🚪66半绿🚪152非绿 直接甩口令",
+        "id": "2027785341495873540",
+        "is_identity_verified": false,
+        "location": "0.01km",
+        "most_recent_tweet_id": "2089427568847945980",
+        "name": "zhou",
+        "pinned_tweet_id": "2087256331161936304",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027785341495873540/1786110842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085726540848152576/cmX7prxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 165,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "Zhouzhou28ep",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

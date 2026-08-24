@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2083631951614034365",
+    "created_at": "2026-08-01T19:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083631951614034365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kamo67398586/s…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/kamo67398586/status/2083128897630290305",
+          "start": 89,
+          "url": "https://t.co/92hHAvBQrw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083631951614034365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083128897630290305",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然我不喜欢我妈 但是也确实她一直参与我的童年 幼儿园到小学三年级印象一直都是她 后面四五年级到初三是我爹变多 现在又是我妈养我了 不过这半年确实更严格意义讲只有我妈赚钱养我了 https://t.co/92hHAvBQrw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2083631951614034365",
+        "created_at": "2026-08-01T19:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083631951614034365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kamo67398586/s…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/kamo67398586/status/2083128897630290305",
+              "start": 89,
+              "url": "https://t.co/92hHAvBQrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083631951614034365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083128897630290305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然我不喜欢我妈 但是也确实她一直参与我的童年 幼儿园到小学三年级印象一直都是她 后面四五年级到初三是我爹变多 现在又是我妈养我了 不过这半年确实更严格意义讲只有我妈赚钱养我了 https://t.co/92hHAvBQrw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4368377476",
+        "conversation_id": "2083128897630290305",
+        "created_at": "2026-07-31T09:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083128897630290305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083128897630290305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我看到那种宝妈出来创业的特别心酸 我小时候也是妈妈上班养我 我爸跟死人没区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 153,
+          "like_count": 6038,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1650
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-04T04:15:03.000Z",
+        "description": "我是時雨~前世被当成入机的女子\n喜欢看动画玩游戏听音乐画画阅读 欢迎互fo\n纯绿🚪 伤口定制（特效妆容制作不违反规则）",
+        "id": "4368377476",
+        "name": "Kamo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063131459255508992/pzhLfdHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 33,
+          "like_count": 345,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "Kamo67398586",
+        "verified": false
+      }
+    ]
+  }
+}

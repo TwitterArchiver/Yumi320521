@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088566396854923264",
+        "3_2088566396880121856"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2088566409429467220",
+    "created_at": "2026-08-15T10:00:10.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T11:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088566409429467220"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 54,
+          "start": 49,
+          "tag": "电子女友"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w8VVYShmrF",
+          "end": 78,
+          "expanded_url": "https://x.com/Yumi320521/status/2088566409429467220/photo/1",
+          "media_key": "3_2088566396854923264",
+          "start": 55,
+          "url": "https://t.co/w8VVYShmrF"
+        },
+        {
+          "display_url": "pic.x.com/w8VVYShmrF",
+          "end": 78,
+          "expanded_url": "https://x.com/Yumi320521/status/2088566409429467220/photo/1",
+          "media_key": "3_2088566396880121856",
+          "start": 55,
+          "url": "https://t.co/w8VVYShmrF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088566409429467220",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088566396854923264"
+      },
+      {
+        "media_key": "3_2088566396880121856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我来当门槛妹吃不起饭了😿有没有哥哥姐姐入我门呀 同类互转也可以ww\n#爸爸活 #门槛妹 #妈妈活 #电子女友 https://t.co/w8VVYShmrF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1054,
+        "media_key": "3_2088566396854923264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwUEn5a8AALPia.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1985,
+        "media_key": "3_2088566396880121856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwUEn_bcAAXYIS.jpg",
+        "width": 1985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088566396854923264",
+            "3_2088566396880121856"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2088566409429467220",
+        "created_at": "2026-08-15T10:00:10.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088566409429467220"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w8VVYShmrF",
+              "end": 78,
+              "expanded_url": "https://x.com/Yumi320521/status/2088566409429467220/photo/1",
+              "media_key": "3_2088566396854923264",
+              "start": 55,
+              "url": "https://t.co/w8VVYShmrF"
+            },
+            {
+              "display_url": "pic.x.com/w8VVYShmrF",
+              "end": 78,
+              "expanded_url": "https://x.com/Yumi320521/status/2088566409429467220/photo/1",
+              "media_key": "3_2088566396880121856",
+              "start": 55,
+              "url": "https://t.co/w8VVYShmrF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088566409429467220",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088566396854923264"
+          },
+          {
+            "media_key": "3_2088566396880121856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我来当门槛妹吃不起饭了😿有没有哥哥姐姐入我门呀 同类互转也可以ww\n#爸爸活 #门槛妹 #妈妈活 #电子女友 https://t.co/w8VVYShmrF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi 🚪52\n明日私の人生はどうなるのでしょうか\n防炸@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088566409429467220",
+        "name": "ゆず",
+        "pinned_tweet_id": "2086749737945055365",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040070879888220160/1782630256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 166,
+          "like_count": 6355,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1829
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

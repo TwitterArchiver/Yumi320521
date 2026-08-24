@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085204024455024640"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2085204037503520947",
+    "created_at": "2026-08-06T03:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T04:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085204037503520947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qOLrqfShvf",
+          "end": 81,
+          "expanded_url": "https://x.com/Yumi320521/status/2085204037503520947/photo/1",
+          "media_key": "3_2085204024455024640",
+          "start": 58,
+          "url": "https://t.co/qOLrqfShvf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085204037503520947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早知道去上海不激情消费了我还想买甜蜜格子 不过呢激情消费超级爽 然后我就告诉自己都出去玩了花点钱不算什么留个纪念了 https://t.co/qOLrqfShvf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1142,
+        "media_key": "3_2085204024455024640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAiAynbUAAxABp.jpg",
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085204024455024640"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2085204037503520947",
+        "created_at": "2026-08-06T03:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085204037503520947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qOLrqfShvf",
+              "end": 81,
+              "expanded_url": "https://x.com/Yumi320521/status/2085204037503520947/photo/1",
+              "media_key": "3_2085204024455024640",
+              "start": 58,
+              "url": "https://t.co/qOLrqfShvf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085204037503520947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早知道去上海不激情消费了我还想买甜蜜格子 不过呢激情消费超级爽 然后我就告诉自己都出去玩了花点钱不算什么留个纪念了 https://t.co/qOLrqfShvf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 155,
+          "like_count": 6155,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1700
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

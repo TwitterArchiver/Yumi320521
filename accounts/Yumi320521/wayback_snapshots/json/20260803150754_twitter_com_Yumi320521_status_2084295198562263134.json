@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084295182326153217",
+        "3_2084295182317735936"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2084295198562263134",
+    "created_at": "2026-08-03T15:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084295198562263134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XdZKNzJW74",
+          "end": 34,
+          "expanded_url": "https://x.com/Yumi320521/status/2084295198562263134/photo/1",
+          "media_key": "3_2084295182326153217",
+          "start": 11,
+          "url": "https://t.co/XdZKNzJW74"
+        },
+        {
+          "display_url": "pic.x.com/XdZKNzJW74",
+          "end": 34,
+          "expanded_url": "https://x.com/Yumi320521/status/2084295198562263134/photo/1",
+          "media_key": "3_2084295182317735936",
+          "start": 11,
+          "url": "https://t.co/XdZKNzJW74"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084295198562263134",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑死我了刷抖音刷到的 https://t.co/XdZKNzJW74"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 374,
+        "media_key": "3_2084295182326153217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOznbN2bwAElqw6.jpg",
+        "width": 503
+      },
+      {
+        "height": 1153,
+        "media_key": "3_2084295182317735936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOznbN0bUAAbLMI.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084295182326153217",
+            "3_2084295182317735936"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2084295198562263134",
+        "created_at": "2026-08-03T15:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084295198562263134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XdZKNzJW74",
+              "end": 34,
+              "expanded_url": "https://x.com/Yumi320521/status/2084295198562263134/photo/1",
+              "media_key": "3_2084295182326153217",
+              "start": 11,
+              "url": "https://t.co/XdZKNzJW74"
+            },
+            {
+              "display_url": "pic.x.com/XdZKNzJW74",
+              "end": 34,
+              "expanded_url": "https://x.com/Yumi320521/status/2084295198562263134/photo/1",
+              "media_key": "3_2084295182317735936",
+              "start": 11,
+              "url": "https://t.co/XdZKNzJW74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084295198562263134",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了刷抖音刷到的 https://t.co/XdZKNzJW74"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 156,
+          "like_count": 6067,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1658
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

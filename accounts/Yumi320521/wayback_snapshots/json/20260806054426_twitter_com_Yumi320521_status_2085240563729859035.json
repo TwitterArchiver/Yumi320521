@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084626559735087104"
+      ],
+      "media_source_tweet_id": [
+        "2084626567330984399"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085240563729859035",
+    "created_at": "2026-08-06T05:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T06:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085240563729859035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1128923778992357376",
+          "start": 3,
+          "username": "xetaiseikii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xXiwhIc8aB",
+          "end": 40,
+          "expanded_url": "https://x.com/xetaiseikii/status/2084626567330984399/photo/1",
+          "media_key": "3_2084626559735087104",
+          "start": 17,
+          "url": "https://t.co/xXiwhIc8aB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085240563729859035",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 461
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084626567330984399",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xetaiseikii: https://t.co/xXiwhIc8aB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084626559735087104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4Uz65awAAm_dz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084626559735087104"
+          ]
+        },
+        "author_id": "1128923778992357376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084626567330984399",
+        "created_at": "2026-08-04T13:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084626567330984399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xXiwhIc8aB",
+              "end": 23,
+              "expanded_url": "https://x.com/xetaiseikii/status/2084626567330984399/photo/1",
+              "media_key": "3_2084626559735087104",
+              "start": 0,
+              "url": "https://t.co/xXiwhIc8aB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084626567330984399",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 21728,
+          "like_count": 3117,
+          "quote_count": 11,
+          "reply_count": 7,
+          "retweet_count": 461
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xXiwhIc8aB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084626559735087104"
+          ],
+          "media_source_tweet_id": [
+            "2084626567330984399"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085240563729859035",
+        "created_at": "2026-08-06T05:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085240563729859035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1128923778992357376",
+              "start": 3,
+              "username": "xetaiseikii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xXiwhIc8aB",
+              "end": 40,
+              "expanded_url": "https://x.com/xetaiseikii/status/2084626567330984399/photo/1",
+              "media_key": "3_2084626559735087104",
+              "start": 17,
+              "url": "https://t.co/xXiwhIc8aB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085240563729859035",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 461
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084626567330984399",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xetaiseikii: https://t.co/xXiwhIc8aB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 157,
+          "like_count": 6179,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1706
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-16T07:22:58.000Z",
+        "description": "절대성역",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/xetaiseikii",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/xetaiseikii",
+                "start": 0,
+                "url": "https://t.co/RHCuZedEuZ"
+              }
+            ]
+          }
+        },
+        "id": "1128923778992357376",
+        "location": "save & repost X ",
+        "name": "♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028716582642577408/a331bvBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11090,
+          "following_count": 86,
+          "like_count": 25313,
+          "listed_count": 39,
+          "media_count": 4393,
+          "tweet_count": 37326
+        },
+        "url": "https://t.co/RHCuZedEuZ",
+        "username": "xetaiseikii",
+        "verified": false
+      }
+    ]
+  }
+}

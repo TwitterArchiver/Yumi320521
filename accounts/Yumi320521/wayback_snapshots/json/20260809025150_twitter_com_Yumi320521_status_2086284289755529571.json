@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2086284289755529571",
+    "created_at": "2026-08-09T02:51:50.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T03:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086284289755529571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086284289755529571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 580
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085767418912371152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 卧槽你们懂那种很恶心的感觉吗 就是原本那些烂人烂事已经结束了 你也知道已经过去很久该翻篇了 但就是会时不时跳出来回想一遍踹你一脚 当时的绝望尴尬愤怒羞耻感涌上心头 五官扭曲到一起在内心绝望呐喊别想了 结果越想越起劲 最后只剩下绝望的你和永远挥之不去的记忆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2086284289755529571",
+        "created_at": "2026-08-09T02:51:50.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T03:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086284289755529571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086284289755529571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 580
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085767418912371152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 卧槽你们懂那种很恶心的感觉吗 就是原本那些烂人烂事已经结束了 你也知道已经过去很久该翻篇了 但就是会时不时跳出来回想一遍踹你一脚 当时的绝望尴尬愤怒羞耻感涌上心头 五官扭曲到一起在内心绝望呐喊别想了 结果越想越起劲 最后只剩下绝望的你和永远挥之不去的记忆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2085767418912371152",
+        "created_at": "2026-08-07T16:37:59.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085767418912371152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085767418912371152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 187924,
+          "like_count": 5477,
+          "quote_count": 52,
+          "reply_count": 391,
+          "retweet_count": 580
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽你们懂那种很恶心的感觉吗 就是原本那些烂人烂事已经结束了 你也知道已经过去很久该翻篇了 但就是会时不时跳出来回想一遍踹你一脚 当时的绝望尴尬愤怒羞耻感涌上心头 五官扭曲到一起在内心绝望呐喊别想了 结果越想越起劲 最后只剩下绝望的你和永远挥之不去的记忆"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか\n防炸@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086284289755529571",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040070879888220160/1782630256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 165,
+          "like_count": 6257,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1752
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086281635495100696",
+        "name": "32号就恋爱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11200,
+          "following_count": 5,
+          "like_count": 1233,
+          "listed_count": 34,
+          "media_count": 165,
+          "tweet_count": 3389
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

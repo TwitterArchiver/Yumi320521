@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2089736594517307814",
+    "created_at": "2026-08-18T15:30:04.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T16:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089736594517307814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1429646030589415427",
+          "start": 3,
+          "username": "id1otchildren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089736594517307814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089405358926340138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @id1otchildren: 真的好想做爱 但是我不敢谈恋爱 我觉得我这种人不配被人爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2089736594517307814",
+        "created_at": "2026-08-18T15:30:04.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089736594517307814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1429646030589415427",
+              "start": 3,
+              "username": "id1otchildren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089736594517307814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089405358926340138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @id1otchildren: 真的好想做爱 但是我不敢谈恋爱 我觉得我这种人不配被人爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429646030589415427",
+        "conversation_id": "2089405358926340138",
+        "created_at": "2026-08-17T17:33:51.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089405358926340138"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089405358926340138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3526,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "真的好想做爱 但是我不敢谈恋爱 我觉得我这种人不配被人爱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi 🚪52\n明日私の人生はどうなるのでしょうか\n防炸@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089736594517307814",
+        "name": "ゆず",
+        "pinned_tweet_id": "2086749737945055365",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040070879888220160/1782630256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 192,
+          "like_count": 6492,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1927
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-23T03:26:08.000Z",
+        "description": "=泅 可以叫我小泅（qiú）/小球\n07双相休学中",
+        "id": "1429646030589415427",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2089722226283368603",
+        "name": "好想用杯子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429646030589415427/1744977658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089124162095009792/0S6CT3OW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 323,
+          "like_count": 3383,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "id1otchildren",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

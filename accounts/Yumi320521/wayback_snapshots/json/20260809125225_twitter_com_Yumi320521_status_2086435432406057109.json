@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2086435432406057109",
+    "created_at": "2026-08-09T12:52:25.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T13:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086435432406057109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990455987552256000",
+          "start": 3,
+          "username": "yikuqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086435432406057109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086260714126409736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yikuqwq: 我发现她开始依赖药物，也会去挂壁，和家里人的关系恶化了，日子过得不好，她没有去上学了，似乎在打工谋生。那些朋友圈发的东西让人看了沉沉的说不出话来，让人感到很惋惜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2086435432406057109",
+        "created_at": "2026-08-09T12:52:25.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086435432406057109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990455987552256000",
+              "start": 3,
+              "username": "yikuqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086435432406057109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086260714126409736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yikuqwq: 我发现她开始依赖药物，也会去挂壁，和家里人的关系恶化了，日子过得不好，她没有去上学了，似乎在打工谋生。那些朋友圈发的东西让人看了沉沉的说不出话来，让人感到很惋惜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990455987552256000",
+        "conversation_id": "2086260714126409736",
+        "created_at": "2026-08-09T01:18:09.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T02:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086260714126409736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086260714126409736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3797,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现她开始依赖药物，也会去挂壁，和家里人的关系恶化了，日子过得不好，她没有去上学了，似乎在打工谋生。那些朋友圈发的东西让人看了沉沉的说不出话来，让人感到很惋惜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか\n防炸@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086435432406057109",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040070879888220160/1782630256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 160,
+          "like_count": 6272,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1762
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-17T16:24:34.000Z",
+        "description": "能不能也对我留点爱？",
+        "id": "1990455987552256000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086410878958846090",
+        "name": "世界消失之后",
+        "pinned_tweet_id": "2086040545231790235",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990455987552256000/1770657687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086056229898752000/FKdyC9NF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 329,
+          "like_count": 3932,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 598
+        },
+        "url": "",
+        "username": "yikuqwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

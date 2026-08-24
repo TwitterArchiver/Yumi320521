@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084979654730100736"
+      ],
+      "media_source_tweet_id": [
+        "2084979667359162463"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2085203316062175379",
+    "created_at": "2026-08-06T03:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T04:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085203316062175379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1654515421025021952",
+          "start": 3,
+          "username": "puritako8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fCPoa9qcRc",
+          "end": 43,
+          "expanded_url": "https://x.com/puritako8/status/2084979667359162463/video/1",
+          "media_key": "13_2084979654730100736",
+          "start": 20,
+          "url": "https://t.co/fCPoa9qcRc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085203316062175379",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6887
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084979667359162463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @puritako8: ☆*。🐇 https://t.co/fCPoa9qcRc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7000,
+        "height": 720,
+        "media_key": "13_2084979654730100736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084979654730100736/img/O8CEvgnMqyIrAY0Z.jpg",
+        "public_metrics": {
+          "view_count": 195410
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084979654730100736/vid/avc1/480x270/ScJxjgXEZYIrgqnk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084979654730100736/vid/avc1/640x360/jkG7Up5VP_efJoAx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084979654730100736/vid/avc1/1280x720/uty03Yg-TAv1kz-r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084979654730100736/pl/e5KaHqIb3HNadHJo.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084979654730100736"
+          ]
+        },
+        "author_id": "1654515421025021952",
+        "conversation_id": "2084979667359162463",
+        "created_at": "2026-08-05T12:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084979667359162463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCPoa9qcRc",
+              "end": 28,
+              "expanded_url": "https://x.com/puritako8/status/2084979667359162463/video/1",
+              "media_key": "13_2084979654730100736",
+              "start": 5,
+              "url": "https://t.co/fCPoa9qcRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084979667359162463",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5048,
+          "impression_count": 328830,
+          "like_count": 46933,
+          "quote_count": 100,
+          "reply_count": 0,
+          "retweet_count": 6887
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "☆*。🐇 https://t.co/fCPoa9qcRc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084979654730100736"
+          ],
+          "media_source_tweet_id": [
+            "2084979667359162463"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2085203316062175379",
+        "created_at": "2026-08-06T03:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085203316062175379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1654515421025021952",
+              "start": 3,
+              "username": "puritako8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCPoa9qcRc",
+              "end": 43,
+              "expanded_url": "https://x.com/puritako8/status/2084979667359162463/video/1",
+              "media_key": "13_2084979654730100736",
+              "start": 20,
+              "url": "https://t.co/fCPoa9qcRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085203316062175379",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6887
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084979667359162463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @puritako8: ☆*。🐇 https://t.co/fCPoa9qcRc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 155,
+          "like_count": 6150,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1697
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T15:56:41.000Z",
+        "description": "oc rkgk 無断転載禁止",
+        "id": "1654515421025021952",
+        "name": "犬ポ",
+        "pinned_tweet_id": "2084679830688375080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079734517489963008/_zmQ27VZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11106,
+          "following_count": 0,
+          "like_count": 2962,
+          "listed_count": 41,
+          "media_count": 999,
+          "tweet_count": 1079
+        },
+        "url": "",
+        "username": "puritako8",
+        "verified": false
+      }
+    ]
+  }
+}

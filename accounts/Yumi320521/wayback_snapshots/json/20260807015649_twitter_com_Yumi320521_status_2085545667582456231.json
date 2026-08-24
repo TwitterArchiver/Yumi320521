@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085386252040466432"
+      ],
+      "media_source_tweet_id": [
+        "2085386264413646994"
+      ]
+    },
+    "author_id": "2040070879888220160",
+    "conversation_id": "2085545667582456231",
+    "created_at": "2026-08-07T01:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T02:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085545667582456231"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 52,
+          "tag": "古の自己紹介カード"
+        },
+        {
+          "end": 78,
+          "start": 65,
+          "tag": "バンギャさんと繋がりたい"
+        },
+        {
+          "end": 96,
+          "start": 81,
+          "tag": "Royzギャさんと繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009190773154254848",
+          "start": 3,
+          "username": "ss_luv14"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eN1ilnT2kM",
+          "end": 120,
+          "expanded_url": "https://x.com/ss_luv14/status/2085386264413646994/photo/1",
+          "media_key": "3_2085386252040466432",
+          "start": 97,
+          "url": "https://t.co/eN1ilnT2kM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085545667582456231",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085386264413646994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ss_luv14: ♡で気になった方お迎えいきますᐡ ̳ᴗ  ̫ ᴗ ̳ᐡ♡\n詳細alt⬇️\n #古の自己紹介カード \n #バンギャさんと繋がりたい \n #Royzギャさんと繋がりたい https://t.co/eN1ilnT2kM"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "義務教育済🔰 18⬆️\n麺被り❌\n他麺、他盤○\n被りの方、年上or年下すぎる方、男性との繋がり求めてないです😿\n年齢が近い方、女性の方、他麺・他盤の方と繋がりたいですo̴̶̷  ̫ o̴̶̷\nサヨナラはB解で👋🏻\n自衛Bすることあります🥲",
+        "height": 1809,
+        "media_key": "3_2085386252040466432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDHv1Ra8AAge7l.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085386252040466432"
+          ]
+        },
+        "author_id": "2009190773154254848",
+        "conversation_id": "2085386264413646994",
+        "created_at": "2026-08-06T15:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085386264413646994"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "古の自己紹介カード"
+            },
+            {
+              "end": 64,
+              "start": 51,
+              "tag": "バンギャさんと繋がりたい"
+            },
+            {
+              "end": 82,
+              "start": 67,
+              "tag": "Royzギャさんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eN1ilnT2kM",
+              "end": 106,
+              "expanded_url": "https://x.com/ss_luv14/status/2085386264413646994/photo/1",
+              "media_key": "3_2085386252040466432",
+              "start": 83,
+              "url": "https://t.co/eN1ilnT2kM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085386264413646994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 880,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "♡で気になった方お迎えいきますᐡ ̳ᴗ  ̫ ᴗ ̳ᐡ♡\n詳細alt⬇️\n #古の自己紹介カード \n #バンギャさんと繋がりたい \n #Royzギャさんと繋がりたい https://t.co/eN1ilnT2kM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085386252040466432"
+          ],
+          "media_source_tweet_id": [
+            "2085386264413646994"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2085545667582456231",
+        "created_at": "2026-08-07T01:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T02:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085545667582456231"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 52,
+              "tag": "古の自己紹介カード"
+            },
+            {
+              "end": 78,
+              "start": 65,
+              "tag": "バンギャさんと繋がりたい"
+            },
+            {
+              "end": 96,
+              "start": 81,
+              "tag": "Royzギャさんと繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009190773154254848",
+              "start": 3,
+              "username": "ss_luv14"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eN1ilnT2kM",
+              "end": 120,
+              "expanded_url": "https://x.com/ss_luv14/status/2085386264413646994/photo/1",
+              "media_key": "3_2085386252040466432",
+              "start": 97,
+              "url": "https://t.co/eN1ilnT2kM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085545667582456231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085386264413646994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ss_luv14: ♡で気になった方お迎えいきますᐡ ̳ᴗ  ̫ ᴗ ̳ᐡ♡\n詳細alt⬇️\n #古の自己紹介カード \n #バンギャさんと繋がりたい \n #Royzギャさんと繋がりたい https://t.co/eN1ilnT2kM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか\n防炸@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 158,
+          "like_count": 6204,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1723
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T09:10:07.000Z",
+        "description": "❥︎･•@royz_214_subaru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "royz_214_subaru"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/cherrykuronco-…",
+                "end": 23,
+                "expanded_url": "https://lit.link/cherrykuronco-libon",
+                "start": 0,
+                "url": "https://t.co/UHcmZloMdM"
+              }
+            ]
+          }
+        },
+        "id": "2009190773154254848",
+        "location": "だいすき以上の言葉が見当たらない",
+        "name": "すい",
+        "pinned_tweet_id": "2085386264413646994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072986550909165568/gZX3Z3T__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 74,
+          "like_count": 2319,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 275
+        },
+        "url": "https://t.co/UHcmZloMdM",
+        "username": "ss_luv14",
+        "verified": false
+      }
+    ]
+  }
+}

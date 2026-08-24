@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2086435095968366642",
+    "created_at": "2026-08-09T12:51:05.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T13:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086435095968366642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775688932203626497",
+          "start": 3,
+          "username": "Cici060611"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086435095968366642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086049445611966547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cici060611: 年下会疼人真的具象化了\n我给半小时后的我点了一杯奶茶🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2086435095968366642",
+        "created_at": "2026-08-09T12:51:05.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086435095968366642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775688932203626497",
+              "start": 3,
+              "username": "Cici060611"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086435095968366642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086049445611966547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cici060611: 年下会疼人真的具象化了\n我给半小时后的我点了一杯奶茶🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775688932203626497",
+        "conversation_id": "2086049445611966547",
+        "created_at": "2026-08-08T11:18:39.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T12:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086049445611966547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086049445611966547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 131072,
+          "like_count": 3242,
+          "quote_count": 4,
+          "reply_count": 299,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "年下会疼人真的具象化了\n我给半小时后的我点了一杯奶茶🚬"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか\n防炸@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086435095968366642",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040070879888220160/1782630256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 160,
+          "like_count": 6271,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1761
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T00:57:03.000Z",
+        "description": "meitiandouhenfan",
+        "id": "1775688932203626497",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086412407027745118",
+        "name": "ra1ny_",
+        "pinned_tweet_id": "1959928354288587104",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775688932203626497/1765944041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066598886786105344/G3tlFwKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 79,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1787
+        },
+        "url": "",
+        "username": "Cici060611",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

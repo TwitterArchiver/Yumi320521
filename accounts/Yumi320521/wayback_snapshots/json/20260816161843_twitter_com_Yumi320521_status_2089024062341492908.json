@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040070879888220160",
+    "conversation_id": "2089024062341492908",
+    "created_at": "2026-08-16T16:18:43.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089024062341492908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1756565863946432512",
+          "start": 3,
+          "username": "_081203_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089024062341492908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088987352450629944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_081203_: 你同学985 211在牛逼什么？我同学都4000➕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2089024062341492908",
+        "created_at": "2026-08-16T16:18:43.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089024062341492908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1756565863946432512",
+              "start": 3,
+              "username": "_081203_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089024062341492908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088987352450629944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_081203_: 你同学985 211在牛逼什么？我同学都4000➕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756565863946432512",
+        "conversation_id": "2088987352450629944",
+        "created_at": "2026-08-16T13:52:50.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088987352450629944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088987352450629944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5176,
+          "like_count": 185,
+          "quote_count": 3,
+          "reply_count": 28,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "你同学985 211在牛逼什么？我同学都4000➕了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi 🚪52欢迎闲聊\n明日私の人生はどうなるのでしょうか\n防炸@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089024062341492908",
+        "name": "ゆず",
+        "pinned_tweet_id": "2086749737945055365",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040070879888220160/1782630256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 176,
+          "like_count": 6431,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1882
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-11T06:28:41.000Z",
+        "description": "",
+        "id": "1756565863946432512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089016936076349858",
+        "name": "Peiiilsovucn1t",
+        "pinned_tweet_id": "2088528019271110680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756565863946432512/1786738371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085788294844182528/b6aSiWuJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 173,
+          "like_count": 590,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 469
+        },
+        "url": "",
+        "username": "_081203_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
