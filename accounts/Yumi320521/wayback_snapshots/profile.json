@@ -1,7 +1,7 @@
 {
   "name": "ゆず",
   "username": "@Yumi320521",
-  "bio": "= Yumi  明日私の人生はどうなるのでしょうか @Yumi320521lin",
+  "bio": "= Yumi 🚪52 明日私の人生はどうなるのでしょうか 防炸@Yumi320521lin",
   "location": "",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,8 +10,8 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 40,
-        "start": 26,
+        "end": 45,
+        "start": 31,
         "username": "Yumi320521lin"
       }
     ]
